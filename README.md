@@ -1,6 +1,6 @@
 # JURNARA — Deployment Build
 
-JURNARA 2.0 is a mobile-first Career GPS platform designed to move people from direction to skills, proof, opportunities, applications, and career growth.
+JURNARA 2.1 is a mobile-first Career GPS platform designed to move people from direction to skills, proof, opportunities, applications, and career growth.
 
 ## Included
 - First-run onboarding and persistent local profile
@@ -41,7 +41,7 @@ The current app is still a local-first prototype: profile/application data is st
 ## Android identity
 Package ID: `com.jurnara.app`
 
-Current application version: `2.0.0`
+Current application version: `2.1.0`
 
 The first Play release can use version code 1. Future Play releases must use higher version codes.
 
