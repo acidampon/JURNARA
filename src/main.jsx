@@ -46,6 +46,7 @@ function App(){
  {page==='coach'&&<Coach d={d} role={topRole} roles={roles}/>}
  </main>
  <nav>{nav.map(([id,label])=><button className={page===id?'active':''} onClick={()=>setPage(id)} key={id}>{label}</button>)}</nav>
+ <footer><a href="/privacy-policy.html" target="_blank" rel="noreferrer">Privacy Policy</a><span>Career Pilot v1.0.8</span></footer>
  {toast&&<div className="toast">{toast}</div>}</div>
 }
 
