@@ -43,7 +43,7 @@ Package ID: `com.jurnara.app`
 
 Current application version: `2.1.0`
 
-The first Play release can use version code 1. Future Play releases must use higher version codes.
+The current signed Android release uses version code 2 and version name 2.1.0. Future Play releases must use higher version codes.
 
 ## Local development
 ```
