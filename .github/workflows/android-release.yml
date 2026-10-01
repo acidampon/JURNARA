@@ -1,4 +1,4 @@
-name: Career Pilot Android Release
+name: JURNARA Android Release
 
 on:
   workflow_dispatch:
@@ -30,7 +30,7 @@ jobs:
       - name: Set Android release version
         run: |
           sed -i 's/versionCode [0-9][0-9]*/versionCode 2/' android/app/build.gradle
-          sed -i 's/versionName "[^"]*"/versionName "2.0.0"/' android/app/build.gradle
+          sed -i 's/versionName "[^"]*"/versionName "2.1.0"/' android/app/build.gradle
           grep -E 'versionCode|versionName' android/app/build.gradle
 
       - name: Sync Capacitor
@@ -52,8 +52,8 @@ jobs:
           ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
         run: |
           test -n "$ANDROID_KEYSTORE_BASE64"
-          echo "$ANDROID_KEYSTORE_BASE64" | base64 --decode > career-pilot-release.keystore
-          test -s career-pilot-release.keystore
+          echo "$ANDROID_KEYSTORE_BASE64" | base64 --decode > jurnara-release.keystore
+          test -s jurnara-release.keystore
 
       - name: Build signed Android App Bundle
         env:
@@ -64,15 +64,15 @@ jobs:
           test -n "$KEYSTORE_PASSWORD"
           test -n "$KEY_ALIAS"
           test -n "$KEY_ALIAS_PASSWORD"
-          npx cap build android             --androidreleasetype AAB             --keystorepath "$GITHUB_WORKSPACE/career-pilot-release.keystore"             --keystorepass "$KEYSTORE_PASSWORD"             --keystorealias "$KEY_ALIAS"             --keystorealiaspass "$KEY_ALIAS_PASSWORD"
+          npx cap build android             --androidreleasetype AAB             --keystorepath "$GITHUB_WORKSPACE/jurnara-release.keystore"             --keystorepass "$KEYSTORE_PASSWORD"             --keystorealias "$KEY_ALIAS"             --keystorealiaspass "$KEY_ALIAS_PASSWORD"
 
       - name: Upload signed AAB
         uses: actions/upload-artifact@v4
         with:
-          name: career-pilot-release-aab
+          name: jurnara-release-aab
           path: android/app/build/outputs/bundle/release/app-release.aab
           if-no-files-found: error
 
       - name: Remove signing material
         if: always()
-        run: rm -f career-pilot-release.keystore
+        run: rm -f jurnara-release.keystore
