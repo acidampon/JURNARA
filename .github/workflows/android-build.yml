@@ -3,8 +3,6 @@ name: Career Pilot Android Build
 on:
   workflow_dispatch:
   push:
-    paths:
-      - ".github/workflows/android-build.yml"
 
 jobs:
   android:
