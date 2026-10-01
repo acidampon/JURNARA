@@ -1,6 +1,6 @@
 # Career Pilot — Deployment Build
 
-Career Pilot is a mobile-first career development platform prototype.
+Career Pilot 2.0 is a mobile-first Career GPS platform designed to move people from direction to skills, proof, opportunities, applications, and career growth.
 
 ## Included
 - First-run onboarding and persistent local profile
@@ -8,6 +8,8 @@ Career Pilot is a mobile-first career development platform prototype.
 - Opportunity saving and application tracking
 - Structured CV Studio and text export
 - Connected six-step career roadmap
+- Career Intelligence, Opportunity Intelligence, Application Intelligence, and Outcome learning
+- Proof-of-Skill Studio and career milestone tracking
 - Career Coach with skill-gap and next-action guidance
 - PWA manifest and offline-capable Vite PWA configuration
 - Capacitor Android configuration
@@ -39,7 +41,7 @@ The current app is still a local-first prototype: profile/application data is st
 ## Android identity
 Package ID: `com.careerpilot.app`
 
-Current application version: `1.0.7`
+Current application version: `2.0.0`
 
 The first Play release can use version code 1. Future Play releases must use higher version codes.
 
