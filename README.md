@@ -22,3 +22,6 @@ npm run build
 
 ## Current boundary
 This build uses local browser storage and demo opportunities. It does not yet include secure cloud authentication/database, a live job feed, or an external AI provider. The next deployment work is production web verification, Android APK testing, release signing, and AAB publication.
+
+## Release verification
+Production web build has passed in GitHub Actions. Android debug build verification is now running from the same GitHub source.
