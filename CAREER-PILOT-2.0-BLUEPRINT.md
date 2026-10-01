@@ -1,8 +1,8 @@
-# Career Pilot 2.0 — Career GPS Blueprint
+# JURNARA 2.0 — Career GPS Blueprint
 
 ## Product North Star
 
-**Career Pilot is a personal Career GPS.**
+**JURNARA is a personal Career GPS.**
 
 It helps a person move from:
 
@@ -130,7 +130,7 @@ The system should communicate evidence and uncertainty rather than guarantee tha
 
 ## Intelligence Architecture
 
-Career Pilot 2.0 should separate the intelligence layer from the user interface.
+JURNARA 2.0 should separate the intelligence layer from the user interface.
 
 Core entities:
 
@@ -236,10 +236,10 @@ The core domain must remain usable without depending on a single AI provider.
 
 ## Success Definition
 
-Career Pilot 2.0 is successful when a user can enter with uncertainty and leave with a concrete, personalized plan:
+JURNARA 2.0 is successful when a user can enter with uncertainty and leave with a concrete, personalized plan:
 
 **Understand myself → choose a realistic direction → see my gaps → build evidence → become application-ready → find and verify opportunities → apply intelligently → learn from outcomes → keep progressing.**
 
-That is the Career Pilot promise:
+That is the JURNARA promise:
 
 > **Don't just help me find a job. Help me become the person who can get—and grow in—the right career.**
