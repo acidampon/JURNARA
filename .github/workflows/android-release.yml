@@ -27,6 +27,12 @@ jobs:
       - name: Add Android platform
         run: npx cap add android
 
+      - name: Set Android release version
+        run: |
+          sed -i 's/versionCode [0-9][0-9]*/versionCode 2/' android/app/build.gradle
+          sed -i 's/versionName "[^"]*"/versionName "2.0.0"/' android/app/build.gradle
+          grep -E 'versionCode|versionName' android/app/build.gradle
+
       - name: Sync Capacitor
         run: npx cap sync android
 
