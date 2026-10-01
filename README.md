@@ -1,6 +1,6 @@
-# Career Pilot — Deployment Build
+# JURNARA — Deployment Build
 
-Career Pilot 2.0 is a mobile-first Career GPS platform designed to move people from direction to skills, proof, opportunities, applications, and career growth.
+JURNARA 2.0 is a mobile-first Career GPS platform designed to move people from direction to skills, proof, opportunities, applications, and career growth.
 
 ## Included
 - First-run onboarding and persistent local profile
@@ -39,7 +39,7 @@ See [ANDROID-RELEASE-SETUP.md](ANDROID-RELEASE-SETUP.md) for the release procedu
 The current app is still a local-first prototype: profile/application data is stored in browser/device storage, opportunities are demo records, and the Career Coach is rule-based. Secure cloud authentication/database, live job feeds, and an external AI provider are not yet connected.
 
 ## Android identity
-Package ID: `com.careerpilot.app`
+Package ID: `com.jurnara.app`
 
 Current application version: `2.0.0`
 
