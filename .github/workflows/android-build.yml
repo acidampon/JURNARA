@@ -1,4 +1,4 @@
-name: Career Pilot Android Build
+name: JURNARA Android Build
 
 on:
   workflow_dispatch:
@@ -26,5 +26,5 @@ jobs:
       - run: cd android && ./gradlew assembleDebug
       - uses: actions/upload-artifact@v4
         with:
-          name: career-pilot-debug-apk
+          name: jurnara-debug-apk
           path: android/app/build/outputs/apk/debug/app-debug.apk
