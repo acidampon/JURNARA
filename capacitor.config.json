@@ -1,6 +1,6 @@
 {
-  "appId": "com.careerpilot.app",
-  "appName": "Career Pilot",
+  "appId": "com.jurnara.app",
+  "appName": "JURNARA",
   "webDir": "dist",
   "server": {
     "androidScheme": "https"
