@@ -1,15 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T16:32:17.961Z",
+  "updatedAt": "2026-10-25T20:57:31.398Z",
   "sourceCount": 2,
   "totalFetched": 310,
-  "relevantCount": 31,
+  "relevantCount": 32,
   "sources": [
     "Arbeitnow",
     "Remotive"
   ],
   "sourceErrors": [],
   "jobs": [
+    {
+      "id": "arbeitnow:sales-intern-turkish-market-munich-274799",
+      "title": "Sales Intern (Turkish Market)",
+      "org": "Emidat GmbH",
+      "role": "training",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/emidat-gmbh/sales-intern-turkish-market-munich-274799",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1792942816,
+      "tags": [
+        "Commercial"
+      ],
+      "summary": "👷🏻‍♀️ What we do 👷🏻‍♀️ At Emidat, we are building the first climate-native product management system for building material manufacturers. We aim to decarbonise building materials, making up 11% of global GHG emissions. We collect data from physical product"
+    },
+    {
+      "id": "arbeitnow:senior-data-scientist-full-stack-london-355881",
+      "title": "Senior Data Scientist - Full Stack",
+      "org": "Clearscoretechnologylimited",
+      "role": "training",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clearscoretechnologylimited/senior-data-scientist-full-stack-london-355881",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1792943722,
+      "tags": [
+        "Analytics"
+      ],
+      "summary": "&lt;p&gt;&lt;strong&gt;Senior Data Scientist - Full Stack&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=\"text-decoration: underline;\"&gt;&lt;em&gt;Please note visa sponsorship is not currently available for this position. &lt;/em&gt;&lt;/span&gt;&lt;/p&gt; "
+    },
     {
       "id": "arbeitnow:tenable-architect-relocation-provided-amsterdam-75916",
       "title": "Tenable Architect – Relocation provided",
@@ -25,6 +57,40 @@
         "Security Consultant"
       ],
       "summary": "Are you an experienced vulnerability management specialist with strong hands-on knowledge of Tenable platforms? For one of our valued clients in Amsterdam, we are looking for a Tenable Architect / Administrator to design, manage, and optimise an enterprise vul"
+    },
+    {
+      "id": "arbeitnow:e-mail-marketing-account-manager-elsdorf-43435",
+      "title": "E-Mail Marketing / Account Manager (m/w/d)",
+      "org": "Bendt Brothers",
+      "role": "marketing",
+      "location": "Elsdorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/e-mail-marketing-account-manager-elsdorf-43435",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792953048,
+      "tags": [
+        "Remote",
+        "CRM",
+        "Direct Marketing"
+      ],
+      "summary": "NUR VOLLZEIT! Du lebst Marketing, kennst Klaviyo in- und auswendig und willst die Person sein, ohne die bei gestandenen D2C-Brands keine Mail rausgeht? Klingt gut? Dann bist du bei uns genau richtig. Hey, wir sind Bendt Brothers. Zwei Brüder, ein Fokus: E-Mail"
+    },
+    {
+      "id": "arbeitnow:remote-senior-sap-logistics-consultant-vollzeit-passau-314632",
+      "title": "Senior SAP Logistics Consultant - Vollzeit (m/w/d)",
+      "org": "24-LOG GmbH",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/24-log-gmbh/remote-senior-sap-logistics-consultant-vollzeit-passau-314632",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792942274,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "ÜBER UNS: Wir sind die 24 Log GmbH, ein innovatives und wachsendes Unternehmen im Bereich der SAP Logistik. Unsere Mission ist es, die komplexen Herausforderungen der modernen Logistik mit intelligenten, zielstrebigen und benutzerfreundlichen Lösungen zu meist"
     },
     {
       "id": "arbeitnow:remote-cinder-expert-network-84072",
@@ -93,70 +159,6 @@
       "summary": "Teamleiter Export / Zoll & Außenwirtschaft (m/w/d) Standort: München | Vollzeit | Unbefristet Für unseren Mandanten, ein inhabergeführtes, europaweit tätiges Familienunternehmen mit Sitz in München und Spezialisierung auf professionelle Reinigungsprodukte, Dos"
     },
     {
-      "id": "arbeitnow:remote-cloud-security-engineer-291881",
-      "title": "Cloud Security Engineer",
-      "org": "Ygo",
-      "role": "marketing",
-      "location": "Remote EU",
-      "url": "https://www.arbeitnow.com/jobs/companies/ygo/remote-cloud-security-engineer-291881",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792899611,
-      "tags": [
-        "Product Engineering"
-      ],
-      "summary": "YGO.ai is a VC-funded AI tourism platform. We are hiring a Cloud Security Engineer to own the security of our cloud platform, the APIs our enterprise clients run on and the company itself. 🛡️ About this role. The role carries two things at once. You own secur"
-    },
-    {
-      "id": "arbeitnow:director-of-marketing-emea-remote-germany-346895",
-      "title": "Director of Marketing (EMEA - Remote)",
-      "org": "Gurobioptimization",
-      "role": "marketing",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/gurobioptimization/director-of-marketing-emea-remote-germany-346895",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792897654,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "At Gurobi Optimization, we're on a mission! A mission that focuses on mathematical optimization. We empower our customers to expand their use of mathematical optimization technology in order to make smarter decisions and solve some of the world's toughest and "
-    },
-    {
-      "id": "arbeitnow:remote-senior-security-engineer-appsec-5689",
-      "title": "Senior Security Engineer - AppSec (d/f/m)",
-      "org": "Vivenu",
-      "role": "training",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-senior-security-engineer-appsec-5689",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792897648,
-      "tags": [
-        "Product & Development"
-      ],
-      "summary": "Redefine the future of live entertainment tech Welcome to vivenu, the global leader in event ticketing tech and one of the world’s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golde"
-    },
-    {
-      "id": "arbeitnow:remote-senior-platform-engineer-428111",
-      "title": "Senior Platform Engineer (d/f/m)",
-      "org": "Vivenu",
-      "role": "marketing",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-senior-platform-engineer-428111",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792897648,
-      "tags": [
-        "Product & Development"
-      ],
-      "summary": "Redefine the future of live entertainment tech Welcome to vivenu, the global leader in event ticketing tech and one of the world’s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golde"
-    },
-    {
       "id": "arbeitnow:remote-staff-security-engineer-blue-team-uk-128602",
       "title": "Staff Security Engineer - Blue Team (UK)",
       "org": "Olo",
@@ -203,6 +205,22 @@
         "S&M"
       ],
       "summary": "ABOUT LIVEKIT LiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agenti"
+    },
+    {
+      "id": "arbeitnow:post-doctorante-ou-post-doctorant-en-evaluation-de-la-vulnerabilite-dun-reseau-dacces-telecom-de-type-pon-passive-optical-network-vis-a-vis-decou-495051",
+      "title": "Post-doctorante ou Post-doctorant en Evaluation de la vulnérabilité d’un réseau d’accès Télécom de type PON (Passive Optical Network) vis-à-vis d’écoutes potentielles par DAS (Distributed Acoustic Sensor) - CDD de 12 mois",
+      "org": "Institut Mines-Télécom",
+      "role": "marketing",
+      "location": "Palaiseau, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-ou-post-doctorant-en-evaluation-de-la-vulnerabilite-dun-reseau-dacces-telecom-de-type-pon-passive-optical-network-vis-a-vis-decou-495051",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792954294,
+      "tags": [
+        "Optique"
+      ],
+      "summary": "Qui sommes-nous ? Télécom Paris, école de l’IMT (Institut Mines-Télécom) et membre fondateur de l’Institut Polytechnique de Paris, est une grande école du top 5 des écoles d’ingénieurs généralistes françaises. La Raison d’Être de Télécom Paris est de former, i"
     },
     {
       "id": "arbeitnow:remote-account-executive-enterprise-france-paris-344399",
