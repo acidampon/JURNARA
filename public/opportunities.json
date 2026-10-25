@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T08:28:17.977Z",
+  "updatedAt": "2026-10-25T08:29:32.342Z",
   "sourceCount": 2,
   "sources": [
     "Arbeitnow",
@@ -9,36 +9,20 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:chief-science-officer-stuttgart-369217",
-      "title": "Chief Science Officer",
-      "org": "Sereact GmbH",
-      "role": "training",
-      "location": "Stuttgart Schockenriedstr. 17",
-      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/chief-science-officer-stuttgart-369217",
+      "id": "arbeitnow:partner-delivery-manager-remote-europe-berlin-14171",
+      "title": "Partner Delivery Manager | Remote | Europe",
+      "org": "N8N",
+      "role": "project",
+      "location": "Berlin Office",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/partner-delivery-manager-remote-europe-berlin-14171",
       "source": "Arbeitnow",
-      "remote": false,
+      "remote": true,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1792885212,
+      "postedAt": 1792885210,
       "tags": [
-        "Leadership"
+        "Sales"
       ],
-      "summary": "Chief Science Officer @ Sereact 🦾 Chief Science Officer (m/f/d) · Zurich or Stuttgart, Boston possible · Reports to the CEO · Full-time Who we are Sereact builds the robot brain for physical work. Cortex , our vision-language-action foundation model, is hardw"
-    },
-    {
-      "id": "arbeitnow:senior-demand-partnerships-manager-apps-hamburg-356740",
-      "title": "Senior Demand Partnerships Manager - Apps (f/m/d)",
-      "org": "adjoe",
-      "role": "marketing",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-demand-partnerships-manager-apps-hamburg-356740",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792885212,
-      "tags": [
-        "adjoe"
-      ],
-      "summary": "adjoe builds the technologies behind mobile apps growth and monetization. With our core product Playtime Arcade , we've become the global leader in rewarded advertising, an ad unit built on a simple premise: users earn real in-app rewards for engaging with new"
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
     },
     {
       "id": "arbeitnow:project-manager-avionics-gnc-flight-software-munich-357836",
@@ -73,148 +57,20 @@
       "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. Join us as a Software Engineer – Mission Control Software, where you will develop mission-critical software that powers our integrated testing and mission operations. You will primarily"
     },
     {
-      "id": "arbeitnow:composite-development-engineer-germany-484809",
-      "title": "Composite Development Engineer",
-      "org": "Stealthrocketrystartup",
+      "id": "arbeitnow:accountant-germany-32453",
+      "title": "Accountant",
+      "org": "N8N",
       "role": "project",
       "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/composite-development-engineer-germany-484809",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/accountant-germany-32453",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1792874415,
+      "postedAt": 1792885210,
       "tags": [
-        "Structures"
+        "Finance & Legal"
       ],
-      "summary": "We are looking for a Composite Development Engineer to build the material foundation of our rocket structures and generate material data that design and analysis can trust. You will work across material selection, process development, specimen preparation, lab"
-    },
-    {
-      "id": "arbeitnow:senior-mechanical-engineer-flight-structures-germany-92367",
-      "title": "Senior Mechanical Engineer (Flight Structures)",
-      "org": "Stealthrocketrystartup",
-      "role": "project",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/senior-mechanical-engineer-flight-structures-germany-92367",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792874415,
-      "tags": [
-        "Structures"
-      ],
-      "summary": "We are looking for a Senior Mechanical Engineer to lead the design and development of the flight structures for our launch vehicles. You will work across primary and secondary structures, taking hardware from requirements and early concepts through detailed de"
-    },
-    {
-      "id": "arbeitnow:graduate-structures-engineer-germany-279752",
-      "title": "Graduate Structures Engineer",
-      "org": "Stealthrocketrystartup",
-      "role": "project",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/graduate-structures-engineer-germany-279752",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792874415,
-      "tags": [
-        "Structures"
-      ],
-      "summary": "We are looking for a Graduate / Junior StructuresEngineer to begin your career in rocket structures and grow quickly through hands-on responsibility. You will have the opportunity to develop across design, analysis, manufacturing, materials, and testing while "
-    },
-    {
-      "id": "arbeitnow:mechanical-design-engineer-germany-70429",
-      "title": "Mechanical Design Engineer",
-      "org": "Stealthrocketrystartup",
-      "role": "project",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/mechanical-design-engineer-germany-70429",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792874415,
-      "tags": [
-        "Structures"
-      ],
-      "summary": "We are looking for a Mechanical Design Engineer to design our rocket structures, manufacturing equipment, and test hardware. You will own your designs from the first concept through detailed design, release, manufacture, and integration on real hardware. Good "
-    },
-    {
-      "id": "arbeitnow:structures-analyst-germany-216369",
-      "title": "Structures Analyst",
-      "org": "Stealthrocketrystartup",
-      "role": "project",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/structures-analyst-germany-216369",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792874415,
-      "tags": [
-        "Structures"
-      ],
-      "summary": "We are looking for a Structural Analysis Engineer to size and verify our rocket structures, from load cases and finite-element analysis through to margins of safety and hardware release. You will provide the analysis that design, manufacturing, and test teams "
-    },
-    {
-      "id": "arbeitnow:technical-data-analyst-edinburgh-406094",
-      "title": "Technical Data Analyst",
-      "org": "Addepar1",
-      "role": "marketing",
-      "location": "Edinburgh",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/technical-data-analyst-edinburgh-406094",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792911319,
-      "tags": [
-        "Enterprise Practice SA"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;span style=\"text-decoration: underline;\"&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex finan"
-    },
-    {
-      "id": "arbeitnow:sr-software-engineer-portfolio-data-workflows-edinburgh-8282",
-      "title": "Sr. Software Engineer - Portfolio Data Workflows",
-      "org": "Addepar1",
-      "role": "marketing",
-      "location": "Edinburgh",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-portfolio-data-workflows-edinburgh-8282",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792911319,
-      "tags": [
-        "Core Product Engineering"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;span style=\"text-decoration: underline;\"&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex finan"
-    },
-    {
-      "id": "arbeitnow:sr-software-engineer-ai-ml-ai-platform-london-257080",
-      "title": "Sr. Software Engineer - AI/ML - AI Platform",
-      "org": "Addepar1",
-      "role": "marketing",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-ai-ml-ai-platform-london-257080",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792911319,
-      "tags": [
-        "AI"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;span style=\"text-decoration: underline;\"&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex finan"
-    },
-    {
-      "id": "arbeitnow:senior-ai-support-engineer-paris-325847",
-      "title": "Senior AI Support Engineer (Paris)",
-      "org": "Dust",
-      "role": "support",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dust/senior-ai-support-engineer-paris-325847",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792899614,
-      "tags": [
-        "Customer Experience"
-      ],
-      "summary": "About Dust Work is being rewritten, and the people holding the pen are the ones who actually run it. With enterprise-grade governance, flexible model choice, and a collaborative interface for humans and agents to work together, Dust empowers AI Operators at th"
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
     },
     {
       "id": "arbeitnow:valve-test-engineer-bordeaux-296786",
@@ -231,54 +87,6 @@
         "MAIT"
       ],
       "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We want you as a highly talented Valve Test Engineer II, to help us advance our mission by leading cryogenic valve testing for our high-thrust engine. You will be the primary engineer r"
-    },
-    {
-      "id": "arbeitnow:ip-rights-manager-paris-315528",
-      "title": "IP Rights Manager",
-      "org": "Mistral.ai",
-      "role": "training",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ip-rights-manager-paris-315528",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792874418,
-      "tags": [
-        "Legal"
-      ],
-      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare"
-    },
-    {
-      "id": "arbeitnow:member-of-technical-staff-zurich-24981",
-      "title": "Member of Technical Staff (m/f/d)",
-      "org": "Sereact GmbH",
-      "role": "project",
-      "location": "Zurich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/member-of-technical-staff-zurich-24981",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792885215,
-      "tags": [
-        "Software"
-      ],
-      "summary": "Who We Are: We are a rapidly growing embodied AI company revolutionizing human labor. Leveraging cutting-edge robotics and advanced artificial intelligence, we develop transformative technologies that redefine how work is done across multiple industries—empowe"
-    },
-    {
-      "id": "arbeitnow:research-engineer-zurich-318019",
-      "title": "Research Engineer (m/f/d)",
-      "org": "Sereact GmbH",
-      "role": "training",
-      "location": "Zurich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/research-engineer-zurich-318019",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792885215,
-      "tags": [
-        "Software"
-      ],
-      "summary": "Research Engineer, Manipulation Data & Teleoperation — Zurich This role owns the data generation layer of Sereact's VLA stack: teleoperation systems and data collection infrastructure that feed Cortex, built from our Zurich research hub. About Sereact Sereact "
     },
     {
       "id": "arbeitnow:engineering-manager-amsterdam-260715",
@@ -391,22 +199,6 @@
         "Product"
       ],
       "summary": "Staff Product Manager, Product Discovery Engine About Us Constructor powers product search and discovery for some of the largest retailers in the world. We serve billions of requests every week, and you’ve probably seen our results somewhere and used our produ"
-    },
-    {
-      "id": "arbeitnow:partner-delivery-manager-remote-europe-berlin-14171",
-      "title": "Partner Delivery Manager | Remote | Europe",
-      "org": "N8N",
-      "role": "project",
-      "location": "Berlin Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/partner-delivery-manager-remote-europe-berlin-14171",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792885210,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
     },
     {
       "id": "arbeitnow:remote-marketing-lead-b2b-a-249015",
@@ -1427,6 +1219,22 @@
       "summary": "Our Mission Aleph Alpha is one of the few companies in Europe doing serious foundation model pre-training like our recently released Kolibri-1 model . Our customers - in finance, manufacturing, public administration - need models that understand German, meet E"
     },
     {
+      "id": "arbeitnow:chief-science-officer-stuttgart-369217",
+      "title": "Chief Science Officer",
+      "org": "Sereact GmbH",
+      "role": "training",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/chief-science-officer-stuttgart-369217",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792885212,
+      "tags": [
+        "Leadership"
+      ],
+      "summary": "Chief Science Officer @ Sereact 🦾 Chief Science Officer (m/f/d) · Zurich or Stuttgart, Boston possible · Reports to the CEO · Full-time Who we are Sereact builds the robot brain for physical work. Cortex , our vision-language-action foundation model, is hardw"
+    },
+    {
       "id": "arbeitnow:director-technical-support-field-service-stuttgart-370872",
       "title": "Director Technical Support & Field Service",
       "org": "Sereact GmbH",
@@ -1683,6 +1491,22 @@
       "summary": "Who We Are: We are a rapidly growing embodied AI company revolutionizing human labor. Leveraging cutting-edge robotics and advanced artificial intelligence, we develop transformative technologies that redefine how work is done across multiple industries—empowe"
     },
     {
+      "id": "arbeitnow:senior-demand-partnerships-manager-apps-hamburg-356740",
+      "title": "Senior Demand Partnerships Manager - Apps (f/m/d)",
+      "org": "adjoe",
+      "role": "marketing",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-demand-partnerships-manager-apps-hamburg-356740",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792885212,
+      "tags": [
+        "adjoe"
+      ],
+      "summary": "adjoe builds the technologies behind mobile apps growth and monetization. With our core product Playtime Arcade , we've become the global leader in rewarded advertising, an ad unit built on a simple premise: users earn real in-app rewards for engaging with new"
+    },
+    {
       "id": "arbeitnow:account-executive-hamburg-296432",
       "title": "Account Executive - Hamburg",
       "org": "Tebi",
@@ -1697,22 +1521,6 @@
         "Sales"
       ],
       "summary": "About Us Tebi is creating the first Connected Restaurant Management System that makes hospitality flow. In one seamless platform, Tebi embeds sales, reservations, kitchen prep, payments, and all the data that powers it, creating smooth service and intuitive in"
-    },
-    {
-      "id": "arbeitnow:accountant-germany-32453",
-      "title": "Accountant",
-      "org": "N8N",
-      "role": "project",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/accountant-germany-32453",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792885210,
-      "tags": [
-        "Finance & Legal"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
     },
     {
       "id": "arbeitnow:software-development-engineer-iii-maps-api-mapbox-germany-235939",
@@ -1828,6 +1636,86 @@
         "2024 Dedrone R&D"
       ],
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;h4&gt;&lt;strong&gt;Join Axon and be a Force for Good.&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our eco"
+    },
+    {
+      "id": "arbeitnow:composite-development-engineer-germany-484809",
+      "title": "Composite Development Engineer",
+      "org": "Stealthrocketrystartup",
+      "role": "project",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/composite-development-engineer-germany-484809",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792874415,
+      "tags": [
+        "Structures"
+      ],
+      "summary": "We are looking for a Composite Development Engineer to build the material foundation of our rocket structures and generate material data that design and analysis can trust. You will work across material selection, process development, specimen preparation, lab"
+    },
+    {
+      "id": "arbeitnow:senior-mechanical-engineer-flight-structures-germany-92367",
+      "title": "Senior Mechanical Engineer (Flight Structures)",
+      "org": "Stealthrocketrystartup",
+      "role": "project",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/senior-mechanical-engineer-flight-structures-germany-92367",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792874415,
+      "tags": [
+        "Structures"
+      ],
+      "summary": "We are looking for a Senior Mechanical Engineer to lead the design and development of the flight structures for our launch vehicles. You will work across primary and secondary structures, taking hardware from requirements and early concepts through detailed de"
+    },
+    {
+      "id": "arbeitnow:graduate-structures-engineer-germany-279752",
+      "title": "Graduate Structures Engineer",
+      "org": "Stealthrocketrystartup",
+      "role": "project",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/graduate-structures-engineer-germany-279752",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792874415,
+      "tags": [
+        "Structures"
+      ],
+      "summary": "We are looking for a Graduate / Junior StructuresEngineer to begin your career in rocket structures and grow quickly through hands-on responsibility. You will have the opportunity to develop across design, analysis, manufacturing, materials, and testing while "
+    },
+    {
+      "id": "arbeitnow:mechanical-design-engineer-germany-70429",
+      "title": "Mechanical Design Engineer",
+      "org": "Stealthrocketrystartup",
+      "role": "project",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/mechanical-design-engineer-germany-70429",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792874415,
+      "tags": [
+        "Structures"
+      ],
+      "summary": "We are looking for a Mechanical Design Engineer to design our rocket structures, manufacturing equipment, and test hardware. You will own your designs from the first concept through detailed design, release, manufacture, and integration on real hardware. Good "
+    },
+    {
+      "id": "arbeitnow:structures-analyst-germany-216369",
+      "title": "Structures Analyst",
+      "org": "Stealthrocketrystartup",
+      "role": "project",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/structures-analyst-germany-216369",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792874415,
+      "tags": [
+        "Structures"
+      ],
+      "summary": "We are looking for a Structural Analysis Engineer to size and verify our rocket structures, from load cases and finite-element analysis through to margins of safety and hardware release. You will provide the analysis that design, manufacturing, and test teams "
     },
     {
       "id": "arbeitnow:senior-account-manager-sustainability-berlin-183828",
@@ -2117,6 +2005,54 @@
         "Finance"
       ],
       "summary": "&lt;h3&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;At euNetworks, Finance plays a critical role in supporting strategic decision-making, driving commercial performance and enabling sustainable business growth. As a leading European provider of"
+    },
+    {
+      "id": "arbeitnow:technical-data-analyst-edinburgh-406094",
+      "title": "Technical Data Analyst",
+      "org": "Addepar1",
+      "role": "marketing",
+      "location": "Edinburgh",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/technical-data-analyst-edinburgh-406094",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792911319,
+      "tags": [
+        "Enterprise Practice SA"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;span style=\"text-decoration: underline;\"&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex finan"
+    },
+    {
+      "id": "arbeitnow:sr-software-engineer-portfolio-data-workflows-edinburgh-8282",
+      "title": "Sr. Software Engineer - Portfolio Data Workflows",
+      "org": "Addepar1",
+      "role": "marketing",
+      "location": "Edinburgh",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-portfolio-data-workflows-edinburgh-8282",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792911319,
+      "tags": [
+        "Core Product Engineering"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;span style=\"text-decoration: underline;\"&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex finan"
+    },
+    {
+      "id": "arbeitnow:sr-software-engineer-ai-ml-ai-platform-london-257080",
+      "title": "Sr. Software Engineer - AI/ML - AI Platform",
+      "org": "Addepar1",
+      "role": "marketing",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-ai-ml-ai-platform-london-257080",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792911319,
+      "tags": [
+        "AI"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;span style=\"text-decoration: underline;\"&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex finan"
     },
     {
       "id": "arbeitnow:strategic-account-executive-uki-334945",
@@ -2903,6 +2839,22 @@
       "summary": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible onli"
     },
     {
+      "id": "arbeitnow:senior-ai-support-engineer-paris-325847",
+      "title": "Senior AI Support Engineer (Paris)",
+      "org": "Dust",
+      "role": "support",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dust/senior-ai-support-engineer-paris-325847",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792899614,
+      "tags": [
+        "Customer Experience"
+      ],
+      "summary": "About Dust Work is being rewritten, and the people holding the pen are the ones who actually run it. With enterprise-grade governance, flexible model choice, and a collaborative interface for humans and agents to work together, Dust empowers AI Operators at th"
+    },
+    {
       "id": "arbeitnow:global-sourcing-manager-electronics-paris-377212",
       "title": "Global Sourcing Manager Electronics",
       "org": "Signal Processing Engineer (RF Processing & Analytics)",
@@ -3061,6 +3013,22 @@
         "Dev Eng"
       ],
       "summary": "&lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;p&gt;The Analytics Data Platform Batch team owns the platform that powers ba"
+    },
+    {
+      "id": "arbeitnow:ip-rights-manager-paris-315528",
+      "title": "IP Rights Manager",
+      "org": "Mistral.ai",
+      "role": "training",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ip-rights-manager-paris-315528",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792874418,
+      "tags": [
+        "Legal"
+      ],
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare"
     },
     {
       "id": "arbeitnow:senior-full-stack-product-engineer-paris-157871",
@@ -3924,6 +3892,38 @@
         "Business Functions"
       ],
       "summary": "We are currently looking for an experienced professional to join an acute care hospital in the Zurich Oberland as Head of Urology . In this role, you will assume overall medical, financial, and personnel responsibility for the urology department, which handles"
+    },
+    {
+      "id": "arbeitnow:member-of-technical-staff-zurich-24981",
+      "title": "Member of Technical Staff (m/f/d)",
+      "org": "Sereact GmbH",
+      "role": "project",
+      "location": "Zurich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/member-of-technical-staff-zurich-24981",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792885215,
+      "tags": [
+        "Software"
+      ],
+      "summary": "Who We Are: We are a rapidly growing embodied AI company revolutionizing human labor. Leveraging cutting-edge robotics and advanced artificial intelligence, we develop transformative technologies that redefine how work is done across multiple industries—empowe"
+    },
+    {
+      "id": "arbeitnow:research-engineer-zurich-318019",
+      "title": "Research Engineer (m/f/d)",
+      "org": "Sereact GmbH",
+      "role": "training",
+      "location": "Zurich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/research-engineer-zurich-318019",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792885215,
+      "tags": [
+        "Software"
+      ],
+      "summary": "Research Engineer, Manipulation Data & Teleoperation — Zurich This role owns the data generation layer of Sereact's VLA stack: teleoperation systems and data collection infrastructure that feed Cortex, built from our Zurich research hub. About Sereact Sereact "
     },
     {
       "id": "arbeitnow:ai-project-manager-zurich-184257",
