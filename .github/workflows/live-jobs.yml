@@ -1,4 +1,4 @@
-name: JURNARA Live Job Feed
+name: JURNARA Live Job Feed and Deploy
 
 on:
   schedule:
@@ -7,15 +7,20 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
-  group: jurnara-live-jobs-feed
-  cancel-in-progress: true
+  group: jurnara-pages
+  cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -26,7 +31,7 @@ jobs:
       - name: Commit feed only when it changes
         run: |
           if git diff --quiet -- public/opportunities.json; then
-            echo "Job feed has no changes."
+            echo "Job feed has no changes; no redeploy is needed."
             exit 0
           fi
           git config user.name "github-actions[bot]"
@@ -34,3 +39,16 @@ jobs:
           git add public/opportunities.json
           git commit -m "data: refresh live job opportunities"
           git push
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+      - name: Build updated site
+        run: npm run build
+        env:
+          GITHUB_PAGES: 'true'
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/
+      - id: deployment
+        uses: actions/deploy-pages@v4
