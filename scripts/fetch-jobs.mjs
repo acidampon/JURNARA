@@ -86,7 +86,14 @@ for (const result of usable) {
     if (!unique.has(key)) unique.set(key, job);
   }
 }
-const jobs = [...unique.values()]
+const allJobs = [...unique.values()];
+const relevantJobs = allJobs.filter(job =>
+  job.remote ||
+  job.visaSponsorshipMentioned ||
+  /ghana|africa|worldwide|anywhere|global|international/i.test(job.location)
+);
+const selection = relevantJobs.length >= 15 ? relevantJobs : allJobs;
+const jobs = selection
   .sort((a, b) => Number(b.visaSponsorshipMentioned) - Number(a.visaSponsorshipMentioned)
     || Number(b.remote) - Number(a.remote)
     || Date.parse(b.postedAt || 0) - Date.parse(a.postedAt || 0))
@@ -97,6 +104,8 @@ const feed = {
   schemaVersion: 1,
   updatedAt: new Date().toISOString(),
   sourceCount: usable.length,
+  totalFetched: allJobs.length,
+  relevantCount: relevantJobs.length,
   sources: usable.map(result => result.source.name),
   sourceErrors: sourceResults.filter(result => result.error).map(result => ({ source: result.source.name, error: result.error })),
   jobs
