@@ -1,4 +1,4 @@
-name: JURNARA Live Job Feed and Deploy
+name: JURNARA Live Job Feed
 
 on:
   push:
@@ -14,20 +14,15 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
-  group: jurnara-pages
-  cancel-in-progress: false
+  group: jurnara-live-jobs-feed
+  cancel-in-progress: true
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -35,35 +30,14 @@ jobs:
           node-version: 22
       - name: Fetch public job-board feeds
         run: npm run jobs:fetch
-      - id: feed
-        name: Commit feed only when it changes
+      - name: Commit feed only when it changes
         run: |
           if git diff --quiet -- public/opportunities.json; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "Job feed has no changes."
-          else
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add public/opportunities.json
-            git commit -m "data: refresh live job opportunities"
-            git push
-            echo "changed=true" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
-      - name: Configure GitHub Pages
-        if: steps.feed.outputs.changed == 'true'
-        uses: actions/configure-pages@v5
-      - name: Install dependencies
-        if: steps.feed.outputs.changed == 'true'
-        run: npm install --no-audit --no-fund
-      - name: Build updated site
-        if: steps.feed.outputs.changed == 'true'
-        run: npm run build
-        env:
-          GITHUB_PAGES: 'true'
-      - if: steps.feed.outputs.changed == 'true'
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist/
-      - id: deployment
-        if: steps.feed.outputs.changed == 'true'
-        uses: actions/deploy-pages@v4
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/opportunities.json
+          git commit -m "data: refresh live job opportunities"
+          git push
