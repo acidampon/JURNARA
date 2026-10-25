@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T08:30:34.635Z",
+  "updatedAt": "2026-10-25T16:32:17.961Z",
   "sourceCount": 2,
   "totalFetched": 310,
-  "relevantCount": 34,
+  "relevantCount": 31,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,100 +11,70 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:partner-delivery-manager-remote-europe-berlin-14171",
-      "title": "Partner Delivery Manager | Remote | Europe",
-      "org": "N8N",
+      "id": "arbeitnow:tenable-architect-relocation-provided-amsterdam-75916",
+      "title": "Tenable Architect – Relocation provided",
+      "org": "Wypoon",
+      "role": "training",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/tenable-architect-relocation-provided-amsterdam-75916",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1792930070,
+      "tags": [
+        "Security Consultant"
+      ],
+      "summary": "Are you an experienced vulnerability management specialist with strong hands-on knowledge of Tenable platforms? For one of our valued clients in Amsterdam, we are looking for a Tenable Architect / Administrator to design, manage, and optimise an enterprise vul"
+    },
+    {
+      "id": "arbeitnow:remote-cinder-expert-network-84072",
+      "title": "Cinder Expert Network",
+      "org": "Cinder",
       "role": "project",
-      "location": "Berlin Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/partner-delivery-manager-remote-europe-berlin-14171",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cinder/remote-cinder-expert-network-84072",
       "source": "Arbeitnow",
       "remote": true,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792885210,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792921215,
       "tags": [
-        "Sales"
+        "Talent Community"
       ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+      "summary": "Cinder builds safety infrastructure for some of the most important AI and internet platforms in the world, including Midjourney, ElevenLabs, Synthesia and Black Forest Labs. We’re backed by Accel, Y Combinator, and Radical Ventures. We’re building a network of"
     },
     {
-      "id": "arbeitnow:project-manager-avionics-gnc-flight-software-munich-357836",
-      "title": "Project Manager - Avionics, GNC & Flight Software",
-      "org": "The Exploration Company",
+      "id": "arbeitnow:remote-devops-engineer-242127",
+      "title": "DevOps Engineer",
+      "org": "Swarmaero",
       "role": "project",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/project-manager-avionics-gnc-flight-software-munich-357836",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-devops-engineer-242127",
       "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792885211,
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792921214,
       "tags": [
-        "Engineering"
+        "Legion"
       ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. The Avionics, Guidance, Navigation and Control (GNC), and Flight Software (FSW) functions are central to the safe and reliable operation of the vehicle. Together, they provide the elect"
+      "summary": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command & Control"
     },
     {
-      "id": "arbeitnow:software-engineer-mission-control-software-munich-247496",
-      "title": "Software Engineer – Mission Control Software",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/software-engineer-mission-control-software-munich-247496",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792885211,
-      "tags": [
-        "Digital Systems"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. Join us as a Software Engineer – Mission Control Software, where you will develop mission-critical software that powers our integrated testing and mission operations. You will primarily"
-    },
-    {
-      "id": "arbeitnow:accountant-germany-32453",
-      "title": "Accountant",
-      "org": "N8N",
-      "role": "project",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/accountant-germany-32453",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792885210,
-      "tags": [
-        "Finance & Legal"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
-    },
-    {
-      "id": "arbeitnow:valve-test-engineer-bordeaux-296786",
-      "title": "Valve Test Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/valve-test-engineer-bordeaux-296786",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792885213,
-      "tags": [
-        "MAIT"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We want you as a highly talented Valve Test Engineer II, to help us advance our mission by leading cryogenic valve testing for our high-thrust engine. You will be the primary engineer r"
-    },
-    {
-      "id": "arbeitnow:engineering-manager-amsterdam-260715",
-      "title": "Engineering Manager",
-      "org": "GreenFlux",
+      "id": "arbeitnow:sales-manager-berlin-21418",
+      "title": "Sales Manager",
+      "org": "SOUS",
       "role": "marketing",
-      "location": "Amsterdam, Noord-Holland, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/greenflux/engineering-manager-amsterdam-260715",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/sous/sales-manager-berlin-21418",
       "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792756291,
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792920659,
       "tags": [
-        "IT Development"
+        "Remote",
+        "Management",
+        "Team Leader"
       ],
-      "summary": "The company Smart Electric Vehicle Charging Solutions. That’s the business we are in! GreenFlux offers a cloud-based charge point management SaaS (Software as a Service) solution. This software platform enables Charge Point Operators (CPOs) and e-Mobility Serv"
+      "summary": "Win new restaurants across Germany and help build one of our fastest-growing markets from the ground up. Full-time About SOUS SOUS exists to give independent restaurants the same acquisition-to-retention infrastructure that only chains and delivery platforms c"
     },
     {
       "id": "arbeitnow:remote-teamleiter-export-zoll-aussenwirtschaft-munchen-499246",
@@ -187,133 +157,102 @@
       "summary": "Redefine the future of live entertainment tech Welcome to vivenu, the global leader in event ticketing tech and one of the world’s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golde"
     },
     {
-      "id": "arbeitnow:staff-product-manager-product-discovery-engine-munich-100134",
-      "title": "Staff Product Manager: Product Discovery Engine",
-      "org": "Constructor",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/constructor/staff-product-manager-product-discovery-engine-munich-100134",
+      "id": "arbeitnow:remote-staff-security-engineer-blue-team-uk-128602",
+      "title": "Staff Security Engineer - Blue Team (UK)",
+      "org": "Olo",
+      "role": "marketing",
+      "location": "Belfast, Northern Ireland, Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/olo/remote-staff-security-engineer-blue-team-uk-128602",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792885212,
+      "postedAt": 1792930071,
+      "tags": [
+        "Security"
+      ],
+      "summary": "Olo is a leading SaaS platform accelerating digital transformation in the restaurant industry, by helping customers deliver more personalised and profitable guest experiences. As a result, our digital ordering, payment, and guest engagement solutions enable br"
+    },
+    {
+      "id": "arbeitnow:principal-product-manager-remote-london-uk-126439",
+      "title": "Principal Product Manager (Remote)",
+      "org": "Vendavo",
+      "role": "marketing",
+      "location": "London, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/vendavo/principal-product-manager-remote-london-uk-126439",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792930064,
       "tags": [
         "Product"
       ],
-      "summary": "Staff Product Manager, Product Discovery Engine About Us Constructor powers product search and discovery for some of the largest retailers in the world. We serve billions of requests every week, and you’ve probably seen our results somewhere and used our produ"
+      "summary": "We’re a growing team, and as we scale, so does our need to focus on expanding our Product Management team. You’ll be joining a people-focused company, and as a Principal Product Manager , you will get the ability to define and drive product development for mul"
     },
     {
-      "id": "arbeitnow:remote-marketing-lead-b2b-a-249015",
-      "title": "Marketing Lead B2B (a)",
-      "org": "Oviva",
+      "id": "arbeitnow:remote-solutions-architect-158679",
+      "title": "Solutions Architect",
+      "org": "Livekit",
       "role": "marketing",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/oviva/remote-marketing-lead-b2b-a-249015",
+      "location": "United Kingdom (Remote)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/livekit/remote-solutions-architect-158679",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792863614,
+      "postedAt": 1792921216,
       "tags": [
-        "Marketing"
+        "S&M"
       ],
-      "summary": "Role overview : The Marketing Lead (B2B) is pivotal in leading the development and execution of Oviva Germany' s Oviva’s B2B marketing strategy in Germany This role will directly drive awareness of Oviva's offering, deepen partnerships across the healthcare ec"
+      "summary": "ABOUT LIVEKIT LiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agenti"
     },
     {
-      "id": "arbeitnow:senior-marketing-manager-tech-startup-berlin-246582",
-      "title": "Senior Marketing Manager Tech Startup f/m/d",
-      "org": "Pult GmbH",
+      "id": "arbeitnow:remote-account-executive-enterprise-france-paris-344399",
+      "title": "Account Executive Enterprise France",
+      "org": "Aikido Security",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/aikido-security/remote-account-executive-enterprise-france-paris-344399",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792932684,
+      "tags": [
+        "Sales",
+        "Remote"
+      ],
+      "summary": "🌍 We’re making security suck less for developers. Security tools haven’t kept up with how software is built today. They interrupt teams, slow releases, and turn security into a bottleneck instead of a capability. We built Aikido to change that. Aikido builds "
+    },
+    {
+      "id": "arbeitnow:remote-platform-engineer-paris-409658",
+      "title": "Platform Engineer",
+      "org": "ITQ",
       "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/pult-gmbh/senior-marketing-manager-tech-startup-berlin-246582",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/itq/remote-platform-engineer-paris-409658",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792855858,
+      "postedAt": 1792932682,
       "tags": [
-        "Remote",
-        "Marketing Manager"
+        "FR - CNA",
+        "Remote"
       ],
-      "summary": "About PULT PULT is the Workplace Presence & Visitor Platform for fast growing companies. We help IT, Workplace and People teams understand who is actually in the office, run compliant visitor management, and make better decisions about their space. We are a Ha"
+      "summary": "Our customers are beginning to embrace cloud-native and more agile approaches to developing software and services. To achieve this, they require the right tools and platforms, as well as the appropriate mindset to navigate the cultural shifts necessary for ado"
     },
     {
-      "id": "arbeitnow:remote-communications-and-social-media-manager-328503",
-      "title": "Communications and Social Media Manager",
-      "org": "Duck Duck Go",
+      "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-5303",
+      "title": "Senior Data Engineer - Real time analytics",
+      "org": "Aircall",
       "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-communications-and-social-media-manager-328503",
+      "location": "France Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-5303",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792852812,
+      "postedAt": 1792930069,
       "tags": [
-        "Marketing & Communications"
+        "13001 - Engineering"
       ],
-      "summary": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use o"
-    },
-    {
-      "id": "arbeitnow:remote-senior-product-designer-255909",
-      "title": "Senior Product Designer",
-      "org": "Duck Duck Go",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-product-designer-255909",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792852812,
-      "tags": [
-        "Design"
-      ],
-      "summary": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use o"
-    },
-    {
-      "id": "arbeitnow:account-director-emea-remote-united-kingdom-339594",
-      "title": "Account Director (EMEA Remote)",
-      "org": "Gurobioptimization",
-      "role": "training",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gurobioptimization/account-director-emea-remote-united-kingdom-339594",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792897656,
-      "tags": [
-        "Support"
-      ],
-      "summary": "At Gurobi Optimization, we're on a mission! A mission that focuses on mathematical optimization. We empower our customers to expand their use of mathematical optimization technology in order to make smarter decisions and solve some of the world's toughest and "
-    },
-    {
-      "id": "arbeitnow:devops-engineer-w-m-remote-451955",
-      "title": "DevOps Engineer W/M (remote) 🇪🇺",
-      "org": "Pennylane SAS",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-451955",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792852815,
-      "tags": [
-        "Tech"
-      ],
-      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our Engineering principles aligned with your vision? T"
-    },
-    {
-      "id": "arbeitnow:senior-performance-marketer-full-remote-france-363225",
-      "title": "Senior Performance Marketer (Full Remote - France)",
-      "org": "EverAI",
-      "role": "marketing",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/everai/senior-performance-marketer-full-remote-france-363225",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792842014,
-      "tags": [
-        "Growth"
-      ],
-      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
+      "summary": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI to"
     },
     {
       "id": "arbeitnow:remote-software-test-engineer-bern-487044",
@@ -397,53 +336,70 @@
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by m"
     },
     {
-      "id": "arbeitnow:senior-performance-marketer-full-remote-netherlands-221429",
-      "title": "Senior Performance Marketer (Full Remote - Netherlands)",
-      "org": "EverAI",
+      "id": "arbeitnow:social-media-content-creater-vrijwillig-capelle-aan-den-ijssel-151324",
+      "title": "Social media content creater (vrijwillig)",
+      "org": "Mirtos Animal Project",
       "role": "marketing",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/everai/senior-performance-marketer-full-remote-netherlands-221429",
+      "location": "Capelle aan den IJssel",
+      "url": "https://www.arbeitnow.nl/jobs/companies/mirtos-animal-project/social-media-content-creater-vrijwillig-capelle-aan-den-ijssel-151324",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792842014,
+      "postedAt": 1792935073,
       "tags": [
-        "Growth"
+        "Remote",
+        "Marketing and Communication"
       ],
-      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
+      "summary": "Als social media content creator ben jij een belangrijke schakel in ons team en kun je écht impact maken. Door onze socials actief en aantrekkelijk te houden, zorgen we samen voor meer zichtbaarheid én meer adopties. Je werkt hierbij vanuit huis. Taken Wat ga "
     },
     {
-      "id": "arbeitnow:remote-disputes-chargebacks-manager-179624",
-      "title": "Disputes & Chargebacks Manager",
-      "org": "Vio",
+      "id": "arbeitnow:senior-android-developer-remote-netherlands-66785",
+      "title": "Senior Android Developer (Remote)",
+      "org": "Finom",
       "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/vio/remote-disputes-chargebacks-manager-179624",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/finom/senior-android-developer-remote-netherlands-66785",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792820423,
+      "postedAt": 1792930068,
       "tags": [
-        "Operations & Facilities"
+        "Android"
       ],
-      "summary": "At Vio we believe booking accommodation should feel smart, fair, and effortless — never overwhelming or unclear. As one of the world’s fastest-growing travel tech platforms, we help millions of users make smarter travel decisions by comparing stays across 100+"
+      "summary": "About Finom Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking "
     },
     {
-      "id": "arbeitnow:remote-seo-digital-marketing-specialist-netherlands-5151",
-      "title": "SEO & Digital Marketing Specialist",
-      "org": "Pavago",
-      "role": "training",
+      "id": "arbeitnow:senior-android-developer-remote-netherlands-427639",
+      "title": "Senior Android Developer (Remote)",
+      "org": "Finom",
+      "role": "marketing",
       "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/pavago/remote-seo-digital-marketing-specialist-netherlands-5151",
+      "url": "https://www.arbeitnow.nl/jobs/companies/finom/senior-android-developer-remote-netherlands-427639",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792747214,
+      "postedAt": 1792930068,
       "tags": [
-        "Staffing and Recruiting",
-        "Remote"
+        "Android"
       ],
-      "summary": "SEO & Digital Marketing Specialist – Technical SEO, Google Ads & Lead Generation | Remote Position Type: Full-Time, Remote Working Hours: U.S. Business Hours Experience Level: Mid-Level to Senior Department: Digital Marketing / Growth Marketing About the Role "
+      "summary": "About Finom Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking "
+    },
+    {
+      "id": "arbeitnow:data-scientist-kaggle-drivendata-remote-worldwide-amsterdam-169939",
+      "title": "Data Scientist (Kaggle/DrivenData) (Remote-Worldwide)",
+      "org": "Your Software Supplier",
+      "role": "project",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/data-scientist-kaggle-drivendata-remote-worldwide-amsterdam-169939",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792920666,
+      "tags": [
+        "Remote",
+        "Data Scientist"
+      ],
+      "summary": "This job is with our partner Micro1. What You’ll Do Build reproducible environments, prepare relevant data and dependencies, and implement reference solutions. Develop tests and evaluation criteria that reliably distinguish correct solutions from incomplete or"
     },
     {
       "id": "remotive:2091161",
