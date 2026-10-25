@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "jobs:fetch": "node scripts/fetch-jobs.mjs",
     "preview": "vite preview",
     "android:prepare": "echo Android packaging preparation ready",
     "cap:sync": "cap sync",
