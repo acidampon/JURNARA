@@ -3,7 +3,8 @@ import path from 'node:path';
 
 const OUTPUT = path.resolve('public/opportunities.json');
 const MAX_JOBS = 250;
-const VISA_HINT = /visa sponsorship|sponsor(?:ship)? available|work permit sponsorship|relocation (?:support|package|assistance)|visa support/i;
+const VISA_HINT = /visa sponsorship|sponsorship (?:is )?(?:available|provided|offered)|(?:we|our company|the employer) (?:can|will|may) sponsor (?:a )?(?:visa|work permit)|work permit sponsorship|relocation (?:support|package|assistance)(?: is)? (?:available|provided|offered)/i;
+const VISA_NEGATIVE = /no visa sponsorship|visa sponsorship (?:is )?not (?:available|provided|offered)|unable to sponsor|cannot sponsor|does not sponsor|without sponsorship|not eligible for sponsorship/i;
 const REMOTE_HINT = /remote|worldwide|anywhere|work from home|distributed/i;
 
 function text(value) {
@@ -27,8 +28,8 @@ function normalize(source, job) {
   const tags = Array.isArray(job.tags) ? job.tags.map(text).filter(Boolean).slice(0, 12) : [];
   const description = text(job.description || job.summary || '');
   const combined = [title, company, location, tags.join(' '), description].join(' ');
-  const visaSponsorshipMentioned = VISA_HINT.test(combined);
-  const remote = Boolean(job.remote) || REMOTE_HINT.test(location + ' ' + tags.join(' ') + ' ' + title);
+  const visaSponsorshipMentioned = VISA_HINT.test(combined) && !VISA_NEGATIVE.test(combined);
+  const remote = job.remote === true || String(job.remote || '').toLowerCase() === 'true' || REMOTE_HINT.test(location + ' ' + tags.join(' ') + ' ' + title);
   const postedAt = job.publication_date || job.created_at || job.date || null;
   const id = String(job.slug || job.id || url).slice(0, 220);
   return {
