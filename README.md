@@ -3,9 +3,11 @@
 JURNARA 2.1 is a mobile-first Career GPS platform designed to move people from direction to skills, proof, opportunities, applications, and career growth.
 
 ## Included
-- First-run onboarding and persistent local profile
+- First-run onboarding and local profile persistence
 - Career direction and skills matching
-- Opportunity saving and application tracking
+- **Live job feed** from Arbeitnow and Remotive, refreshed every six hours
+- Opportunity saving, source links, and application tracking
+- Sponsorship/relocation keyword hints with a clear warning to verify eligibility directly
 - Structured CV Studio and text export
 - Connected six-step career roadmap
 - Career Intelligence, Opportunity Intelligence, Application Intelligence, and Outcome learning
@@ -13,9 +15,14 @@ JURNARA 2.1 is a mobile-first Career GPS platform designed to move people from d
 - Career Coach with skill-gap and next-action guidance
 - PWA manifest and offline-capable Vite PWA configuration
 - Capacitor Android configuration
-- GitHub Actions web build
+- GitHub Actions web build and live-feed refresh
 - GitHub Actions Android debug build
 - GitHub Actions signed Android AAB release pipeline
+
+## Live web app
+https://jurnara-career-gps.onrender.com
+
+The production build was deployed to Render. Its build logs confirm that 250 live listings were fetched from both public job sources before the site was built.
 
 ## Verified
 - Production web build: **PASS**
@@ -36,7 +43,7 @@ The workflow never stores the private signing key in the repository. It decodes 
 See [ANDROID-RELEASE-SETUP.md](ANDROID-RELEASE-SETUP.md) for the release procedure.
 
 ## Current product boundary
-The current app is still a local-first prototype: profile/application data is stored in browser/device storage, opportunities are demo records, and the Career Coach is rule-based. Secure cloud authentication/database, live job feeds, and an external AI provider are not yet connected.
+The app remains local-first: profile, saved opportunities, and application tracking are stored in browser/device storage, and the Career Coach is rule-based. The live job feed is connected, but a listing is not an application submission. Sponsorship keywords are not proof of visa sponsorship. Secure cloud sync and an external AI career coach are not yet connected.
 
 ## Android identity
 Package ID: `com.jurnara.app`
