@@ -1,6 +1,13 @@
 name: JURNARA Live Job Feed and Deploy
 
 on:
+  push:
+    branches: [ main ]
+    paths:
+      - '.github/workflows/live-jobs.yml'
+      - 'scripts/fetch-jobs.mjs'
+      - 'public/opportunities.json'
+      - 'package.json'
   schedule:
     - cron: "17 */6 * * *"
   workflow_dispatch:
