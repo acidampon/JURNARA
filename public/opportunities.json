@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T20:57:31.398Z",
+  "updatedAt": "2026-10-26T04:57:16.987Z",
   "sourceCount": 2,
   "totalFetched": 310,
-  "relevantCount": 32,
+  "relevantCount": 48,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -27,6 +27,38 @@
       "summary": "👷🏻‍♀️ What we do 👷🏻‍♀️ At Emidat, we are building the first climate-native product management system for building material manufacturers. We aim to decarbonise building materials, making up 11% of global GHG emissions. We collect data from physical product"
     },
     {
+      "id": "arbeitnow:forward-deployed-engineer-london-128990",
+      "title": "Forward Deployed Engineer",
+      "org": "True Talent Solutions Partners",
+      "role": "project",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-london-128990",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1792964425,
+      "tags": [
+        "Client Roles"
+      ],
+      "summary": "About the Role Join a SaaS product engineering team building AI-powered tools for certification, inspection, and compliance workflows. You will work directly with customer operations to turn real-world processes into reliable software that improves how these w"
+    },
+    {
+      "id": "arbeitnow:business-development-representative-london-213773",
+      "title": "Business Development Representative",
+      "org": "Dualentry",
+      "role": "marketing",
+      "location": "London, UK (Hybrid)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/business-development-representative-london-213773",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1792964425,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "About DualEntry DualEntry is building the OS for finance. Every business needs a financial system of record, yet the world's largest fintech market ($220B+) still runs on software from the 1990s. DualEntry's AI-native ERP automates accounting from data entry t"
+    },
+    {
       "id": "arbeitnow:senior-data-scientist-full-stack-london-355881",
       "title": "Senior Data Scientist - Full Stack",
       "org": "Clearscoretechnologylimited",
@@ -43,6 +75,22 @@
       "summary": "&lt;p&gt;&lt;strong&gt;Senior Data Scientist - Full Stack&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=\"text-decoration: underline;\"&gt;&lt;em&gt;Please note visa sponsorship is not currently available for this position. &lt;/em&gt;&lt;/span&gt;&lt;/p&gt; "
     },
     {
+      "id": "arbeitnow:product-ml-engineer-paris-429492",
+      "title": "Product ML Engineer",
+      "org": "Photoroom",
+      "role": "training",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/product-ml-engineer-paris-429492",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1792975226,
+      "tags": [
+        "R&D"
+      ],
+      "summary": "About us Founded in 2019 and part of Y Combinator's 2020 cohort, Photoroom is the leading visual solution for e-commerce. We've raised Series B funding and reached 300+ million users worldwide, processing over 5 billion images annually and serving both small b"
+    },
+    {
       "id": "arbeitnow:tenable-architect-relocation-provided-amsterdam-75916",
       "title": "Tenable Architect – Relocation provided",
       "org": "Wypoon",
@@ -57,6 +105,125 @@
         "Security Consultant"
       ],
       "summary": "Are you an experienced vulnerability management specialist with strong hands-on knowledge of Tenable platforms? For one of our valued clients in Amsterdam, we are looking for a Tenable Architect / Administrator to design, manage, and optimise an enterprise vul"
+    },
+    {
+      "id": "arbeitnow:senior-product-engineer-berlin-253211",
+      "title": "Senior Product Engineer",
+      "org": "Cosuno",
+      "role": "marketing",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-product-engineer-berlin-253211",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792986014,
+      "tags": [
+        "Tech"
+      ],
+      "summary": "Your mission Join our Engineering team and own features from the problem to the shipped product, in a platform used by thousands of construction professionals. Own problems end to end: Take a customer or business problem all the way to production. You shape th"
+    },
+    {
+      "id": "arbeitnow:projektmanager-power-bi-mit-entscheidungsbefugnis-berlin-425898",
+      "title": "Projektmanager (m/w/d) Power BI mit Entscheidungsbefugnis",
+      "org": "Weiler Consult GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/projektmanager-power-bi-mit-entscheidungsbefugnis-berlin-425898",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792965636,
+      "tags": [
+        "Remote",
+        "Project Management"
+      ],
+      "summary": "Über uns Die Weiler Consult GmbH ist eine Power-BI-Boutique für den deutschen Mittelstand und das Konzernumfeld. Rund 10 Power-BI-Expertinnen und -Experten bauen Reporting, das Geschäftsführer und CFOs wirklich nutzen. Unser Prinzip: Wir sind der Sherpa. Wir a"
+    },
+    {
+      "id": "arbeitnow:customer-success-manager-power-bi-mit-entscheidungsbefugnis-berlin-404293",
+      "title": "Customer Success Manager (m/w/d) Power BI mit Entscheidungsbefugnis",
+      "org": "Weiler Consult GmbH",
+      "role": "support",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/customer-success-manager-power-bi-mit-entscheidungsbefugnis-berlin-404293",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792965636,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "Über uns Die Weiler Consult GmbH ist eine Power-BI-Boutique für den deutschen Mittelstand und das Konzernumfeld. Rund 10 Power-BI-Expertinnen und -Experten bauen Reporting, das Geschäftsführer und CFOs wirklich nutzen. Unser Prinzip: Wir sind der Sherpa. Wir a"
+    },
+    {
+      "id": "arbeitnow:account-manager-power-bi-customer-success-mit-entscheidungsbefugnis-berlin-273076",
+      "title": "Account Manager (m/w/d) Power BI, Customer Success mit Entscheidungsbefugnis",
+      "org": "Weiler Consult GmbH",
+      "role": "support",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/account-manager-power-bi-customer-success-mit-entscheidungsbefugnis-berlin-273076",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792965636,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "Über uns Die Weiler Consult GmbH ist eine Power-BI-Boutique für den deutschen Mittelstand und das Konzernumfeld. Rund 10 Power-BI-Expertinnen und -Experten bauen Reporting, das Geschäftsführer und CFOs wirklich nutzen. Unser Prinzip: Wir sind der Sherpa. Wir a"
+    },
+    {
+      "id": "arbeitnow:consultant-power-bi-customer-success-mit-entscheidungsbefugnis-berlin-383992",
+      "title": "Consultant (m/w/d) Power BI, Customer Success mit Entscheidungsbefugnis",
+      "org": "Weiler Consult GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/consultant-power-bi-customer-success-mit-entscheidungsbefugnis-berlin-383992",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792965636,
+      "tags": [
+        "Remote",
+        "Business Consulting"
+      ],
+      "summary": "Über uns Die Weiler Consult GmbH ist eine Power-BI-Boutique für den deutschen Mittelstand und das Konzernumfeld. Rund 10 Power-BI-Expertinnen und -Experten bauen Reporting, das Geschäftsführer und CFOs wirklich nutzen. Unser Prinzip: Wir sind der Sherpa. Wir a"
+    },
+    {
+      "id": "arbeitnow:retention-lead-crm-berlin-370815",
+      "title": "Retention Lead / CRM (m/w/d)",
+      "org": "Turnover Recruitment GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/turnover-recruitment-gmbh/retention-lead-crm-berlin-370815",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792965636,
+      "tags": [
+        "Remote",
+        "CRM",
+        "Direct Marketing"
+      ],
+      "summary": "Turnover besetzt aktuell eine Lead/Head of Retention Position für eine etablierte D2C Brand. Das Unternehmen erzielt über 100 Mio. € Jahresumsatz und sucht eine Person, die Retention als eigenständigen Wachstumstreiber verantwortet, das CRM Team führt und geme"
+    },
+    {
+      "id": "arbeitnow:remote-account-executive-dach-swiss-german-speaking-german-french-speaking-germany-325330",
+      "title": "Account Executive DACH (Swiss German-speaking) / (German + French-speaking)",
+      "org": "Workmotion",
+      "role": "training",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/workmotion/remote-account-executive-dach-swiss-german-speaking-german-french-speaking-germany-325330",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792963215,
+      "tags": [
+        "WorkMotion",
+        "Remote"
+      ],
+      "summary": "Account Executive DACH (Swiss German-speaking) / (German + French-speaking) Location: Remote (Within +/- 2 hours of CET) Contract type: Full-time Salary: Starting from €50,000 OTE per annum gross (60% base / 40% bonus), subject to location, skills and experien"
     },
     {
       "id": "arbeitnow:e-mail-marketing-account-manager-elsdorf-43435",
@@ -143,20 +310,20 @@
       "summary": "Win new restaurants across Germany and help build one of our fastest-growing markets from the ground up. Full-time About SOUS SOUS exists to give independent restaurants the same acquisition-to-retention infrastructure that only chains and delivery platforms c"
     },
     {
-      "id": "arbeitnow:remote-teamleiter-export-zoll-aussenwirtschaft-munchen-499246",
-      "title": "Teamleiter Export / Zoll & Außenwirtschaft (m/w/d)",
-      "org": "Hypertrics GmbH",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-teamleiter-export-zoll-aussenwirtschaft-munchen-499246",
+      "id": "arbeitnow:remote-principal-security-researcher-195565",
+      "title": "Principal Security Researcher",
+      "org": "gitlab",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-principal-security-researcher-195565",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792909900,
+      "postedAt": 1792986918,
       "tags": [
-        "Remote"
+        "Product Security"
       ],
-      "summary": "Teamleiter Export / Zoll & Außenwirtschaft (m/w/d) Standort: München | Vollzeit | Unbefristet Für unseren Mandanten, ein inhabergeführtes, europaweit tätiges Familienunternehmen mit Sitz in München und Spezialisierung auf professionelle Reinigungsprodukte, Dos"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
     },
     {
       "id": "arbeitnow:remote-staff-security-engineer-blue-team-uk-128602",
@@ -175,102 +342,196 @@
       "summary": "Olo is a leading SaaS platform accelerating digital transformation in the restaurant industry, by helping customers deliver more personalised and profitable guest experiences. As a result, our digital ordering, payment, and guest engagement solutions enable br"
     },
     {
-      "id": "arbeitnow:principal-product-manager-remote-london-uk-126439",
-      "title": "Principal Product Manager (Remote)",
-      "org": "Vendavo",
+      "id": "arbeitnow:remote-forward-deployed-engineer-emea-133259",
+      "title": "Forward Deployed Engineer - EMEA",
+      "org": "gitlab",
       "role": "marketing",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vendavo/principal-product-manager-remote-london-uk-126439",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-133259",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792930064,
+      "postedAt": 1792986918,
+      "tags": [
+        "Customer Experience"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+    },
+    {
+      "id": "arbeitnow:corporate-paralegal-anywhere-in-france-249451",
+      "title": "Corporate Paralegal",
+      "org": "Alan",
+      "role": "project",
+      "location": "Anywhere in France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/corporate-paralegal-anywhere-in-france-249451",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792986015,
+      "tags": [
+        "Corporate"
+      ],
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
+    },
+    {
+      "id": "arbeitnow:product-marketing-manager-b2c-anywhere-in-france-138784",
+      "title": "Product Marketing Manager B2C",
+      "org": "Alan",
+      "role": "training",
+      "location": "Anywhere in France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/product-marketing-manager-b2c-anywhere-in-france-138784",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792986015,
       "tags": [
         "Product"
       ],
-      "summary": "We’re a growing team, and as we scale, so does our need to focus on expanding our Product Management team. You’ll be joining a people-focused company, and as a Principal Product Manager , you will get the ability to define and drive product development for mul"
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
     },
     {
-      "id": "arbeitnow:remote-solutions-architect-158679",
-      "title": "Solutions Architect",
-      "org": "Livekit",
-      "role": "marketing",
-      "location": "United Kingdom (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/livekit/remote-solutions-architect-158679",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792921216,
-      "tags": [
-        "S&M"
-      ],
-      "summary": "ABOUT LIVEKIT LiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agenti"
-    },
-    {
-      "id": "arbeitnow:post-doctorante-ou-post-doctorant-en-evaluation-de-la-vulnerabilite-dun-reseau-dacces-telecom-de-type-pon-passive-optical-network-vis-a-vis-decou-495051",
-      "title": "Post-doctorante ou Post-doctorant en Evaluation de la vulnérabilité d’un réseau d’accès Télécom de type PON (Passive Optical Network) vis-à-vis d’écoutes potentielles par DAS (Distributed Acoustic Sensor) - CDD de 12 mois",
-      "org": "Institut Mines-Télécom",
-      "role": "marketing",
-      "location": "Palaiseau, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-ou-post-doctorant-en-evaluation-de-la-vulnerabilite-dun-reseau-dacces-telecom-de-type-pon-passive-optical-network-vis-a-vis-decou-495051",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792954294,
-      "tags": [
-        "Optique"
-      ],
-      "summary": "Qui sommes-nous ? Télécom Paris, école de l’IMT (Institut Mines-Télécom) et membre fondateur de l’Institut Polytechnique de Paris, est une grande école du top 5 des écoles d’ingénieurs généralistes françaises. La Raison d’Être de Télécom Paris est de former, i"
-    },
-    {
-      "id": "arbeitnow:remote-account-executive-enterprise-france-paris-344399",
-      "title": "Account Executive Enterprise France",
-      "org": "Aikido Security",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.fr/jobs/companies/aikido-security/remote-account-executive-enterprise-france-paris-344399",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792932684,
-      "tags": [
-        "Sales",
-        "Remote"
-      ],
-      "summary": "🌍 We’re making security suck less for developers. Security tools haven’t kept up with how software is built today. They interrupt teams, slow releases, and turn security into a bottleneck instead of a capability. We built Aikido to change that. Aikido builds "
-    },
-    {
-      "id": "arbeitnow:remote-platform-engineer-paris-409658",
-      "title": "Platform Engineer",
-      "org": "ITQ",
+      "id": "arbeitnow:security-legal-specialist-customer-care-anywhere-in-france-255516",
+      "title": "🌐 Security & Legal Specialist - Customer Care",
+      "org": "Alan",
       "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.fr/jobs/companies/itq/remote-platform-engineer-paris-409658",
+      "location": "Anywhere in France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/security-legal-specialist-customer-care-anywhere-in-france-255516",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792932682,
+      "postedAt": 1792986015,
       "tags": [
-        "FR - CNA",
-        "Remote"
+        "Care"
       ],
-      "summary": "Our customers are beginning to embrace cloud-native and more agile approaches to developing software and services. To achieve this, they require the right tools and platforms, as well as the appropriate mindset to navigate the cultural shifts necessary for ado"
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
     },
     {
-      "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-5303",
-      "title": "Senior Data Engineer - Real time analytics",
-      "org": "Aircall",
-      "role": "marketing",
-      "location": "France Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-5303",
+      "id": "arbeitnow:medecin-generaliste-teleconsultation-cdi-anywhere-in-france-494644",
+      "title": "Médecin généraliste - Téléconsultation (CDI) 🇫🇷",
+      "org": "Alan",
+      "role": "project",
+      "location": "Anywhere in France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/medecin-generaliste-teleconsultation-cdi-anywhere-in-france-494644",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792930069,
+      "postedAt": 1792986015,
       "tags": [
-        "13001 - Engineering"
+        "Medical Team"
       ],
-      "summary": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI to"
+      "summary": "🐻 Qui est Alan ? En France, des millions de personnes renoncent aux soins faute de temps, d'accès ou de moyens. Alan est né pour changer ça — en combinant assurance santé et clinique virtuelle dans une seule application pour devenir un vrai partenaire santé ."
+    },
+    {
+      "id": "arbeitnow:internal-auditor-anywhere-in-france-429279",
+      "title": "Internal Auditor",
+      "org": "Alan",
+      "role": "project",
+      "location": "Anywhere in France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/internal-auditor-anywhere-in-france-429279",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792986015,
+      "tags": [
+        "Corporate"
+      ],
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
+    },
+    {
+      "id": "arbeitnow:insurance-legal-counsel-anywhere-in-france-81635",
+      "title": "Insurance Legal Counsel",
+      "org": "Alan",
+      "role": "marketing",
+      "location": "Anywhere in France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/insurance-legal-counsel-anywhere-in-france-81635",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792986015,
+      "tags": [
+        "Corporate"
+      ],
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
+    },
+    {
+      "id": "arbeitnow:remote-technical-lead-engineering-127318",
+      "title": "Technical Lead Engineering",
+      "org": "360Learning",
+      "role": "training",
+      "location": "Paris, Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-technical-lead-engineering-127318",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792984073,
+      "tags": [
+        "Engineering II"
+      ],
+      "summary": "Our R&D team gathers ~100 engineers divided into ~15 product and technical squads. Each product squad includes developers, product managers and designers. They are paramount to 360Learning’s response to our increasingly demanding customers and are strategic pl"
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-69648",
+      "title": "Software Engineer",
+      "org": "360Learning",
+      "role": "training",
+      "location": "Paris, Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-software-engineer-69648",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792984073,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "At the start of 360Learning's growth, we were only 10 developers in the R&D department working on a single codebase. Today, we are a team of 60+ engineers divided into 10 product squads. Each squad includes developers, product managers and designers. Our techn"
+    },
+    {
+      "id": "arbeitnow:remote-product-manager-140298",
+      "title": "Product Manager",
+      "org": "360Learning",
+      "role": "training",
+      "location": "Paris, Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-product-manager-140298",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792984073,
+      "tags": [
+        "Product"
+      ],
+      "summary": "Our Product team comprises Group Product Managers and Product Managers. Within a Product Squad, the Product Manager works with a Product Designer and 4 to 6 Software Engineers on an ambitious roadmap. Product Managers are committed to maintaining our lead in C"
+    },
+    {
+      "id": "arbeitnow:remote-analytics-engineer-136328",
+      "title": "Analytics Engineer",
+      "org": "360Learning",
+      "role": "training",
+      "location": "Paris, Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-analytics-engineer-136328",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792984072,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "The Data team builds and evolves the data platform that powers critical product features and helps every team make smarter, faster decisions. Our data ecosystem supports hundreds of pipelines, dashboards, and tools, providing the foundation for both day-to-day"
+    },
+    {
+      "id": "arbeitnow:remote-account-executive-mid-market-france-113946",
+      "title": "Account Executive Mid-Market France",
+      "org": "360Learning",
+      "role": "training",
+      "location": "Paris, Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-account-executive-mid-market-france-113946",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792984072,
+      "tags": [
+        "Sales & Business Development"
+      ],
+      "summary": "As an Account Executive, you will be responsible for signing new logos within the French market. You will be part of a team of 5 Account Executives who are achieving their ambitious objectives in 2026. The position involves leading opportunities from demo to c"
     },
     {
       "id": "arbeitnow:remote-software-test-engineer-bern-487044",
