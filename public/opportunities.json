@@ -1,31 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T04:57:16.987Z",
+  "updatedAt": "2026-10-26T13:15:38.533Z",
   "sourceCount": 2,
   "totalFetched": 310,
-  "relevantCount": 48,
+  "relevantCount": 47,
   "sources": [
     "Arbeitnow",
     "Remotive"
   ],
   "sourceErrors": [],
   "jobs": [
-    {
-      "id": "arbeitnow:sales-intern-turkish-market-munich-274799",
-      "title": "Sales Intern (Turkish Market)",
-      "org": "Emidat GmbH",
-      "role": "training",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/emidat-gmbh/sales-intern-turkish-market-munich-274799",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792942816,
-      "tags": [
-        "Commercial"
-      ],
-      "summary": "👷🏻‍♀️ What we do 👷🏻‍♀️ At Emidat, we are building the first climate-native product management system for building material manufacturers. We aim to decarbonise building materials, making up 11% of global GHG emissions. We collect data from physical product"
-    },
     {
       "id": "arbeitnow:forward-deployed-engineer-london-128990",
       "title": "Forward Deployed Engineer",
@@ -75,22 +59,6 @@
       "summary": "&lt;p&gt;&lt;strong&gt;Senior Data Scientist - Full Stack&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=\"text-decoration: underline;\"&gt;&lt;em&gt;Please note visa sponsorship is not currently available for this position. &lt;/em&gt;&lt;/span&gt;&lt;/p&gt; "
     },
     {
-      "id": "arbeitnow:product-ml-engineer-paris-429492",
-      "title": "Product ML Engineer",
-      "org": "Photoroom",
-      "role": "training",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/photoroom/product-ml-engineer-paris-429492",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1792975226,
-      "tags": [
-        "R&D"
-      ],
-      "summary": "About us Founded in 2019 and part of Y Combinator's 2020 cohort, Photoroom is the leading visual solution for e-commerce. We've raised Series B funding and reached 300+ million users worldwide, processing over 5 billion images annually and serving both small b"
-    },
-    {
       "id": "arbeitnow:tenable-architect-relocation-provided-amsterdam-75916",
       "title": "Tenable Architect – Relocation provided",
       "org": "Wypoon",
@@ -107,135 +75,85 @@
       "summary": "Are you an experienced vulnerability management specialist with strong hands-on knowledge of Tenable platforms? For one of our valued clients in Amsterdam, we are looking for a Tenable Architect / Administrator to design, manage, and optimise an enterprise vul"
     },
     {
-      "id": "arbeitnow:senior-product-engineer-berlin-253211",
-      "title": "Senior Product Engineer",
-      "org": "Cosuno",
+      "id": "arbeitnow:partnerin-fur-social-media-budgetierung-mit-unternehmensbeteiligung-berlin-305081",
+      "title": "Partner:in für Social Media & Budgetierung (m/w/d) mit Unternehmensbeteiligung",
+      "org": "BeginnerBudget",
       "role": "marketing",
-      "location": "Berlin/Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-product-engineer-berlin-253211",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792986014,
-      "tags": [
-        "Tech"
-      ],
-      "summary": "Your mission Join our Engineering team and own features from the problem to the shipped product, in a platform used by thousands of construction professionals. Own problems end to end: Take a customer or business problem all the way to production. You shape th"
-    },
-    {
-      "id": "arbeitnow:projektmanager-power-bi-mit-entscheidungsbefugnis-berlin-425898",
-      "title": "Projektmanager (m/w/d) Power BI mit Entscheidungsbefugnis",
-      "org": "Weiler Consult GmbH",
-      "role": "project",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/projektmanager-power-bi-mit-entscheidungsbefugnis-berlin-425898",
+      "url": "https://www.arbeitnow.com/jobs/companies/beginnerbudget/partnerin-fur-social-media-budgetierung-mit-unternehmensbeteiligung-berlin-305081",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792965636,
+      "postedAt": 1793014247,
       "tags": [
         "Remote",
-        "Project Management"
+        "Social Media Manager"
       ],
-      "summary": "Über uns Die Weiler Consult GmbH ist eine Power-BI-Boutique für den deutschen Mittelstand und das Konzernumfeld. Rund 10 Power-BI-Expertinnen und -Experten bauen Reporting, das Geschäftsführer und CFOs wirklich nutzen. Unser Prinzip: Wir sind der Sherpa. Wir a"
+      "summary": "Dein Schwerpunkt: Marke, Social Media und Community. Dein Einstieg: als Teil des Unternehmens. Du budgetierst selbst seit Jahren, steckst voller Ideen und hast Lust, eine bestehende Marke unternehmerisch weiterzuentwickeln? Bei BeginnerBudget kannst du deine E"
     },
     {
-      "id": "arbeitnow:customer-success-manager-power-bi-mit-entscheidungsbefugnis-berlin-404293",
-      "title": "Customer Success Manager (m/w/d) Power BI mit Entscheidungsbefugnis",
-      "org": "Weiler Consult GmbH",
+      "id": "arbeitnow:senior-customer-success-managerin-saas-energiewirtschaft-remote-berlin-411950",
+      "title": "(Senior) Customer Success Manager:in SaaS Energiewirtschaft (w/m/d) - Remote",
+      "org": "node.energy",
       "role": "support",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/customer-success-manager-power-bi-mit-entscheidungsbefugnis-berlin-404293",
+      "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-customer-success-managerin-saas-energiewirtschaft-remote-berlin-411950",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792965636,
+      "postedAt": 1793014247,
       "tags": [
         "Remote",
         "Customer Service"
       ],
-      "summary": "Über uns Die Weiler Consult GmbH ist eine Power-BI-Boutique für den deutschen Mittelstand und das Konzernumfeld. Rund 10 Power-BI-Expertinnen und -Experten bauen Reporting, das Geschäftsführer und CFOs wirklich nutzen. Unser Prinzip: Wir sind der Sherpa. Wir a"
+      "summary": "Was Dich erwartet Als Teil unseres Customer Success Teams stehst Du in direktem Kontakt mit unseren Kunden und Software-Nutzern aus dem Bereich der kaufmännischen Betriebsführung von Windkraft- und PV-Anlagen. Du begleitest eigenständig neue Kunden durch einen"
     },
     {
-      "id": "arbeitnow:account-manager-power-bi-customer-success-mit-entscheidungsbefugnis-berlin-273076",
-      "title": "Account Manager (m/w/d) Power BI, Customer Success mit Entscheidungsbefugnis",
-      "org": "Weiler Consult GmbH",
-      "role": "support",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/account-manager-power-bi-customer-success-mit-entscheidungsbefugnis-berlin-273076",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792965636,
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "summary": "Über uns Die Weiler Consult GmbH ist eine Power-BI-Boutique für den deutschen Mittelstand und das Konzernumfeld. Rund 10 Power-BI-Expertinnen und -Experten bauen Reporting, das Geschäftsführer und CFOs wirklich nutzen. Unser Prinzip: Wir sind der Sherpa. Wir a"
-    },
-    {
-      "id": "arbeitnow:consultant-power-bi-customer-success-mit-entscheidungsbefugnis-berlin-383992",
-      "title": "Consultant (m/w/d) Power BI, Customer Success mit Entscheidungsbefugnis",
-      "org": "Weiler Consult GmbH",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/consultant-power-bi-customer-success-mit-entscheidungsbefugnis-berlin-383992",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792965636,
-      "tags": [
-        "Remote",
-        "Business Consulting"
-      ],
-      "summary": "Über uns Die Weiler Consult GmbH ist eine Power-BI-Boutique für den deutschen Mittelstand und das Konzernumfeld. Rund 10 Power-BI-Expertinnen und -Experten bauen Reporting, das Geschäftsführer und CFOs wirklich nutzen. Unser Prinzip: Wir sind der Sherpa. Wir a"
-    },
-    {
-      "id": "arbeitnow:retention-lead-crm-berlin-370815",
-      "title": "Retention Lead / CRM (m/w/d)",
-      "org": "Turnover Recruitment GmbH",
+      "id": "arbeitnow:ai-manager-social-media-quereinstieg-moglich-berlin-36179",
+      "title": "AI Manager Social Media (m/w/d) Quereinstieg möglich",
+      "org": "Digital Evolution",
       "role": "marketing",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/turnover-recruitment-gmbh/retention-lead-crm-berlin-370815",
+      "url": "https://www.arbeitnow.com/jobs/companies/digital-evolution/ai-manager-social-media-quereinstieg-moglich-berlin-36179",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792965636,
+      "postedAt": 1793012455,
       "tags": [
         "Remote",
-        "CRM",
-        "Direct Marketing"
+        "Social Media Manager"
       ],
-      "summary": "Turnover besetzt aktuell eine Lead/Head of Retention Position für eine etablierte D2C Brand. Das Unternehmen erzielt über 100 Mio. € Jahresumsatz und sucht eine Person, die Retention als eigenständigen Wachstumstreiber verantwortet, das CRM Team führt und geme"
+      "summary": "Du möchtest etwas Neues lernen und suchst einen Arbeitsplatz, bei dem du flexibel im Homeoffice arbeiten kannst? Dann starte jetzt im Bereich Social Media und KI-Management durch. Ganz egal, ob in Vollzeit oder Teilzeit. Schritt 1: Die Schulung Wir bereiten di"
     },
     {
-      "id": "arbeitnow:remote-account-executive-dach-swiss-german-speaking-german-french-speaking-germany-325330",
-      "title": "Account Executive DACH (Swiss German-speaking) / (German + French-speaking)",
-      "org": "Workmotion",
-      "role": "training",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/workmotion/remote-account-executive-dach-swiss-german-speaking-german-french-speaking-germany-325330",
+      "id": "arbeitnow:tum-project-study-earned-linkedin-media-for-enterprise-berlin-98870",
+      "title": "TUM Project Study: Earned LinkedIn Media for Enterprise",
+      "org": "Mediacharge GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/mediacharge-gmbh/tum-project-study-earned-linkedin-media-for-enterprise-berlin-98870",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792963215,
+      "postedAt": 1793012454,
       "tags": [
-        "WorkMotion",
-        "Remote"
+        "Remote",
+        "Market Research",
+        "Analysis"
       ],
-      "summary": "Account Executive DACH (Swiss German-speaking) / (German + French-speaking) Location: Remote (Within +/- 2 hours of CET) Contract type: Full-time Salary: Starting from €50,000 OTE per annum gross (60% base / 40% bonus), subject to location, skills and experien"
+      "summary": "About us Mediacharge GmbH is a Munich-based, internationally oriented marketing agency with ten years of experience in cutting-edge marketing for international enterprises. Operating in 14 languages, we combine first-tier strategic consulting with hands-on ope"
     },
     {
-      "id": "arbeitnow:e-mail-marketing-account-manager-elsdorf-43435",
-      "title": "E-Mail Marketing / Account Manager (m/w/d)",
+      "id": "arbeitnow:e-mail-marketing-crm-manager-100-remote-elsdorf-86373",
+      "title": "E-Mail Marketing / CRM Manager | 100% Remote (m/w/d)",
       "org": "Bendt Brothers",
       "role": "marketing",
       "location": "Elsdorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/e-mail-marketing-account-manager-elsdorf-43435",
+      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/e-mail-marketing-crm-manager-100-remote-elsdorf-86373",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792953048,
+      "postedAt": 1793008866,
       "tags": [
         "Remote",
         "CRM",
@@ -244,70 +162,228 @@
       "summary": "NUR VOLLZEIT! Du lebst Marketing, kennst Klaviyo in- und auswendig und willst die Person sein, ohne die bei gestandenen D2C-Brands keine Mail rausgeht? Klingt gut? Dann bist du bei uns genau richtig. Hey, wir sind Bendt Brothers. Zwei Brüder, ein Fokus: E-Mail"
     },
     {
-      "id": "arbeitnow:remote-senior-sap-logistics-consultant-vollzeit-passau-314632",
-      "title": "Senior SAP Logistics Consultant - Vollzeit (m/w/d)",
-      "org": "24-LOG GmbH",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/24-log-gmbh/remote-senior-sap-logistics-consultant-vollzeit-passau-314632",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792942274,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "ÜBER UNS: Wir sind die 24 Log GmbH, ein innovatives und wachsendes Unternehmen im Bereich der SAP Logistik. Unsere Mission ist es, die komplexen Herausforderungen der modernen Logistik mit intelligenten, zielstrebigen und benutzerfreundlichen Lösungen zu meist"
-    },
-    {
-      "id": "arbeitnow:remote-cinder-expert-network-84072",
-      "title": "Cinder Expert Network",
-      "org": "Cinder",
-      "role": "project",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/cinder/remote-cinder-expert-network-84072",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792921215,
-      "tags": [
-        "Talent Community"
-      ],
-      "summary": "Cinder builds safety infrastructure for some of the most important AI and internet platforms in the world, including Midjourney, ElevenLabs, Synthesia and Black Forest Labs. We’re backed by Accel, Y Combinator, and Radical Ventures. We’re building a network of"
-    },
-    {
-      "id": "arbeitnow:remote-devops-engineer-242127",
-      "title": "DevOps Engineer",
-      "org": "Swarmaero",
-      "role": "project",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-devops-engineer-242127",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792921214,
-      "tags": [
-        "Legion"
-      ],
-      "summary": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command & Control"
-    },
-    {
-      "id": "arbeitnow:sales-manager-berlin-21418",
-      "title": "Sales Manager",
-      "org": "SOUS",
+      "id": "arbeitnow:web-designer-fur-e-mail-marketing-klaviyo-elsdorf-160869",
+      "title": "Web Designer für E-Mail Marketing (Klaviyo) (m/w/d)",
+      "org": "Bendt Brothers",
       "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sous/sales-manager-berlin-21418",
+      "location": "Elsdorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/web-designer-fur-e-mail-marketing-klaviyo-elsdorf-160869",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792920659,
+      "postedAt": 1793008866,
+      "tags": [
+        "Remote",
+        "CRM",
+        "Direct Marketing"
+      ],
+      "summary": "NUR VOLLZEIT! Du hast ein Auge für Design, das andere nicht haben, denkst Marketing immer mit und willst mit einem Team Gas geben, dem gestandene D2C-Brands ihren kompletten Auftritt im Postfach blind anvertrauen? Klingt gut? Dann bist du bei uns genau richtig"
+    },
+    {
+      "id": "arbeitnow:e-mail-marketing-klaviyo-crm-account-manager-elsdorf-364878",
+      "title": "E-Mail Marketing (Klaviyo) / CRM Account Manager (m/w/d)",
+      "org": "Bendt Brothers",
+      "role": "marketing",
+      "location": "Elsdorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/e-mail-marketing-klaviyo-crm-account-manager-elsdorf-364878",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793008864,
+      "tags": [
+        "Remote",
+        "CRM",
+        "Direct Marketing"
+      ],
+      "summary": "NUR VOLLZEIT! Du lebst Marketing, kennst Klaviyo in- und auswendig und willst die Person sein, ohne die bei gestandenen D2C-Brands keine Mail rausgeht? Klingt gut? Dann bist du bei uns genau richtig. Hey, wir sind Bendt Brothers. Zwei Brüder, ein Fokus: E-Mail"
+    },
+    {
+      "id": "arbeitnow:finance-manager-europe-head-of-finance-berlin-375323",
+      "title": "Finance Manager Europe / Head of Finance (m/f/x)",
+      "org": "Dreamlines GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/dreamlines-gmbh/finance-manager-europe-head-of-finance-berlin-375323",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793008863,
       "tags": [
         "Remote",
         "Management",
         "Team Leader"
       ],
-      "summary": "Win new restaurants across Germany and help build one of our fastest-growing markets from the ground up. Full-time About SOUS SOUS exists to give independent restaurants the same acquisition-to-retention infrastructure that only chains and delivery platforms c"
+      "summary": "Location: Germany – Hybrid / Remote We are seeking an experienced Finance Manager Europe to lead our European finance operations and play a key role in shaping our financial strategy and processes. You will manage and develop the European finance team, collabo"
+    },
+    {
+      "id": "arbeitnow:remote-global-talent-acquisition-partner-product-all-genders-berlin-265730",
+      "title": "Global Talent Acquisition Partner, Product (all genders)",
+      "org": "Distribusion Technologies",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-global-talent-acquisition-partner-product-all-genders-berlin-265730",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793008328,
+      "tags": [
+        "People",
+        "Remote"
+      ],
+      "summary": "About us Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, a"
+    },
+    {
+      "id": "arbeitnow:junior-marketing-manager-berlin-176924",
+      "title": "Junior Marketing Manager (m/w/d)",
+      "org": "Mammutmarsch UG",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/mammutmarsch-ug/junior-marketing-manager-berlin-176924",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793007048,
+      "tags": [
+        "Remote",
+        "Marketing Manager"
+      ],
+      "summary": "Über uns Mammutmarsch heißt Abenteuer. Mammutmarsch heißt Grenzen sprengen. Wir sind die Bewegung hinter den Extremwanderungen, die Menschen motiviert, über sich hinauszuwachsen. Jetzt gehen wir den nächsten Schritt: Wir bereiten unseren Markteintritt in UK vo"
+    },
+    {
+      "id": "arbeitnow:remote-enterprise-account-executive-global-accounts-emea-236193",
+      "title": "Enterprise Account Executive - Global Accounts, EMEA",
+      "org": "Auditdata",
+      "role": "marketing",
+      "location": "remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/auditdata/remote-enterprise-account-executive-global-accounts-emea-236193",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793002813,
+      "tags": [
+        "Sales",
+        "bachelor's degree"
+      ],
+      "summary": "About the Role: Hearing care is changing fast, and the groups that run hundreds or thousands of clinics are choosing the software that will carry them through it. As Enterprise Global Account Executive at Auditdata, you will carry the number for new and expand"
+    },
+    {
+      "id": "arbeitnow:sales-manager-maklersoftware-berlin-21494",
+      "title": "Sales Manager Maklersoftware (m/w/d)",
+      "org": "Insurgo GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/insurgo-gmbh/sales-manager-maklersoftware-berlin-21494",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793001645,
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader"
+      ],
+      "summary": "Wir bei Insurgo sind nicht nur ein Technologie-Unternehmen. Wir sind Innovatoren, die den Weg für digitale Lösungen in der Versicherungswirtschaft ebnen. Hunderte Maklerbüros arbeiten bereits mit unserer Software, unser Postfach Plus nimmt ihnen bis zu 80 Proz"
+    },
+    {
+      "id": "arbeitnow:senior-software-engineer-agentic-engineering-berlin-358641",
+      "title": "Senior Software Engineer | Agentic Engineering",
+      "org": "Insurgo GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/insurgo-gmbh/senior-software-engineer-agentic-engineering-berlin-358641",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793001644,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Wir bei Insurgo Wir bei Insurgo sind nicht nur ein Technologie-Unternehmen. Wir sind Innovatoren, die den Weg für digitale Lösungen in der Versicherungswirtschaft ebnen. Hunderte Maklerbüros arbeiten bereits mit unserer Software, unser Postfach Plus nimmt ihne"
+    },
+    {
+      "id": "arbeitnow:recruiter-berlin-329596",
+      "title": "Recruiter (m/w/d)",
+      "org": "scaleyo HR GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/scaleyo-hr-gmbh/recruiter-berlin-329596",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792998062,
+      "tags": [
+        "Remote",
+        "Recruitment and Selection"
+      ],
+      "summary": "Über uns Wir sind eine junge, wachsende Unternehmensberatung mit einem klaren Fokus: Wir unterstützen Organisationen dabei, ihre Personalarbeit zukunftsfähig zu gestalten. Vom Start-up bis zum Weltkonzern begleiten wir unsere Kunden rund um das Thema Talent Ma"
+    },
+    {
+      "id": "arbeitnow:vollzeit-buchhalterin-remote-monheim-am-rhein-456823",
+      "title": "Vollzeit Buchhalter*in (m/w/d) Remote",
+      "org": "Simplyright GmbH",
+      "role": "project",
+      "location": "Monheim am Rhein",
+      "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/vollzeit-buchhalterin-remote-monheim-am-rhein-456823",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792996258,
+      "tags": [
+        "Remote",
+        "Finance"
+      ],
+      "summary": "Aufgaben Einnahmen und Ausgaben kontrollieren Rechnungen erstellen Konten überwachen Gehälter machen Buchführung Qualifikation abgeschlossene Ausbildung zum Steuerfachangestellten, Buchhalter oder vergleichbarer Qualifikation Erfahrung in der Buchhaltung Du ar"
+    },
+    {
+      "id": "arbeitnow:kundenbetreuerin-beschwerdemanagement-remote-telefon-monheim-am-rhein-19874",
+      "title": "Kundenbetreuer:in Beschwerdemanagement (Remote, Telefon)",
+      "org": "Simplyright GmbH",
+      "role": "support",
+      "location": "Monheim am Rhein",
+      "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/kundenbetreuerin-beschwerdemanagement-remote-telefon-monheim-am-rhein-19874",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792996258,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "Über Simplyright Simplyright hilft Menschen, die Ärger mit Abos, Kündigungen oder Inkasso-Schreiben haben. Viele Kundinnen und Kunden nutzen dafür unseren Service und unser Abo Simplyright+. Wenn dabei einmal etwas schiefläuft, soll sich sofort ein Mensch pers"
+    },
+    {
+      "id": "arbeitnow:junior-marketing-manager-london-44573",
+      "title": "Junior Marketing Manager (m/f/d)",
+      "org": "Mammutmarsch UG",
+      "role": "marketing",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mammutmarsch-ug/junior-marketing-manager-london-44573",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793007048,
+      "tags": [
+        "Remote",
+        "Marketing Manager"
+      ],
+      "summary": "About us Mammutmarsch is adventure at heart - and pushing limits in practice. We’re the movement behind long-distance hiking events that inspire people to grow beyond themselves. Now we’re taking the next step: preparing our market entry in the UK - and we’re "
+    },
+    {
+      "id": "arbeitnow:remote-senior-customer-success-engineer-french-speaking-197193",
+      "title": "Senior Customer Success Engineer, French Speaking",
+      "org": "Mitti",
+      "role": "training",
+      "location": "Remote: UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mitti/remote-senior-customer-success-engineer-french-speaking-197193",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1792996812,
+      "tags": [
+        "GTM"
+      ],
+      "summary": "Why join us? Mitti by SafetyCulture is a global tech company, just not the kind you're picturing. Our almost 1,000-person team builds tools that make work better for the three billion frontline workers who keep the world moving. We've got big tech scale, witho"
     },
     {
       "id": "arbeitnow:remote-principal-security-researcher-195565",
@@ -326,20 +402,40 @@
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
     },
     {
-      "id": "arbeitnow:remote-staff-security-engineer-blue-team-uk-128602",
-      "title": "Staff Security Engineer - Blue Team (UK)",
-      "org": "Olo",
-      "role": "marketing",
-      "location": "Belfast, Northern Ireland, Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/olo/remote-staff-security-engineer-blue-team-uk-128602",
+      "id": "arbeitnow:remote-senior-level-designer-paris-419695",
+      "title": "Senior Level Designer",
+      "org": "Homa Games",
+      "role": "training",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/homa-games/remote-senior-level-designer-paris-419695",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792930071,
+      "postedAt": 1793013610,
       "tags": [
-        "Security"
+        "Design",
+        "Entertainment",
+        "Gaming",
+        "Remote"
       ],
-      "summary": "Olo is a leading SaaS platform accelerating digital transformation in the restaurant industry, by helping customers deliver more personalised and profitable guest experiences. As a result, our digital ordering, payment, and guest engagement solutions enable br"
+      "summary": "Homa is a global mobile game developer and publisher creating games people love. We partner with studios and internally develop games, having launched over 80 titles, reached over 2 billion downloads, and seen our game All in Hole break into the global top-50 "
+    },
+    {
+      "id": "arbeitnow:chargee-de-marketing-communication-business-development-paris-438010",
+      "title": "Chargé(e) de Marketing & Communication / Business Development",
+      "org": "Augmented Energy",
+      "role": "marketing",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/augmented-energy/chargee-de-marketing-communication-business-development-paris-438010",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793012454,
+      "tags": [
+        "Remote",
+        "Business Development"
+      ],
+      "summary": "Les marchés de l’électricité ne sont pas réservés aux grands acteurs historiques. Aidez-nous à le faire savoir. Chez Augmented Energy, nous rendons les marchés de l’électricité accessibles. Nous sommes responsable d'équilibre & fournisseur. Nous donnons aux ac"
     },
     {
       "id": "arbeitnow:remote-forward-deployed-engineer-emea-133259",
@@ -452,86 +548,6 @@
         "Corporate"
       ],
       "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
-    },
-    {
-      "id": "arbeitnow:remote-technical-lead-engineering-127318",
-      "title": "Technical Lead Engineering",
-      "org": "360Learning",
-      "role": "training",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-technical-lead-engineering-127318",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792984073,
-      "tags": [
-        "Engineering II"
-      ],
-      "summary": "Our R&D team gathers ~100 engineers divided into ~15 product and technical squads. Each product squad includes developers, product managers and designers. They are paramount to 360Learning’s response to our increasingly demanding customers and are strategic pl"
-    },
-    {
-      "id": "arbeitnow:remote-software-engineer-69648",
-      "title": "Software Engineer",
-      "org": "360Learning",
-      "role": "training",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-software-engineer-69648",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792984073,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "At the start of 360Learning's growth, we were only 10 developers in the R&D department working on a single codebase. Today, we are a team of 60+ engineers divided into 10 product squads. Each squad includes developers, product managers and designers. Our techn"
-    },
-    {
-      "id": "arbeitnow:remote-product-manager-140298",
-      "title": "Product Manager",
-      "org": "360Learning",
-      "role": "training",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-product-manager-140298",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792984073,
-      "tags": [
-        "Product"
-      ],
-      "summary": "Our Product team comprises Group Product Managers and Product Managers. Within a Product Squad, the Product Manager works with a Product Designer and 4 to 6 Software Engineers on an ambitious roadmap. Product Managers are committed to maintaining our lead in C"
-    },
-    {
-      "id": "arbeitnow:remote-analytics-engineer-136328",
-      "title": "Analytics Engineer",
-      "org": "360Learning",
-      "role": "training",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-analytics-engineer-136328",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792984072,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "The Data team builds and evolves the data platform that powers critical product features and helps every team make smarter, faster decisions. Our data ecosystem supports hundreds of pipelines, dashboards, and tools, providing the foundation for both day-to-day"
-    },
-    {
-      "id": "arbeitnow:remote-account-executive-mid-market-france-113946",
-      "title": "Account Executive Mid-Market France",
-      "org": "360Learning",
-      "role": "training",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-account-executive-mid-market-france-113946",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792984072,
-      "tags": [
-        "Sales & Business Development"
-      ],
-      "summary": "As an Account Executive, you will be responsible for signing new logos within the French market. You will be part of a team of 5 Account Executives who are achieving their ambitious objectives in 2026. The position involves leading opportunities from demo to c"
     },
     {
       "id": "arbeitnow:remote-software-test-engineer-bern-487044",
@@ -662,23 +678,6 @@
         "Android"
       ],
       "summary": "About Finom Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking "
-    },
-    {
-      "id": "arbeitnow:data-scientist-kaggle-drivendata-remote-worldwide-amsterdam-169939",
-      "title": "Data Scientist (Kaggle/DrivenData) (Remote-Worldwide)",
-      "org": "Your Software Supplier",
-      "role": "project",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/data-scientist-kaggle-drivendata-remote-worldwide-amsterdam-169939",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792920666,
-      "tags": [
-        "Remote",
-        "Data Scientist"
-      ],
-      "summary": "This job is with our partner Micro1. What You’ll Do Build reproducible environments, prepare relevant data and dependencies, and implement reference solutions. Develop tests and evaluation criteria that reliably distinguish correct solutions from incomplete or"
     },
     {
       "id": "remotive:2091161",
