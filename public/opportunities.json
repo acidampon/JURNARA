@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T03:02:18.887Z",
+  "updatedAt": "2026-10-27T05:14:45.632Z",
   "sourceCount": 2,
   "totalFetched": 310,
   "relevantCount": 40,
@@ -43,6 +43,22 @@
       "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We are looking for an Avionics Systems Engineer to support the design, development, integration, and validation of spacecraft avionics systems. The role focuses on delivering robust and"
     },
     {
+      "id": "arbeitnow:robotics-engineer-london-342155",
+      "title": "Robotics Engineer",
+      "org": "Xyz Reality",
+      "role": "training",
+      "location": "London Office",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/robotics-engineer-london-342155",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793072414,
+      "tags": [
+        "R&D"
+      ],
+      "summary": "Help shape the future of robotics in construction. ABOUT XYZ REALITY XYZ Reality created the world’s first and only engineering-grade augmented reality solution, purpose-built for the construction industry. Our holographic technology sits within The Atom, a sm"
+    },
+    {
       "id": "arbeitnow:senior-systems-engineer-bristol-471876",
       "title": "Senior Systems Engineer",
       "org": "Graphcore",
@@ -73,38 +89,6 @@
         "Core"
       ],
       "summary": "&lt;p&gt;&lt;strong&gt;About the job&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Build the debugger that helps developers unlock more from Graphcore AI processors.&lt;/p&gt; &lt;p&gt;As a Senior Software Engineer in our Debugger team, you will help define and implement "
-    },
-    {
-      "id": "arbeitnow:product-manager-device-data-management-fluent-french-english-paris-paris-211918",
-      "title": "Product Manager - Device Data Management (Fluent French & English)",
-      "org": "Kaluza",
-      "role": "marketing",
-      "location": "Paris, Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-device-data-management-fluent-french-english-paris-paris-211918",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793040922,
-      "tags": [
-        "Product"
-      ],
-      "summary": "&lt;p&gt;&lt;strong&gt;Job title:&lt;/strong&gt; Product Manager - Device Data Management (Fluent French &amp; English)&nbsp;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Location:&lt;/strong&gt; Paris — Hybrid (3 days in office)&lt;br&gt;&lt;br&gt;&lt;strong&gt;Salary:&l"
-    },
-    {
-      "id": "arbeitnow:product-manager-ccaas-french-speaking-paris-paris-304418",
-      "title": "Product Manager (CCaaS) - French Speaking",
-      "org": "Kaluza",
-      "role": "project",
-      "location": "Paris, Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-ccaas-french-speaking-paris-paris-304418",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793040922,
-      "tags": [
-        "Product"
-      ],
-      "summary": "&lt;p&gt;&lt;strong&gt;Job title:&lt;/strong&gt; Product Manager&nbsp;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Location:&lt;/strong&gt; Paris — Hybrid - 3 days in office&lt;br&gt;&lt;br&gt;&lt;strong&gt;Salary:&lt;/strong&gt; €45,600 - €57,000&lt;br&gt;&lt;br&gt;&lt;"
     },
     {
       "id": "arbeitnow:tenable-architect-relocation-provided-amsterdam-75916",
@@ -340,21 +324,40 @@
       "summary": "About the Position Launched in 2019, Constructor is an AI-first ecommerce search and discovery platform that helps shoppers find the right products at the right time and enables leading global e-commerce brands to drive meaningful revenue and conversion gains."
     },
     {
-      "id": "arbeitnow:junior-marketing-manager-london-44573",
-      "title": "Junior Marketing Manager (m/f/d)",
-      "org": "Mammutmarsch UG",
+      "id": "arbeitnow:remote-customs-ai-integration-automation-engineer-france-lyon-474730",
+      "title": "Customs AI Integration & Automation Engineer (France)",
+      "org": "Customs Support Group",
       "role": "marketing",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mammutmarsch-ug/junior-marketing-manager-london-44573",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/customs-support-group/remote-customs-ai-integration-automation-engineer-france-lyon-474730",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793007048,
+      "postedAt": 1793071881,
       "tags": [
-        "Remote",
-        "Marketing Manager"
+        "IT & Tech",
+        "Remote"
       ],
-      "summary": "About us Mammutmarsch is adventure at heart - and pushing limits in practice. We’re the movement behind long-distance hiking events that inspire people to grow beyond themselves. Now we’re taking the next step: preparing our market entry in the UK - and we’re "
+      "summary": "About Customs Support Group Customs Support Group (CSG) is the European market leader in customs services, operating across 15 countries. CSG is owned by private equity and a fast-growing, dynamic, data-driven company, dedicated to expanding its presence throu"
+    },
+    {
+      "id": "arbeitnow:remote-analyst-investor-relations-marketing-france-365338",
+      "title": "Analyst, Investor Relations & Marketing",
+      "org": "Re7 Capital",
+      "role": "marketing",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/re7-capital/remote-analyst-investor-relations-marketing-france-365338",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793067611,
+      "tags": [
+        "Marketing",
+        "Information Technology and Services",
+        "Capital",
+        "Remote"
+      ],
+      "summary": "Remote-First | Working hours: UK or CET time zone | Full-time The role Reporting directly to the Head of Investor Relations, you will support how Re7 is positioned with institutional allocators and the wider market. This includes helping to prepare and maintai"
     },
     {
       "id": "arbeitnow:remote-senior-backend-engineer-paris-287438",
