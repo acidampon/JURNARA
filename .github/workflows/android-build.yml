@@ -1,6 +1,12 @@
 name: JURNARA Android Build
 
 on:
+  push:
+    branches: [ main ]
+    paths:
+      - "package.json"
+      - "capacitor.config.json"
+      - ".github/workflows/android-build.yml"
   workflow_dispatch:
 
 jobs:
