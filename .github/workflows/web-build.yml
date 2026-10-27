@@ -28,8 +28,10 @@ jobs:
         run: npm audit --json > npm-audit.json || true
       - uses: actions/upload-artifact@v4
         with:
-          name: jurnara-dependency-audit
-          path: npm-audit.json
+          name: jurnara-dependency-audit-and-lock
+          path: |
+            npm-audit.json
+            package-lock.json
           retention-days: 7
       - name: Refresh live job feed when public sources are available
         run: npm run jobs:fetch
