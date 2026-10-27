@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T22:45:22.293Z",
+  "updatedAt": "2026-10-27T03:02:18.887Z",
   "sourceCount": 2,
   "totalFetched": 310,
-  "relevantCount": 49,
+  "relevantCount": 40,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -107,118 +107,6 @@
       "summary": "&lt;p&gt;&lt;strong&gt;Job title:&lt;/strong&gt; Product Manager&nbsp;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Location:&lt;/strong&gt; Paris — Hybrid - 3 days in office&lt;br&gt;&lt;br&gt;&lt;strong&gt;Salary:&lt;/strong&gt; €45,600 - €57,000&lt;br&gt;&lt;br&gt;&lt;"
     },
     {
-      "id": "arbeitnow:forward-deployed-consultant-paris-71920",
-      "title": "Forward Deployed Consultant",
-      "org": "Monday.com",
-      "role": "training",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mondaycom/forward-deployed-consultant-paris-71920",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793029215,
-      "tags": [
-        "Delivery & Solutions"
-      ],
-      "summary": "monday.com is the AI work platform powering the most ambitious teams. 250,000+ customers across departments use us to bring people, workflows, and AI agents together on one flexible platform where AI doesn't just assist, it executes. We move fast, build things"
-    },
-    {
-      "id": "arbeitnow:test-technician-bordeaux-231180",
-      "title": "Test Technician",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/test-technician-bordeaux-231180",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793029214,
-      "tags": [
-        "MAIT"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We are also developing different types of propulsion systems to power our future vehicles and missions. As a talented Test Technician , you will be responsible for supporting test activ"
-    },
-    {
-      "id": "arbeitnow:technical-owner-fluid-components-bordeaux-199099",
-      "title": "Technical Owner - Fluid Components",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/technical-owner-fluid-components-bordeaux-199099",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793029214,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. As a Fluidic Components Technical Owner, you will own the technical follow-up of suppliers providing assigned Nyx Earth fluid-control equipment, including the technical baseline, eviden"
-    },
-    {
-      "id": "arbeitnow:propulsion-test-engineer-bordeaux-411077",
-      "title": "Propulsion Test Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/propulsion-test-engineer-bordeaux-411077",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793029214,
-      "tags": [
-        "MAIT"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We are also developing different types of propulsion systems to power our future vehicles and missions. As a talented Propulsion Test Engineer , you will be responsible for the test and"
-    },
-    {
-      "id": "arbeitnow:ait-electrical-engineer-bordeaux-176451",
-      "title": "AIT Electrical Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/ait-electrical-engineer-bordeaux-176451",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793029214,
-      "tags": [
-        "MAIT"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We want you as a highly skilled and experienced AIT Electrical Engineer to help us in our mission by leading the design, commissioning, and debugging of electrical systems for various p"
-    },
-    {
-      "id": "arbeitnow:feed-system-functional-engineer-bordeaux-347004",
-      "title": "Feed System Functional Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/feed-system-functional-engineer-bordeaux-347004",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793029214,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. You will own the functional architecture and performance of the propellant feed system for a storable bipropellant propulsion system (MON3-MMH system). You will be responsible for ensur"
-    },
-    {
-      "id": "arbeitnow:vacuum-hotfire-test-stand-engineer-bordeaux-223719",
-      "title": "Vacuum Hotfire Test Stand Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/vacuum-hotfire-test-stand-engineer-bordeaux-223719",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793029214,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We are also developing advanced propulsion capabilities to support our reusable spacecraft programs. We are building a dedicated test capability for storable, hypergolic propulsion syst"
-    },
-    {
       "id": "arbeitnow:tenable-architect-relocation-provided-amsterdam-75916",
       "title": "Tenable Architect – Relocation provided",
       "org": "Wypoon",
@@ -233,6 +121,38 @@
         "Security Consultant"
       ],
       "summary": "Are you an experienced vulnerability management specialist with strong hands-on knowledge of Tenable platforms? For one of our valued clients in Amsterdam, we are looking for a Tenable Architect / Administrator to design, manage, and optimise an enterprise vul"
+    },
+    {
+      "id": "arbeitnow:remote-technical-product-manager-132288",
+      "title": "Technical Product Manager",
+      "org": "Swarmaero",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-technical-product-manager-132288",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793061611,
+      "tags": [
+        "Legion"
+      ],
+      "summary": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command & Control"
+    },
+    {
+      "id": "arbeitnow:remote-product-designer-15490",
+      "title": "Product Designer",
+      "org": "Swarmaero",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-product-designer-15490",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793061611,
+      "tags": [
+        "Legion"
+      ],
+      "summary": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command & Control"
     },
     {
       "id": "arbeitnow:gtm-manager-ai-startup-berlin-58998",
@@ -404,41 +324,6 @@
       "summary": "Über RocketAds RocketAds ist eine Performance-Marketing-Agentur. Wir verbinden High-Scale Media Buying auf Meta und TikTok mit Performance Creatives, Advertorial-Funnels und täglicher Budgetsteuerung. Unsere Kunden sind Brands aus Health, Beauty, Supplements u"
     },
     {
-      "id": "arbeitnow:trainer-dozent-fur-itil-5-foundation-kurse-remote-heidelberg-439571",
-      "title": "Trainer/Dozent (m/w/x) für ITIL 5® Foundation Kurse (remote)",
-      "org": "GFN GmbH",
-      "role": "training",
-      "location": "Heidelberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/gfn-gmbh/trainer-dozent-fur-itil-5-foundation-kurse-remote-heidelberg-439571",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793021461,
-      "tags": [
-        "Remote",
-        "Training",
-        "Development"
-      ],
-      "summary": "Die GFN GmbH begleitet als Bildungsanbieter mit IT-Spezialisierung deutschlandweit Menschen bei ihrer Weiterbildung und beruflichen Neuorientierung. Wir suchen freiberufliche Trainer (m/w/x) für einwöchige ITIL® 5 Foundation Kurse im geförderten Bildungsbereic"
-    },
-    {
-      "id": "arbeitnow:business-mentor-partner-berlin-332713",
-      "title": "Business Mentor & Partner (m/w/d)",
-      "org": "thexton armstrong Nord und Ost Deutschland",
-      "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/thexton-armstrong-nord-und-ost-deutschland/business-mentor-partner-berlin-332713",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793021459,
-      "tags": [
-        "Remote",
-        "Business Consulting"
-      ],
-      "summary": "Über thexton armstrong \"Wir glauben: Nicht jeder Unternehmer ist ein geborener Entrepreneur. Aber jeder Unternehmer kann einer werden – mit der richtigen Begleitung.\" thexton armstrong wurde 2011 in den Niederlanden gegründet mit einer klaren Mission: KMU-Inha"
-    },
-    {
       "id": "arbeitnow:remote-integration-engineer-french-speaker-444069",
       "title": "Integration Engineer (French Speaker)",
       "org": "Constructor",
@@ -472,36 +357,21 @@
       "summary": "About us Mammutmarsch is adventure at heart - and pushing limits in practice. We’re the movement behind long-distance hiking events that inspire people to grow beyond themselves. Now we’re taking the next step: preparing our market entry in the UK - and we’re "
     },
     {
-      "id": "arbeitnow:remote-senior-customer-success-engineer-french-speaking-197193",
-      "title": "Senior Customer Success Engineer, French Speaking",
-      "org": "Mitti",
-      "role": "training",
-      "location": "Remote: UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mitti/remote-senior-customer-success-engineer-french-speaking-197193",
+      "id": "arbeitnow:remote-senior-backend-engineer-paris-287438",
+      "title": "Senior Backend Engineer",
+      "org": "Payflows",
+      "role": "project",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/payflows/remote-senior-backend-engineer-paris-287438",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1792996812,
+      "postedAt": 1793051489,
       "tags": [
-        "GTM"
+        "Tech",
+        "Remote"
       ],
-      "summary": "Why join us? Mitti by SafetyCulture is a global tech company, just not the kind you're picturing. Our almost 1,000-person team builds tools that make work better for the three billion frontline workers who keep the world moving. We've got big tech scale, witho"
-    },
-    {
-      "id": "arbeitnow:remote-principal-security-researcher-195565",
-      "title": "Principal Security Researcher",
-      "org": "gitlab",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-principal-security-researcher-195565",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1792986918,
-      "tags": [
-        "Product Security"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+      "summary": "About Payflows At Payflows, we build software that helps large companies manage and automate their payment workflows. It’s not the flashiest part of a business, but it’s one of the most critical: invoices, approvals, payments, and controls. When these things s"
     },
     {
       "id": "arbeitnow:remote-partner-solutions-architect-emea-40452",
@@ -518,22 +388,6 @@
         "Channels & Alliances"
       ],
       "summary": "&lt;p&gt;&lt;strong&gt;The Team:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and succ"
-    },
-    {
-      "id": "arbeitnow:remote-sr-customer-success-manager-french-speaking-401638",
-      "title": "Sr. Customer Success Manager (French Speaking)",
-      "org": "Constructor",
-      "role": "training",
-      "location": "Remote - France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/constructor/remote-sr-customer-success-manager-french-speaking-401638",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793040013,
-      "tags": [
-        "Customer Success"
-      ],
-      "summary": "About You You're a jack-of-all-trades with a passion for cool technology and interacting with people and making them happy. You're a self-starter who's good at triaging problems and working on the most important one. You've worked directly with customers for a"
     },
     {
       "id": "arbeitnow:customer-experience-consultant-zurich-344116",
