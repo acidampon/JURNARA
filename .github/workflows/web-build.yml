@@ -64,7 +64,7 @@ jobs:
         with:
           node-version: 22
       - name: Install dependencies
-        run: npm install --no-audit --no-fund
+        run: npm ci --no-audit --no-fund
       - name: Capture dependency security audit
         run: npm audit --json > npm-audit.json || true
       - name: Block high and critical dependency vulnerabilities
