@@ -26,6 +26,8 @@ jobs:
         run: npm install --no-audit --no-fund
       - name: Capture dependency security audit
         run: npm audit --json > npm-audit.json || true
+      - name: Block high and critical dependency vulnerabilities
+        run: npm audit --audit-level=high
       - uses: actions/upload-artifact@v4
         with:
           name: jurnara-dependency-audit-and-lock
