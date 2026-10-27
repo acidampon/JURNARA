@@ -14,6 +14,47 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  lockfile:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Create and commit lockfile safely
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            npm install --package-lock-only --ignore-scripts --no-audit --no-fund
+
+            if git ls-files --error-unmatch package-lock.json >/dev/null 2>&1 && git diff --quiet -- package-lock.json; then
+              echo "Dependency lockfile is current."
+              exit 0
+            fi
+
+            git add package-lock.json
+            git commit -m "build: add npm lockfile for reproducible installs"
+            if git push origin HEAD:main; then
+              echo "Dependency lockfile committed."
+              exit 0
+            fi
+
+            echo "Push raced with another main-branch update; retrying (attempt $attempt/3)."
+            sleep 2
+          done
+
+          echo "Could not commit dependency lockfile after three attempts." >&2
+          exit 1
+
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 15
