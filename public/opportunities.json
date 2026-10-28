@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T05:53:16.980Z",
+  "updatedAt": "2026-10-28T13:09:28.830Z",
   "sourceCount": 2,
-  "totalFetched": 310,
-  "relevantCount": 41,
+  "totalFetched": 311,
+  "relevantCount": 37,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -43,6 +43,54 @@
       "summary": "&lt;h1&gt;&lt;span style=\"font-size: 14pt; font-family: helvetica, arial, sans-serif;\"&gt;&lt;strong&gt;About Upsun&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span style=\"font-size: 12pt;\"&gt;Upsun is the cloud application platform humans and robots l"
     },
     {
+      "id": "arbeitnow:procurement-manager-eclss-tcs-munich-400774",
+      "title": "Procurement Manager -ECLSS/TCS",
+      "org": "The Exploration Company",
+      "role": "hr",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/procurement-manager-eclss-tcs-munich-400774",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793169615,
+      "tags": [
+        "Program"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. In your capacity as a Procurement Manager, you will report directly to the Procurement Team Lead Physical Design, day to day your duties will include: Taking responsibility for all Supp"
+    },
+    {
+      "id": "arbeitnow:mechanical-analyses-engineer-munich-10409",
+      "title": "Mechanical Analyses Engineer",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/mechanical-analyses-engineer-munich-10409",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793169615,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. Here at The Exploration Company we are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refueled in orbit, and which carries"
+    },
+    {
+      "id": "arbeitnow:senior-seeker-systems-engineer-eo-ir-radar-munich-279419",
+      "title": "Senior Seeker Systems Engineer (EO/IR & Radar) (f/m/d)",
+      "org": "TYTAN Technologies GmbH",
+      "role": "marketing",
+      "location": "Munich, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-seeker-systems-engineer-eo-ir-radar-munich-279419",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793169081,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything"
+    },
+    {
       "id": "arbeitnow:account-executive-enterprise-german-speaker-berlin-germany-33356",
       "title": "Account Executive Enterprise - German Speaker",
       "org": "Brevo",
@@ -75,102 +123,166 @@
       "summary": "&lt;div class=\"ace-line\"&gt; &lt;div class=\"ace-line\" data-node-type=\"line\"&gt; &lt;p data-pm-slice=\"1 1 []\"&gt;&lt;strong&gt;WHAT IS BOX?&lt;/strong&gt;&nbsp;&lt;/p&gt; &lt;p&gt;Box (NYSE:BOX) is the leader in Intelligent Content Management. Our platform enab"
     },
     {
-      "id": "arbeitnow:director-product-led-growth-germany-spain-or-france-224687",
-      "title": "Director, Product-Led Growth",
-      "org": "remotewoman",
+      "id": "arbeitnow:account-executive-mid-market-french-or-german-speaking-359268",
+      "title": "Account Executive - Mid-Market (French or German Speaking)",
+      "org": "Coreview",
       "role": "marketing",
-      "location": "Germany, Spain or France",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/remotewoman/director-product-led-growth-germany-spain-or-france-224687",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreview/account-executive-mid-market-french-or-german-speaking-359268",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793148918,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "&lt;h1&gt;&lt;span style=\"font-size: 14pt; font-family: helvetica, arial, sans-serif;\"&gt;&lt;strong&gt;About Upsun&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span style=\"font-size: 12pt;\"&gt;Upsun is the cloud application platform humans and robots l"
-    },
-    {
-      "id": "arbeitnow:data-engineering-lead-london-496391",
-      "title": "Data Engineering Lead",
-      "org": "Plasma",
-      "role": "marketing",
-      "location": "London Office",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/plasma/data-engineering-lead-london-496391",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793148015,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "About Plasma Plasma is building the primary account for global money. Money used to belong to a country. Increasingly, it belongs to a person or business moving through many countries. People and businesses now earn, spend, save, hire and invest across borders"
-    },
-    {
-      "id": "arbeitnow:growth-lead-performance-marketing-london-434832",
-      "title": "Growth Lead - Performance Marketing",
-      "org": "Plasma",
-      "role": "marketing",
-      "location": "London Office",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/plasma/growth-lead-performance-marketing-london-434832",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793148015,
-      "tags": [
-        "GTM"
-      ],
-      "summary": "About Plasma Plasma is building the primary account for global money. Money used to belong to a country. Increasingly, it belongs to a person or business moving through many countries. People and businesses now earn, spend, save, hire and invest across borders"
-    },
-    {
-      "id": "arbeitnow:talent-operations-associate-ftc-london-united-kingdom-131878",
-      "title": "Talent Operations Associate - FTC",
-      "org": "Wayve",
-      "role": "training",
-      "location": "London, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/talent-operations-associate-ftc-london-united-kingdom-131878",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793148013,
-      "tags": [
-        "People & Talent"
-      ],
-      "summary": "Before the detail, here's the challenge you'd help us solve. We build the embodied intelligence that moves real vehicles safely, and the ecosystem a billion machines will run on in the future. Very few people in AI can say this. Every role here, whatever the t"
-    },
-    {
-      "id": "arbeitnow:mle-data-enrichment-london-united-kingdom-81688",
-      "title": "MLE, Data Enrichment",
-      "org": "Wayve",
-      "role": "training",
-      "location": "London, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/mle-data-enrichment-london-united-kingdom-81688",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793148013,
-      "tags": [
-        "Simulation",
-        "Evaluation",
-        "Validation"
-      ],
-      "summary": "Before the detail, here's the challenge you'd help us solve. We build the embodied intelligence that moves real vehicles safely, and the ecosystem a billion machines will run on in the future. Very few people in AI can say this. Every role here, whatever the t"
-    },
-    {
-      "id": "arbeitnow:enterprise-account-executive-retail-paris-421464",
-      "title": "Enterprise Account Executive, Retail",
-      "org": "anthropic",
-      "role": "training",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/anthropic/enterprise-account-executive-retail-paris-421464",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793138120,
+      "postedAt": 1793170528,
       "tags": [
         "Sales"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society a"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=\"auto\"&gt;About&nbsp;CoreView &lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=\"auto\"&gt; &lt;/span&gt;&nbsp;&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"none\"&gt;CoreVie"
+    },
+    {
+      "id": "arbeitnow:account-executive-enterprise-uk-public-sector-london-390787",
+      "title": "Account Executive, Enterprise, UK - (Public Sector)",
+      "org": "Mistral.ai",
+      "role": "training",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mistralai/account-executive-enterprise-uk-public-sector-london-390787",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793169614,
+      "tags": [
+        "Business"
+      ],
+      "summary": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare"
+    },
+    {
+      "id": "arbeitnow:procurement-manager-thermal-protection-bordeaux-200240",
+      "title": "Procurement Manager -Thermal Protection",
+      "org": "The Exploration Company",
+      "role": "hr",
+      "location": "Bordeaux, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/procurement-manager-thermal-protection-bordeaux-200240",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793169615,
+      "tags": [
+        "Program"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. In your capacity as a Procurement Manager, you will report directly to the Procurement Team Lead Physical Design, day to day your duties will include: Taking responsibility for all Supp"
+    },
+    {
+      "id": "arbeitnow:remote-staff-product-designer-design-core-235393",
+      "title": "Staff Product Designer - Design Core",
+      "org": "Hirehire",
+      "role": "hr",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-staff-product-designer-design-core-235393",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793180413,
+      "tags": [
+        "Product Design"
+      ],
+      "summary": "Role: Staff Product Designer, Core Platform Company: Deel Location: Remote Job type: Full-time About Deel Deel is the all-in-one payroll and HR platform for global teams, about 7,000 people, fully remote and pre-IPO. It is very AI-forward and moves at \"Deel sp"
+    },
+    {
+      "id": "arbeitnow:senior-social-media-manager-windeck-489452",
+      "title": "Senior Social Media Manager",
+      "org": "PAJ UG (haftungsbeschränkt)",
+      "role": "marketing",
+      "location": "Windeck",
+      "url": "https://www.arbeitnow.com/jobs/companies/paj-ug-haftungsbeschrankt/senior-social-media-manager-windeck-489452",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793175042,
+      "tags": [
+        "Remote",
+        "Marketing Manager"
+      ],
+      "summary": "Senior Social Media Manager (m/w/d) – Vollzeit, 100 % remote PAJ ist einer der führenden Hersteller, Vertrieb und Berater rund um das Thema GPS-Ortung mit Sitz in Windeck-Hurst. Wir bieten GPS-Tracker für beinahe jeden Einsatzbereich an. PAJ ist ein sehr dynam"
+    },
+    {
+      "id": "arbeitnow:senior-sales-manager-all-genders-100-home-office-kassel-95875",
+      "title": "Senior Sales Manager (all genders) - 100% Home Office",
+      "org": "fino digital GmbH",
+      "role": "project",
+      "location": "Kassel",
+      "url": "https://www.arbeitnow.com/jobs/companies/fino-digital-gmbh/senior-sales-manager-all-genders-100-home-office-kassel-95875",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793175042,
+      "tags": [
+        "Remote",
+        "Finance"
+      ],
+      "summary": "Gestalte die digitale Zukunft mit fino digital! Wir bei fino digital sind davon überzeugt, dass datengetriebenen Geschäftsmodellen die Zukunft gehört. Als Experte im Bereich der Konto- und Datenanalyse ist es die erklärte Mission von fino digital, Daten einen "
+    },
+    {
+      "id": "arbeitnow:remote-real-estate-transaction-lead-central-430973",
+      "title": "Real Estate Transaction Lead, Central",
+      "org": "Neko Health",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/neko-health/remote-real-estate-transaction-lead-central-430973",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793169614,
+      "tags": [
+        "Operations & Markets"
+      ],
+      "summary": "Mission Neko is redefining what prevention means, from treating illness when it arrives, to sustaining health before it's ever at risk. Our mission: make data-driven, preventative care accessible to more people, before symptoms appear. In a single, non-invasiv"
+    },
+    {
+      "id": "arbeitnow:remote-technical-account-manager-dach-470630",
+      "title": "Technical Account Manager- DACH",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-technical-account-manager-dach-470630",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793169614,
+      "tags": [
+        "Customer Success"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-enterprise-account-executive-iii-netherlands-308507",
+      "title": "Enterprise Account Executive III - Netherlands",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-enterprise-account-executive-iii-netherlands-308507",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793169614,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-technical-account-manager-nordics-345486",
+      "title": "Technical Account Manager- Nordics",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-technical-account-manager-nordics-345486",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793169614,
+      "tags": [
+        "Customer Success"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
     },
     {
       "id": "arbeitnow:remote-freelance-customer-success-manager-slovenian-speaking-1065",
@@ -237,141 +349,6 @@
       "summary": "ÜBER UNS Die 24-LOG GmbH aus Passau entwickelt seit 2013 SAP®-Lösungen für Logistik und Produktion. Wir bringen fertige Add-ons mit – für Integration, Intralogistik, Versand und Belege – und passen sie an das System unserer Kunden an, statt neu zu entwickeln. "
     },
     {
-      "id": "arbeitnow:marketing-lead-b2b-demand-generation-growth-remote-berlin-88167",
-      "title": "Marketing Lead - B2B Demand Generation & Growth (m/w/d) - Remote",
-      "org": "ZEP GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/zep-gmbh/marketing-lead-b2b-demand-generation-growth-remote-berlin-88167",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793144851,
-      "tags": [
-        "Remote",
-        "Management",
-        "Team Leader"
-      ],
-      "summary": "Über uns ZEP ist eine cloudbasierte Software für Projektcontrolling – von der Projektzeiterfassung über Abwesenheitsverwaltung bis zur Abrechnung. Mehr als 3.000 Unternehmen, vor allem projektorientierte Dienstleister wie Beratungen, IT- und Engineering-Untern"
-    },
-    {
-      "id": "arbeitnow:remote-sales-director-8457",
-      "title": "Sales Director",
-      "org": "Fivetran",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-sales-director-8457",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793127324,
-      "tags": [
-        "Sales Department"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to quer"
-    },
-    {
-      "id": "arbeitnow:senior-affiliate-manager-full-remote-germany-176971",
-      "title": "Senior Affiliate Manager (Full Remote - Germany)",
-      "org": "EverAI",
-      "role": "marketing",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/everai/senior-affiliate-manager-full-remote-germany-176971",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793126435,
-      "tags": [
-        "Growth"
-      ],
-      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
-    },
-    {
-      "id": "arbeitnow:senior-talent-acquisition-manager-tech-berlin-163665",
-      "title": "Senior Talent Acquisition Manager – Tech (f/m/d)",
-      "org": "Cosuno",
-      "role": "marketing",
-      "location": "Berlin/Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-talent-acquisition-manager-tech-berlin-163665",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793126433,
-      "tags": [
-        "Talent Acquisition"
-      ],
-      "summary": "About Cosuno Construction is a €14 trillion industry that still runs on email, spreadsheets and scanned PDFs. Cosuno is replacing that with AI. General contractors tender their projects on our platform to more than 250,000 subcontractors, and our agentic AI ma"
-    },
-    {
-      "id": "arbeitnow:remote-project-manager-software-implementation-berlin-237977",
-      "title": "Project Manager - Software Implementation (m/f/x)",
-      "org": "Makersite GmbH",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-237977",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793125885,
-      "tags": [
-        "Services and Data",
-        "Remote"
-      ],
-      "summary": "Job Title: Project Manager - Software Implementation (m/f/x) Location: EU (Remote) Who You’ll Work For: At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle manageme"
-    },
-    {
-      "id": "arbeitnow:remote-senior-site-reliability-engineer-sre-berlin-347745",
-      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
-      "org": "Makersite GmbH",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-347745",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793125885,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make"
-    },
-    {
-      "id": "arbeitnow:freelancer-senior-mobile-engineer-react-native-expo-typescript-berlin-359332",
-      "title": "Freelancer Senior Mobile Engineer (React Native, Expo, TypeScript) m/w/d",
-      "org": "easybill GmbH",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/easybill-gmbh/freelancer-senior-mobile-engineer-react-native-expo-typescript-berlin-359332",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793122263,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "summary": "Willkommen bei easybill. 22.000+ Unternehmen verlassen sich auf easybill. Wir sorgen dafür, dass Rechnungen, Prozesse und Integrationen im Alltag einfach laufen. Mit easybill-mobile bringen wir zentrale Funktionen unserer Plattform auf iOS und Android – und su"
-    },
-    {
-      "id": "arbeitnow:technical-director-berlin-237667",
-      "title": "Technical Director (m/w/d)",
-      "org": "Kizuna Personalberatung GmbH",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/kizuna-personalberatung-gmbh/technical-director-berlin-237667",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793120462,
-      "tags": [
-        "Remote",
-        "Directors",
-        "Chief Executives"
-      ],
-      "summary": "Im Auftrag unseres Mandanten, einem international führenden Dienstleister für die Automobilindustrie, suchen wir eine erfahrene operative Führungskraft. Unser Mandant unterstützt renommierte Automobilhersteller (OEMs) und Zulieferer (Tier-1) mit maßgeschneider"
-    },
-    {
       "id": "arbeitnow:remote-partner-solution-architect-sai-333763",
       "title": "Partner Solution Architect - SAI",
       "org": "veeamsoftware",
@@ -404,39 +381,6 @@
       "summary": "Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through te"
     },
     {
-      "id": "arbeitnow:remote-director-of-sales-europe-34402",
-      "title": "Director of Sales, Europe",
-      "org": "planetlabs",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/planetlabs/remote-director-of-sales-europe-34402",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793148918,
-      "tags": [
-        "Sales Manager"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Planet designs, builds, and operates the largest constellation of imaging satellites in history. This "
-    },
-    {
-      "id": "arbeitnow:remote-senior-sap-ams-support-consultant-sap-sd-sap-mm-sap-pp-uk-361712",
-      "title": "Senior SAP AMS Support Consultant (SAP SD, SAP MM, SAP PP)",
-      "org": "The Config Team",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-senior-sap-ams-support-consultant-sap-sd-sap-mm-sap-pp-uk-361712",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793147504,
-      "tags": [
-        "Application Management Services (AMS)",
-        "Remote"
-      ],
-      "summary": "Job title: Senior SAP AMS Support Consultant (SAP SD, SAP MM, SAP PP) Employment: Permanent Location: UK based Salary: Excellent basic salary Benefits: 24 days holiday, paid birthday day off, paid volunteer day, holiday buy & sell, Bupa private healthcare, 5% "
-    },
-    {
       "id": "arbeitnow:senior-remote-sensing-space-systems-technical-manager-toulouse-france-300622",
       "title": "Senior Remote Sensing Space Systems Technical Manager",
       "org": "Novaspace",
@@ -451,38 +395,6 @@
         "Technology Consulting"
       ],
       "summary": "The Technology Consulting business line is the technology and operations’ arm of the Novaspace group. It has more than 50 customers in developed and emerging space markets, in all regions of the world and across the space ecosystem, including satellite operato"
-    },
-    {
-      "id": "arbeitnow:senior-affiliate-manager-full-remote-france-354350",
-      "title": "Senior Affiliate Manager (Full Remote - France)",
-      "org": "EverAI",
-      "role": "marketing",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/everai/senior-affiliate-manager-full-remote-france-354350",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793126436,
-      "tags": [
-        "Growth"
-      ],
-      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
-    },
-    {
-      "id": "arbeitnow:portfolio-analytics-and-forecasts-actuary-anywhere-in-france-332005",
-      "title": "Portfolio analytics and forecasts actuary",
-      "org": "Alan",
-      "role": "project",
-      "location": "Anywhere in France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alan/portfolio-analytics-and-forecasts-actuary-anywhere-in-france-332005",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793126434,
-      "tags": [
-        "Insurance"
-      ],
-      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
     },
     {
       "id": "arbeitnow:ai-research-scientist-scientific-evaluation-ml-ai-zurich-74951",
@@ -569,6 +481,25 @@
         "Growth"
       ],
       "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
+    },
+    {
+      "id": "remotive:2091134",
+      "title": "Head of Engineering",
+      "org": "Lemon.io",
+      "role": "marketing",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
+      "source": "Remotive",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": "2026-10-26T12:20:09",
+      "tags": [
+        "AI/ML",
+        "startup",
+        "marketplace",
+        "fundraising"
+      ],
+      "summary": "About Lemon.io Lemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We’ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and process over $16M in an"
     },
     {
       "id": "remotive:2091161",
