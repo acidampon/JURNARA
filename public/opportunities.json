@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T05:57:26.572Z",
+  "updatedAt": "2026-10-29T13:16:10.572Z",
   "sourceCount": 2,
-  "totalFetched": 311,
-  "relevantCount": 34,
+  "totalFetched": 312,
+  "relevantCount": 42,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,20 +11,20 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:senior-sensor-systems-architect-ground-based-detection-munich-45549",
-      "title": "Senior Sensor Systems Architect – Ground-Based Detection (f/m/d)",
-      "org": "TYTAN Technologies GmbH",
+      "id": "arbeitnow:business-development-executive-london-260258",
+      "title": "Business Development Executive",
+      "org": "Neudata",
       "role": "marketing",
-      "location": "Munich, Bayern, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-sensor-systems-architect-ground-based-detection-munich-45549",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/neudata/business-development-executive-london-260258",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793223100,
+      "postedAt": 1793256013,
       "tags": [
-        "Engineering"
+        "Sales"
       ],
-      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything"
+      "summary": "Join Neudata - Business Development Executive Introducing Neudata: Neudata is the global leader in alternative and market data intelligence, helping investors, hedge funds and corporates discover, evaluate, and use data to make smarter decisions. Our independe"
     },
     {
       "id": "arbeitnow:principal-engagement-manager-ai-london-12050",
@@ -91,54 +91,6 @@
       "summary": "About DualEntry DualEntry is building the OS for finance. Every business needs a financial system of record, yet the world's largest fintech market ($220B+) still runs on software from the 1990s. DualEntry's AI-native ERP automates accounting from data entry t"
     },
     {
-      "id": "arbeitnow:founding-talent-sourcer-london-209794",
-      "title": "Founding Talent Sourcer",
-      "org": "ClaimSorted",
-      "role": "project",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/claimsorted/founding-talent-sourcer-london-209794",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793234413,
-      "tags": [
-        "Talent"
-      ],
-      "summary": "BUILDING A MORE RESILIENT WORLD When things go wrong, insurance has one job: get people and businesses back on their feet. Too often, it doesn't. At ClaimSorted, we're changing that, and building a more resilient world where people and businesses have the conf"
-    },
-    {
-      "id": "arbeitnow:strategic-account-executive-london-156224",
-      "title": "Strategic Account Executive - London",
-      "org": "ClaimSorted",
-      "role": "project",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/claimsorted/strategic-account-executive-london-156224",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793234413,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "About ClaimSorted At ClaimSorted, we’re building a more resilient world - one where people and businesses have the confidence to pursue bigger opportunities. We’re doing this by transforming how insurance delivers on its most important promise: helping people "
-    },
-    {
-      "id": "arbeitnow:principal-forward-deployed-engineer-emea-england-259175",
-      "title": "Principal Forward Deployed Engineer (EMEA)",
-      "org": "Docker",
-      "role": "marketing",
-      "location": "England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/docker/principal-forward-deployed-engineer-emea-england-259175",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793234412,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "About Docker Docker has been one of the most loved brands in developer tooling, trusted by more than 20 million monthly users and over 20 billion container image pulls. From solo founders to the world's largest companies, developers rely on Docker to build, sh"
-    },
-    {
       "id": "arbeitnow:lead-designer-paris-paris-140650",
       "title": "Lead Designer",
       "org": "Kaluza",
@@ -155,63 +107,289 @@
       "summary": "&lt;h4&gt;&lt;strong&gt;Lead Designer (FDE)&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;Location: Paris, France (hybrid, three days a week in the office)&lt;/li&gt; &lt;li&gt;Team: UX Team (FDE)&lt;/li&gt; &lt;li&gt;Salary: €63,000 - €75,000&lt;/li&gt; &lt;"
     },
     {
-      "id": "arbeitnow:remote-senior-consultant-tracking-strategy-insights-375593",
-      "title": "Senior Consultant, Tracking Strategy & Insights",
-      "org": "Quantilope Gmbh",
-      "role": "marketing",
-      "location": "Hybrid (Hamburg) or Remote (Germany)",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantilope-gmbh/remote-senior-consultant-tracking-strategy-insights-375593",
+      "id": "arbeitnow:projektleiter-in-beratung-milch-offenburg-2112",
+      "title": "Projektleiter/in Beratung Milch",
+      "org": "Claudius Wurth Agrarberatung",
+      "role": "project",
+      "location": "Offenburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/claudius-wurth-agrarberatung/projektleiter-in-beratung-milch-offenburg-2112",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793244807,
+      "postedAt": 1793275258,
       "tags": [
-        "brand tracker",
-        "bbht",
-        "brand health",
-        "market research",
-        "quantitative",
-        "custom research",
-        "consumer research",
-        "consumer perception",
-        "survey"
+        "Remote",
+        "Business Consulting"
       ],
-      "summary": "Introduction: As a Senior Consultant on our newly formed Tracking Strategy & Insights (TS&I) team, you will act as the key strategic partner accountable for the successful integration and value realization of our clients’ tracking programs. You will blend deep"
+      "summary": "Als Claudius Wurth Agrarberatung, ein führendes Unternehmen im Beatung für landwirtschaftliche Betriebe, suchen wir eine/n dynamische/n und engagierte/n Projektleiter/in Beratung Milch. In dieser Schlüsselposition sind Sie verantwortlich für die Leitung und Um"
     },
     {
-      "id": "arbeitnow:media-buyer-meta-google-berlin-118906",
-      "title": "Media Buyer (m/w/d) Meta & Google",
-      "org": "Strehlow Media GmbH",
+      "id": "arbeitnow:copywriter-ads-webinare-hockenheim-25490",
+      "title": "Copywriter (m/w/d) – Ads & Webinare",
+      "org": "Teaching Socials",
+      "role": "marketing",
+      "location": "Hockenheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/teaching-socials/copywriter-ads-webinare-hockenheim-25490",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793273473,
+      "tags": [
+        "Remote",
+        "Marketing and Communication"
+      ],
+      "summary": "Jobbeschreibung Über Teaching Socials Teaching Socials ist die führende Unternehmensberatung für Personal Brands im Finanz- & Immobilienbereich im DACH-Raum. Unser Team aus 25 High-Performern hat innerhalb von 2 Jahren ein konstantes Monatswachstum von über 75"
+    },
+    {
+      "id": "arbeitnow:product-manager-ux-ui-ai-berlin-468014",
+      "title": "Product Manager UX/UI & AI (m/w/d)",
+      "org": "FunnelCockpit",
       "role": "marketing",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/strehlow-media-gmbh/media-buyer-meta-google-berlin-118906",
+      "url": "https://www.arbeitnow.com/jobs/companies/funnelcockpit/product-manager-ux-ui-ai-berlin-468014",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793217640,
+      "postedAt": 1793273472,
       "tags": [
         "Remote",
-        "Media Planning",
-        "Purchasing"
+        "Product Management"
       ],
-      "summary": "Wir wachsen und suchen keine Unterstützung – sondern eine starke Persönlichkeit, die Verantwortung übernimmt und Kunden eigenständig nach vorne bringt. Als Media Buyer (m/w/d) für die Plattformen Meta & Google wirst Du Teil unserer Performance-Marketing-Agentu"
+      "summary": "FunnelCockpit ist eine All-in-one-Plattform, mit der Unternehmen ihre Online-Marketing- und Vertriebsprozesse aufbauen und automatisieren. Wir entwickeln unser Produkt kontinuierlich weiter und setzen dabei stark auf moderne AI-Technologien. Dafür suchen wir e"
     },
     {
-      "id": "arbeitnow:senior-oder-mid-level-performance-marketing-manager-meta-google-kiel-196023",
-      "title": "Senior oder Mid-Level Performance Marketing Manager (m/w/d) Meta & Google",
-      "org": "Strehlow Media GmbH",
+      "id": "arbeitnow:senior-principal-data-scientist-berlin-25961",
+      "title": "Senior/Principal Data Scientist (m/f/d)",
+      "org": "Stenon GmbH",
       "role": "marketing",
-      "location": "Kiel",
-      "url": "https://www.arbeitnow.com/jobs/companies/strehlow-media-gmbh/senior-oder-mid-level-performance-marketing-manager-meta-google-kiel-196023",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/stenon-gmbh/senior-principal-data-scientist-berlin-25961",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793217639,
+      "postedAt": 1793273472,
       "tags": [
         "Remote",
-        "Online Marketing"
+        "Data Scientist"
       ],
-      "summary": "Wir wachsen und suchen keine Unterstützung – sondern eine starke Persönlichkeit, die Verantwortung übernimmt und Kunden eigenständig nach vorne bringt. Als Senior oder Mid-Level Performance Marketing Manager (m/w/d) für die Plattformen Meta & Google wirst Du T"
+      "summary": "About Stenon GmbH At Stenon we are on a mission to democratize soil data. We have become the global market leader in real-time, digital soil data. This provides farmers with essential insights to make optimal and sustainable cultivation decisions, boosting yie"
+    },
+    {
+      "id": "arbeitnow:senior-software-engineer-php-typescript-nodejs-berlin-53164",
+      "title": "Senior Software Engineer (PHP, TypeScript, Node.js) m/w/d",
+      "org": "easybill GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/easybill-gmbh/senior-software-engineer-php-typescript-nodejs-berlin-53164",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793271673,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Nicht jede Heldentat ist laut. 22.000+ Unternehmen verlassen sich auf easybill, oft ohne es zu merken. Wir sorgen dafür, dass Rechnungen, Prozesse und Integrationen im Alltag einfach laufen. Remote-first, technisch anspruchsvoll, mit viel Ownership. Wenn du Sy"
+    },
+    {
+      "id": "arbeitnow:founding-marketing-lead-content-linkedin-video-ki-software-fur-bau-immobilien-berlin-256440",
+      "title": "Founding Marketing Lead (m/w/d) – Content, LinkedIn & Video | KI-Software für Bau & Immobilien",
+      "org": "neoBIM GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/neobim-gmbh/founding-marketing-lead-content-linkedin-video-ki-software-fur-bau-immobilien-berlin-256440",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793271673,
+      "tags": [
+        "Remote",
+        "Marketing Manager"
+      ],
+      "summary": "Über neoBIM neoBIM entwickelt KI-Software für die Bau- und Immobilienbranche. Unser Konfigurator macht aus einem Grundstück Gebäudevarianten mit Wirtschaftlichkeitsrechnung, unser zweites Produkt liest Gemeinderatsprotokolle und findet Bauvorhaben, bevor sie a"
+    },
+    {
+      "id": "arbeitnow:senior-sales-engineer-berlin-107990",
+      "title": "Senior Sales Engineer (m/w/d)",
+      "org": "Co-ship consult GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/co-ship-consult-gmbh/senior-sales-engineer-berlin-107990",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793269855,
+      "tags": [
+        "Remote",
+        "Sales Engineer"
+      ],
+      "summary": "Ihre Aufgaben im Bereich Vertrieb co-ship ist Connector! Unsere Mission ist es, eine werthaltige Verbindung herzustellen zwischen Fach- oder Führungskräften mit dem Ziel einer beruflichen Veränderung und dazu passenden Unternehmen. In dieser Rolle begleiten wi"
+    },
+    {
+      "id": "arbeitnow:vertriebsingenieur-international-berlin-282110",
+      "title": "Vertriebsingenieur International (m/w/d)",
+      "org": "Co-ship consult GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/co-ship-consult-gmbh/vertriebsingenieur-international-berlin-282110",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793269855,
+      "tags": [
+        "Remote",
+        "Sales Engineer"
+      ],
+      "summary": "Ihre Aufgaben im Bereich Vertrieb co-ship ist Connector! Unsere Mission ist es, eine werthaltige Verbindung herzustellen zwischen Fach- oder Führungskräften mit dem Ziel einer beruflichen Veränderung und dazu passenden Unternehmen. In dieser Rolle begleiten wi"
+    },
+    {
+      "id": "arbeitnow:business-analyst-wertpapierprojekt-berlin-249164",
+      "title": "Business Analyst Wertpapierprojekt (m/w/d)",
+      "org": "finwyz GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/finwyz-gmbh/business-analyst-wertpapierprojekt-berlin-249164",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793268049,
+      "tags": [
+        "Remote",
+        "Business Analyst"
+      ],
+      "summary": "Über finwyz GmbH banking beyond the hype - Wir übersetzen relevante Bankingtrends und Kundenerwartungen in digitale Lösungen. Mit durchschnittlich über 15 Jahren Branchenerfahrung verstehen wir die Herausforderungen der Finanzindustrie und erreichen Erlössteig"
+    },
+    {
+      "id": "arbeitnow:customer-success-manager-berlin-433726",
+      "title": "Customer Success Manager (m/w/d)",
+      "org": "functionHR GmbH",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/functionhr-gmbh/customer-success-manager-berlin-433726",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793268047,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "WER WIR SIND functionHR ist ein Spin-Off der LMU München. Wir entwickeln eine innovative und preisgekrönte Softwarelösung für Mitarbeiterbefragungen und People Analytics. Damit begleiten wir Unternehmen auf ihrem Weg zum datengestützten Personalmanagement. Dur"
+    },
+    {
+      "id": "arbeitnow:onboarding-manager-berlin-309595",
+      "title": "Onboarding Manager",
+      "org": "Cosuno",
+      "role": "marketing",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/onboarding-manager-berlin-309595",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793266826,
+      "tags": [
+        "Customer Success I Subcontractor"
+      ],
+      "summary": "Über Cosuno Die Baubranche ist eine 14-Billionen-Euro-Industrie, die noch immer auf E-Mails, Excel-Tabellen und eingescannten PDFs läuft. Cosuno ersetzt das durch KI. Generalunternehmer schreiben ihre Projekte auf unserer Plattform an mehr als 250.000 Nachunte"
+    },
+    {
+      "id": "arbeitnow:account-manager-berlin-423811",
+      "title": "Account Manager",
+      "org": "Cosuno",
+      "role": "marketing",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/account-manager-berlin-423811",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793266826,
+      "tags": [
+        "Customer Success I Subcontractor"
+      ],
+      "summary": "Über Cosuno Die Baubranche ist eine 14-Billionen-Euro-Industrie, die noch immer auf E-Mails, Excel-Tabellen und eingescannten PDFs läuft. Cosuno ersetzt das durch KI. Generalunternehmer schreiben ihre Projekte auf unserer Plattform an mehr als 250.000 Nachunte"
+    },
+    {
+      "id": "arbeitnow:head-of-cs-nachunternehmer-berlin-60019",
+      "title": "Head of CS - Nachunternehmer (m/w/d)",
+      "org": "Cosuno",
+      "role": "marketing",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/head-of-cs-nachunternehmer-berlin-60019",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793266826,
+      "tags": [
+        "Customer Success I Subcontractor"
+      ],
+      "summary": "Über Cosuno Die Baubranche ist eine 14-Billionen-Euro-Industrie, die noch immer auf E-Mails, Excel-Tabellen und eingescannten PDFs läuft. Cosuno ersetzt das durch KI. Generalunternehmer schreiben ihre Projekte auf unserer Plattform an mehr als 250.000 Nachunte"
+    },
+    {
+      "id": "arbeitnow:organic-growth-manager-seo-ai-search-berlin-208422",
+      "title": "Organic Growth Manager (SEO & AI Search)",
+      "org": "Cosuno",
+      "role": "marketing",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/organic-growth-manager-seo-ai-search-berlin-208422",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793266826,
+      "tags": [
+        "Marketing"
+      ],
+      "summary": "Your Mission Cosuno is the AI construction platform connecting the European construction industry. We're reconnecting one of Europe's largest and still largely analogue industries with AI: general contractors publish their tenders on Cosuno and find the right "
+    },
+    {
+      "id": "arbeitnow:werkstudent-backoffice-operations-deutschlandweit-im-homeoffice-berlin-477225",
+      "title": "Werkstudent Backoffice Operations (m/w/d) - deutschlandweit im Homeoffice",
+      "org": "Hrmony GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/hrmony-gmbh/werkstudent-backoffice-operations-deutschlandweit-im-homeoffice-berlin-477225",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793266291,
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "summary": "Hrmony ist ein erfolgreiches SaaS-Startup mit Sitz in Berlin. Als fully remote Company arbeitet unser Team jedoch deutschlandweit aus dem Homeoffice. Unsere Produkte ermöglichen es Unternehmen, ihren Mitarbeitenden mit minimalem Verwaltungsaufwand attraktive s"
+    },
+    {
+      "id": "arbeitnow:business-development-manager-berlin-209302",
+      "title": "Business Development Manager (m/w/d)",
+      "org": "Cartonplast Group GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/cartonplast-group-gmbh/business-development-manager-berlin-209302",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793266289,
+      "tags": [
+        "Remote",
+        "Business Development"
+      ],
+      "summary": "Die Cartonplast Holding GmbH ist ein führender internationaler Anbieter von wiederverwendbaren Transportverpackungen für die Lebensmittel-, Getränke-, Pharma- und Industriebranche. Für die Benelux-Region und Norddeutschland möchten wir unsere Marktpräsenz weit"
+    },
+    {
+      "id": "arbeitnow:senior-qa-engineer-berlin-462833",
+      "title": "Senior QA Engineer (m/f/d)",
+      "org": "Boardwise GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-qa-engineer-berlin-462833",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793266288,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Your mission Analyse requirements and user stories and identify gaps, edge cases, and risks early in the development process Design and maintain test documentation, including test plans, test cases, checklists, and requirement traceability Perform functional, "
     },
     {
       "id": "arbeitnow:art-director-london-321742",
@@ -230,36 +408,20 @@
       "summary": "About us At Pencil, we are building the AI Operating System for marketing — the only enterprise platform that aggregates every leading AI model, enforces enterprise-grade governance, and turns creative production savings into media growth. Our work moves brand"
     },
     {
-      "id": "arbeitnow:customer-support-executive-6-month-ftc-remote-in-uk-284708",
-      "title": "Customer Support Executive, 6 month FTC (Remote in UK)",
-      "org": "Nivoda",
-      "role": "marketing",
-      "location": "Remote - UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nivoda/customer-support-executive-6-month-ftc-remote-in-uk-284708",
+      "id": "arbeitnow:ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-265169",
+      "title": "AI Benchmark Engineer | Native Language Specialist - French (France) - Remote",
+      "org": "LILT (Production)",
+      "role": "project",
+      "location": "France (Remote)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-265169",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793234410,
+      "postedAt": 1793266831,
       "tags": [
-        "Revenue"
+        "LiltLancer Community"
       ],
-      "summary": "Location: Remote in Europe Working hours: Mon - Fri, 3PM - 12AM (GMT) Location: Fully remote in the UK or Spain Contract type: 6 months FTC. Immediate start required. About Nivoda 🚀 Nivoda is a global B2B diamond and gemstone marketplace that connects jewelry"
-    },
-    {
-      "id": "arbeitnow:senior-customer-support-executive-italian-french-speaking-remote-in-europe-209505",
-      "title": "Senior Customer Support Executive, Italian & French Speaking (Remote in Europe)",
-      "org": "Nivoda",
-      "role": "training",
-      "location": "Remote - UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nivoda/senior-customer-support-executive-italian-french-speaking-remote-in-europe-209505",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793234410,
-      "tags": [
-        "Revenue"
-      ],
-      "summary": "Location: Remote in Europe Working schedule: Mon - Fri, 8am - 5pm (within your time zone) Language Requirements: Native or full professional proficiency in English, Italian and French is required for this role. In addition, fluency in Spanish is highly desirab"
+      "summary": "About The Opportunity We are building a rigorous, verifiable evaluation suite of Terminal-Bench tasks designed to test the limits of large language models on multilingual software challenges. Our goal is to measure multilingual robustness across prompt languag"
     },
     {
       "id": "arbeitnow:remote-senior-director-functional-planning-oneplan-transformation-paris-377439",
@@ -313,39 +475,21 @@
       "summary": "&lt;p&gt;&lt;span style=\"font-weight: 400;\"&gt;Distributed Systems engineers at Datadog design, implement and run in production the foundational platforms powering our applications. Your data pipelines will ingest, store, analyze and query in real-time billion"
     },
     {
-      "id": "arbeitnow:ccrm-retention-manager-bilingue-francais-anglais-100-remote-paris-182110",
-      "title": "CRM & Retention Manager (Bilingue Français/Anglais - 100% Remote) Réf RF",
-      "org": "EmailClub",
-      "role": "marketing",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/emailclub/ccrm-retention-manager-bilingue-francais-anglais-100-remote-paris-182110",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793224051,
-      "tags": [
-        "Remote",
-        "CRM",
-        "Direct Marketing"
-      ],
-      "summary": "Job description Ta journée type : 🔸 60 % – Création de campagnes hebdomadaires pour tes clients. Brief régulier et co-création avec un Designer sur l’aspect visuel. 🔹 20 % – Mise en place et amélioration des automatisations (SMS & Email) pour tes clients. 🔹"
-    },
-    {
-      "id": "arbeitnow:apporteur-daffaires-pour-etablissement-de-paiement-francais-paris-245583",
-      "title": "Apporteur d'affaires pour établissement de paiement français",
-      "org": "PROXIMÉDIAS",
+      "id": "arbeitnow:intune-spezialistin-zurich-498682",
+      "title": "Intune Spezialist:in",
+      "org": "Coopers Group AG",
       "role": "project",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/proximedias/apporteur-daffaires-pour-etablissement-de-paiement-francais-paris-245583",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/intune-spezialistin-zurich-498682",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793190690,
+      "postedAt": 1793268048,
       "tags": [
         "Remote",
-        "Business Development"
+        "IT"
       ],
-      "summary": "Vous êtes freelance, commercial indépendant, consultant, entrepreneur ou souhaitez développer une activité complémentaire ? Nous vous proposons de devenir apporteur d'affaires pour une solution française de services bancaires et d'encaissement destinée aux pro"
+      "summary": "................ Für unseren Kunden in Luzern , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Intune Spezialist:in. Deine Aufgaben: Betreuung, Betrieb und Weiterentwicklung der bestehenden Microsoft Intune Umgebung für rund 3'200 Notebooks "
     },
     {
       "id": "arbeitnow:erp-consultant-microsoft-dynamics-365-finance-and-operations-16031-festanstellung-winterthur-12267",
@@ -431,23 +575,6 @@
         "IT"
       ],
       "summary": "................ Für unseren Kunden aus dem Bankenumfeld in Zürich , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n IT Support Analyst:in – Application Operations . Deine Aufgaben: Analyse wiederkehrender IT-Probleme, Identifikation von Ursa"
-    },
-    {
-      "id": "arbeitnow:remote-teamleider-werktuigbouwkundige-installaties-barneveld-341180",
-      "title": "Teamleider Werktuigbouwkundige Installaties",
-      "org": "VDK Groep B.V.",
-      "role": "project",
-      "location": "Werken op afstand",
-      "url": "https://www.arbeitnow.nl/jobs/companies/vdk-groep-bv/remote-teamleider-werktuigbouwkundige-installaties-barneveld-341180",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793147506,
-      "tags": [
-        "Management & Staff",
-        "Remote"
-      ],
-      "summary": "Teamleider Werktuigbouwkundige Installaties Ben jij een ervaren installatietechnicus die klaar is voor een leidinggevende rol? Of geef je al leiding aan monteurs en wil je meer verantwoordelijkheid binnen de werktuigbouwkundige installatietechniek? Dan hebben "
     },
     {
       "id": "remotive:2091134",
