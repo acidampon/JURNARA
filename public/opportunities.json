@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T05:58:36.751Z",
+  "updatedAt": "2026-10-30T13:07:57.332Z",
   "sourceCount": 2,
   "totalFetched": 312,
-  "relevantCount": 72,
+  "relevantCount": 41,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -44,244 +44,20 @@
       "summary": "We are seeking a Senior FP&A Analyst to lead end-to-end financial planning, reporting, and forecasting for operating expenses across the organization. In this role, you will own cost center analysis, drive forecast consolidation, manage systems integrity betwe"
     },
     {
-      "id": "arbeitnow:senior-mait-electrical-and-test-engineer-munich-395567",
-      "title": "Senior MAIT Electrical and Test Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/senior-mait-electrical-and-test-engineer-munich-395567",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793320813,
-      "tags": [
-        "MAIT"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refueled in orbit, and which carries cargo - and potentially humans "
-    },
-    {
-      "id": "arbeitnow:ait-electrical-harness-technician-munich-103398",
-      "title": "AIT Electrical/Harness Technician",
-      "org": "The Exploration Company",
-      "role": "training",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-electrical-harness-technician-munich-103398",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793320813,
-      "tags": [
-        "MAIT"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refueled in orbit, and which carries cargo - and potentially humans "
-    },
-    {
-      "id": "arbeitnow:mait-electrical-and-test-engineer-munich-461206",
-      "title": "MAIT Electrical and Test Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/mait-electrical-and-test-engineer-munich-461206",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793320813,
-      "tags": [
-        "MAIT"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refueled in orbit, and which carries cargo - and potentially humans "
-    },
-    {
-      "id": "arbeitnow:contract-manager-munich-315493",
-      "title": "Contract manager",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/contract-manager-munich-315493",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793320813,
-      "tags": [
-        "Program"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. The Exploration Company builds complex space systems under contracts with government and institutional customers. Programs of this kind evolve: requirements change, design maturity impr"
-    },
-    {
-      "id": "arbeitnow:nyx-pmo-munich-germany-bordeaux-france-or-turin-italy-181718",
-      "title": "Nyx PMO",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Munich, Germany; Bordeaux, France; or Turin, Italy",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/nyx-pmo-munich-germany-bordeaux-france-or-turin-italy-181718",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793320813,
-      "tags": [
-        "Program"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. As we continue to develop the Nyx vehicle and prepare its future missions, strong program coordination is essential. We are looking for a motivated and structured Nyx PMO to support the"
-    },
-    {
-      "id": "arbeitnow:mait-additive-manufacturing-technician-dusseldorf-93171",
-      "title": "MAIT Additive Manufacturing Technician",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/mait-additive-manufacturing-technician-dusseldorf-93171",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793320813,
-      "tags": [
-        "MAIT"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refuelled in orbit, and which carries cargo - and potentially humans"
-    },
-    {
-      "id": "arbeitnow:senior-prototype-machinist-dusseldorf-496965",
-      "title": "Senior Prototype Machinist",
-      "org": "The Exploration Company",
+      "id": "arbeitnow:staff-engineer-london-305404",
+      "title": "Staff Engineer",
+      "org": "Wheely",
       "role": "marketing",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/senior-prototype-machinist-dusseldorf-496965",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/staff-engineer-london-305404",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793320813,
+      "postedAt": 1793354119,
       "tags": [
-        "MAIT"
+        "Backend"
       ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. [ Deutsche Version weiter unten] Your Mission At The Exploration Company, we develop, manufacture, and operate Nyx — a modular, reusable orbital spacecraft designed to be refuelled in o"
-    },
-    {
-      "id": "arbeitnow:system-engineer-isos-host-munich-288796",
-      "title": "System Engineer (ISOS Host)",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/system-engineer-isos-host-munich-288796",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793320813,
-      "tags": [
-        "US & Future Programs"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. Our Future Projects unit is dedicated to expanding and complementing these capabilities by conceptualizing and pre-developing new technologies, products and programs. We want you as a t"
-    },
-    {
-      "id": "arbeitnow:senior-export-control-manager-defense-munich-95113",
-      "title": "Senior Export Control Manager - Defense (m/f/d)",
-      "org": "TYTAN Technologies GmbH",
-      "role": "training",
-      "location": "Munich, Bayern, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-export-control-manager-defense-munich-95113",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793320286,
-      "tags": [
-        "Operations"
-      ],
-      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything"
-    },
-    {
-      "id": "arbeitnow:enterprise-account-executive-208840",
-      "title": "Enterprise Account Executive",
-      "org": "boxinc",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.com/jobs/companies/boxinc/enterprise-account-executive-208840",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793310922,
-      "tags": [
-        "Sales AEs"
-      ],
-      "summary": "&lt;div class=\"ace-line\"&gt; &lt;div class=\"ace-line\" data-node-type=\"line\"&gt; &lt;p data-pm-slice=\"1 1 []\"&gt;&lt;strong&gt;WHAT IS BOX?&lt;/strong&gt;&nbsp;&lt;/p&gt; &lt;p&gt;Box (NYSE:BOX) is the leader in Intelligent Content Management. Our platform enab"
-    },
-    {
-      "id": "arbeitnow:enterprise-account-executive-170441",
-      "title": "Enterprise Account Executive",
-      "org": "boxinc",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.com/jobs/companies/boxinc/enterprise-account-executive-170441",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793310922,
-      "tags": [
-        "Sales AEs"
-      ],
-      "summary": "&lt;div class=\"ace-line\"&gt; &lt;div class=\"ace-line\" data-node-type=\"line\"&gt; &lt;p data-pm-slice=\"1 1 []\"&gt;&lt;strong&gt;WHAT IS BOX?&lt;/strong&gt;&nbsp;&lt;/p&gt; &lt;p&gt;Box (NYSE:BOX) is the leader in Intelligent Content Management. Our platform enab"
-    },
-    {
-      "id": "arbeitnow:product-manager-canada-france-spain-or-the-uk-485882",
-      "title": "Product Manager",
-      "org": "remotewoman",
-      "role": "marketing",
-      "location": "Canada, France, Spain or the UK",
-      "url": "https://www.arbeitnow.com/jobs/companies/remotewoman/product-manager-canada-france-spain-or-the-uk-485882",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793310920,
-      "tags": [
-        "Product & Engineering"
-      ],
-      "summary": "&lt;h1&gt;&lt;span style=\"font-size: 14pt; font-family: helvetica, arial, sans-serif;\"&gt;&lt;strong&gt;About Upsun&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span style=\"font-size: 12pt;\"&gt;Upsun is the software factory for human-AI workflows. We gi"
-    },
-    {
-      "id": "arbeitnow:support-engineer-emea-berlin-248246",
-      "title": "Support Engineer (EMEA)",
-      "org": "N8N",
-      "role": "support",
-      "location": "Berlin Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/support-engineer-emea-berlin-248246",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793310015,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
-    },
-    {
-      "id": "arbeitnow:senior-partner-marketing-manager-agency-berlin-126990",
-      "title": "Senior Partner Marketing Manager - Agency",
-      "org": "N8N",
-      "role": "marketing",
-      "location": "Berlin Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-partner-marketing-manager-agency-berlin-126990",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793310015,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
-    },
-    {
-      "id": "arbeitnow:senior-software-engineer-fullstack-merchant-emea-berlin-172080",
-      "title": "Senior Software Engineer (Fullstack) - Merchant EMEA",
-      "org": "wolt",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt/senior-software-engineer-fullstack-merchant-emea-berlin-172080",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793300120,
-      "tags": [
-        "Merchant Engineering"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2&gt;&lt;span data-sheets-root=\"1\"&gt;About Wolt&lt;/span&gt;&lt;/h2&gt; &lt;p&gt;&lt;span data-sheets-root=\"1\"&gt;At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. I"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;&lt;strong&gt;About Wheely&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Wheely is redefining premium transportation across major cities in Europe, the US, and the Middle East. We blend cutting-edge technology with the craft of "
     },
     {
       "id": "arbeitnow:ait-mechanical-engineer-lunar-lander-bordeaux-109905",
@@ -316,501 +92,225 @@
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society a"
     },
     {
-      "id": "arbeitnow:backend-engineer-real-time-video-amsterdam-234378",
-      "title": "Backend Engineer – Real-Time Video",
-      "org": "Stream",
-      "role": "training",
-      "location": "Amsterdam office",
-      "url": "https://www.arbeitnow.nl/jobs/companies/stream/backend-engineer-real-time-video-amsterdam-234378",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793277639,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "About Stream Stream powers real-time Chat , Video , Activity Feeds , and AI Moderation for more than 1 billion end users across 4,000+ apps, from Strava and Bumble to eBay and Patreon. Our platform processes billions of API requests per month and supports appl"
-    },
-    {
-      "id": "arbeitnow:projekt-management-tutor-lehrkraft-all-genders-berlin-487330",
-      "title": "Projekt Management Tutor/Lehrkraft (all genders)",
-      "org": "Stackfuel",
-      "role": "training",
-      "location": "Remote - Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/stackfuel/projekt-management-tutor-lehrkraft-all-genders-berlin-487330",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793331613,
-      "tags": [
-        "Operations"
-      ],
-      "summary": "Tutor/Lehrkraft Projekt Management (all genders) Du hast in Product Management, Projektmanagement oder Change Management gearbeitet, kennst Frameworks wie Agile/Scrum, Kanban oder OKR aus der Praxis und willst dieses Wissen jetzt weitergeben, statt es nur in d"
-    },
-    {
-      "id": "arbeitnow:career-coach-all-genders-berlin-470508",
-      "title": "Career Coach (all genders)",
-      "org": "Stackfuel",
-      "role": "training",
-      "location": "Remote - Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/stackfuel/career-coach-all-genders-berlin-470508",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793331613,
-      "tags": [
-        "Delivery"
-      ],
-      "summary": "Jobbeschreibung Als Career Coach begleitest Du unsere Lernenden auf dem entscheidendsten Abschnitt ihres Weges: dem Sprung in den neuen Job. Mit gezieltem Bewerbungscoaching, individueller Karriereberatung und einer klaren Portion Motivation machst Du aus Unsi"
-    },
-    {
-      "id": "arbeitnow:remote-sr-product-manager-revenue-management-1-year-contract-237883",
-      "title": "Remote Sr. Product Manager - Revenue Management - 1 year contract (m/f/d)",
-      "org": "Roompricegenie",
-      "role": "marketing",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-revenue-management-1-year-contract-237883",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320815,
-      "tags": [
-        "Product & Engineering"
-      ],
-      "summary": "About RoomPriceGenie ✨🧞‍♂️ Founded in 2017, RoomPriceGenie is dedicated to helping hoteliers around the globe achieve optimal pricing. 🌍 We understand that many small hotels face challenges with digitalization, making their operations increasingly complex an"
-    },
-    {
-      "id": "arbeitnow:remote-staff-engineer-voyagu-195754",
-      "title": "Staff Engineer | Voyagu",
-      "org": "Hirehire",
-      "role": "project",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-staff-engineer-voyagu-195754",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320815,
-      "tags": [
-        "AI/ML/Tech"
-      ],
-      "summary": "Role: Staff Engineer (Integrations / Supply, air travel) Company: Voyagu Location: Fully remote, Europe preferred. European time zone; about two hours of difference is fine. About eight hours online, and some overlap with US time zones helps because many users"
-    },
-    {
-      "id": "arbeitnow:remote-recruitment-partner-467351",
-      "title": "Recruitment Partner",
-      "org": "Hirehire",
-      "role": "hr",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-recruitment-partner-467351",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320815,
-      "tags": [
-        "Roles at hirehire"
-      ],
-      "summary": "Who we are hirehire agency is built around deep product and design expertise. Our expert network is made up of senior designers and PMs who have worked at companies like Intercom, Stripe, Revolut, and others. They interview and evaluate like practitioners – be"
-    },
-    {
-      "id": "arbeitnow:remote-senior-sales-engineer-berlin-220891",
-      "title": "Senior Sales Engineer (m/w/d)",
-      "org": "Natuvion GmbH",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sales-engineer-berlin-220891",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793309469,
-      "tags": [
-        "Sales",
-        "Remote"
-      ],
-      "summary": "Als Senior Sales Engineer (m/w/d) fungierst du als zentrale Schnittstelle zwischen Vertrieb, Consulting und Projektumsetzung . Du unterstützt den Sales-Prozess, indem du komplexe Kundenanforderungen analysierst, strukturierst und daraus tragfähige SAP-Lösungsk"
-    },
-    {
-      "id": "arbeitnow:werkstudent-marketing-remote-118440",
-      "title": "Werkstudent Marketing (m/w/d) · Remote",
-      "org": "Evolve Digital GmbH",
-      "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/werkstudent-marketing-remote-118440",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793309468,
-      "tags": [
-        "Prozessmanager",
-        "Remote"
-      ],
-      "summary": "Du studierst Marketing oder etwas Ähnliches, hast schon erste Social-Media-Erfahrung und behältst auch bei vielen Themen gleichzeitig den Überblick? Bei uns übernimmst du Verantwortung für unsere LinkedIn- und Instagram-Auftritte und hältst bei Content- und Le"
-    },
-    {
-      "id": "arbeitnow:founders-associate-entrepreneur-in-residence-berlin-448412",
-      "title": "Founder’s Associate / Entrepreneur in Residence",
-      "org": "Polara",
-      "role": "marketing",
+      "id": "arbeitnow:mitarbeiter-in-der-kundenberatung-berlin-157497",
+      "title": "Mitarbeiter in der Kundenberatung",
+      "org": "DIB Consulting GmbH",
+      "role": "support",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/polara/founders-associate-entrepreneur-in-residence-berlin-448412",
+      "url": "https://www.arbeitnow.com/jobs/companies/dib-consulting-gmbh/mitarbeiter-in-der-kundenberatung-berlin-157497",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793300447,
+      "postedAt": 1793361652,
       "tags": [
         "Remote",
-        "Business Operations"
+        "Customer Service"
       ],
-      "summary": "About us We’re a team of serial entrepreneurs who have built and scaled companies before, and we’re starting again. Our next venture tackles a problem every founder knows: protecting your brand is slow, expensive and confusing. We combine smart technology with"
+      "summary": "Über uns Wir sind ein moderner Bildungsträger mit Schwerpunkt auf digitalen und beruflichen Weiterbildungen. Unser Ziel ist es, Menschen dabei zu unterstützen, sich erfolgreich auf die Anforderungen der Arbeitswelt von morgen vorzubereiten. Zur Verstärkung uns"
     },
     {
-      "id": "arbeitnow:remote-dental-lab-technician-219454",
-      "title": "Dental Lab Technician",
-      "org": "Dandy",
+      "id": "arbeitnow:founding-engineer-remote-or-hybrid-eea-uk-berlin-43150",
+      "title": "Founding Engineer (Remote or Hybrid - EEA/UK)",
+      "org": "Tarebase",
       "role": "project",
-      "location": "Germany - Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/dandy/remote-dental-lab-technician-219454",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/tarebase/founding-engineer-remote-or-hybrid-eea-uk-berlin-43150",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793299220,
+      "postedAt": 1793358135,
       "tags": [
-        "Commercial"
+        "Remote",
+        "Software Development"
       ],
-      "summary": "Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through te"
+      "summary": "Founding Engineer Role can be based remotely in the EEA or hybrid in our London or Munich offices. Fixed software is the wrong shape for logistics, because every team runs its processes differently. Tare is our solution. Combining agentic AI with deterministic"
     },
     {
-      "id": "arbeitnow:senior-customer-engineer-stuttgart-65014",
-      "title": "(Senior) Customer Engineer (m/w/d)",
-      "org": "Flip GmbH",
-      "role": "hr",
-      "location": "Stuttgart & Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/senior-customer-engineer-stuttgart-65014",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793299219,
-      "tags": [
-        "Customer Delivery"
-      ],
-      "summary": "Empower every employee. KI hat verändert, wie Büroangestellte arbeiten. Bei den 80 % der weltweiten Belegschaft , die nicht am Schreibtisch sitzen, ist sie bisher kaum angekommen. Flip AI ändert das. Flip AI ist das #1 Frontline Agentic Operating System (OS) ,"
-    },
-    {
-      "id": "arbeitnow:senior-customer-engineer-stuttgart-179486",
-      "title": "(Senior) Customer Engineer (m/f/d)",
-      "org": "Flip GmbH",
+      "id": "arbeitnow:social-media-manager-berlin-390196",
+      "title": "Social Media Manager",
+      "org": "TokPortal",
       "role": "marketing",
-      "location": "Stuttgart & Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/senior-customer-engineer-stuttgart-179486",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/tokportal/social-media-manager-berlin-390196",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793299219,
+      "postedAt": 1793358132,
       "tags": [
-        "Customer Delivery"
+        "Remote",
+        "Social Media Manager"
       ],
-      "summary": "Empower every employee. AI has changed how office workers get things done. For the 80% of the global workforce that doesn't sit at a desk, it has barely arrived. Flip AI is changing that. Flip AI is the #1 Frontline Agentic Operating System (OS) to build, auto"
+      "summary": "TokPortal sucht Social Media Manager (m/w/d) in Deutschland. Betreue Social-Media-Accounts und veröffentliche bereitgestellte Inhalte. Flexible Zusammenarbeit auf freiberuflicher Basis mit Vergütung pro Mission. Die Vergütung siehst du vor der Annahme. Du lebs"
     },
     {
-      "id": "arbeitnow:remote-senior-manager-global-benefits-206561",
-      "title": "Senior Manager, Global Benefits",
-      "org": "dataiku",
+      "id": "arbeitnow:customer-success-manager-berlin-325598",
+      "title": "Customer Success Manager (m/f/d)",
+      "org": "Ordio GmbH",
+      "role": "support",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/ordio-gmbh/customer-success-manager-berlin-325598",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793356298,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "Weltweit arbeiten 80 % aller Beschäftigten nicht am Schreibtisch. Mit Ordio 💙 bieten wir eine All-in-One-Softwarelösung, die speziell für diese Mitarbeitenden entwickelt wurde und Unternehmen dabei hilft, ihren Arbeitsalltag zu organisieren und Abläufe für al"
+    },
+    {
+      "id": "arbeitnow:senior-sap-berater-entwickler-s-4hana-transformation-remlingen-360445",
+      "title": "Senior SAP Berater / Entwickler S/4HANA Transformation (m/w/d)",
+      "org": "promantis GmbH",
+      "role": "project",
+      "location": "Remlingen",
+      "url": "https://www.arbeitnow.com/jobs/companies/promantis-gmbh/senior-sap-berater-entwickler-s-4hana-transformation-remlingen-360445",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793349087,
+      "tags": [
+        "Remote",
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "summary": "Gestalte mit uns die digitale Zukunft der Energiewirtschaft Professionell. Progressiv. Proaktiv. Die promantis GmbH steht seit 2008 für SAP- und IT-Beratung mit Leidenschaft, Kompetenz und Zusammenarbeit auf Augenhöhe. Unsere Mission ist es, die digitale Zukun"
+    },
+    {
+      "id": "arbeitnow:accountant-all-genders-berlin-260356",
+      "title": "Accountant (all genders)",
+      "org": "Code Gaia",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/code-gaia/accountant-all-genders-berlin-260356",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793349087,
+      "tags": [
+        "Remote",
+        "Finance"
+      ],
+      "summary": "JOIN US Bei Code Gaia zu arbeiten bedeutet, dass du an etwas sehr Wichtigem arbeitest: Der Transformation zu einer nachhaltigen Wirtschaft. Wir sind dafür da, dass Nachhaltigkeit nicht mühsam oder zeitaufwendig für Unternehmen ist. Stattdessen wollen wir klein"
+    },
+    {
+      "id": "arbeitnow:senior-sap-analytics-ai-consultant-berlin-374956",
+      "title": "Senior SAP Analytics & AI Consultant (m/w/d)",
+      "org": "promantis GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/promantis-gmbh/senior-sap-analytics-ai-consultant-berlin-374956",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793349085,
+      "tags": [
+        "Remote",
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "summary": "Wer wir sind Gestalte mit uns die datengetriebene Zukunft der Energiewirtschaft Daten sind für Dich mehr als Zahlen in einem Reporting? Du möchtest Unternehmen dabei unterstützen, aus Daten echte Erkenntnisse, bessere Entscheidungen und nachhaltigen Geschäftsw"
+    },
+    {
+      "id": "arbeitnow:kundenberater-breitband-telekommunikation-homeoffice-berlin-272739",
+      "title": "Kundenberater Breitband & Telekommunikation (m/w/d) | Homeoffice",
+      "org": "hey contact heroes GmbH",
+      "role": "support",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/kundenberater-breitband-telekommunikation-homeoffice-berlin-272739",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793347275,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "Deutschland | Remote | Festanstellung | Vollzeit oder Teilzeit Du hast Freude am Kundenkontakt, arbeitest serviceorientiert und möchtest Menschen bei ihren Anliegen rund um Breitband und Telekommunikation unterstützen? Dann bist Du bei uns genau richtig. Die h"
+    },
+    {
+      "id": "arbeitnow:remote-program-manager-aircraft-227239",
+      "title": "Program Manager, Aircraft",
+      "org": "Swarmaero",
+      "role": "project",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-program-manager-aircraft-227239",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793342417,
+      "tags": [
+        "Aircraft"
+      ],
+      "summary": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command & Control"
+    },
+    {
+      "id": "arbeitnow:remote-director-revenue-compensation-272178",
+      "title": "Director, Revenue Compensation",
+      "org": "Spring Health",
       "role": "marketing",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-senior-manager-global-benefits-206561",
+      "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-director-revenue-compensation-272178",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793321719,
-      "tags": [
-        "Total Rewards"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\"&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestra"
-    },
-    {
-      "id": "arbeitnow:procurement-legal-cousel-london-497779",
-      "title": "Procurement Legal Cousel",
-      "org": "Volta",
-      "role": "project",
-      "location": "United Kingdom - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/volta/procurement-legal-cousel-london-497779",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320817,
-      "tags": [
-        "Delivery"
-      ],
-      "summary": "About Volta Volta is the category-defining, fully vertically integrated AI infrastructure platform – from capital to clusters to software, under a founder-led enterprise. Our mission is The Utility of Compute™: AI infrastructure as dependable and available as "
-    },
-    {
-      "id": "arbeitnow:remote-sales-engineer-emea-473220",
-      "title": "Sales Engineer (EMEA)",
-      "org": "Constructor",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-sales-engineer-emea-473220",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320816,
+      "postedAt": 1793342417,
       "tags": [
         "Sales"
       ],
-      "summary": "About Us Constructor.io powers product search and discovery for some of the largest retailers in the world. We serve billions of requests every week, and you've probably seen our results somewhere and used our product without knowing it. We differentiate ourse"
+      "summary": "Our mission: eliminating every barrier to mental health. Spring Health is a global mental health company on a mission to eliminate every barrier to mental health. We're building a world where getting support is simple, personal, and built around the person, so"
     },
     {
-      "id": "arbeitnow:remote-sql-developer-ai-prompting-context-engineering-bromley-268635",
-      "title": "SQL Developer – AI Prompting & Context Engineering",
-      "org": "Bromcom Computers Plc",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-268635",
+      "id": "arbeitnow:social-media-manager-london-343043",
+      "title": "Social Media Manager",
+      "org": "TokPortal",
+      "role": "marketing",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tokportal/social-media-manager-london-343043",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793320289,
+      "postedAt": 1793358133,
       "tags": [
-        "Software & QA",
-        "Remote"
+        "Remote",
+        "Social Media Manager"
       ],
-      "summary": "This is a dual role, split between approximately 60% AI-assisted development and agent orchestration, and 40% SQL Server development supporting large-scale data migration. You’ll work within the development team and report to the Software Manager, combining pr"
+      "summary": "TokPortal is looking for Social Media Managers based in the United States. Manage social media accounts and publish ready-to-use content. Flexible freelance collaboration, paid per mission. You see the reward before accepting a mission. You need a smartphone a"
     },
     {
-      "id": "arbeitnow:remote-research-engineer-intern-multimodal-llm-united-kindom-376995",
-      "title": "Research Engineer Intern (Multimodal LLM)",
-      "org": "Tether Operations Limited",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-research-engineer-intern-multimodal-llm-united-kindom-376995",
+      "id": "arbeitnow:remote-developpeur-confirme-ia-h-f-lyon-60190",
+      "title": "Développeur confirmé IA - H/F",
+      "org": "N2JSoft",
+      "role": "project",
+      "location": "Poste à distance",
+      "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-confirme-ia-h-f-lyon-60190",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793320286,
+      "postedAt": 1793352689,
       "tags": [
-        "Engineering",
+        "R&D",
         "Remote"
       ],
-      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
+      "summary": "Qui sommes-nous ? N2JSoft est une fintech B2B SaaS spécialisée dans la digitalisation des processus RH et financiers. Avec plus de 20 000 clients et 1 million d’utilisateurs dans 98 pays, nos solutions N2F et Keeple s’imposent comme des références sur le march"
     },
     {
-      "id": "arbeitnow:head-of-regulatory-affairs-ai-and-p2p-100-remote-london-470490",
-      "title": "Head of Regulatory Affairs - AI and P2P (100% remote)",
-      "org": "Tether Operations Limited",
+      "id": "arbeitnow:ftth-security-expert-paris-486738",
+      "title": "FTTH Security Expert",
+      "org": "P1 Security",
       "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/head-of-regulatory-affairs-ai-and-p2p-100-remote-london-470490",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/p1-security/ftth-security-expert-paris-486738",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793320286,
+      "postedAt": 1793345466,
       "tags": [
-        "Regulatory Affairs and Licensing",
-        "Remote"
+        "Remote",
+        "IT Security"
       ],
-      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
-    },
-    {
-      "id": "arbeitnow:ai-research-engineer-agentic-post-training-100-remote-worldwide-united-kindom-125784",
-      "title": "AI Research Engineer (Agentic Post-training) - 100% Remote Worldwide",
-      "org": "Tether Operations Limited",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-agentic-post-training-100-remote-worldwide-united-kindom-125784",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320286,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
-    },
-    {
-      "id": "arbeitnow:ai-research-engineer-multi-modal-reinforcement-learning-100-remote-worldwide-united-kindom-310270",
-      "title": "AI Research Engineer (Multi-Modal Reinforcement Learning) - 100% Remote Worldwide",
-      "org": "Tether Operations Limited",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-multi-modal-reinforcement-learning-100-remote-worldwide-united-kindom-310270",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320286,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
-    },
-    {
-      "id": "arbeitnow:ai-research-engineer-multi-modal-vision-100-remote-worldwide-united-kindom-190704",
-      "title": "AI Research Engineer (Multi-Modal & Vision) - 100% Remote Worldwide",
-      "org": "Tether Operations Limited",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-multi-modal-vision-100-remote-worldwide-united-kindom-190704",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320286,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
-    },
-    {
-      "id": "arbeitnow:remote-ai-research-engineer-model-compression-quantization-united-kindom-225892",
-      "title": "AI Research Engineer (Model Compression & Quantization)",
-      "org": "Tether Operations Limited",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-model-compression-quantization-united-kindom-225892",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320286,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
-    },
-    {
-      "id": "arbeitnow:remote-ai-research-engineer-model-compression-quantization-london-40920",
-      "title": "AI Research Engineer (Model Compression & Quantization)",
-      "org": "Tether Operations Limited",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-model-compression-quantization-london-40920",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320286,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
-    },
-    {
-      "id": "arbeitnow:ai-research-engineer-model-compression-quantization-100-remote-worldwide-united-kindom-226794",
-      "title": "AI Research Engineer (Model Compression & Quantization) - 100% Remote Worldwide",
-      "org": "Tether Operations Limited",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-model-compression-quantization-100-remote-worldwide-united-kindom-226794",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320286,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
-    },
-    {
-      "id": "arbeitnow:senior-business-analyst-mining-100-remote-london-480772",
-      "title": "Senior Business Analyst Mining (100% remote)",
-      "org": "Tether Operations Limited",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-business-analyst-mining-100-remote-london-480772",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320286,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
-    },
-    {
-      "id": "arbeitnow:remote-ai-research-engineer-pre-training-llm-multi-modal-united-kindom-48620",
-      "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
-      "org": "Tether Operations Limited",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-pre-training-llm-multi-modal-united-kindom-48620",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320286,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
-    },
-    {
-      "id": "arbeitnow:remote-ai-research-engineer-pre-training-llm-multi-modal-london-230689",
-      "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
-      "org": "Tether Operations Limited",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-pre-training-llm-multi-modal-london-230689",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320286,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
-    },
-    {
-      "id": "arbeitnow:remote-ai-research-engineer-multi-modal-vision-london-236862",
-      "title": "AI Research Engineer (Multi-Modal & Vision)",
-      "org": "Tether Operations Limited",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-ai-research-engineer-multi-modal-vision-london-236862",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320286,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
-    },
-    {
-      "id": "arbeitnow:remote-engagement-manager-ai-implementations-london-439998",
-      "title": "Engagement Manager, AI Implementations",
-      "org": "Tether Operations Limited",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-engagement-manager-ai-implementations-london-439998",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320286,
-      "tags": [
-        "Expansion",
-        "Remote"
-      ],
-      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
-    },
-    {
-      "id": "arbeitnow:ai-research-engineer-pre-training-llm-multi-modal-100-remote-worldwide-united-kindom-353480",
-      "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal) - 100% Remote Worldwide",
-      "org": "Tether Operations Limited",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-pre-training-llm-multi-modal-100-remote-worldwide-united-kindom-353480",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793320286,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
+      "summary": "About P1 Security Founded in 2011 by serial entrepreneur and security expert Philippe Langlois, P1 Security is on a mission to secure critical and sovereign mobile networks by providing services and technologies to identify, detect and recover from critical th"
     },
     {
       "id": "arbeitnow:remote-senior-manager-global-benefits-212788",
@@ -859,6 +359,23 @@
         "Synergee"
       ],
       "summary": "À propos d’Everfield Everfield acquiert, développe et accompagne la croissance d’éditeurs européens de logiciels métiers et spécialisés, en leur donnant les clés pour franchir un cap. Notre mission : nourrir l’ambition, alimenter la croissance et révéler le po"
+    },
+    {
+      "id": "arbeitnow:remote-informationssicherheitsberater-aarau-351039",
+      "title": "Informationssicherheitsberater",
+      "org": "Callista Group AG",
+      "role": "project",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/remote-informationssicherheitsberater-aarau-351039",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793352685,
+      "tags": [
+        "Software Engineering",
+        "Remote"
+      ],
+      "summary": "Für die Informationssicherheit eines kantonalen Departements in der öffentlichen Verwaltung suchen wir einen externen Berater für Informationssicherheit. Du unterstützt die informationssicherheitsbeauftragte Person fachlich und sorgst dafür, dass Sicherheitsan"
     },
     {
       "id": "arbeitnow:remote-director-of-strategic-accounts-407977",
@@ -941,23 +458,6 @@
         "Controlling"
       ],
       "summary": "Lightly AG is a Zurich-based AI company and ETH/HSG spin-off, backed by Y Combinator and top-tier investors. Our machine learning and computer vision technology is trusted by global leaders in autonomous driving, medical imaging, and visual inspection. We’re l"
-    },
-    {
-      "id": "arbeitnow:e-commerce-operations-manager-in-amazon-zurich-149664",
-      "title": "E-Commerce Operations Manager/-in (Amazon)",
-      "org": "GalleryLab GmbH",
-      "role": "marketing",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-zurich-149664",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793286085,
-      "tags": [
-        "Remote",
-        "Business Operations"
-      ],
-      "summary": "Wir glauben: Guter Schlaf ist pure Lebensqualität und beginnt mit der richtigen Ausstattung. Deshalb haben wir uns vor über 5 Jahren auf die Entwicklung und den Verkauf qualitativer Bettwaren, wie Bettdecken, Kissen und Bezüge spezialisiert. Heute sind wir ein"
     },
     {
       "id": "arbeitnow:remote-senior-aws-platform-engineer-utrecht-130307",
