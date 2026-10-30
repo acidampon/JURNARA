@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T13:07:57.332Z",
+  "updatedAt": "2026-10-30T22:28:07.433Z",
   "sourceCount": 2,
   "totalFetched": 312,
-  "relevantCount": 41,
+  "relevantCount": 48,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,53 +11,91 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:remote-product-manager-168702",
-      "title": "Product Manager",
-      "org": "remotewoman",
+      "id": "arbeitnow:remote-senior-product-designer-france-120501",
+      "title": "Senior Product Designer (m/f/d)",
+      "org": "Hilobyaktiia",
       "role": "marketing",
-      "location": "Remote • Germany, Canada, Spain or the UK",
-      "url": "https://www.arbeitnow.fr/jobs/companies/remotewoman/remote-product-manager-168702",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hilobyaktiia/remote-senior-product-designer-france-120501",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793310921,
+      "postedAt": 1793380809,
       "tags": [
-        "Product & Engineering"
-      ],
-      "summary": "&lt;h1&gt;&lt;span style=\"font-size: 14pt; font-family: helvetica, arial, sans-serif;\"&gt;&lt;strong&gt;About Upsun&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span style=\"font-size: 12pt;\"&gt;Upsun is the software factory for human-AI workflows. We gi"
-    },
-    {
-      "id": "arbeitnow:remote-senior-financial-analyst-fpa-contractor-netherlands-91709",
-      "title": "Senior Financial Analyst (FP&A) (Contractor)",
-      "org": "PVcase",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.nl/jobs/companies/pvcase/remote-senior-financial-analyst-fpa-contractor-netherlands-91709",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793298665,
-      "tags": [
-        "Operations",
+        "Design",
+        "Medical Devices",
         "Remote"
       ],
-      "summary": "We are seeking a Senior FP&A Analyst to lead end-to-end financial planning, reporting, and forecasting for operating expenses across the organization. In this role, you will own cost center analysis, drive forecast consolidation, manage systems integrity betwe"
+      "summary": "About Hilo by Aktiia High blood pressure is the world's most common disease, causing 18M deaths each year. At Hilo by Aktiia, we're building a world where no lives are lost to its effects — with technology that helps people take control of their health. We're "
     },
     {
-      "id": "arbeitnow:staff-engineer-london-305404",
-      "title": "Staff Engineer",
-      "org": "Wheely",
+      "id": "arbeitnow:remote-lead-product-designer-france-379469",
+      "title": "Lead Product Designer (m/f/d)",
+      "org": "Hilobyaktiia",
       "role": "marketing",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/staff-engineer-london-305404",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hilobyaktiia/remote-lead-product-designer-france-379469",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793380809,
+      "tags": [
+        "Design",
+        "Medical Devices",
+        "Remote"
+      ],
+      "summary": "About Hilo by Aktiia High blood pressure is the world's most common disease, causing 18M deaths each year. At Hilo by Aktiia, we're building a world where no lives are lost to its effects — with technology that helps people take control of their health. We're "
+    },
+    {
+      "id": "arbeitnow:remote-influencer-marketing-manager-france-448720",
+      "title": "Influencer Marketing Manager (m/f/d)",
+      "org": "Hilobyaktiia",
+      "role": "marketing",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hilobyaktiia/remote-influencer-marketing-manager-france-448720",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793380809,
+      "tags": [
+        "Marketing",
+        "Medical Devices",
+        "Marketing/Brand",
+        "Remote"
+      ],
+      "summary": "About Hilo by Aktiia High blood pressure is the world's most common disease, causing 18M deaths each year. At Hilo by Aktiia, we're building a world where no lives are lost to its effects — with technology that helps people take control of their health. We're "
+    },
+    {
+      "id": "arbeitnow:forward-deployed-engineer-united-kingdom-439387",
+      "title": "Forward Deployed Engineer",
+      "org": "True Talent Solutions Partners",
+      "role": "project",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-united-kingdom-439387",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793354119,
+      "postedAt": 1793385615,
       "tags": [
-        "Backend"
+        "Client Roles"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;&lt;strong&gt;About Wheely&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Wheely is redefining premium transportation across major cities in Europe, the US, and the Middle East. We blend cutting-edge technology with the craft of "
+      "summary": "About the Role Join a B2B SaaS team building software for certification, inspection, and compliance workflows. You will work directly with customers to understand how their operations run and turn real-world challenges into production-ready software and AI-pow"
+    },
+    {
+      "id": "arbeitnow:ait-systems-integration-engineer-reading-188971",
+      "title": "AIT Systems Integration Engineer",
+      "org": "Neworbit",
+      "role": "marketing",
+      "location": "Reading, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/ait-systems-integration-engineer-reading-188971",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793374817,
+      "tags": [
+        "Satellite"
+      ],
+      "summary": "Company NewOrbit builds satellites that fly in very low Earth orbit, below 300 km, along with the electric propulsion that keeps them there. Flying closer to Earth means sharper imagery from smaller optics, and an orbit that cleans itself: our satellites de-or"
     },
     {
       "id": "arbeitnow:ait-mechanical-engineer-lunar-lander-bordeaux-109905",
@@ -76,207 +114,413 @@
       "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We want you as a talented AIT Mechanical Engineer to help us in our mission by: Being involved in any type of operations for The Exploration Company in our facilities, like all the mech"
     },
     {
-      "id": "arbeitnow:public-sector-sales-lead-paris-384793",
-      "title": "Public Sector Sales Lead",
-      "org": "anthropic",
-      "role": "training",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/anthropic/public-sector-sales-lead-paris-384793",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793300121,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society a"
-    },
-    {
-      "id": "arbeitnow:mitarbeiter-in-der-kundenberatung-berlin-157497",
-      "title": "Mitarbeiter in der Kundenberatung",
-      "org": "DIB Consulting GmbH",
-      "role": "support",
+      "id": "arbeitnow:software-engineer-edge-cloud-berlin-16107",
+      "title": "Software Engineer - Edge & Cloud (m/w/d)",
+      "org": "1KOMMA5˚",
+      "role": "marketing",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/dib-consulting-gmbh/mitarbeiter-in-der-kundenberatung-berlin-157497",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/software-engineer-edge-cloud-berlin-16107",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793361652,
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "summary": "Über uns Wir sind ein moderner Bildungsträger mit Schwerpunkt auf digitalen und beruflichen Weiterbildungen. Unser Ziel ist es, Menschen dabei zu unterstützen, sich erfolgreich auf die Anforderungen der Arbeitswelt von morgen vorzubereiten. Zur Verstärkung uns"
-    },
-    {
-      "id": "arbeitnow:founding-engineer-remote-or-hybrid-eea-uk-berlin-43150",
-      "title": "Founding Engineer (Remote or Hybrid - EEA/UK)",
-      "org": "Tarebase",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/tarebase/founding-engineer-remote-or-hybrid-eea-uk-berlin-43150",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793358135,
+      "postedAt": 1793392252,
       "tags": [
         "Remote",
         "Software Development"
       ],
-      "summary": "Founding Engineer Role can be based remotely in the EEA or hybrid in our London or Munich offices. Fixed software is the wrong shape for logistics, because every team runs its processes differently. Tare is our solution. Combining agentic AI with deterministic"
+      "summary": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, W"
     },
     {
-      "id": "arbeitnow:social-media-manager-berlin-390196",
-      "title": "Social Media Manager",
-      "org": "TokPortal",
+      "id": "arbeitnow:software-engineer-edge-cloud-berlin-280496",
+      "title": "Software Engineer - Edge & Cloud (m/f/d)",
+      "org": "1KOMMA5˚",
       "role": "marketing",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/tokportal/social-media-manager-berlin-390196",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/software-engineer-edge-cloud-berlin-280496",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793358132,
+      "postedAt": 1793392252,
       "tags": [
         "Remote",
-        "Social Media Manager"
+        "Software Development"
       ],
-      "summary": "TokPortal sucht Social Media Manager (m/w/d) in Deutschland. Betreue Social-Media-Accounts und veröffentliche bereitgestellte Inhalte. Flexible Zusammenarbeit auf freiberuflicher Basis mit Vergütung pro Mission. Die Vergütung siehst du vor der Annahme. Du lebs"
+      "summary": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scala"
     },
     {
-      "id": "arbeitnow:customer-success-manager-berlin-325598",
-      "title": "Customer Success Manager (m/f/d)",
-      "org": "Ordio GmbH",
-      "role": "support",
+      "id": "arbeitnow:remote-senior-sap-is-u-abap-application-developer-produktentwicklung-berlin-395668",
+      "title": "Senior SAP IS-U ABAP Application Developer - Produktentwicklung (m/w/d)",
+      "org": "Natuvion GmbH",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-is-u-abap-application-developer-produktentwicklung-berlin-395668",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793385069,
+      "tags": [
+        "Product Development",
+        "Remote"
+      ],
+      "summary": "Als Senior SAP IS-U ABAP Application Developer (m/w/d) gestaltest du die Zukunft unserer Produktfamilie und Transformationsplattform Natuvion DCS (Data Conversion Suite) im Bereich Content, mit Fokus auf die Versorgungswirtschaft. Du bringst dein Wissen über S"
+    },
+    {
+      "id": "arbeitnow:remote-senior-sap-fi-co-abap-application-developer-produktentwicklung-berlin-324805",
+      "title": "Senior SAP FI/CO ABAP Application Developer - Produktentwicklung (m/w/d)",
+      "org": "Natuvion GmbH",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-fi-co-abap-application-developer-produktentwicklung-berlin-324805",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793385069,
+      "tags": [
+        "Product Development",
+        "Remote"
+      ],
+      "summary": "Als Senior SAP FI/CO ABAP Application Developer (m/w/d) gestaltest du die Zukunft unserer Produktfamilie und Transformationsplattform Natuvion DCS (Data Conversion Suite) im Bereich Content, mit Fokus auf Finanzwesen und Controlling. Du bringst dein Wissen übe"
+    },
+    {
+      "id": "arbeitnow:working-student-digital-marketing-website-management-remote-nationwide-148101",
+      "title": "Working Student (m/f/d) Digital Marketing & Website Management (Remote)",
+      "org": "Primion Technology GmbH",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/primion-technology-gmbh/working-student-digital-marketing-website-management-remote-nationwide-148101",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793385069,
+      "tags": [
+        "Marketing",
+        "Remote"
+      ],
+      "summary": "Protect what matters. Primion Technology is a global solution provider and market leader in Converged Security Solutions and Workforce Management . For more than 30 years, we have supported around 5,000 satisfied customers worldwide who rely on our certified s"
+    },
+    {
+      "id": "arbeitnow:remote-sales-director-dach-405438",
+      "title": "Sales Director DACH",
+      "org": "Exeon Analytics",
+      "role": "training",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/exeon-analytics/remote-sales-director-dach-405438",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793385068,
+      "tags": [
+        "Sales",
+        "Remote"
+      ],
+      "summary": "We’re looking for an experienced regional sales leader who combines strategic thinking with a strong hands-on approach — someone with a proven track record in scaling revenue in high-growth environments, preferably in cybersecurity or software, who can lead an"
+    },
+    {
+      "id": "arbeitnow:senior-google-ads-manager-ai-first-performance-marketing-remote-84863",
+      "title": "(Senior) Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
+      "org": "Evolve Digital GmbH",
+      "role": "marketing",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-google-ads-manager-ai-first-performance-marketing-remote-84863",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793385068,
+      "tags": [
+        "Operations",
+        "Remote"
+      ],
+      "summary": "Google Ads verändert sich durch AI schneller als je zuvor. Wir suchen deshalb keinen klassischen Ads Manager, sondern jemanden, der Lust hat, Performance Marketing neu zu denken und die Zukunft des Kanals mitzugestalten. Bei EVOLVE Digital arbeiten wir AI-firs"
+    },
+    {
+      "id": "arbeitnow:senior-delivery-manager-berlin-228626",
+      "title": "Senior Delivery Manager (m/w/d)",
+      "org": "SPREAD GmbH",
+      "role": "marketing",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/ordio-gmbh/customer-success-manager-berlin-325598",
+      "url": "https://www.arbeitnow.com/jobs/companies/spread-gmbh/senior-delivery-manager-berlin-228626",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793356298,
+      "postedAt": 1793385037,
       "tags": [
         "Remote",
-        "Customer Service"
+        "Project Management"
       ],
-      "summary": "Weltweit arbeiten 80 % aller Beschäftigten nicht am Schreibtisch. Mit Ordio 💙 bieten wir eine All-in-One-Softwarelösung, die speziell für diese Mitarbeitenden entwickelt wurde und Unternehmen dabei hilft, ihren Arbeitsalltag zu organisieren und Abläufe für al"
+      "summary": "Kurzbeschreibung Führende Unternehmen wie Mercedes-Benz, Volkswagen, BMW, Bosch und Rheinmetall setzen auf SPREADs Software, um ihren Ingenieur- und Expertenteams zu ermöglichen, die Komplexität softwaredefinierter Fahrzeuge und Produkte souverän zu beherrsche"
     },
     {
-      "id": "arbeitnow:senior-sap-berater-entwickler-s-4hana-transformation-remlingen-360445",
-      "title": "Senior SAP Berater / Entwickler S/4HANA Transformation (m/w/d)",
-      "org": "promantis GmbH",
-      "role": "project",
-      "location": "Remlingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/promantis-gmbh/senior-sap-berater-entwickler-s-4hana-transformation-remlingen-360445",
+      "id": "arbeitnow:head-of-marketing-growth-berlin-285887",
+      "title": "Head of Marketing & Growth (w/m/d)",
+      "org": "STUR GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/stur-gmbh/head-of-marketing-growth-berlin-285887",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793349087,
+      "postedAt": 1793385035,
       "tags": [
         "Remote",
-        "SAP/ERP Consulting",
-        "Development"
+        "Management",
+        "Team Leader"
       ],
-      "summary": "Gestalte mit uns die digitale Zukunft der Energiewirtschaft Professionell. Progressiv. Proaktiv. Die promantis GmbH steht seit 2008 für SAP- und IT-Beratung mit Leidenschaft, Kompetenz und Zusammenarbeit auf Augenhöhe. Unsere Mission ist es, die digitale Zukun"
+      "summary": "Über STUR Wir sind das Berliner Startup STUR: Wir entwickeln zeitlose, langlebige und nachhaltige Designprodukte für die Küche. Alles Made in Germany - unsere Gusseisenpfannen sind preisgekrönt. Wir möchten Foodies wie dich zu neuen kulinarischen Entdeckungen "
     },
     {
-      "id": "arbeitnow:accountant-all-genders-berlin-260356",
-      "title": "Accountant (all genders)",
-      "org": "Code Gaia",
+      "id": "arbeitnow:ai-agent-developer-ki-agentenentwickler-berlin-420317",
+      "title": "AI Agent Developer / KI-Agentenentwickler (m/w/d)",
+      "org": "WAITS Software- und Prozessberatungsgesellschaft mbH",
       "role": "project",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/code-gaia/accountant-all-genders-berlin-260356",
+      "url": "https://www.arbeitnow.com/jobs/companies/waits-software-und-prozessberatungsgesellschaft-mbh/ai-agent-developer-ki-agentenentwickler-berlin-420317",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793349087,
+      "postedAt": 1793381453,
       "tags": [
         "Remote",
-        "Finance"
+        "Software Development"
       ],
-      "summary": "JOIN US Bei Code Gaia zu arbeiten bedeutet, dass du an etwas sehr Wichtigem arbeitest: Der Transformation zu einer nachhaltigen Wirtschaft. Wir sind dafür da, dass Nachhaltigkeit nicht mühsam oder zeitaufwendig für Unternehmen ist. Stattdessen wollen wir klein"
+      "summary": "Microsoft Copilot | GitHub Copilot | Data Engineering | ETL | Data Warehouse Arbeitgeber: WAITS Software- und Prozessberatungsgesellschaft mbH Standort: Köln / Remote innerhalb Deutschlands nach Absprache Tätigkeitsbereich: Softwareentwicklung, Künstliche Inte"
     },
     {
-      "id": "arbeitnow:senior-sap-analytics-ai-consultant-berlin-374956",
-      "title": "Senior SAP Analytics & AI Consultant (m/w/d)",
-      "org": "promantis GmbH",
+      "id": "arbeitnow:working-student-data-engineer-python-sql-cloud-platforms-berlin-407856",
+      "title": "Working Student Data Engineer – Python, SQL & Cloud Platforms",
+      "org": "AgentixLake GmbH",
       "role": "project",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/promantis-gmbh/senior-sap-analytics-ai-consultant-berlin-374956",
+      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-data-engineer-python-sql-cloud-platforms-berlin-407856",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793349085,
+      "postedAt": 1793379643,
       "tags": [
         "Remote",
-        "SAP/ERP Consulting",
-        "Development"
+        "Data Processing",
+        "Data Engineer"
       ],
-      "summary": "Wer wir sind Gestalte mit uns die datengetriebene Zukunft der Energiewirtschaft Daten sind für Dich mehr als Zahlen in einem Reporting? Du möchtest Unternehmen dabei unterstützen, aus Daten echte Erkenntnisse, bessere Entscheidungen und nachhaltigen Geschäftsw"
+      "summary": "IMPORTANT Application note Please apply only through this job portal. Kindly do not send applications or recruitment messages by email or LinkedIn. Only applications submitted through the portal will be considered. Thank you. About AgentixLake AgentixLake GmbH"
     },
     {
-      "id": "arbeitnow:kundenberater-breitband-telekommunikation-homeoffice-berlin-272739",
-      "title": "Kundenberater Breitband & Telekommunikation (m/w/d) | Homeoffice",
-      "org": "hey contact heroes GmbH",
-      "role": "support",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/kundenberater-breitband-telekommunikation-homeoffice-berlin-272739",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793347275,
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "summary": "Deutschland | Remote | Festanstellung | Vollzeit oder Teilzeit Du hast Freude am Kundenkontakt, arbeitest serviceorientiert und möchtest Menschen bei ihren Anliegen rund um Breitband und Telekommunikation unterstützen? Dann bist Du bei uns genau richtig. Die h"
-    },
-    {
-      "id": "arbeitnow:remote-program-manager-aircraft-227239",
-      "title": "Program Manager, Aircraft",
-      "org": "Swarmaero",
+      "id": "arbeitnow:working-student-ai-engineer-llms-rag-ai-agents-berlin-364158",
+      "title": "Working Student AI Engineer – LLMs, RAG & AI Agents",
+      "org": "AgentixLake GmbH",
       "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-engineer-llms-rag-ai-agents-berlin-364158",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793379643,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "IMPORTANT Application note Please apply only through this job portal. Kindly do not send applications or recruitment messages by email or LinkedIn. Only applications submitted through the portal will be considered. Thank you. About AgentixLake AgentixLake GmbH"
+    },
+    {
+      "id": "arbeitnow:senior-projektleiter-softwaredevelopment-remote-berlin-454942",
+      "title": "Senior Projektleiter (m/w/d) Softwaredevelopment // REMOTE",
+      "org": "Pont Connects e.K.",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/senior-projektleiter-softwaredevelopment-remote-berlin-454942",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793379642,
+      "tags": [
+        "Remote",
+        "Project Management"
+      ],
+      "summary": "Ihre Aufgaben Für einen langjährigen Kunden in der Softwareentwicklung suche ich einen Senior Projektleiter (m/w/d) die ideale Besetzung für anspruchsvolle IT-Projekte. Sie steuern komplexe Entwicklungsvorhaben von der Konzeption bis zum erfolgreichen Abschlus"
+    },
+    {
+      "id": "arbeitnow:working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-283450",
+      "title": "Working Student AI Solutions Architect – Generative AI & Data Platforms",
+      "org": "AgentixLake GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-283450",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793379642,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "IMPORTANT Application note Please apply only through this job portal. Kindly do not send applications or recruitment messages by email or LinkedIn. Only applications submitted through the portal will be considered. Thank you. About AgentixLake AgentixLake GmbH"
+    },
+    {
+      "id": "arbeitnow:werkstudent-ai-business-analysis-wurzburg-174354",
+      "title": "Werkstudent (w/m/d) - AI Business Analysis",
+      "org": "Pentadoc Gruppe",
+      "role": "project",
+      "location": "Würzburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/pentadoc-gruppe/werkstudent-ai-business-analysis-wurzburg-174354",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793377906,
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "summary": "Die 5Plus GmbH ist das KI-Beratungshaus der Pentadoc Gruppe. Wir schaffen Mehrwert in der Optimierung und Automatisierung bestehender und neuer Prozesse. Als Werkstudent (w/m/d) mit dem Fokus auf den Einsatz von KI unterstützt du unser Beratungsteam dabei, Ges"
+    },
+    {
+      "id": "arbeitnow:working-student-ai-engineering-wurzburg-474175",
+      "title": "Working Student (m/f/d) - AI Engineering",
+      "org": "Pentadoc Gruppe",
+      "role": "project",
+      "location": "Würzburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/pentadoc-gruppe/working-student-ai-engineering-wurzburg-474175",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793377905,
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "summary": "At 5Plus (part of Pentadoc Group), we build production-grade AI systems that solve real operational problems for our customers. As a Working Student - AI Engineering , you will help design, build, and deploy AI applications - from LLM-powered workflows (e.g., "
+    },
+    {
+      "id": "arbeitnow:closer-b2b-independant-h-f-daba-berlin-369151",
+      "title": "Closer B2B Indépendant (H/F) — Daba",
+      "org": "RusHour",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/rushour/closer-b2b-independant-h-f-daba-berlin-369151",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793377905,
+      "tags": [
+        "Remote",
+        "Business Development"
+      ],
+      "summary": "100 % télétravail | France entière | Rémunération à la performance À propos de Daba Daba est une startup qui développe une solution permettant aux restaurants de recevoir des commandes directement sur WhatsApp, en Click & Collect ou en livraison. Notre ambitio"
+    },
+    {
+      "id": "arbeitnow:ai-engeneer-berlin-21174",
+      "title": "AI Engeneer",
+      "org": "JETPLAN",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/jetplan/ai-engeneer-berlin-21174",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793376073,
+      "tags": [
+        "Remote",
+        "Data Scientist"
+      ],
+      "summary": "Was Sie bei JETPLAN bewegen JETPLAN entwickelt Software, mit der Elektrikerinnen und Elektriker Kundenprojekte mobil, digital und direkt vor Ort im Grundriss planen. Als AI Engineer (m/w/d) treiben Sie die KI-Entwicklung unserer Plattform voran, damit Änderung"
+    },
+    {
+      "id": "arbeitnow:werkstudent-business-analyse-wurzburg-46362",
+      "title": "Werkstudent (w/m/d) Business Analyse",
+      "org": "Pentadoc Gruppe",
+      "role": "project",
+      "location": "Würzburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/pentadoc-gruppe/werkstudent-business-analyse-wurzburg-46362",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793376071,
+      "tags": [
+        "Remote",
+        "Consulting"
+      ],
+      "summary": "Lerne, wie aus komplexen Geschäftsprozessen tragfähige Lösungen werden Du möchtest nicht nur bestehende Abläufe ausführen, sondern verstehen, warum sie so funktionieren und wie man sie verbessern kann? Du interessierst dich dafür, wie Unternehmen ihre Prozesse"
+    },
+    {
+      "id": "arbeitnow:remote-b2b-marketing-india-26630",
+      "title": "B2B Marketing - India",
+      "org": "ElevenLabs",
+      "role": "marketing",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-program-manager-aircraft-227239",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-b2b-marketing-india-26630",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793342417,
+      "postedAt": 1793374816,
       "tags": [
-        "Aircraft"
+        "Growth"
       ],
-      "summary": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command & Control"
+      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
     },
     {
-      "id": "arbeitnow:remote-director-revenue-compensation-272178",
-      "title": "Director, Revenue Compensation",
-      "org": "Spring Health",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-director-revenue-compensation-272178",
+      "id": "arbeitnow:head-of-lead-generation-remote-munich-45164",
+      "title": "Head of Lead Generation | Remote (m/w/d)",
+      "org": "LOTARO",
+      "role": "training",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/lotaro/head-of-lead-generation-remote-munich-45164",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793342417,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "Our mission: eliminating every barrier to mental health. Spring Health is a global mental health company on a mission to eliminate every barrier to mental health. We're building a world where getting support is simple, personal, and built around the person, so"
-    },
-    {
-      "id": "arbeitnow:social-media-manager-london-343043",
-      "title": "Social Media Manager",
-      "org": "TokPortal",
-      "role": "marketing",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tokportal/social-media-manager-london-343043",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793358133,
+      "postedAt": 1793374284,
       "tags": [
         "Remote",
-        "Social Media Manager"
+        "Management",
+        "Team Leader"
       ],
-      "summary": "TokPortal is looking for Social Media Managers based in the United States. Manage social media accounts and publish ready-to-use content. Flexible freelance collaboration, paid per mission. You see the reward before accepting a mission. You need a smartphone a"
+      "summary": "Als Head of Lead Generation verantwortest du den Aufbau, die Performance und die Weiterentwicklung unserer Leadgenerierung. Dein Schwerpunkt liegt auf Cold Calling. Du bringst fundierte praktische Erfahrung aus der telefonischen Kaltakquise mit, weißt, wie erf"
+    },
+    {
+      "id": "arbeitnow:remote-data-scientist-fraud-62682",
+      "title": "Data Scientist (Fraud)",
+      "org": "Moniepoint",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/moniepoint/remote-data-scientist-fraud-62682",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793386525,
+      "tags": [
+        "Data Science"
+      ],
+      "summary": "&lt;p&gt;&nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-path-to-node=\"12,1\"&gt;&lt;span class=\"citation-119\"&gt;Ranked in 2024 by the Financial Times, Moniepoint is Africa’s fastest-growing fintech, trusted b"
+    },
+    {
+      "id": "arbeitnow:remote-senior-mobile-quality-engineer-206450",
+      "title": "Senior Mobile Quality Engineer",
+      "org": "Lendable",
+      "role": "marketing",
+      "location": "UK Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/remote-senior-mobile-quality-engineer-206450",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793385616,
+      "tags": [
+        "Engineering & Product"
+      ],
+      "summary": "About Lendable Lendable is on a mission to build the world's best technology to help people get credit and save money. We're building one of the world’s leading fintech companies and are off to a strong start: One of the UK’s most exciting unicorns with a team"
+    },
+    {
+      "id": "arbeitnow:remote-senior-director-functional-planning-transformation-paris-37933",
+      "title": "Senior Director Functional Planning & Transformation",
+      "org": "Excelya",
+      "role": "project",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-director-functional-planning-transformation-paris-37933",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793391610,
+      "tags": [
+        "Pharmaceuticals",
+        "Operations",
+        "Remote"
+      ],
+      "summary": "Join Excelya, where Audacity, Care and Energy define who we are and how we work. We believe in creating ambitious solutions and fostering an inclusive environment where collaboration and individual growth go hand in hand. We are seeking a Senior Director – Pla"
     },
     {
       "id": "arbeitnow:remote-developpeur-confirme-ia-h-f-lyon-60190",
@@ -327,38 +571,6 @@
         "Total Rewards"
       ],
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\"&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestra"
-    },
-    {
-      "id": "arbeitnow:remote-manager-professional-services-engineers-emea-29449",
-      "title": "Manager, Professional Services Engineers, EMEA",
-      "org": "gitlab",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-manager-professional-services-engineers-emea-29449",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793310923,
-      "tags": [
-        "Consulting Delivery"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
-    },
-    {
-      "id": "arbeitnow:sales-account-executive-paris-12483",
-      "title": "Sales Account Executive",
-      "org": "Everfield",
-      "role": "marketing",
-      "location": "France - Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/everfield/sales-account-executive-paris-12483",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793310017,
-      "tags": [
-        "Synergee"
-      ],
-      "summary": "À propos d’Everfield Everfield acquiert, développe et accompagne la croissance d’éditeurs européens de logiciels métiers et spécialisés, en leur donnant les clés pour franchir un cap. Notre mission : nourrir l’ambition, alimenter la croissance et révéler le po"
     },
     {
       "id": "arbeitnow:remote-informationssicherheitsberater-aarau-351039",
@@ -443,21 +655,21 @@
       "summary": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosyste"
     },
     {
-      "id": "arbeitnow:senior-fpa-expert-financial-task-design-and-evaluation-zurich-295365",
-      "title": "Senior FP&A Expert - Financial Task Design and Evaluation",
-      "org": "Lightly AG",
-      "role": "training",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/lightly-ag/senior-fpa-expert-financial-task-design-and-evaluation-zurich-295365",
+      "id": "arbeitnow:remote-go-to-market-lead-germany-amsterdam-497683",
+      "title": "Go-To-Market Lead (Germany)",
+      "org": "LLEVERAGE",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.nl/jobs/companies/lleverage/remote-go-to-market-lead-germany-amsterdam-497683",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793305840,
+      "postedAt": 1793363518,
       "tags": [
-        "Remote",
-        "Controlling"
+        "Sales",
+        "Remote"
       ],
-      "summary": "Lightly AG is a Zurich-based AI company and ETH/HSG spin-off, backed by Y Combinator and top-tier investors. Our machine learning and computer vision technology is trusted by global leaders in autonomous driving, medical imaging, and visual inspection. We’re l"
+      "summary": "About us Hey there! We're Lleverage, and we're making the Autonomous Back Office actually achievable for businesses. We enable European companies to integrate AI agents into their business, because AI is only useful when it actually fits into daily operations."
     },
     {
       "id": "arbeitnow:remote-senior-aws-platform-engineer-utrecht-130307",
@@ -475,74 +687,6 @@
         "Remote"
       ],
       "summary": "At Luscii, we are creating space for care by building digital health applications that help people manage their health. Applications such as the Luscii Thuismeten app and OMRON Connect. Together with healthcare professionals around the world, we build technolo"
-    },
-    {
-      "id": "arbeitnow:remote-android-developer-utrecht-313287",
-      "title": "Android Developer",
-      "org": "Luscii",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.nl/jobs/companies/luscii/remote-android-developer-utrecht-313287",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793298667,
-      "tags": [
-        "Software Development",
-        "Remote"
-      ],
-      "summary": "At Luscii, we work on several applications within the OMRON Digital Health Circle, including the Luscii Thuismeten app and OMRON Connect. Together with our colleagues, we build technology that takes the burden off patients and healthcare professionals, creatin"
-    },
-    {
-      "id": "arbeitnow:remote-ios-developer-utrecht-289501",
-      "title": "iOS Developer",
-      "org": "Luscii",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.nl/jobs/companies/luscii/remote-ios-developer-utrecht-289501",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793298667,
-      "tags": [
-        "Software Development",
-        "Remote"
-      ],
-      "summary": "At Luscii, we work on several applications within the OMRON Digital Health Circle, including the Luscii Thuismeten app and OMRON Connect. Together with our colleagues, we build technology that takes the burden off patients and healthcare professionals, creatin"
-    },
-    {
-      "id": "arbeitnow:remote-senior-finance-manager-amsterdam-89155",
-      "title": "Senior Finance Manager",
-      "org": "Global Reporting Initiative",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.nl/jobs/companies/global-reporting-initiative/remote-senior-finance-manager-amsterdam-89155",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793287880,
-      "tags": [
-        "Finance",
-        "Remote"
-      ],
-      "summary": "About GRI Global Reporting Initiative (GRI) is the independent nonprofit organization that is the architect of the common global language to assess and report on environmental, social, and economic impacts. GRI provides standards, tools, and training that empo"
-    },
-    {
-      "id": "arbeitnow:remote-senior-product-engineer-ai-amsterdam-25086",
-      "title": "Senior Product Engineer (AI)",
-      "org": "Tellent",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.nl/jobs/companies/tellent/remote-senior-product-engineer-ai-amsterdam-25086",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793287880,
-      "tags": [
-        "1. R&D",
-        "Remote"
-      ],
-      "summary": "Note: The listed salary range is based on the salary range for the Netherlands. Salary ranges may vary by location. About the Role Our Intelligence team builds the AI capabilities that run across the whole Tellent suite. We're looking for a backend-heavy produ"
     },
     {
       "id": "remotive:2091134",
@@ -721,22 +865,6 @@
         "G Suite"
       ],
       "summary": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role. The ideal candidate has excellent English writing skills, strong"
-    },
-    {
-      "id": "arbeitnow:growth-sports-systems-operator-london-6349",
-      "title": "Growth Sports Systems Operator",
-      "org": "Hawkeyeinnovations",
-      "role": "training",
-      "location": "UK Based with Global Travel",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/growth-sports-systems-operator-london-6349",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793331613,
-      "tags": [
-        "Hawk-Eye Innovations"
-      ],
-      "summary": "Badminton / Growth Sports Systems Operator 📍Location: Based anywhere in the UK 📝Contract: Full-Time, Permanent 🧳Travel: Regular travel across the UK, Europe and Internationally. There will be occasional work at our head office in Basingstoke. 📆Expected Sta"
     }
   ]
 }
