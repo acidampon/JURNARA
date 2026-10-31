@@ -1,15 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T05:54:36.063Z",
+  "updatedAt": "2026-10-31T12:44:35.562Z",
   "sourceCount": 2,
-  "totalFetched": 312,
-  "relevantCount": 33,
+  "totalFetched": 313,
+  "relevantCount": 36,
   "sources": [
     "Arbeitnow",
     "Remotive"
   ],
   "sourceErrors": [],
   "jobs": [
+    {
+      "id": "arbeitnow:senior-solutions-architect-sales-engineer-munich-475673",
+      "title": "Senior Solutions Architect / Sales Engineer (m/f/d)",
+      "org": "TYTAN Technologies GmbH",
+      "role": "marketing",
+      "location": "Munich, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-solutions-architect-sales-engineer-munich-475673",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793428286,
+      "tags": [
+        "Commercial and Sales"
+      ],
+      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything"
+    },
     {
       "id": "arbeitnow:client-delivery-lead-berlin-69922",
       "title": "Client Delivery Lead (m/w/d)",
@@ -41,6 +57,108 @@
         "Design"
       ],
       "summary": "We started building Marshmallow in 2017. Since then, we’ve grown from 3 to 700+ people, gained unicorn status, raised ~£140M over three funding rounds, turned profitable, insured millions of drivers and lent millions in car loans. But we’re only just getting s"
+    },
+    {
+      "id": "arbeitnow:marketing-lead-b2b-demand-generation-growth-remote-berlin-78700",
+      "title": "Marketing Lead - B2B Demand Generation & Growth (m/w/d) - Remote",
+      "org": "ZEP GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/zep-gmbh/marketing-lead-b2b-demand-generation-growth-remote-berlin-78700",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793433657,
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader"
+      ],
+      "summary": "Über uns ZEP ist eine cloudbasierte Software für Projektcontrolling – von der Projektzeiterfassung über Abwesenheitsverwaltung bis zur Abrechnung. Mehr als 3.000 Unternehmen, vor allem projektorientierte Dienstleister wie Beratungen, IT- und Engineering-Untern"
+    },
+    {
+      "id": "arbeitnow:senior-product-engineer-devtools-ai-reliability-remote-berlin-277824",
+      "title": "Senior Product Engineer (DevTools & AI reliability, remote)",
+      "org": "Checkly",
+      "role": "marketing",
+      "location": "Remote (UTC-3 to UTC+3)",
+      "url": "https://www.arbeitnow.com/jobs/companies/checkly/senior-product-engineer-devtools-ai-reliability-remote-berlin-277824",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793428826,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "(Fully remote, async-first, DevTools SaaS, 32-40h/week, time zones: UTC-3 to UTC+3) The best developers don't wait for a customer to tell them something's broken. They catch it first, in the pull request, in staging, or in the checkout flow at 3am, before a si"
+    },
+    {
+      "id": "arbeitnow:remote-senior-growth-marketing-manager-app-installs-478157",
+      "title": "Senior Growth Marketing Manager (App Installs)",
+      "org": "Duck Duck Go",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-growth-marketing-manager-app-installs-478157",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793428825,
+      "tags": [
+        "Marketing"
+      ],
+      "summary": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use o"
+    },
+    {
+      "id": "arbeitnow:remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-487125",
+      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+      "org": "virtual7 GmbH",
+      "role": "hr",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-487125",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793428288,
+      "tags": [
+        "Customer Cluster Justice",
+        "Remote"
+      ],
+      "summary": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, "
+    },
+    {
+      "id": "arbeitnow:head-of-sales-ai-startup-berlin-233871",
+      "title": "Head of Sales (m/w/d) AI-Startup",
+      "org": "Fenie AI",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/fenie-ai/head-of-sales-ai-startup-berlin-233871",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793428245,
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader"
+      ],
+      "summary": "Du kannst gut verkaufen? Dann könnten wir gut Matchen. Wir suchen einen Head of Sales auf selbstständiger Basis , zunächst ideal als Nebenjob. Du hast die Chance, früh in ein internationales AI-Startup einzusteigen, ein Vertriebsteam aufzubauen und dies für de"
+    },
+    {
+      "id": "arbeitnow:social-media-manager-mit-weiterbildung-remote-moglich-berlin-123349",
+      "title": "Social Media Manager (m/w/d) mit Weiterbildung - Remote möglich",
+      "org": "Digital Evolution",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/digital-evolution/social-media-manager-mit-weiterbildung-remote-moglich-berlin-123349",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793428243,
+      "tags": [
+        "Remote",
+        "Social Media Manager"
+      ],
+      "summary": "Du suchst einen Job im Bereich Social Media und möchtest etwas neues lernen? Starte jetzt im Bereich Social Media und KI-Management durch. Ganz egal, ob in Vollzeit oder Teilzeit. Schritt 1: Die Schulung Wir bereiten dich auf diesen Beruf vor. Lerne mit uns di"
     },
     {
       "id": "arbeitnow:senior-lead-lifecycle-marketing-manager-full-remote-germany-41771",
@@ -158,158 +276,52 @@
       "summary": "Über BringLiesel BringLiesel ist die Plattform für individuelle Bewohnerversorgung in der stationären Pflege. Über 1.200 Produkte des täglichen Bedarfs werden online bestellt, einzeln je Bewohner:in verpackt und revisionssicher abgerechnet. Unsere Prozesse sin"
     },
     {
-      "id": "arbeitnow:software-engineer-edge-cloud-berlin-16107",
-      "title": "Software Engineer - Edge & Cloud (m/w/d)",
-      "org": "1KOMMA5˚",
+      "id": "arbeitnow:security-and-compliance-engineer-london-361433",
+      "title": "Security and Compliance Engineer",
+      "org": "Griffin",
       "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/software-engineer-edge-cloud-berlin-16107",
+      "location": "London or remote within the UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/griffin/security-and-compliance-engineer-london-361433",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793392252,
+      "postedAt": 1793439616,
       "tags": [
-        "Remote",
-        "Software Development"
+        "Engineering"
       ],
-      "summary": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, W"
+      "summary": "About Griffin Hi, we’re Griffin. We’re a fully regulated UK bank that powers the accounts and payments offerings of product-led fintechs and platforms like Uber, Yonder, Prosper, and Sidekick. By doing the heavy lifting behind the scenes, our customers can foc"
     },
     {
-      "id": "arbeitnow:software-engineer-edge-cloud-berlin-280496",
-      "title": "Software Engineer - Edge & Cloud (m/f/d)",
-      "org": "1KOMMA5˚",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/software-engineer-edge-cloud-berlin-280496",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793392252,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "summary": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scala"
-    },
-    {
-      "id": "arbeitnow:remote-senior-sap-is-u-abap-application-developer-produktentwicklung-berlin-395668",
-      "title": "Senior SAP IS-U ABAP Application Developer - Produktentwicklung (m/w/d)",
-      "org": "Natuvion GmbH",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-is-u-abap-application-developer-produktentwicklung-berlin-395668",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793385069,
-      "tags": [
-        "Product Development",
-        "Remote"
-      ],
-      "summary": "Als Senior SAP IS-U ABAP Application Developer (m/w/d) gestaltest du die Zukunft unserer Produktfamilie und Transformationsplattform Natuvion DCS (Data Conversion Suite) im Bereich Content, mit Fokus auf die Versorgungswirtschaft. Du bringst dein Wissen über S"
-    },
-    {
-      "id": "arbeitnow:remote-senior-sap-fi-co-abap-application-developer-produktentwicklung-berlin-324805",
-      "title": "Senior SAP FI/CO ABAP Application Developer - Produktentwicklung (m/w/d)",
-      "org": "Natuvion GmbH",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-fi-co-abap-application-developer-produktentwicklung-berlin-324805",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793385069,
-      "tags": [
-        "Product Development",
-        "Remote"
-      ],
-      "summary": "Als Senior SAP FI/CO ABAP Application Developer (m/w/d) gestaltest du die Zukunft unserer Produktfamilie und Transformationsplattform Natuvion DCS (Data Conversion Suite) im Bereich Content, mit Fokus auf Finanzwesen und Controlling. Du bringst dein Wissen übe"
-    },
-    {
-      "id": "arbeitnow:working-student-digital-marketing-website-management-remote-nationwide-148101",
-      "title": "Working Student (m/f/d) Digital Marketing & Website Management (Remote)",
-      "org": "Primion Technology GmbH",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/primion-technology-gmbh/working-student-digital-marketing-website-management-remote-nationwide-148101",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793385069,
-      "tags": [
-        "Marketing",
-        "Remote"
-      ],
-      "summary": "Protect what matters. Primion Technology is a global solution provider and market leader in Converged Security Solutions and Workforce Management . For more than 30 years, we have supported around 5,000 satisfied customers worldwide who rely on our certified s"
-    },
-    {
-      "id": "arbeitnow:remote-sales-director-dach-405438",
-      "title": "Sales Director DACH",
-      "org": "Exeon Analytics",
+      "id": "arbeitnow:remote-lead-data-engineer-315863",
+      "title": "Lead Data Engineer",
+      "org": "Akersystems",
       "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/exeon-analytics/remote-sales-director-dach-405438",
+      "location": "Remote/Home Based",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-lead-data-engineer-315863",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793385068,
+      "postedAt": 1793429717,
       "tags": [
-        "Sales",
-        "Remote"
+        "Delivery"
       ],
-      "summary": "We’re looking for an experienced regional sales leader who combines strategic thinking with a strong hands-on approach — someone with a proven track record in scaling revenue in high-growth environments, preferably in cybersecurity or software, who can lead an"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Aker Systems was founded in 2017 by a team of experienced technology professionals who recognised an opportunity to provide highly secure enterprise data platforms to large organisations.&nbsp; We build and operate gro"
     },
     {
-      "id": "arbeitnow:senior-google-ads-manager-ai-first-performance-marketing-remote-84863",
-      "title": "(Senior) Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
-      "org": "Evolve Digital GmbH",
+      "id": "arbeitnow:remote-lead-engineer-air-343548",
+      "title": "Lead Engineer, Air",
+      "org": "Uforce",
       "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-google-ads-manager-ai-first-performance-marketing-remote-84863",
+      "location": "United Kingdom | Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/uforce/remote-lead-engineer-air-343548",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793385068,
+      "postedAt": 1793428828,
       "tags": [
-        "Operations",
-        "Remote"
+        "Hardware"
       ],
-      "summary": "Google Ads verändert sich durch AI schneller als je zuvor. Wir suchen deshalb keinen klassischen Ads Manager, sondern jemanden, der Lust hat, Performance Marketing neu zu denken und die Zukunft des Kanals mitzugestalten. Bei EVOLVE Digital arbeiten wir AI-firs"
-    },
-    {
-      "id": "arbeitnow:senior-delivery-manager-berlin-228626",
-      "title": "Senior Delivery Manager (m/w/d)",
-      "org": "SPREAD GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/spread-gmbh/senior-delivery-manager-berlin-228626",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793385037,
-      "tags": [
-        "Remote",
-        "Project Management"
-      ],
-      "summary": "Kurzbeschreibung Führende Unternehmen wie Mercedes-Benz, Volkswagen, BMW, Bosch und Rheinmetall setzen auf SPREADs Software, um ihren Ingenieur- und Expertenteams zu ermöglichen, die Komplexität softwaredefinierter Fahrzeuge und Produkte souverän zu beherrsche"
-    },
-    {
-      "id": "arbeitnow:head-of-marketing-growth-berlin-285887",
-      "title": "Head of Marketing & Growth (w/m/d)",
-      "org": "STUR GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/stur-gmbh/head-of-marketing-growth-berlin-285887",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793385035,
-      "tags": [
-        "Remote",
-        "Management",
-        "Team Leader"
-      ],
-      "summary": "Über STUR Wir sind das Berliner Startup STUR: Wir entwickeln zeitlose, langlebige und nachhaltige Designprodukte für die Küche. Alles Made in Germany - unsere Gusseisenpfannen sind preisgekrönt. Wir möchten Foodies wie dich zu neuen kulinarischen Entdeckungen "
+      "summary": "UFORCE exists to make aggression unaffordable. Founded in Ukraine and headquartered in London, UFORCE is a defence-technology company with operations across Europe, the United States and Asia. UFORCE builds uncrewed vessels, ground robotics and aircraft, auton"
     },
     {
       "id": "arbeitnow:senior-lead-lifecycle-marketing-manager-full-remote-uk-united-kingdom-326022",
@@ -328,20 +340,36 @@
       "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
     },
     {
-      "id": "arbeitnow:remote-strategic-project-lead-speech-audio-ai-london-88242",
-      "title": "Strategic Project Lead - Speech & Audio AI (London)",
-      "org": "Appen 2",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/appen-2/remote-strategic-project-lead-speech-audio-ai-london-88242",
+      "id": "arbeitnow:product-domain-specialist-secteur-agricole-paris-289529",
+      "title": "Product Domain Specialist - secteur agricole",
+      "org": "Pennylane SAS",
+      "role": "project",
+      "location": "All France (remote)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/product-domain-specialist-secteur-agricole-paris-289529",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793417233,
+      "postedAt": 1793439614,
       "tags": [
-        "Applied AI & Research"
+        "Product"
       ],
-      "summary": "About the Role The Strategic Project Lead – Speech & Audio will sit in Appen's Operations organization and support the development of frontier AI through high-quality data programs for leading AI companies. We’re looking for someone with experience in speech, "
+      "summary": "1. Expert métier Accompagner les équipes produit (principalement les équipes en charge des développements liés au secteur agricole) dans la conception et la validation des fonctionnalités comptables (workshop, revue de prototypes…), ; Aider les product manager"
+    },
+    {
+      "id": "arbeitnow:lead-legal-counsel-regulatory-and-financial-services-paris-78505",
+      "title": "Lead Legal Counsel, Regulatory and Financial Services",
+      "org": "Pennylane SAS",
+      "role": "training",
+      "location": "All France (remote)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/lead-legal-counsel-regulatory-and-financial-services-paris-78505",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793439614,
+      "tags": [
+        "G&A"
+      ],
+      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Then Pennylane is the right place for you ! Our vision We "
     },
     {
       "id": "arbeitnow:senior-lead-lifecycle-marketing-manager-full-remote-france-97507",
@@ -424,6 +452,33 @@
         "Remote"
       ],
       "summary": "About us Hey there! We're Lleverage, and we're making the Autonomous Back Office actually achievable for businesses. We enable European companies to integrate AI agents into their business, because AI is only useful when it actually fits into daily operations."
+    },
+    {
+      "id": "remotive:2091165",
+      "title": "Full-Stack Developer",
+      "org": "Fluence International, Inc.",
+      "role": "training",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "source": "Remotive",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": "2026-10-29T18:22:41",
+      "tags": [
+        "admin",
+        "api",
+        "AWS",
+        "backend",
+        "cloud",
+        "docker",
+        "frontend",
+        "fullstack",
+        "javascript",
+        "react",
+        "security",
+        "UI/UX"
+      ],
+      "summary": "We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental health. You’ll work closely with and report to our "
     },
     {
       "id": "remotive:2091134",
