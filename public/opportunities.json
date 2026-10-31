@@ -1,15 +1,226 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T12:44:35.562Z",
+  "updatedAt": "2026-10-31T21:42:19.494Z",
   "sourceCount": 2,
   "totalFetched": 313,
-  "relevantCount": 36,
+  "relevantCount": 62,
   "sources": [
     "Arbeitnow",
     "Remotive"
   ],
   "sourceErrors": [],
   "jobs": [
+    {
+      "id": "arbeitnow:manager-customer-success-remote-emea-berlin-296755",
+      "title": "Manager, Customer Success (Remote - EMEA)",
+      "org": "N8N",
+      "role": "project",
+      "location": "Berlin Office",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/manager-customer-success-remote-emea-berlin-296755",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793450413,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:low-touch-customer-success-manager-remote-emea-berlin-44390",
+      "title": "Low-touch Customer Success Manager (Remote - EMEA)",
+      "org": "N8N",
+      "role": "training",
+      "location": "Berlin Office",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/low-touch-customer-success-manager-remote-emea-berlin-44390",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793450413,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:large-enterprise-account-executive-dach-remote-dach-germany-320199",
+      "title": "Large Enterprise Account Executive DACH (Remote DACH)",
+      "org": "N8N",
+      "role": "project",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/large-enterprise-account-executive-dach-remote-dach-germany-320199",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793450413,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:large-enterprise-account-executive-uki-remote-uki-united-kingdom-260290",
+      "title": "Large Enterprise Account Executive UK&I (Remote UK&I)",
+      "org": "n8n",
+      "role": "project",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/n8n/large-enterprise-account-executive-uki-remote-uki-united-kingdom-260290",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793450414,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:remote-influencer-marketing-manager-switzerland-398870",
+      "title": "Influencer Marketing Manager (m/f/d)",
+      "org": "Hilobyaktiia",
+      "role": "marketing",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/hilobyaktiia/remote-influencer-marketing-manager-switzerland-398870",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793449209,
+      "tags": [
+        "Marketing",
+        "Medical Devices",
+        "Marketing/Brand",
+        "Remote"
+      ],
+      "summary": "About Hilo by Aktiia High blood pressure is the world's most common disease, causing 18M deaths each year. At Hilo by Aktiia, we're building a world where no lives are lost to its effects — with technology that helps people take control of their health. We're "
+    },
+    {
+      "id": "arbeitnow:mait-additive-manufacturing-materials-intern-dusseldorf-178418",
+      "title": "MAIT Additive Manufacturing Materials Intern",
+      "org": "The Exploration Company",
+      "role": "training",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/mait-additive-manufacturing-materials-intern-dusseldorf-178418",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793461214,
+      "tags": [
+        "MAIT"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We want you as a talented MAIT Additive Manufacturing Materials Intern to help us in our mission by contributing to Additive Manufacturing (AM) materials development, qualification, and"
+    },
+    {
+      "id": "arbeitnow:fluid-systems-development-engineer-munich-232875",
+      "title": "Fluid Systems Development Engineer",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/fluid-systems-development-engineer-munich-232875",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793461214,
+      "tags": [
+        "Future Propulsion - Storm"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. Description We are seeking a talented Fluid Systems Development Engineer to join the Storm engine project. As a key member of our System Team, you will play a central role in developing"
+    },
+    {
+      "id": "arbeitnow:senior-spacecraft-thermal-engineer-munich-474021",
+      "title": "Senior Spacecraft Thermal Engineer",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/senior-spacecraft-thermal-engineer-munich-474021",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793461214,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We are seeking an experienced Senior Spacecraft Thermal Verification Engineer to join our Thermal Control System team. You will be the technical lead for the preparation, execution and "
+    },
+    {
+      "id": "arbeitnow:propulsion-functional-engineer-munich-131824",
+      "title": "Propulsion Functional Engineer",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/propulsion-functional-engineer-munich-131824",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793461214,
+      "tags": [
+        "Future Propulsion - Storm"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. Description We are seeking a talented Propulsion Functional Engineer to join the Storm engine project. As a key member of our System Team, you will play a central role in defining the f"
+    },
+    {
+      "id": "arbeitnow:internship-radiation-testing-of-electronic-components-and-test-automation-munich-351117",
+      "title": "Internship - Radiation Testing of Electronic Components and Test Automation",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/internship-radiation-testing-of-electronic-components-and-test-automation-munich-351117",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793461214,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We want you as a talented Radiation Test and Automation Engineer to help us in our mission by participating in the qualification of the electronic parts that will compose our Nyx Avioni"
+    },
+    {
+      "id": "arbeitnow:flight-software-engineer-munich-220316",
+      "title": "Flight Software Engineer",
+      "org": "The Exploration Company",
+      "role": "marketing",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/flight-software-engineer-munich-220316",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793461214,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. At The Exploration Company we are developing, producing, and operating Nyx - a modular, reusable orbital vehicle for space missions to stations and beyond. Nyx is engineered with the ca"
+    },
+    {
+      "id": "arbeitnow:mid-market-account-executive-dach-germany-149919",
+      "title": "Mid-Market Account Executive DACH",
+      "org": "N8N",
+      "role": "marketing",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/mid-market-account-executive-dach-germany-149919",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793450413,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:forward-deployed-engineer-emea-berlin-413081",
+      "title": "Forward Deployed Engineer - EMEA",
+      "org": "N8N",
+      "role": "project",
+      "location": "Berlin Office",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/forward-deployed-engineer-emea-berlin-413081",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793450413,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
     {
       "id": "arbeitnow:senior-solutions-architect-sales-engineer-munich-475673",
       "title": "Senior Solutions Architect / Sales Engineer (m/f/d)",
@@ -27,36 +238,299 @@
       "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything"
     },
     {
-      "id": "arbeitnow:client-delivery-lead-berlin-69922",
-      "title": "Client Delivery Lead (m/w/d)",
-      "org": "Kraken",
-      "role": "project",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/kraken/client-delivery-lead-berlin-69922",
+      "id": "arbeitnow:enterprise-account-executive-semiconductors-london-496890",
+      "title": "Enterprise Account Executive - Semiconductors",
+      "org": "anthropic",
+      "role": "training",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/enterprise-account-executive-semiconductors-london-496890",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793396416,
+      "postedAt": 1793472922,
       "tags": [
-        "Delivery Tech"
+        "Sales"
       ],
-      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society a"
     },
     {
-      "id": "arbeitnow:senior-crm-manager-london-11135",
-      "title": "Senior CRM Manager",
-      "org": "Marshmallow",
+      "id": "arbeitnow:senior-software-engineer-fullstack-merchant-emea-london-1521",
+      "title": "Senior Software Engineer (Fullstack) - Merchant EMEA",
+      "org": "Deliveroo",
       "role": "marketing",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/marshmallow/senior-crm-manager-london-11135",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-fullstack-merchant-emea-london-1521",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793418025,
+      "postedAt": 1793451322,
       "tags": [
-        "Design"
+        "Merchant Engineering"
       ],
-      "summary": "We started building Marshmallow in 2017. Since then, we’ve grown from 3 to 700+ people, gained unicorn status, raised ~£140M over three funding rounds, turned profitable, insured millions of drivers and lent millions in car loans. But we’re only just getting s"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may co"
+    },
+    {
+      "id": "arbeitnow:senior-software-engineer-london-94198",
+      "title": "Senior Software Engineer",
+      "org": "Getscope",
+      "role": "marketing",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/getscope/senior-software-engineer-london-94198",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793450414,
+      "tags": [
+        "Engineering and Product"
+      ],
+      "summary": "Our Mission: Scope automates the data collection that's slowing down the physical world. Standards are vital for the safety of our infrastructure. Spending hours manually documenting them is not. Dave is an inspector. Today he’s climbing through one of Europe’"
+    },
+    {
+      "id": "arbeitnow:customer-operations-specialist-europe-london-486188",
+      "title": "Customer Operations Specialist - Europe",
+      "org": "Plasma",
+      "role": "marketing",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/plasma/customer-operations-specialist-europe-london-486188",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793450414,
+      "tags": [
+        "Customer Experience"
+      ],
+      "summary": "About Plasma Plasma is building the primary account for global money. Money used to belong to a country. Increasingly, it belongs to a person or business moving through many countries. People and businesses now earn, spend, save, hire and invest across borders"
+    },
+    {
+      "id": "arbeitnow:mid-market-account-executive-north-united-kingdom-419143",
+      "title": "Mid-Market Account Executive North",
+      "org": "n8n",
+      "role": "marketing",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/n8n/mid-market-account-executive-north-united-kingdom-419143",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793450414,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:test-development-engineer-bordeaux-367396",
+      "title": "Test Development Engineer",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Bordeaux, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/test-development-engineer-bordeaux-367396",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793461214,
+      "tags": [
+        "MAIT"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. Here at The Exploration Company, we are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refuelled in orbit, and which carri"
+    },
+    {
+      "id": "arbeitnow:remote-full-stack-developer-java-react-120706",
+      "title": "Full Stack Developer - Java & React (f/m/d)",
+      "org": "ecosio",
+      "role": "marketing",
+      "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-120706",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793472928,
+      "tags": [
+        "Web App Development"
+      ],
+      "summary": "&lt;div&gt; &lt;h2 class=\"title\"&gt;Company Description&lt;/h2&gt; &lt;/div&gt; &lt;div class=\"wysiwyg\"&gt; &lt;p&gt;ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (ED"
+    },
+    {
+      "id": "arbeitnow:google-ads-manager-ai-first-performance-marketing-remote-59473",
+      "title": "Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
+      "org": "Evolve Digital GmbH",
+      "role": "marketing",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/google-ads-manager-ai-first-performance-marketing-remote-59473",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793471468,
+      "tags": [
+        "Operations",
+        "Remote"
+      ],
+      "summary": "Google Ads verändert sich durch AI schneller als je zuvor. Wir suchen deshalb keinen klassischen Ads Manager, sondern jemanden, der Lust hat, Performance Marketing neu zu denken und die Zukunft des Kanals mitzugestalten. Bei EVOLVE Digital arbeiten wir AI-firs"
+    },
+    {
+      "id": "arbeitnow:bereichsleitung-marketing-chief-marketing-officer-berlin-188227",
+      "title": "Bereichsleitung Marketing · Chief Marketing Officer (m/w/d)",
+      "org": "Bundesverbraucherhilfe e.V.",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/bundesverbraucherhilfe-ev/bereichsleitung-marketing-chief-marketing-officer-berlin-188227",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793469643,
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader"
+      ],
+      "summary": "Über die Bundesverbraucherhilfe e.V. Gute Angebote helfen nur, wenn sie die Menschen erreichen, die sie brauchen. Ratgeber, Expertensuche, Vertrauensregister und Mitgliedschaft sollen bekannter werden, ohne aufdringlich zu wirken. Als Bereichsleitung Marketing"
+    },
+    {
+      "id": "arbeitnow:remote-market-fleet-manager-dach-139880",
+      "title": "Market Fleet Manager - DACH",
+      "org": "Roadsurfer",
+      "role": "marketing",
+      "location": "Remote (Germany)",
+      "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/remote-market-fleet-manager-dach-139880",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793461219,
+      "tags": [
+        "Fleet Operations"
+      ],
+      "summary": "Why roadsurfer? TEAM SPIRIT & TEAM EVENTS: Look forward to a collegial atmosphere with flat hierarchies, lots of fun and great team spirit, as well as regular team events such as joint sports sessions, pizza & beer evenings, etc. PERSONAL DEVELOPMENT: We suppo"
+    },
+    {
+      "id": "arbeitnow:remote-senior-sales-engineer-mena-47457",
+      "title": "Senior Sales Engineer - MENA",
+      "org": "Sardine",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/sardine/remote-senior-sales-engineer-mena-47457",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793461214,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "Who we are: Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and AML operations. Sardi"
+    },
+    {
+      "id": "arbeitnow:remote-enterprise-account-executive-i-prague-poland-362759",
+      "title": "Enterprise Account Executive I - Prague/Poland",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-enterprise-account-executive-i-prague-poland-362759",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793461213,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-senior-product-builder-hub-71141",
+      "title": "Senior Product Builder - Hub",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-product-builder-hub-71141",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793461213,
+      "tags": [
+        "Products"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-senior-manager-fpa-373231",
+      "title": "Senior Manager, FP&A",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-manager-fpa-373231",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793461213,
+      "tags": [
+        "Finance"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-senior-software-engineer-backend-data-streaming-132472",
+      "title": "Senior Software Engineer, Backend - Data Streaming",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-132472",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793461213,
+      "tags": [
+        "Products"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-senior-software-engineer-backend-data-layer-4206",
+      "title": "Senior Software Engineer, Backend - Data Layer",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-4206",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793461213,
+      "tags": [
+        "Products"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-senior-react-native-engineer-based-in-germany-berlin-388773",
+      "title": "(Senior) React Native Engineer (m/f/x) - Based in Germany",
+      "org": "Cara Care",
+      "role": "marketing",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-react-native-engineer-based-in-germany-berlin-388773",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793449203,
+      "tags": [
+        "Engineering",
+        "Product & Engineering",
+        "Remote"
+      ],
+      "summary": "Cara Care, a digital health company backed by Bayer AG, is on a mission to improve people’s digestive health through technology. As we expand our product portfolio and modernize our platform, we’re looking for a versatile, pragmatic, and forward-thinking (Seni"
+    },
+    {
+      "id": "arbeitnow:remote-senior-react-native-engineer-based-in-germany-164217",
+      "title": "(Senior) React Native Engineer (m/f/x) - Based in Germany",
+      "org": "Cara Care",
+      "role": "marketing",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-react-native-engineer-based-in-germany-164217",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793449203,
+      "tags": [
+        "Engineering",
+        "Product & Engineering",
+        "Remote"
+      ],
+      "summary": "Cara Care, a digital health company backed by Bayer AG, is on a mission to improve people’s digestive health through technology. As we expand our product portfolio and modernize our platform, we’re looking for a versatile, pragmatic, and forward-thinking (Seni"
     },
     {
       "id": "arbeitnow:marketing-lead-b2b-demand-generation-growth-remote-berlin-78700",
@@ -161,183 +635,132 @@
       "summary": "Du suchst einen Job im Bereich Social Media und möchtest etwas neues lernen? Starte jetzt im Bereich Social Media und KI-Management durch. Ganz egal, ob in Vollzeit oder Teilzeit. Schritt 1: Die Schulung Wir bereiten dich auf diesen Beruf vor. Lerne mit uns di"
     },
     {
-      "id": "arbeitnow:senior-lead-lifecycle-marketing-manager-full-remote-germany-41771",
-      "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - Germany)",
-      "org": "EverAI",
+      "id": "arbeitnow:remote-full-stack-developer-java-react-496339",
+      "title": "Full Stack Developer - Java & React (f/m/d)",
+      "org": "ecosio",
       "role": "marketing",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-germany-41771",
+      "location": "Austria, Germany, Spain, Italy, Hungary, Portugal, Croatia - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ecosio/remote-full-stack-developer-java-react-496339",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793418022,
+      "postedAt": 1793472929,
       "tags": [
-        "Growth"
+        "Web App Development"
       ],
-      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
+      "summary": "&lt;div&gt; &lt;h2 class=\"title\"&gt;Company Description&lt;/h2&gt; &lt;/div&gt; &lt;div class=\"wysiwyg\"&gt; &lt;p&gt;ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (ED"
     },
     {
-      "id": "arbeitnow:remote-enterprise-sales-account-executive-dach-3628",
-      "title": "Enterprise Sales Account Executive - DACH",
-      "org": "Zimperium",
+      "id": "arbeitnow:remote-senior-professional-services-project-manager-emea-386688",
+      "title": "Senior Professional Services Project Manager (EMEA)",
+      "org": "gitlab",
       "role": "marketing",
-      "location": "Germany (Remote)",
-      "url": "https://www.arbeitnow.com/jobs/companies/zimperium/remote-enterprise-sales-account-executive-dach-3628",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-professional-services-project-manager-emea-386688",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793417237,
+      "postedAt": 1793472927,
+      "tags": [
+        "Consulting Delivery"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+    },
+    {
+      "id": "arbeitnow:remote-senior-backend-engineer-database-excellence-ruby-5106",
+      "title": "Senior Backend Engineer, Database Excellence (Ruby)",
+      "org": "gitlab",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-backend-engineer-database-excellence-ruby-5106",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793472927,
+      "tags": [
+        "Data Engineering"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+    },
+    {
+      "id": "arbeitnow:sales-development-representative-german-speaking-manchester-337245",
+      "title": "Sales Development Representative, German Speaking",
+      "org": "Influxdata",
+      "role": "project",
+      "location": "Remote UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/sales-development-representative-german-speaking-manchester-337245",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793461214,
       "tags": [
         "Sales"
       ],
-      "summary": "Zimperium® is an industry leader in enterprise mobile security, being the first and only company to provide a complete mobile threat defense system. Cybercriminals are taking a mobile-first attack strategy, making mobile devices and applications primary target"
+      "summary": "InfluxData is the creator of InfluxDB, the leading time series platform used to collect, store, and analyze all time series data at any scale. Developers can query and analyze their time-stamped data in real-time to discover, interpret, and share new insights "
     },
     {
-      "id": "arbeitnow:security-engineer-eu-remote-germany-434793",
-      "title": "Security Engineer (EU Remote)",
-      "org": "Gurobioptimization",
-      "role": "training",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/gurobioptimization/security-engineer-eu-remote-germany-434793",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793417236,
-      "tags": [
-        "R&D"
-      ],
-      "summary": "At Gurobi Optimization, we're on a mission! A mission that focuses on mathematical optimization. We empower our customers to expand their use of mathematical optimization technology in order to make smarter decisions and solve some of the world's toughest and "
-    },
-    {
-      "id": "arbeitnow:remote-ai-first-data-engineer-117386",
-      "title": "AI-First Data Engineer (m/f/d)",
-      "org": "Sport Alliance GmbH",
+      "id": "arbeitnow:sales-development-representative-french-speaking-manchester-83548",
+      "title": "Sales Development Representative, French Speaking",
+      "org": "Influxdata",
       "role": "project",
-      "location": "Remote (Germany)",
-      "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-ai-first-data-engineer-117386",
+      "location": "Remote UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/sales-development-representative-french-speaking-manchester-83548",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793417235,
+      "postedAt": 1793461214,
       "tags": [
-        "Data Operations"
+        "Sales"
       ],
-      "summary": "Join Sport Alliance and help build the data platform behind Magicline and Finion, serving thousands of gyms and 10M+ members. You'll tackle real engineering challenges, from high-volume data modeling and cost-efficient warehousing to freshness trade-offs and f"
+      "summary": "InfluxData is the creator of InfluxDB, the leading time series platform used to collect, store, and analyze all time series data at any scale. Developers can query and analyze their time-stamped data in real-time to discover, interpret, and share new insights "
     },
     {
-      "id": "arbeitnow:social-media-manager-freelance-berlin-487995",
-      "title": "Social Media Manager (Freelance, m/f/d)",
-      "org": "L1VE GmbH",
+      "id": "arbeitnow:sales-development-representative-uk-manchester-348624",
+      "title": "Sales Development Representative, UK",
+      "org": "Influxdata",
+      "role": "project",
+      "location": "Remote UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/sales-development-representative-uk-manchester-348624",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793461214,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "InfluxData is the creator of InfluxDB, the leading time series platform used to collect, store, and analyze all time series data at any scale. Developers can query and analyze their time-stamped data in real-time to discover, interpret, and share new insights "
+    },
+    {
+      "id": "arbeitnow:remote-e-invoicing-edi-integration-engineer-with-english-and-german-french-italian-103815",
+      "title": "E-invoicing & EDI Integration Engineer (f/m/d) - with English and German/French/Italian",
+      "org": "ecosio",
       "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/l1ve-gmbh/social-media-manager-freelance-berlin-487995",
+      "location": "Germany, Austria, Spain, UK, Italy, Hungary, Portugal, Croatia, Poland - Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ecosio/remote-e-invoicing-edi-integration-engineer-with-english-and-german-french-italian-103815",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793413860,
+      "postedAt": 1793472929,
       "tags": [
-        "Remote",
-        "Marketing and Communication"
+        "Onboarding & Operations"
       ],
-      "summary": "Your mission About L1VE L1VE is a growing media and technology company with offices in Berlin and New York. With immersive 14K/3D/360° streaming technology and innovative live formats, we are changing the way people experience sports, music and entertainment. "
+      "summary": "&lt;div&gt; &lt;h2 class=\"title\"&gt;Company Description&lt;/h2&gt; &lt;/div&gt; &lt;div class=\"wysiwyg\"&gt; &lt;p&gt;ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (ED"
     },
     {
-      "id": "arbeitnow:senior-product-manager-berlin-143961",
-      "title": "Senior Product Manager",
-      "org": "Cosuno",
+      "id": "arbeitnow:remote-sales-account-executive-cybersecurity-montrouge-331462",
+      "title": "Sales Account Executive - Cybersecurity",
+      "org": "Crowdsec",
       "role": "marketing",
-      "location": "Berlin/Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-product-manager-berlin-143961",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-331462",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793407212,
+      "postedAt": 1793471469,
       "tags": [
-        "Tech"
+        "Remote"
       ],
-      "summary": "Turn new revenue opportunities into products construction companies pay for. Your mission Cosuno is the marketplace where construction companies run their tenders: general contractors invite subcontractors to bid, and subcontractors find and win new projects. "
-    },
-    {
-      "id": "arbeitnow:senior-key-account-manager-berlin-422601",
-      "title": "Senior Key Account Manager",
-      "org": "BringLiesel GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/bringliesel-gmbh/senior-key-account-manager-berlin-422601",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793397632,
-      "tags": [
-        "Remote",
-        "Management",
-        "Team Leader"
-      ],
-      "summary": "Über BringLiesel BringLiesel ist die Plattform für individuelle Bewohnerversorgung in der stationären Pflege. Über 1.200 Produkte des täglichen Bedarfs werden online bestellt, einzeln je Bewohner:in verpackt und revisionssicher abgerechnet. Unsere Prozesse sin"
-    },
-    {
-      "id": "arbeitnow:security-and-compliance-engineer-london-361433",
-      "title": "Security and Compliance Engineer",
-      "org": "Griffin",
-      "role": "marketing",
-      "location": "London or remote within the UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/griffin/security-and-compliance-engineer-london-361433",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793439616,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "About Griffin Hi, we’re Griffin. We’re a fully regulated UK bank that powers the accounts and payments offerings of product-led fintechs and platforms like Uber, Yonder, Prosper, and Sidekick. By doing the heavy lifting behind the scenes, our customers can foc"
-    },
-    {
-      "id": "arbeitnow:remote-lead-data-engineer-315863",
-      "title": "Lead Data Engineer",
-      "org": "Akersystems",
-      "role": "training",
-      "location": "Remote/Home Based",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-lead-data-engineer-315863",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793429717,
-      "tags": [
-        "Delivery"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Aker Systems was founded in 2017 by a team of experienced technology professionals who recognised an opportunity to provide highly secure enterprise data platforms to large organisations.&nbsp; We build and operate gro"
-    },
-    {
-      "id": "arbeitnow:remote-lead-engineer-air-343548",
-      "title": "Lead Engineer, Air",
-      "org": "Uforce",
-      "role": "marketing",
-      "location": "United Kingdom | Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/uforce/remote-lead-engineer-air-343548",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793428828,
-      "tags": [
-        "Hardware"
-      ],
-      "summary": "UFORCE exists to make aggression unaffordable. Founded in Ukraine and headquartered in London, UFORCE is a defence-technology company with operations across Europe, the United States and Asia. UFORCE builds uncrewed vessels, ground robotics and aircraft, auton"
-    },
-    {
-      "id": "arbeitnow:senior-lead-lifecycle-marketing-manager-full-remote-uk-united-kingdom-326022",
-      "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - UK)",
-      "org": "EverAI",
-      "role": "marketing",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/senior-lead-lifecycle-marketing-manager-full-remote-uk-united-kingdom-326022",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793418022,
-      "tags": [
-        "Growth"
-      ],
-      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
+      "summary": "Passionate about Cybersecurity, open-source or network effect products? Interested in Sales? Join CrowdSec to build a safer internet for everyone. What we do We aim to deter opportunistic and organized cybercrime through an Internet-scale, real-time security n"
     },
     {
       "id": "arbeitnow:product-domain-specialist-secteur-agricole-paris-289529",
