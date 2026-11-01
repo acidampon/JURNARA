@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T17:57:43.370Z",
+  "updatedAt": "2026-11-01T22:09:52.653Z",
   "sourceCount": 2,
   "totalFetched": 312,
-  "relevantCount": 31,
+  "relevantCount": 35,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -108,6 +108,92 @@
         "Client Roles"
       ],
       "summary": "About the Role Join an early-stage B2B SaaS team building AI-powered software for certification, inspection, and compliance workflows. You will work directly with customers to understand how their operations run and turn those insights into reliable software u"
+    },
+    {
+      "id": "arbeitnow:brand-ambassador-representing-the-brand-hacoy-munich-131633",
+      "title": "Brand Ambassador - Representing the Brand | HACOY",
+      "org": "HACOY",
+      "role": "marketing",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/hacoy/brand-ambassador-representing-the-brand-hacoy-munich-131633",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793561442,
+      "tags": [
+        "Remote",
+        "Marketing and Communication"
+      ],
+      "summary": "We are looking for brand ambassadors for our new fashion brand, interested in long-term collaboration. At HACOY we are making individuals feel comfortable with the clothing they wear, but more importantly; with themselves. Focused on home office wear, our coll"
+    },
+    {
+      "id": "arbeitnow:klaviyo-email-marketer-for-dtc-brands-berlin-394824",
+      "title": "Klaviyo Email Marketer for DTC Brands",
+      "org": "Email Marketing Agentur",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/email-marketing-agentur/klaviyo-email-marketer-for-dtc-brands-berlin-394824",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793552452,
+      "tags": [
+        "Remote",
+        "CRM",
+        "Direct Marketing"
+      ],
+      "summary": "We're a full-service email and SMS marketing agency helping 7-figure and 8-figure DTC brands scale profitably. We specialize in high-performance email flows, campaigns, and retention strategies using Klaviyo for high-growth brands. As an Email Marketing Manage"
+    },
+    {
+      "id": "arbeitnow:lead-ai-engineer-remote-berlin-289486",
+      "title": "Lead AI Engineer (m/w/d) – Remote",
+      "org": "MAIA",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/maia/lead-ai-engineer-remote-berlin-289486",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793552452,
+      "tags": [
+        "Remote",
+        "Development"
+      ],
+      "summary": "Worum es geht MAIA ist eine KI-Plattform für Unternehmen. Mit MAIA durchsuchen Teams ihre internen Daten und verankern Agenten tief in ihren Prozessen. Wir begleiten Unternehmen dabei, KI nicht nur in einzelnen Abteilungen, sondern im ganzen Unternehmen einzus"
+    },
+    {
+      "id": "arbeitnow:senior-product-engineer-ai-remote-berlin-51768",
+      "title": "(Senior) Product Engineer – AI (m/f/d) – Remote",
+      "org": "MAIA",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-product-engineer-ai-remote-berlin-51768",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793552451,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "What we do MAIA is an AI platform for companies. With MAIA, teams search their internal data and embed agents deep into their processes. We help companies use AI not just in individual departments, but across the entire organisation. On a technical level, this"
+    },
+    {
+      "id": "arbeitnow:senior-software-engineer-ai-remote-berlin-132265",
+      "title": "(Senior) Software Engineer – AI (m/f/d) – Remote",
+      "org": "MAIA",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-software-engineer-ai-remote-berlin-132265",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793552451,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "What we do MAIA is an AI platform for companies. With MAIA, teams search their internal data and embed agents deep into their processes. We help companies use AI not just in individual departments, but across the entire organisation. On a technical level, this"
     },
     {
       "id": "arbeitnow:senior-ai-engineer-remote-berlin-24944",
@@ -242,22 +328,6 @@
         "Remote"
       ],
       "summary": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make"
-    },
-    {
-      "id": "arbeitnow:remote-full-stack-developer-java-react-120706",
-      "title": "Full Stack Developer - Java & React (f/m/d)",
-      "org": "ecosio",
-      "role": "marketing",
-      "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-120706",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793472928,
-      "tags": [
-        "Web App Development"
-      ],
-      "summary": "&lt;div&gt; &lt;h2 class=\"title\"&gt;Company Description&lt;/h2&gt; &lt;/div&gt; &lt;div class=\"wysiwyg\"&gt; &lt;p&gt;ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (ED"
     },
     {
       "id": "arbeitnow:principal-program-manager-operations-management-london-hybrid-or-uk-remote-145514",
