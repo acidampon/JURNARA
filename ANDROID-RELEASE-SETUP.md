@@ -1,6 +1,6 @@
 # JURNARA Android Release Setup
 
-The debug Android build is verified in GitHub Actions. The release workflow is configured to create a signed Google Play App Bundle (AAB) without storing the private signing key in the repository.
+The debug Android build is documented as verified in GitHub Actions. The release workflow is configured to create a signed Google Play App Bundle (AAB) without storing the private signing key in the repository. Verify the latest workflow run before treating any particular build as release-ready.
 
 ## Required GitHub Actions secrets
 
