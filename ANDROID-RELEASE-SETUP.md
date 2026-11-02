@@ -32,12 +32,8 @@ The package ID is:
 
 `com.jurnara.app`
 
-The current web/Capacitor version is:
-
-`2.0.0`
-
-The first Play release can use version code 1. Future releases must use higher version codes.
+The repository README currently declares application version `2.1.0` and Android version code `2`. However, the Android Gradle project is generated during the build and is not committed in this repository, so these values have not been independently verified against generated `android/app/build.gradle` metadata here. Before publishing, inspect the generated Gradle configuration and the Play Console's latest uploaded version code. Never reuse a version code already accepted by Google Play.
 
 ## Current release boundary
 
-The repository has a verified production web build and a verified debug APK build. A signed release AAB cannot be generated until the required signing secrets are configured. This workflow deliberately fails early when those secrets are missing.
+The production web build has passed CI. A signed release AAB is not verified until the signing secrets are configured and the manual release workflow completes successfully. Do not infer Android release readiness from a web build. Confirm the generated Android project, package ID, version name, version code, signing certificate, and AAB artifact before Play Console submission.
