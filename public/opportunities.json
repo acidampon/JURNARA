@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T22:09:52.653Z",
+  "updatedAt": "2026-11-02T06:22:11.523Z",
   "sourceCount": 2,
   "totalFetched": 312,
-  "relevantCount": 35,
+  "relevantCount": 32,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -78,36 +78,36 @@
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Hi, we're TechnologyAdvice.&lt;/p&gt; &lt;p&gt;Headquartered in Nashville, Tennessee, TechnologyAdvice helps millions of B2B technology buyers make smarter decisions by providing trusted research, practical guidance, a"
     },
     {
-      "id": "arbeitnow:lead-platform-engineer-manchester-22226",
-      "title": "Lead Platform Engineer",
-      "org": "Kraken",
-      "role": "marketing",
-      "location": "Manchester, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/lead-platform-engineer-manchester-22226",
+      "id": "arbeitnow:senior-infrastructure-devops-engineer-100-remote-germany-frankfurt-391469",
+      "title": "Senior Infrastructure DevOps Engineer (100% Remote Germany)",
+      "org": "Innocraft",
+      "role": "project",
+      "location": "Frankfurt",
+      "url": "https://www.arbeitnow.com/jobs/companies/innocraft/senior-infrastructure-devops-engineer-100-remote-germany-frankfurt-391469",
       "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793536814,
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793590051,
       "tags": [
-        "Tech Development"
+        "Engineering"
       ],
-      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
+      "summary": "Architect and scale the cloud platform behind a mission-critical SaaS product used globally. Own infrastructure strategy, reliability, and automation while influencing engineering at scale, reporting to the Cloud DevOps Team Leader. About Innocraft & Matomo Ma"
     },
     {
-      "id": "arbeitnow:forward-deployed-engineer-england-140977",
-      "title": "Forward Deployed Engineer",
-      "org": "True Talent Solutions Partners",
-      "role": "project",
-      "location": "England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/forward-deployed-engineer-england-140977",
+      "id": "arbeitnow:senior-product-security-engineer-remote-working-within-germany-89783",
+      "title": "Senior Product Security Engineer - Remote working within Germany",
+      "org": "Staffbase",
+      "role": "marketing",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.com/jobs/companies/staffbase/senior-product-security-engineer-remote-working-within-germany-89783",
       "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793536814,
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793570127,
       "tags": [
-        "Client Roles"
+        "Engineering"
       ],
-      "summary": "About the Role Join an early-stage B2B SaaS team building AI-powered software for certification, inspection, and compliance workflows. You will work directly with customers to understand how their operations run and turn those insights into reliable software u"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;&lt;strong&gt;About Staffbase&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;We inspire people to achieve great things together. Our mission is to help organizations unlock the power of inspirational communication with the first "
     },
     {
       "id": "arbeitnow:brand-ambassador-representing-the-brand-hacoy-munich-131633",
@@ -262,72 +262,20 @@
       "summary": "Die geo-konzept GmbH (ein Partnerunternehmen der Wimex Group) steht bereits seit 1992 für zuverlässige und robuste Sensorik, GPS- und GIS-Technologien für die Agrar- und Forstwirtschaft sowie die Steinindustrie. Das Unternehmen zählt zu den Marktführern im Ber"
     },
     {
-      "id": "arbeitnow:senior-sales-development-representative-german-speaking-remote-dusseldorf-de-296397",
-      "title": "Senior Sales Development Representative - German Speaking (Remote)",
-      "org": "Vendavo",
-      "role": "training",
-      "location": "Düsseldorf, DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/vendavo/senior-sales-development-representative-german-speaking-remote-dusseldorf-de-296397",
+      "id": "arbeitnow:remote-strategic-account-executive-emea-100-hunting-role-216863",
+      "title": "Strategic Account Executive, EMEA (100% hunting role)",
+      "org": "Sonatype",
+      "role": "marketing",
+      "location": "UK - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonatype/remote-strategic-account-executive-emea-100-hunting-role-216863",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793502471,
+      "postedAt": 1793590052,
       "tags": [
-        "Marketing"
+        "Sales - EMEA - Southwest"
       ],
-      "summary": "We’re a growing team, and as we scale, so does our need to focus on expanding our sales development team. You’ll join a people-focused business that is putting AI at the center of how manufacturers and distributors price, quote and manage incentives, with a re"
-    },
-    {
-      "id": "arbeitnow:remote-ai-solution-architect-nurnberg-mittelfranken-430823",
-      "title": "AI Solution Architect (m/w/d)",
-      "org": "virtual7 GmbH",
-      "role": "training",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-430823",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793493079,
-      "tags": [
-        "Customer Cluster Environment",
-        "Transportation & Energy",
-        "Remote"
-      ],
-      "summary": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, "
-    },
-    {
-      "id": "arbeitnow:remote-senior-oracle-data-engineer-karlsruhe-188254",
-      "title": "Senior Oracle Data Engineer (m/w/d)",
-      "org": "virtual7 GmbH",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-188254",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793493079,
-      "tags": [
-        "Customer Cluster Finance",
-        "Remote"
-      ],
-      "summary": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, "
-    },
-    {
-      "id": "arbeitnow:remote-senior-site-reliability-engineer-sre-berlin-445711",
-      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
-      "org": "Makersite GmbH",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-445711",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793493077,
-      "tags": [
-        "Technology",
-        "Remote"
-      ],
-      "summary": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make"
+      "summary": "Sonatype is the software supply chain security company. Sonatype is accelerating the future of agentic software development. As developers and AI agents build faster than ever, enterprises need a new level of control, visibility, and confidence at the moment s"
     },
     {
       "id": "arbeitnow:principal-program-manager-operations-management-london-hybrid-or-uk-remote-145514",
