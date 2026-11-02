@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T06:22:11.523Z",
+  "updatedAt": "2026-11-02T21:46:09.318Z",
   "sourceCount": 2,
   "totalFetched": 312,
-  "relevantCount": 32,
+  "relevantCount": 43,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -30,317 +30,509 @@
       "summary": "About Hilo by Aktiia High blood pressure is the world's most common disease, causing 18M deaths each year. At Hilo by Aktiia, we're building a world where no lives are lost to its effects — with technology that helps people take control of their health. We're "
     },
     {
-      "id": "arbeitnow:growth-engineer-intern-munich-170456",
-      "title": "Growth Engineer (Intern)",
-      "org": "Emidat GmbH",
-      "role": "training",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/emidat-gmbh/growth-engineer-intern-munich-170456",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793504414,
-      "tags": [
-        "Commercial"
-      ],
-      "summary": "👷🏻‍♀️ What we do 👷🏻‍♀️ At Emidat, we are building the first climate-native product management system for building material manufacturers. Emidat aims to decarbonise building materials, making up 11% of global GHG emissions. We collect data from physical pr"
-    },
-    {
-      "id": "arbeitnow:uk-graduate-leadership-programme-media-marketing-track-july-start-london-445660",
-      "title": "UK Graduate Leadership Programme - Media Marketing Track (July Start)",
-      "org": "Pmg",
+      "id": "arbeitnow:senior-data-center-pre-construction-and-capacity-delivery-manager-emea-london-290337",
+      "title": "Senior Data Center Pre-Construction and Capacity Delivery Manager, EMEA",
+      "org": "anthropic",
       "role": "training",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pmg/uk-graduate-leadership-programme-media-marketing-track-july-start-london-445660",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/senior-data-center-pre-construction-and-capacity-delivery-manager-emea-london-290337",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793548525,
+      "postedAt": 1793634922,
       "tags": [
-        "GLP"
+        "Compute"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;We are PMG&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;PMG, a global independent platform company engineered for impact, integrates business strategy, media, creative, and data within a single operating model power"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society a"
     },
     {
-      "id": "arbeitnow:account-director-channel-sales-117020",
-      "title": "Account Director, Channel Sales",
-      "org": "Technologyadvice",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/technologyadvice/account-director-channel-sales-117020",
+      "id": "arbeitnow:growth-engineer-recruiting-people-paris-479771",
+      "title": "Growth Engineer, Recruiting & People",
+      "org": "Genesis",
+      "role": "project",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/genesis/growth-engineer-recruiting-people-paris-479771",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793548524,
+      "postedAt": 1793634015,
+      "tags": [
+        "Talent & People"
+      ],
+      "summary": "About the role Genesis brings together AI research, simulation, and robotics to build general-purpose robots that can work in the real world. Our mission is to unlock unlimited physical labor. Our ability to grow depends on how well we find exceptional people,"
+    },
+    {
+      "id": "arbeitnow:manager-steuerung-planung-100-remote-hamburg-390744",
+      "title": "Manager Steuerung & Planung (m/w/d) | 100 % remote",
+      "org": "hey contact heroes GmbH",
+      "role": "support",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/manager-steuerung-planung-100-remote-hamburg-390744",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793653246,
+      "tags": [
+        "Remote",
+        "Controlling"
+      ],
+      "summary": "Über hey contact heroes Wir sind hey contact heroes, ein Customer-Service-Dienstleister aus Hamburg. Mit mehr als 500 Teammitgliedern arbeiten wir komplett remote und betreuen den Kundenservice für bekannte Marken aus Telekommunikation, E-Commerce, Entertainme"
+    },
+    {
+      "id": "arbeitnow:it-support-manager-bonn-178882",
+      "title": "IT Support Manager",
+      "org": "Bg Prevent",
+      "role": "training",
+      "location": "Bonn",
+      "url": "https://www.arbeitnow.com/jobs/companies/bg-prevent/it-support-manager-bonn-178882",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793646037,
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader"
+      ],
+      "summary": "About Bg Prevent At Bg Prevent, we shape healthy working environments through occupational safety and health initiatives across more than 150 locations with a team of over 3,700 employees. Bg Prevent is seeking a Customer Success Support Manager to lead our Su"
+    },
+    {
+      "id": "arbeitnow:werkstudentin-growth-engineer-berlin-127979",
+      "title": "Werkstudent:in growth engineer (m/w/d)",
+      "org": "relokate HR GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/relokate-hr-gmbh/werkstudentin-growth-engineer-berlin-127979",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793646036,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Über relokate relokate hilft Unternehmen, internationale Talente nach Deutschland zu relocaten. Wir sind ein female-led, remote-first Team mit Sitz in Berlin, gegründet 2020. Unsere Relocation-Software, unsere Immigration-Expert:innen und unser Netzwerk unabhä"
+    },
+    {
+      "id": "arbeitnow:kundenberater-vertriebsberater-mpu-beratung-bergen-auf-rugen-386525",
+      "title": "Kundenberater / Vertriebsberater (m/w/d) – MPU-Beratung",
+      "org": "MPU Klar",
+      "role": "marketing",
+      "location": "Bergen auf Rügen",
+      "url": "https://www.arbeitnow.com/jobs/companies/mpu-klar/kundenberater-vertriebsberater-mpu-beratung-bergen-auf-rugen-386525",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793646036,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "Über uns MPU Klar unterstützt Menschen in Deutschland bei der Wiedererlangung ihres Führerscheins durch professionelle Beratung, individuelle MPU-Vorbereitung und umfassende Betreuung. Als etablierter Anbieter mit erfolgreichen Marketingstrategien verfügen wir"
+    },
+    {
+      "id": "arbeitnow:leitung-inbound-zentrale-erstberatung-berlin-405068",
+      "title": "Leitung Inbound – Zentrale Erstberatung (m/w/d)",
+      "org": "GFN GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/gfn-gmbh/leitung-inbound-zentrale-erstberatung-berlin-405068",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793646036,
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader"
+      ],
+      "summary": "Die GFN GmbH begleitet als Bildungsanbieter mit IT-Spezialisierung deutschlandweit Menschen auf ihrem Weg der Weiterbildung und beruflichen Neuorientierung. Für unsere Zentrale Erstberatung (Inbound) suchen wir eine engagierte L eitung Inbound (m/w/d) in Vollz"
+    },
+    {
+      "id": "arbeitnow:remote-site-reliability-engineer-428574",
+      "title": "Site Reliability Engineer (f/m/d)",
+      "org": "ecosio",
+      "role": "training",
+      "location": "Austria, UK, Italy, Hungary, Croatia, Poland - Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-site-reliability-engineer-428574",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793645721,
+      "tags": [
+        "Site Reliability Engineering"
+      ],
+      "summary": "&lt;div&gt; &lt;h2 class=\"title\"&gt;Company Description&lt;/h2&gt; &lt;/div&gt; &lt;div class=\"wysiwyg\"&gt; &lt;p&gt;ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (ED"
+    },
+    {
+      "id": "arbeitnow:remote-senior-backend-engineer-go-berlin-189894",
+      "title": "Senior Backend Engineer (Go) (m/w/d)",
+      "org": "Recare Deutschland GmbH",
+      "role": "training",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-backend-engineer-go-berlin-189894",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793645484,
+      "tags": [
+        "Engineering",
+        "Remote"
+      ],
+      "summary": "About us As one of Germany's leading HealthTech companies, we are transforming discharge management by making it technology driven, patient centered, and free of bureaucracy. In addition to our market leading SaaS platform, we are developing AI solutions that "
+    },
+    {
+      "id": "arbeitnow:remote-senior-data-engineer-berlin-467823",
+      "title": "Senior Data Engineer (m/f/d)",
+      "org": "Recare Deutschland GmbH",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-data-engineer-berlin-467823",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793645484,
+      "tags": [
+        "Product",
+        "Remote"
+      ],
+      "summary": "As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processe"
+    },
+    {
+      "id": "arbeitnow:senior-spezialist-gesamtbanksteuerung-berlin-280050",
+      "title": "Senior Spezialist (w/m/d) Gesamtbanksteuerung",
+      "org": "V-HEAL GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/v-heal-gmbh/senior-spezialist-gesamtbanksteuerung-berlin-280050",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793642451,
+      "tags": [
+        "Remote",
+        "Controlling"
+      ],
+      "summary": "Für unseren Mandanten, ein seit 50 Jahren expandierendes, modernes und überregional tätiges Spezialkreditinstitut, suchen wir zum nächstmöglichen Zeitpunkt einen Senior Spezialist (w/m/d) Gesamtbanksteuerung. Das erwartet Sie: Konzeption, Weiterentwicklung und"
+    },
+    {
+      "id": "arbeitnow:technischer-vertrieb-regenwassermanagement-berlin-12260",
+      "title": "Technischer Vertrieb Regenwassermanagement (m/w/d)",
+      "org": "ReSus Consult GmbH",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/resus-consult-gmbh/technischer-vertrieb-regenwassermanagement-berlin-12260",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793637072,
+      "tags": [
+        "Remote",
+        "Sales Engineer"
+      ],
+      "summary": "Unser Mandant Unser Mandant ist ein international tätiger Hersteller von Systemen für die Wasser- und Abwasserinfrastruktur. Für die Trinkwasserversorgung werden Schächte, Armaturenkammern, Speicher und Behälter angeboten, projektbezogen ausgelegt und gefertig"
+    },
+    {
+      "id": "arbeitnow:online-proband-verbrauchermarktforschung-einkaufe-dokumentieren-nebenjob-remote-berlin-70937",
+      "title": "Online-Proband (m/w/d) - Verbrauchermarktforschung & Einkäufe dokumentieren - Nebenjob - remote",
+      "org": "TPnet Marktforschung",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/tpnet-marktforschung/online-proband-verbrauchermarktforschung-einkaufe-dokumentieren-nebenjob-remote-berlin-70937",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793635259,
+      "tags": [
+        "Remote",
+        "Market Research",
+        "Analysis"
+      ],
+      "summary": "Standort: Deutschlandweit / Remote Arbeitszeit: Flexibel nebenbei Vergütung: Je nach Projekt Geldprämien, Gutscheine oder Sachprämien Für verschiedene Verbraucher- und Marktforschungsprojekte werden Probanden gesucht, die ihren Alltag dokumentieren und dafür a"
+    },
+    {
+      "id": "arbeitnow:werkstudentin-marketing-automation-ai-berlin-246461",
+      "title": "Werkstudent:in Marketing Automation & AI (m/w/d)",
+      "org": "relokate HR GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/relokate-hr-gmbh/werkstudentin-marketing-automation-ai-berlin-246461",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793650645,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "Über relokate relokate hilft Unternehmen, internationale Talente nach Deutschland zu relocaten. Wir sind ein female-led, remote-first Team mit Sitz in Berlin, gegründet 2020. Unsere Relocation-Software, unsere Immigration-Expert:innen und unser Netzwerk unabhä"
+    },
+    {
+      "id": "arbeitnow:head-of-strategy-operations-berlin-406175",
+      "title": "Head of Strategy & Operations",
+      "org": "remove",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/remove/head-of-strategy-operations-berlin-406175",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793645254,
+      "tags": [
+        "Remote",
+        "Business Operations"
+      ],
+      "summary": "About remove remove is a non-profit organisation with a mission to enable innovators globally to realize the \"net\" in net zero. remove has established premier global startup accelerator programs focused solely on Carbon Dioxide Removal (CDR) across Europe, Ind"
+    },
+    {
+      "id": "arbeitnow:consultant-informationssicherheit-it-risikomanagement-iso-27001-berlin-367700",
+      "title": "Consultant Informationssicherheit / IT-Risikomanagement – ISO 27001 (m/w/d)",
+      "org": "Rockstardevelopers GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/consultant-informationssicherheit-it-risikomanagement-iso-27001-berlin-367700",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793629838,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software- und IT-Dienstleister mit Erfahrung aus hunderten von Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedback, "
+    },
+    {
+      "id": "arbeitnow:entwickler-one-identity-manager-iam-c-net-berlin-150303",
+      "title": "Entwickler One Identity Manager – IAM, C# / .NET (m/w/d)",
+      "org": "Rockstardevelopers GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/entwickler-one-identity-manager-iam-c-net-berlin-150303",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793629838,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedbac"
+    },
+    {
+      "id": "arbeitnow:sap-ehs-entwickler-refnr-48098-munich-58847",
+      "title": "SAP EHS Entwickler (m/w/d) (Ref.Nr.: 48098)",
+      "org": "Wavestone Germany AG",
+      "role": "project",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/wavestone-germany-ag/sap-ehs-entwickler-refnr-48098-munich-58847",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793628075,
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "summary": "Für die Betreuung einer S/4 Hana Plattform suchen wir einen SAP EHS Entwickler (m/w/d), der sich auch in der Beratung zu Hause fühlt und die Arbeitspakete ganzheitlich verantwortet. Key Facts Start: 02.11.2026 Dauer: 12 Monate / Auslastung: 100 % Einsatzart: E"
+    },
+    {
+      "id": "arbeitnow:vertriebsingenieur-technical-sales-manager-ai-software-solutions-berlin-110701",
+      "title": "Vertriebsingenieur / Technical Sales Manager – AI & Software Solutions (m/w/d)",
+      "org": "U-Glow GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/u-glow-gmbh/vertriebsingenieur-technical-sales-manager-ai-software-solutions-berlin-110701",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793624474,
+      "tags": [
+        "Remote",
+        "Sales Engineer"
+      ],
+      "summary": "100 % Remote | Vollzeit | Start: ab sofort Du kannst verkaufen – und du verstehst gleichzeitig genug von Technologie, um mit Kunden über echte Lösungen zu sprechen? Dann werde Teil von U-Glow / prelytics und bringe unsere KI- und Softwarekompetenz in die Praxi"
+    },
+    {
+      "id": "arbeitnow:remote-account-executive-ai-hpc-neo-sovereign-cloud-emea-444126",
+      "title": "Account Executive, AI/HPC, Neo / Sovereign Cloud (EMEA)",
+      "org": "purestorage",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/remote-account-executive-ai-hpc-neo-sovereign-cloud-emea-444126",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793645723,
       "tags": [
         "Sales"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Hi, we're TechnologyAdvice.&lt;/p&gt; &lt;p&gt;Headquartered in Nashville, Tennessee, TechnologyAdvice helps millions of B2B technology buyers make smarter decisions by providing trusted research, practical guidance, a"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans th"
     },
     {
-      "id": "arbeitnow:senior-infrastructure-devops-engineer-100-remote-germany-frankfurt-391469",
-      "title": "Senior Infrastructure DevOps Engineer (100% Remote Germany)",
-      "org": "Innocraft",
-      "role": "project",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/innocraft/senior-infrastructure-devops-engineer-100-remote-germany-frankfurt-391469",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793590051,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "Architect and scale the cloud platform behind a mission-critical SaaS product used globally. Own infrastructure strategy, reliability, and automation while influencing engineering at scale, reporting to the Cloud DevOps Team Leader. About Innocraft & Matomo Ma"
-    },
-    {
-      "id": "arbeitnow:senior-product-security-engineer-remote-working-within-germany-89783",
-      "title": "Senior Product Security Engineer - Remote working within Germany",
-      "org": "Staffbase",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.com/jobs/companies/staffbase/senior-product-security-engineer-remote-working-within-germany-89783",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793570127,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;&lt;strong&gt;About Staffbase&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;We inspire people to achieve great things together. Our mission is to help organizations unlock the power of inspirational communication with the first "
-    },
-    {
-      "id": "arbeitnow:brand-ambassador-representing-the-brand-hacoy-munich-131633",
-      "title": "Brand Ambassador - Representing the Brand | HACOY",
-      "org": "HACOY",
-      "role": "marketing",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/hacoy/brand-ambassador-representing-the-brand-hacoy-munich-131633",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793561442,
-      "tags": [
-        "Remote",
-        "Marketing and Communication"
-      ],
-      "summary": "We are looking for brand ambassadors for our new fashion brand, interested in long-term collaboration. At HACOY we are making individuals feel comfortable with the clothing they wear, but more importantly; with themselves. Focused on home office wear, our coll"
-    },
-    {
-      "id": "arbeitnow:klaviyo-email-marketer-for-dtc-brands-berlin-394824",
-      "title": "Klaviyo Email Marketer for DTC Brands",
-      "org": "Email Marketing Agentur",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/email-marketing-agentur/klaviyo-email-marketer-for-dtc-brands-berlin-394824",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793552452,
-      "tags": [
-        "Remote",
-        "CRM",
-        "Direct Marketing"
-      ],
-      "summary": "We're a full-service email and SMS marketing agency helping 7-figure and 8-figure DTC brands scale profitably. We specialize in high-performance email flows, campaigns, and retention strategies using Klaviyo for high-growth brands. As an Email Marketing Manage"
-    },
-    {
-      "id": "arbeitnow:lead-ai-engineer-remote-berlin-289486",
-      "title": "Lead AI Engineer (m/w/d) – Remote",
-      "org": "MAIA",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/maia/lead-ai-engineer-remote-berlin-289486",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793552452,
-      "tags": [
-        "Remote",
-        "Development"
-      ],
-      "summary": "Worum es geht MAIA ist eine KI-Plattform für Unternehmen. Mit MAIA durchsuchen Teams ihre internen Daten und verankern Agenten tief in ihren Prozessen. Wir begleiten Unternehmen dabei, KI nicht nur in einzelnen Abteilungen, sondern im ganzen Unternehmen einzus"
-    },
-    {
-      "id": "arbeitnow:senior-product-engineer-ai-remote-berlin-51768",
-      "title": "(Senior) Product Engineer – AI (m/f/d) – Remote",
-      "org": "MAIA",
+      "id": "arbeitnow:remote-site-reliability-engineer-473544",
+      "title": "Site Reliability Engineer (f/m/d)",
+      "org": "ecosio",
       "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-product-engineer-ai-remote-berlin-51768",
+      "location": "Austria, Germany, Italy, Hungary, Croatia, Poland - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ecosio/remote-site-reliability-engineer-473544",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793552451,
+      "postedAt": 1793645721,
       "tags": [
-        "Remote",
-        "Software Development"
+        "Site Reliability Engineering"
       ],
-      "summary": "What we do MAIA is an AI platform for companies. With MAIA, teams search their internal data and embed agents deep into their processes. We help companies use AI not just in individual departments, but across the entire organisation. On a technical level, this"
+      "summary": "&lt;div&gt; &lt;h2 class=\"title\"&gt;Company Description&lt;/h2&gt; &lt;/div&gt; &lt;div class=\"wysiwyg\"&gt; &lt;p&gt;ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (ED"
     },
     {
-      "id": "arbeitnow:senior-software-engineer-ai-remote-berlin-132265",
-      "title": "(Senior) Software Engineer – AI (m/f/d) – Remote",
-      "org": "MAIA",
+      "id": "arbeitnow:remote-professional-services-technical-architect-167980",
+      "title": "Professional Services - Technical Architect",
+      "org": "gitlab",
       "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-software-engineer-ai-remote-berlin-132265",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-professional-services-technical-architect-167980",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793552451,
+      "postedAt": 1793645718,
       "tags": [
-        "Remote",
-        "Software Development"
+        "Consulting Delivery"
       ],
-      "summary": "What we do MAIA is an AI platform for companies. With MAIA, teams search their internal data and embed agents deep into their processes. We help companies use AI not just in individual departments, but across the entire organisation. On a technical level, this"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
     },
     {
-      "id": "arbeitnow:senior-ai-engineer-remote-berlin-24944",
-      "title": "(Senior) AI Engineer (m/f/d) – Remote",
-      "org": "MAIA",
+      "id": "arbeitnow:remote-principal-engineer-duo-agent-platform-157881",
+      "title": "Principal Engineer, Duo Agent Platform",
+      "org": "gitlab",
       "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-ai-engineer-remote-berlin-24944",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-principal-engineer-duo-agent-platform-157881",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793550649,
+      "postedAt": 1793645718,
       "tags": [
-        "Remote",
-        "Software Development"
+        "AI Engineering"
       ],
-      "summary": "What we do MAIA is an AI platform for companies. With MAIA, teams search their internal data and embed agents deep into their processes. We help companies use AI not just in individual departments, but across the entire organisation. On a technical level, this"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
     },
     {
-      "id": "arbeitnow:senior-product-engineer-ai-agents-berlin-309383",
-      "title": "Senior Product Engineer (AI Agents)",
-      "org": "Cosuno",
-      "role": "marketing",
-      "location": "Berlin/Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-product-engineer-ai-agents-berlin-309383",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793547616,
-      "tags": [
-        "Tech"
-      ],
-      "summary": "Your mission Join our team and build the intelligent systems at the core of Cosuno's platform. Generative AI: Build and improve our LLM-powered systems that navigate the complex, often messy tendering workflow. Ship end-to-end into the product: Own features fr"
-    },
-    {
-      "id": "arbeitnow:remote-regional-field-cto-130041",
-      "title": "Regional Field CTO",
-      "org": "Blackduck",
-      "role": "marketing",
-      "location": "EMEA, Remote (Black Duck has entities in UK, Netherlands, France, Italy, Ireland, Finland, Sweden)",
-      "url": "https://www.arbeitnow.com/jobs/companies/blackduck/remote-regional-field-cto-130041",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793526915,
-      "tags": [
-        "2030 - Sales Engineers (GQP)"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Black Duck Software, Inc. helps organizations build secure, high-quality software, minimizing risks while maximizing speed and productivity. Black Duck, a recognized pioneer in application security, provides SAST, SCA,"
-    },
-    {
-      "id": "arbeitnow:remote-mitarbeiter-vertrieb-landwirtschaftliche-software-fur-mehrere-regionen-in-deutschland-munchen-358455",
-      "title": "Mitarbeiter Vertrieb (m/w/d) landwirtschaftliche Software für mehrere Regionen in Deutschland",
-      "org": "Wimex-Gruppe",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/wimex-gruppe/remote-mitarbeiter-vertrieb-landwirtschaftliche-software-fur-mehrere-regionen-in-deutschland-munchen-358455",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793525491,
-      "tags": [
-        "geo-konzept GmbH",
-        "Remote"
-      ],
-      "summary": "Die geo-konzept GmbH (ein Partnerunternehmen der Wimex Group) steht bereits seit 1992 für zuverlässige und robuste Sensorik, GPS- und GIS-Technologien für die Agrar- und Forstwirtschaft sowie die Steinindustrie. Das Unternehmen zählt zu den Marktführern im Ber"
-    },
-    {
-      "id": "arbeitnow:remote-strategic-account-executive-emea-100-hunting-role-216863",
-      "title": "Strategic Account Executive, EMEA (100% hunting role)",
-      "org": "Sonatype",
-      "role": "marketing",
-      "location": "UK - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonatype/remote-strategic-account-executive-emea-100-hunting-role-216863",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793590052,
-      "tags": [
-        "Sales - EMEA - Southwest"
-      ],
-      "summary": "Sonatype is the software supply chain security company. Sonatype is accelerating the future of agentic software development. As developers and AI agents build faster than ever, enterprises need a new level of control, visibility, and confidence at the moment s"
-    },
-    {
-      "id": "arbeitnow:principal-program-manager-operations-management-london-hybrid-or-uk-remote-145514",
-      "title": "Principal Program Manager - Operations Management - London (hybrid) or UK remote",
-      "org": "Convera",
+      "id": "arbeitnow:ai-research-engineer-agentic-reinforcement-learning-100-remote-worldwide-united-kindom-336655",
+      "title": "AI Research Engineer (Agentic Reinforcement Learning) - 100% Remote Worldwide",
+      "org": "Tether Operations Limited",
       "role": "training",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/convera/principal-program-manager-operations-management-london-hybrid-or-uk-remote-145514",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793548527,
-      "tags": [
-        "Program Management"
-      ],
-      "summary": "&lt;p&gt;&lt;strong&gt;Principal Program Manager – Operations Management – London (hybrid) or Remote UK&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&nbsp;&lt;/p&gt; &lt;p&gt;This role exists to ensure Convera’s most critical operational, technology, customer, and busine"
-    },
-    {
-      "id": "arbeitnow:remote-regional-field-cto-37797",
-      "title": "Regional Field CTO",
-      "org": "Blackduck",
-      "role": "marketing",
-      "location": "EMEA, Remote (Black Duck has entities in UK, Germany, Netherlands, Italy, Ireland, Finland, Sweden)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/blackduck/remote-regional-field-cto-37797",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793526915,
-      "tags": [
-        "2030 - Sales Engineers (GQP)"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Black Duck Software, Inc. helps organizations build secure, high-quality software, minimizing risks while maximizing speed and productivity. Black Duck, a recognized pioneer in application security, provides SAST, SCA,"
-    },
-    {
-      "id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-489321",
-      "title": "Senior Data Engineer - Real time analytics",
-      "org": "Aircall",
-      "role": "marketing",
-      "location": "France Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/aircall/remote-senior-data-engineer-real-time-analytics-489321",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793513211,
-      "tags": [
-        "13001 - Engineering"
-      ],
-      "summary": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI to"
-    },
-    {
-      "id": "arbeitnow:remote-informationssicherheitsberater-aarau-351039",
-      "title": "Informationssicherheitsberater",
-      "org": "Callista Group AG",
-      "role": "project",
       "location": "Remote job",
-      "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/remote-informationssicherheitsberater-aarau-351039",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/ai-research-engineer-agentic-reinforcement-learning-100-remote-worldwide-united-kindom-336655",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793352685,
+      "postedAt": 1793623902,
       "tags": [
-        "Software Engineering",
+        "Engineering",
         "Remote"
       ],
-      "summary": "Für die Informationssicherheit eines kantonalen Departements in der öffentlichen Verwaltung suchen wir einen externen Berater für Informationssicherheit. Du unterstützt die informationssicherheitsbeauftragte Person fachlich und sorgst dafür, dass Sicherheitsan"
+      "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamless"
+    },
+    {
+      "id": "arbeitnow:remote-ai-engineer-london-34491",
+      "title": "AI Engineer",
+      "org": "AnywhereNow",
+      "role": "training",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anywherenow/remote-ai-engineer-london-34491",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793623901,
+      "tags": [
+        "Product Development",
+        "Remote"
+      ],
+      "summary": "Founded in 2010 in the Netherlands, AnywhereNow is a global leader in Enterprise Dialogue Management, with a vision to ensure every employee and customer feels heard, understood, and valued. Today, our team of approximately 240 employees spans 22 countries, su"
+    },
+    {
+      "id": "arbeitnow:fullstack-developer-paris-or-remote-175212",
+      "title": "📱 Fullstack Developer (Paris or remote)",
+      "org": "Staycation",
+      "role": "marketing",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/staycation/fullstack-developer-paris-or-remote-175212",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793634015,
+      "tags": [
+        "Product"
+      ],
+      "summary": "🍿 About Staycation For most people, hotels are places you only visit when you travel. But we see something different. Behind their doors, hotels hide some of the most extraordinary spaces cities have to offer: breathtaking rooftops with skyline views, world-c"
+    },
+    {
+      "id": "arbeitnow:setter-instagram-freelance-paris-98765",
+      "title": "Setter Instagram Freelance",
+      "org": "ConformIT Solutions",
+      "role": "marketing",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/conformit-solutions/setter-instagram-freelance-paris-98765",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793633454,
+      "tags": [
+        "Remote",
+        "Social Media Manager"
+      ],
+      "summary": "🌿 À propos de l’entreprise ConformIT Solutions publie cette offre dans le cadre d’une collaboration avec une entreprise partenaire spécialisée dans l’accompagnement et le coaching des femmes en post-rupture amoureuse . Le poste est donc à pourvoir pour cette "
+    },
+    {
+      "id": "arbeitnow:it-supporterin-e-banking-zurich-100653",
+      "title": "IT Supporter:in - E-banking",
+      "org": "Coopers Group AG",
+      "role": "support",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-supporterin-e-banking-zurich-100653",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793635256,
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "summary": "................ Für unseren Kunden in Zürich suchen wir eine:n kundenorientierte:n und technisch versierte:n IT-Supporter:in E-Banking. In dieser Funktion bist du für den technischen Second-Level-Support der digitalen Bankdienstleistungen verantwortlich und u"
+    },
+    {
+      "id": "arbeitnow:it-support-analyst-application-operations-zurich-204968",
+      "title": "IT Support Analyst – Application Operations",
+      "org": "Coopers Group AG",
+      "role": "support",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-support-analyst-application-operations-zurich-204968",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793626271,
+      "tags": [
+        "Remote",
+        "Applications Administration"
+      ],
+      "summary": "................ Für unseren Kunden aus dem Bankenumfeld in Zürich , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n IT Support Analyst:in – Application Operations . Deine Aufgaben: Analyse wiederkehrender IT-Probleme, Identifikation von Ursa"
+    },
+    {
+      "id": "arbeitnow:hindi-bilingual-expert-remote-worldwide-amsterdam-223938",
+      "title": "Hindi Bilingual Expert (Remote-Worldwide)",
+      "org": "Your Software Supplier",
+      "role": "marketing",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/hindi-bilingual-expert-remote-worldwide-amsterdam-223938",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793606447,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "This job is with our partner Micro1. Scope of Work Listen to audio clips in Hindi and evaluate the nativeness and fluency of the speaker or model output. Assess pronunciation, intonation, and linguistic authenticity according to established guidelines. Documen"
     },
     {
       "id": "arbeitnow:remote-senior-full-stack-developer-deepdesk-rotterdam-346552",
