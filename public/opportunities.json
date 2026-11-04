@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T06:38:59.822Z",
+  "updatedAt": "2026-11-04T19:51:50.253Z",
   "sourceCount": 2,
-  "totalFetched": 310,
-  "relevantCount": 41,
+  "totalFetched": 311,
+  "relevantCount": 36,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,467 +11,360 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:non-destructive-testing-technician-level-2-munich-293920",
-      "title": "Non-Destructive Testing Technician – Level 2",
-      "org": "The Exploration Company",
-      "role": "training",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/non-destructive-testing-technician-level-2-munich-293920",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793742017,
-      "tags": [
-        "MAIT"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We are developing, producing and operating Nyx, a modular and reusable orbital vehicle designed to carry cargo and, in the longer term, potentially crew. To support the ramp-up of our p"
-    },
-    {
-      "id": "arbeitnow:senior-product-manager-ai-gateway-berlin-432491",
-      "title": "Senior Product Manager - AI Gateway",
-      "org": "N8N",
-      "role": "project",
-      "location": "Berlin Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-product-manager-ai-gateway-berlin-432491",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793742017,
-      "tags": [
-        "Product"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
-    },
-    {
-      "id": "arbeitnow:senior-staff-product-designer-germany-9309",
-      "title": "Senior/Staff Product Designer",
-      "org": "N8N",
-      "role": "project",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-staff-product-designer-germany-9309",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793742017,
-      "tags": [
-        "Product"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
-    },
-    {
-      "id": "arbeitnow:applied-ai-engineer-berlin-34908",
-      "title": "Applied AI Engineer",
-      "org": "Resonance",
+      "id": "arbeitnow:senior-implementation-consultant-munich-103509",
+      "title": "Senior Implementation Consultant",
+      "org": "boxinc",
       "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/resonance/applied-ai-engineer-berlin-34908",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/boxinc/senior-implementation-consultant-munich-103509",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793731234,
+      "postedAt": 1793807723,
       "tags": [
-        "Engineering"
+        "Box Consulting"
       ],
-      "summary": "TLDR: We’re looking for top 1%, high agency, AI-forward engineers to be part of our early team at Resonance in Berlin. We have recently raised one of the largest ever European seed rounds, with investment from Anthropic and Hg Capital, to deploy AI into the ec"
+      "summary": "&lt;div class=\"ace-line\"&gt; &lt;div class=\"ace-line\" data-node-type=\"line\"&gt; &lt;p data-pm-slice=\"1 1 []\"&gt;&lt;strong&gt;WHAT IS BOX?&lt;/strong&gt;&nbsp;&lt;/p&gt; &lt;p&gt;Box (NYSE:BOX) is the leader in Intelligent Content Management. Our platform enab"
     },
     {
-      "id": "arbeitnow:graduate-ai-transformation-lead-berlin-31359",
-      "title": "Graduate AI Transformation Lead",
-      "org": "Resonance",
+      "id": "arbeitnow:senior-data-analyst-financial-health-cardiff-141202",
+      "title": "Senior Data Analyst, Financial Health",
+      "org": "Monzoreferrals",
       "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/resonance/graduate-ai-transformation-lead-berlin-31359",
+      "location": "Cardiff",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-data-analyst-financial-health-cardiff-141202",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793731234,
+      "postedAt": 1793818529,
       "tags": [
-        "Transformation"
+        "Data"
       ],
-      "summary": "TLDR: We’re looking for top 1%, high agency, AI-forward graduates to join the first graduate cohort at Resonance in Berlin as AI Transformation Leads. We have recently raised one of the largest ever European seed rounds, with investment from Anthropic and Hg C"
+      "summary": "&lt;p&gt;📍Cardiff, London or Remote (UK)&nbsp; | 💰 £76,000 to £95,000 + Incentive Awards tied to your performance + &lt;a href=\"https://monzo.com/careers#benefits\"&gt;Benefits&nbsp;&lt;/a&gt;|&nbsp;&lt;a href=\"https://monzo.com/blog/how-each-role-in-borrowin"
     },
     {
-      "id": "arbeitnow:graduate-applied-ai-engineer-berlin-107801",
-      "title": "Graduate Applied AI Engineer",
-      "org": "Resonance",
+      "id": "arbeitnow:lead-data-scientist-cardiff-59807",
+      "title": "Lead Data Scientist",
+      "org": "Monzoreferrals",
       "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/resonance/graduate-applied-ai-engineer-berlin-107801",
+      "location": "Cardiff",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/lead-data-scientist-cardiff-59807",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793731234,
+      "postedAt": 1793818529,
       "tags": [
-        "Engineering"
+        "Data"
       ],
-      "summary": "TLDR: We’re looking for top 1%, high agency, AI-forward graduates to join the first graduate cohort at Resonance in Berlin as Applied AI Engineers. We have recently raised one of the largest ever European seed rounds, with investment from Anthropic and Hg Capi"
+      "summary": "&lt;h4&gt;📍London or Barcelona | UK remote | 💰 £95,000 to £130,000 + Incentive Awards tied to your performance +&lt;a href=\"https://monzo.com/careers/#benefits\"&gt; Benefits&lt;/a&gt;|&lt;a href=\"https://monzo.com/blog/technology\"&gt; Technology&lt;/a&gt; -&"
     },
     {
-      "id": "arbeitnow:senior-ai-transformation-lead-berlin-127355",
-      "title": "Senior AI Transformation Lead",
-      "org": "Resonance",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/resonance/senior-ai-transformation-lead-berlin-127355",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793731234,
-      "tags": [
-        "Transformation"
-      ],
-      "summary": "TLDR: We’re looking for top 1%, high agency, AI-forward transformation leads to be part of our early team at Resonance in Berlin. We have recently raised one of the largest ever European seed rounds, with investment from Anthropic and Hg Capital, to deploy AI "
-    },
-    {
-      "id": "arbeitnow:ai-transformation-lead-berlin-165426",
-      "title": "AI Transformation Lead",
-      "org": "Resonance",
+      "id": "arbeitnow:lead-analytics-engineer-borrowing-cardiff-353833",
+      "title": "Lead Analytics Engineer, Borrowing",
+      "org": "Monzoreferrals",
       "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/resonance/ai-transformation-lead-berlin-165426",
+      "location": "Cardiff",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/lead-analytics-engineer-borrowing-cardiff-353833",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793731234,
+      "postedAt": 1793818529,
       "tags": [
-        "Transformation"
+        "Data"
       ],
-      "summary": "TLDR: We’re looking for top 1%, high agency, AI-forward transformation leads to be part of our early team at Resonance in Berlin. We have recently raised one of the largest ever European seed rounds, with investment from Anthropic and Hg Capital, to deploy AI "
+      "summary": "&lt;p&gt;📍London, Cardiff or Remote in the UK | 💰 £97,800 -125,000 + &lt;a href=\"https://monzo.com/careers/\"&gt;Benefits&lt;/a&gt; |&lt;a href=\"https://www.youtube.com/watch?v=U62l09nB0M4\"&gt; Hear from the team&lt;/a&gt; ✨&nbsp;&lt;/p&gt; &lt;p&gt;&lt;stron"
     },
     {
-      "id": "arbeitnow:senior-applied-ai-engineer-berlin-298104",
-      "title": "Senior Applied AI Engineer",
-      "org": "Resonance",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/resonance/senior-applied-ai-engineer-berlin-298104",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793731234,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "TLDR: We’re looking for top 1%, high agency, AI-forward senior engineers to be part of our early team at Resonance in Berlin. We have recently raised one of the largest ever European seed rounds, with investment from Anthropic and Hg Capital, to deploy AI into"
-    },
-    {
-      "id": "arbeitnow:storm-test-bench-principal-engineer-bordeaux-446611",
-      "title": "Storm Test Bench Principal Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/storm-test-bench-principal-engineer-bordeaux-446611",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793742018,
-      "tags": [
-        "MAIT"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. Here at The Exploration Company we are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refuelled in orbit, and which carrie"
-    },
-    {
-      "id": "arbeitnow:senior-customer-success-manager-dach-munich-293042",
-      "title": "Senior Customer Success Manager - DACH",
-      "org": "Constructor",
+      "id": "arbeitnow:data-science-manager-cardiff-434783",
+      "title": "Data Science Manager",
+      "org": "Monzoreferrals",
       "role": "training",
-      "location": "Remote - Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/constructor/senior-customer-success-manager-dach-munich-293042",
+      "location": "Cardiff",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/data-science-manager-cardiff-434783",
       "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793763611,
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793818529,
       "tags": [
-        "Customer Success"
+        "Data"
       ],
-      "summary": "About You You're a jack-of-all-trades with a passion for cool technology and interacting with people and making them happy. You're a self-starter who's good at triaging problems and working on the most important one. You've worked directly with customers for a"
+      "summary": "&lt;h4&gt;📍London or UK remote | 💰 £100,000 to £130,000 + Incentive Awards tied to your performance +&lt;a href=\"https://monzo.com/careers/#benefits\"&gt; Benefits &lt;/a&gt;|&lt;a href=\"https://monzo.com/blog/technology\"&gt; Technology&lt;/a&gt; -&lt;a href="
     },
     {
-      "id": "arbeitnow:senior-qa-manager-fully-remote-berlin-156016",
-      "title": "Senior QA Manager - Fully Remote",
-      "org": "SOFTGAMES",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-fully-remote-berlin-156016",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793763097,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "We’re looking for a hands-on Senior QA Manager to join our talented and passionate team. You’ll play a key role in ensuring every release meets the highest quality standards, from early concept to global launch. As the quality owner for one of our largest mobi"
-    },
-    {
-      "id": "arbeitnow:remote-head-of-engineering-xpate-490630",
-      "title": "Head of Engineering | xpate",
-      "org": "Hirehire",
+      "id": "arbeitnow:remote-senior-partner-manager-data-ai-security-475954",
+      "title": "Senior Partner Manager - Data & AI Security",
+      "org": "veeamsoftware",
       "role": "marketing",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-head-of-engineering-xpate-490630",
+      "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-partner-manager-data-ai-security-475954",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793752813,
+      "postedAt": 1793818524,
       "tags": [
-        "AI/ML/Tech"
+        "Partner Sales 1009947"
       ],
-      "summary": "Role: Head of Engineering Company: xpate Location: London or remote Job Type: Full-time About xpate xpate has been a card acquirer since 2019. It combines acquiring and banking for B2B clients only, with €100M+ in annual revenue. About 100 people work there, a"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;div class=\"elementToProof\"&gt; &lt;p&gt;Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe "
     },
     {
-      "id": "arbeitnow:remote-senior-full-stack-engineer-based-in-germany-berlin-352789",
-      "title": "(Senior) Full Stack Engineer (m/f/x) - Based in Germany",
-      "org": "Cara Care",
-      "role": "marketing",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-full-stack-engineer-based-in-germany-berlin-352789",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793751617,
-      "tags": [
-        "Engineering",
-        "Product & Engineering",
-        "Remote"
-      ],
-      "summary": "Cara Care, a digital health company backed by Bayer AG, is on a mission to improve people’s digestive health through technology. As we expand our product portfolio and modernize our platform, we’re looking for a versatile, pragmatic, and forward-thinking (Seni"
-    },
-    {
-      "id": "arbeitnow:remote-senior-full-stack-engineer-based-in-germany-183253",
-      "title": "(Senior) Full Stack Engineer (m/f/x) - Based in Germany",
-      "org": "Cara Care",
-      "role": "marketing",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-full-stack-engineer-based-in-germany-183253",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793751617,
-      "tags": [
-        "Engineering",
-        "Product & Engineering",
-        "Remote"
-      ],
-      "summary": "Cara Care, a digital health company backed by Bayer AG, is on a mission to improve people’s digestive health through technology. As we expand our product portfolio and modernize our platform, we’re looking for a versatile, pragmatic, and forward-thinking (Seni"
-    },
-    {
-      "id": "arbeitnow:full-stack-entwicklerin-nextjs-remote-berlin-336824",
-      "title": "Full-Stack-Entwickler*in (Next.js) – Remote",
-      "org": "Itze-Bits GmbH",
+      "id": "arbeitnow:remote-senior-solutions-engineer-commercial-482484",
+      "title": "Senior Solutions Engineer, Commercial",
+      "org": "Clickup",
       "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/itze-bits-gmbh/full-stack-entwicklerin-nextjs-remote-berlin-336824",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/clickup/remote-senior-solutions-engineer-commercial-482484",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793746834,
+      "postedAt": 1793817616,
       "tags": [
-        "Remote",
-        "Web Development"
+        "Customer Experience"
       ],
-      "summary": "Rolle: Frontend/Fullstack in Next.js, eigene (Teil-) Projektverantwortung mit Einfluss auf Projektverlauf Start, Stundenzahl und Vertragslaufzeit flexibel Wir suchen: Typescript, Next.js Skills oder ähnliches im Web Selbstständigkeit beim Einarbeiten in komple"
+      "summary": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI "
     },
     {
-      "id": "arbeitnow:ux-ui-designer-ai-powered-cologne-30977",
-      "title": "UX/UI Designer (m/w/d) – AI-powered",
-      "org": "Digitale Leute School",
-      "role": "project",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/ux-ui-designer-ai-powered-cologne-30977",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793743239,
-      "tags": [
-        "Remote",
-        "Media",
-        "Screen and Web Design"
-      ],
-      "summary": "Gestalte die digitale Welt von morgen als AI-powered UX/UI Designer! Digitale Produkte, Apps und Web-Projekte sind die Welt, in der du arbeiten möchtest? Dich faszinieren Technologie, Design und das Nutzererlebnis? Und du willst wissen, wie KI die Arbeit von D"
-    },
-    {
-      "id": "arbeitnow:team-lead-e-commerce-growth-berlin-436613",
-      "title": "Team Lead E-Commerce Growth (m/w/d)",
-      "org": "Turnover Recruitment GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/turnover-recruitment-gmbh/team-lead-e-commerce-growth-berlin-436613",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793743237,
-      "tags": [
-        "Remote",
-        "Management",
-        "Team Leader"
-      ],
-      "summary": "Über Turnover Recruitment GmbH Turnover Recruitment ist eine spezialisierte Recruiting-Beratung für E-Commerce-Unternehmen, die Recruiting-Probleme dort löst, wo Standardlösungen nicht mehr funktionieren. Für einen Kunden aus dem D2C-Bereich suche ich eine Füh"
-    },
-    {
-      "id": "arbeitnow:remote-senior-architect-enterprise-agentic-automation-165952",
-      "title": "Senior Architect, Enterprise Agentic Automation",
-      "org": "Camunda",
+      "id": "arbeitnow:remote-people-partner-engineering-product-414791",
+      "title": "People Partner Engineering & Product",
+      "org": "ElevenLabs",
       "role": "marketing",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-architect-enterprise-agentic-automation-165952",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-people-partner-engineering-product-414791",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793742017,
+      "postedAt": 1793806813,
       "tags": [
+        "Operations"
+      ],
+      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
+    },
+    {
+      "id": "arbeitnow:remote-employee-relations-partner-461132",
+      "title": "Employee Relations Partner",
+      "org": "ElevenLabs",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-employee-relations-partner-461132",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793806813,
+      "tags": [
+        "Operations"
+      ],
+      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
+    },
+    {
+      "id": "arbeitnow:remote-people-partner-gtm-406041",
+      "title": "People Partner GTM",
+      "org": "ElevenLabs",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-people-partner-gtm-406041",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793806813,
+      "tags": [
+        "Operations"
+      ],
+      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
+    },
+    {
+      "id": "arbeitnow:python-django-entwickler-fullstack-rest-ci-cd-stuttgart-166406",
+      "title": "Python / Django Entwickler (m/w/d) – Fullstack, REST, CI/CD",
+      "org": "Rockstardevelopers GmbH",
+      "role": "project",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/python-django-entwickler-fullstack-rest-ci-cd-stuttgart-166406",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793806258,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software- und IT-Dienstleister mit Erfahrung aus hunderten von Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedback, "
+    },
+    {
+      "id": "arbeitnow:senior-strategic-sales-manager-hanover-67727",
+      "title": "Senior Strategic Sales Manager (m/w/d)",
+      "org": "tecRacer Germany GmbH",
+      "role": "marketing",
+      "location": "Hanover",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecracer-germany-gmbh/senior-strategic-sales-manager-hanover-67727",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793804454,
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "summary": "Jobbeschreibung Als Senior Strategic Sales Manager (m/w/d) gewinnst du neue strategische Kunden und entwickelst ausgewählte Bestandskunden im DACH-Raum gezielt weiter. Du verantwortest komplexe Verkaufsprozesse vom ersten Kontakt bis zum Abschluss und position"
+    },
+    {
+      "id": "arbeitnow:software-developer-net-c-all-genders-berlin-300964",
+      "title": "Software Developer .NET C# (all genders)",
+      "org": "Vexcash AG",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/software-developer-net-c-all-genders-berlin-300964",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793800856,
+      "tags": [
+        "Remote",
+        "Private Banking"
+      ],
+      "summary": "VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to bridge the gap until their next payday. More than 800,000 customers already rely on our service. Thanks to our innovative approa"
+    },
+    {
+      "id": "arbeitnow:benevolat-responsable-administratif-et-financier-association-startup-de-tech-solidaire-montpellier-321972",
+      "title": "Bénévolat Responsable Administratif et Financier - Association Startup de Tech Solidaire",
+      "org": "LA FAMILLE MAGHEN",
+      "role": "project",
+      "location": "Montpellier",
+      "url": "https://www.arbeitnow.fr/jobs/companies/la-famille-maghen/benevolat-responsable-administratif-et-financier-association-startup-de-tech-solidaire-montpellier-321972",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793815245,
+      "tags": [
+        "Remote",
         "Finance"
       ],
-      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+      "summary": "Ce que vous allez accomplir Vous rejoignez une association de tech solidaire pour structurer notre gestion administrative et financière et accompagner le pilotage de nos budgets. Vous coordonnez la comptabilité, participez à la gestion financière et veillez au"
     },
     {
-      "id": "arbeitnow:remote-senior-projektentwickler-wohnungsbau-berlin-247894",
-      "title": "Senior Projektentwickler Wohnungsbau (m/w/d)",
-      "org": "Hypertrics GmbH",
-      "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-senior-projektentwickler-wohnungsbau-berlin-247894",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793741471,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Senior Projektentwickler Wohnungsbau (m/w/d) Standort: Berlin | Vollzeit | Unbefristet Für unseren Mandanten, ein etabliertes Unternehmen mit Projektentwicklung und Bauorganisation unter einem Dach und anspruchsvollen Wohnungsbauprojekten im Berliner Raum, suc"
-    },
-    {
-      "id": "arbeitnow:remote-teamleiter-kalkulation-schlusselfertiger-hochbau-berlin-259402",
-      "title": "Teamleiter Kalkulation Schlüsselfertiger Hochbau (m/w/d)",
-      "org": "Hypertrics GmbH",
+      "id": "arbeitnow:benevolat-responsable-des-ressources-humaines-association-startup-de-tech-solidaire-teletravail-montpellier-194237",
+      "title": "Bénévolat Responsable des Ressources Humaines - Association Startup de Tech Solidaire - Télétravail",
+      "org": "LA FAMILLE MAGHEN",
       "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-teamleiter-kalkulation-schlusselfertiger-hochbau-berlin-259402",
+      "location": "Montpellier",
+      "url": "https://www.arbeitnow.fr/jobs/companies/la-famille-maghen/benevolat-responsable-des-ressources-humaines-association-startup-de-tech-solidaire-teletravail-montpellier-194237",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793741471,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Teamleiter Kalkulation Schlüsselfertiger Hochbau (m/w/d) Standort: Berlin | Vollzeit | Unbefristet Für unseren Mandanten, ein etabliertes Bauunternehmen im Bereich schlüsselfertiger Hochbau mit anspruchsvollen Projekten ausschließlich im Berliner Raum und mode"
-    },
-    {
-      "id": "arbeitnow:remote-product-solution-architect-connectivity-solutions-all-genders-berlin-247562",
-      "title": "Product Solution Architect, Connectivity Solutions (all genders)",
-      "org": "Distribusion Technologies",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-product-solution-architect-connectivity-solutions-all-genders-berlin-247562",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793741467,
-      "tags": [
-        "Solutions",
-        "Remote"
-      ],
-      "summary": "Distribusion is the world’s leading ground transportation marketplace and gives travelers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry o"
-    },
-    {
-      "id": "arbeitnow:head-of-it-berlin-488626",
-      "title": "Head of IT",
-      "org": "PCS PolymerCycle Solutions GmbH",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/pcs-polymercycle-solutions-gmbh/head-of-it-berlin-488626",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793732446,
+      "postedAt": 1793813465,
       "tags": [
         "Remote",
-        "Management",
-        "Team Leader"
+        "Personnel Specialist"
       ],
-      "summary": "Unternehmen Die PolymerCycle Gruppe ist ein integriertes Kunststoffrecycling-Unternehmen und vereint die Best Plastic Management GmbH, PB Solutions GmbH, ATP Service & Consulting GmbH und Hoffmann+Voss GmbH. Gemeinsam machen wir aus Kunststoffabfällen hochwert"
+      "summary": "Ce que vous allez accomplir Vous rejoignez une association de tech solidaire pour structurer notre gestion des ressources humaines et accompagner le recrutement de nos bénévoles. Vous coordonnez les entretiens, participez à l'intégration des nouveaux membres e"
     },
     {
-      "id": "arbeitnow:remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-18009",
-      "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
-      "org": "Kevin Kehr",
+      "id": "arbeitnow:chargee-de-marketing-development-paris-199657",
+      "title": "Chargé(e) de Marketing & Development",
+      "org": "Augmented Energy",
+      "role": "marketing",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/augmented-energy/chargee-de-marketing-development-paris-199657",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793813465,
+      "tags": [
+        "Remote",
+        "Marketing Assistant"
+      ],
+      "summary": "OFFRES EN ALTERNANCE/STAGE UNIQUEMENT PRE-REQUIS OBLIGATOIRE : avoir une formation ou une expérience professionnelle en relation avec les marchés de l'énergie Les marchés de l’électricité ne sont pas réservés aux grands acteurs historiques. Aidez-nous à le fai"
+    },
+    {
+      "id": "arbeitnow:remote-german-speaking-solutions-consultant-work-in-sofia-bulgaria-switzerland-43012",
+      "title": "German Speaking Solutions Consultant - Work In Sofia, Bulgaria",
+      "org": "Patrique Mercier Recruitment Fr",
       "role": "training",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-18009",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-german-speaking-solutions-consultant-work-in-sofia-bulgaria-switzerland-43012",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793731886,
+      "postedAt": 1793794813,
       "tags": [
+        "Customer Service",
+        "Consumer Services",
+        "Bulgaria",
         "Remote"
       ],
-      "summary": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching und einem klaren Weg i"
+      "summary": "German Speaking Solutions Consultant About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm dedicated to connecting top-tier talent with world-class organizations. As a leader in European recruitment, we specialize i"
     },
     {
-      "id": "arbeitnow:remote-head-of-product-berlin-88024",
-      "title": "Head of Product (m/w/d)",
-      "org": "Dr. Ansay Ltd.",
-      "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/dr-ansay-ltd/remote-head-of-product-berlin-88024",
+      "id": "arbeitnow:remote-german-speaking-partner-technical-solutions-consultant-work-in-sofia-bulgaria-switzerland-78528",
+      "title": "German Speaking Partner Technical Solutions Consultant - Work In Sofia, Bulgaria",
+      "org": "Patrique Mercier Recruitment Fr",
+      "role": "training",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-german-speaking-partner-technical-solutions-consultant-work-in-sofia-bulgaria-switzerland-78528",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793731882,
+      "postedAt": 1793794813,
       "tags": [
-        "Product",
+        "Customer Service",
+        "Consumer Electronics",
+        "Bulgaria",
         "Remote"
       ],
-      "summary": "Über DrAnsay DrAnsay wurde 2018 gegründet und gehört heute zu den führenden digitalen Gesundheitsplattformen in Deutschland. Als digitales HealthTech-Unternehmen verbinden wir Patient:innen, Ärzt:innen und Apotheken und entwickeln technologische Lösungen, die "
+      "summary": "German Speaking Partner Technical Solutions Consultant About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm dedicated to bridging elite talent with industry-leading organizations across Europe. As experts in the BP"
     },
     {
-      "id": "arbeitnow:remote-clinical-research-associate-ii-senior-clinical-research-associate-148179",
-      "title": "Clinical Research Associate II/ Senior Clinical Research Associate",
-      "org": "Precisionmedicinegroup",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-clinical-research-associate-ii-senior-clinical-research-associate-148179",
+      "id": "arbeitnow:remote-german-speaking-client-solutions-consultant-work-in-sofia-bulgaria-switzerland-149886",
+      "title": "German Speaking Client Solutions Consultant - Work In Sofia, Bulgaria",
+      "org": "Patrique Mercier Recruitment Fr",
+      "role": "training",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-german-speaking-client-solutions-consultant-work-in-sofia-bulgaria-switzerland-149886",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793764523,
+      "postedAt": 1793794813,
       "tags": [
-        "Clinical Solutions"
-      ],
-      "summary": "&lt;p&gt;&lt;/p&gt; &lt;p&gt;Precision for Medicine is not your typical CRO. We are passionate about cultivating our culture and are proud to share extremely high CRA retention rates compared to industry averages.&lt;/p&gt; &lt;p&gt;CRAs join us, love their jo"
-    },
-    {
-      "id": "arbeitnow:procurement-director-emea-london-51444",
-      "title": "Procurement Director - EMEA",
-      "org": "Volta",
-      "role": "marketing",
-      "location": "United Kingdom - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/volta/procurement-director-emea-london-51444",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793763611,
-      "tags": [
-        "Delivery"
-      ],
-      "summary": "About Volta Volta is the category-defining, fully vertically integrated AI infrastructure platform – from capital to clusters to software, under a founder-led enterprise. Our mission is The Utility of Compute™: AI infrastructure as dependable and available as "
-    },
-    {
-      "id": "arbeitnow:remote-account-executive-dutch-speaker-france-332838",
-      "title": "Account Executive - Dutch Speaker",
-      "org": "Huzzle",
-      "role": "project",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/huzzle/remote-account-executive-dutch-speaker-france-332838",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793737222,
-      "tags": [
-        "Sales",
-        "Internet",
+        "Customer Service",
+        "Consumer Services",
+        "Bulgaria",
         "Remote"
       ],
-      "summary": "About Huzzle At Huzzle, we connect high-performing professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech, FinTech, and EdTech. W"
+      "summary": "German Speaking Client Solutions Consultant About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm recognized for connecting top-tier talent with world-class organizations across the European BPO landscape. As leader"
+    },
+    {
+      "id": "arbeitnow:remote-french-speaking-partner-technical-solutions-consultant-work-in-sofia-bulgaria-switzerland-462732",
+      "title": "French Speaking Partner Technical Solutions Consultant - Work In Sofia, Bulgaria",
+      "org": "Patrique Mercier Recruitment Fr",
+      "role": "training",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-partner-technical-solutions-consultant-work-in-sofia-bulgaria-switzerland-462732",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793794813,
+      "tags": [
+        "Customer Service",
+        "Consumer Electronics",
+        "Bulgaria",
+        "Remote"
+      ],
+      "summary": "French Speaking Partner Technical Solutions Consultant About Mercier Consultancy Group Mercier Consultancy Group is a premier European recruitment and BPO firm, dedicated to connecting top-tier talent with industry-leading global brands. We take pride in our s"
+    },
+    {
+      "id": "arbeitnow:remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-switzerland-469655",
+      "title": "French Speaking Fitbit Customer Support Specialist - Work In Sofia, Bulgaria",
+      "org": "Patrique Mercier Recruitment Fr",
+      "role": "training",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-switzerland-469655",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793794813,
+      "tags": [
+        "Consumer Electronics",
+        "Bulgaria",
+        "Remote"
+      ],
+      "summary": "French Speaking Fitbit Customer Support Specialist About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm, recognized as a leader in European recruitment and specialized BPO solutions. We take pride in connecting wor"
     },
     {
       "id": "arbeitnow:remote-software-test-engineer-bern-122043",
@@ -523,6 +416,22 @@
       "summary": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosyste"
     },
     {
+      "id": "arbeitnow:remote-senior-staff-software-engineer-sap-connectors-462420",
+      "title": "Senior Staff Software Engineer - SAP Connectors",
+      "org": "Fivetran",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/fivetran/remote-senior-staff-software-engineer-sap-connectors-462420",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793786123,
+      "tags": [
+        "Engineering Department"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to quer"
+    },
+    {
       "id": "arbeitnow:power-platform-and-azure-devops-expert-remote-from-eu-amsterdam-110494",
       "title": "Power Platform and Azure DevOps Expert - remote from EU",
       "org": "AlmavivA de Belgique",
@@ -554,6 +463,31 @@
         "Remote"
       ],
       "summary": "AGFH huishoudelijke hulp Ons doel is ervoor te zorgen dat mensen die ondersteuning nodig hebben, kunnen wonen op de plek waar zij zich het meest op hun gemak voelen – thuis. Sinds 2018 zijn wij met meer dan 14.000 medewerkers uitgegroeid tot de toonaangevende "
+    },
+    {
+      "id": "remotive:1749306",
+      "title": "Freelance Copywriter",
+      "org": "Coalition Technologies",
+      "role": "training",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "source": "Remotive",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": "2026-11-02T20:01:00",
+      "tags": [
+        "accounting",
+        "excel",
+        "research",
+        "data analysis",
+        "bookkeeping",
+        "google sheets",
+        "quickbooks",
+        "data entry",
+        "insurance",
+        "G Suite"
+      ],
+      "summary": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role. The ideal candidate has excellent English writing skills, strong"
     },
     {
       "id": "remotive:2091165",
