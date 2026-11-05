@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T06:58:27.435Z",
+  "updatedAt": "2026-11-05T20:04:13.084Z",
   "sourceCount": 2,
-  "totalFetched": 311,
-  "relevantCount": 38,
+  "totalFetched": 310,
+  "relevantCount": 48,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,300 +11,491 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:electrical-engineer-ii-berlin-178280",
-      "title": "Electrical Engineer II",
-      "org": "Kraken",
-      "role": "training",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/kraken/electrical-engineer-ii-berlin-178280",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793828413,
-      "tags": [
-        "Delivery Tech"
-      ],
-      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
-    },
-    {
-      "id": "arbeitnow:client-data-analytics-lead-berlin-397571",
-      "title": "Client Data & Analytics Lead (f/m/d)",
-      "org": "Kraken",
-      "role": "training",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/kraken/client-data-analytics-lead-berlin-397571",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793828413,
-      "tags": [
-        "Delivery Tech"
-      ],
-      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
-    },
-    {
-      "id": "arbeitnow:product-designer-london-142892",
-      "title": "Product Designer",
-      "org": "Marshmallow",
-      "role": "marketing",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/marshmallow/product-designer-london-142892",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793850018,
-      "tags": [
-        "Design"
-      ],
-      "summary": "We started building Marshmallow in 2017. Since then, we’ve grown from 3 to 700+ people, gained unicorn status, raised ~£140M over three funding rounds, turned profitable, insured millions of drivers and lent millions in car loans. But we’re only just getting s"
-    },
-    {
-      "id": "arbeitnow:client-data-analytics-lead-paris-146359",
-      "title": "Client Data & Analytics Lead (f/m/d)",
-      "org": "Kraken",
-      "role": "training",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kraken/client-data-analytics-lead-paris-146359",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793828413,
-      "tags": [
-        "Delivery Tech"
-      ],
-      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
-    },
-    {
-      "id": "arbeitnow:remote-financemanagement-specialist-fintech-germany-51816",
-      "title": "Financemanagement Specialist - Fintech (m/w/d) - Germany",
-      "org": "Pennylane De",
-      "role": "project",
-      "location": "Germany (remote)",
-      "url": "https://www.arbeitnow.com/jobs/companies/pennylane-de/remote-financemanagement-specialist-fintech-germany-51816",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793850016,
-      "tags": [
-        "Partner Success - Cabinets comptable"
-      ],
-      "summary": "Möchtest du das tägliche Leben von Millionen von Unternehmern in Deutschland (und bald in Europa) beeinflussen? Suchst du nach einem Arbeitsumfeld, das Vertrauen, Proaktivität und Autonomie schätzt? Stimmen unsere Company Values mit deiner Vision überein? Dann"
-    },
-    {
-      "id": "arbeitnow:remote-buchhalterin-fintech-germany-150806",
-      "title": "Buchhalter*in Fintech (m/w/d) - Germany",
-      "org": "Pennylane De",
-      "role": "project",
-      "location": "Germany (remote)",
-      "url": "https://www.arbeitnow.com/jobs/companies/pennylane-de/remote-buchhalterin-fintech-germany-150806",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793850016,
-      "tags": [
-        "Partner Success - Cabinets comptable"
-      ],
-      "summary": "Möchtest du das tägliche Leben von Millionen von Unternehmern in Deutschland (und bald in Europa) beeinflussen? Suchst du nach einem Arbeitsumfeld, das Vertrauen, Proaktivität und Autonomie schätzt? Stimmen unsere Company Values mit deiner Vision überein? Dann"
-    },
-    {
-      "id": "arbeitnow:customer-success-team-lead-german-speaking-berlin-27276",
-      "title": "Customer Success Team Lead (German-speaking)",
-      "org": "Secfix",
-      "role": "marketing",
-      "location": "Remote - Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/secfix/customer-success-team-lead-german-speaking-berlin-27276",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793839212,
-      "tags": [
-        "Customer Success"
-      ],
-      "summary": "Remote within EU time zones · Fluent German and English required At Secfix, we're at the forefront of automating security compliance in Europe. We help companies get and stay ISO 27001, GDPR, TISAX, and SOC 2 fast and easy and reduce hundreds of hours of manua"
-    },
-    {
-      "id": "arbeitnow:remote-activation-and-production-testing-specialist-171647",
-      "title": "Activation and Production Testing Specialist",
-      "org": "Hopae",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/hopae/remote-activation-and-production-testing-specialist-171647",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793839212,
-      "tags": [
-        "Product"
-      ],
-      "summary": "🌍 About Hopae At Hopae , we're building the world's most trusted digital identity platform — private, secure, and built for real life. We believe identity should be in your control — not locked behind outdated systems or centralized gatekeepers. Our product, "
-    },
-    {
-      "id": "arbeitnow:account-manager-key-account-manager-berlin-49830",
-      "title": "Account Manager / Key Account Manager (m/w/d)",
-      "org": "Cosuno",
-      "role": "marketing",
-      "location": "Berlin/Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/account-manager-key-account-manager-berlin-49830",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793839212,
-      "tags": [
-        "Customer Success I General Contractor"
-      ],
-      "summary": "Die Baubranche ist eine 14-Billionen-Euro-Industrie, die noch immer auf E-Mails, Excel-Tabellen und eingescannten PDFs läuft. Cosuno ersetzt das durch KI. Generalunternehmer schreiben ihre Projekte auf unserer Plattform an mehr als 250.000 Nachunternehmer aus,"
-    },
-    {
-      "id": "arbeitnow:remote-senior-customer-success-manager-dach-north-195244",
-      "title": "Senior Customer Success Manager - DACH & North",
-      "org": "Amplitude",
-      "role": "training",
-      "location": "Remote-Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/amplitude/remote-senior-customer-success-manager-dach-north-195244",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793839211,
-      "tags": [
-        "Customer Success"
-      ],
-      "summary": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI Agents embedded across our platform, teams can analyze, test"
-    },
-    {
-      "id": "arbeitnow:remote-senior-project-manager-intralogistics-and-robotics-256933",
-      "title": "Senior Project Manager (Intralogistics and Robotics)",
-      "org": "Nomagic",
-      "role": "support",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/nomagic/remote-senior-project-manager-intralogistics-and-robotics-256933",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793838496,
-      "tags": [
-        "230 - Customer support"
-      ],
-      "summary": "Do you dream of deploying the perfect picking robots in warehouses all around the world? Are you ready to learn the new, exciting world of smart robots? Are you excited about joining a startup and contributing to building its future? Would you like to cooperat"
-    },
-    {
-      "id": "arbeitnow:remote-senior-fpa-manager-germany-302011",
-      "title": "(Senior) FP&A Manager",
-      "org": "Workmotion",
+      "id": "arbeitnow:legal-engineer-transactional-or-in-house-germany-126550",
+      "title": "Legal Engineer (Transactional or In-house)",
+      "org": "Harvey",
       "role": "training",
       "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-fpa-manager-germany-302011",
+      "url": "https://www.arbeitnow.com/jobs/companies/harvey/legal-engineer-transactional-or-in-house-germany-126550",
       "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793838014,
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793904015,
       "tags": [
-        "Internet",
-        "Remote"
+        "Go to Market"
       ],
-      "summary": "Location: Remote (Within +/- 2 hours of CET) Contract type: Full-time Salary: Starting from €70,000 per annum gross, subject to location, skills and experience Not Your Typical Workplace.… Tired of the 9-to-5 grind? Imagine a World without borders, where oppor"
+      "summary": "Why Harvey At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is "
     },
     {
-      "id": "arbeitnow:customer-success-manager-b2b-kundenbetreuung-berlin-55139",
-      "title": "Customer Success Manager (m/w/d) – B2B Kundenbetreuung",
-      "org": "ProviPanda GmbH",
-      "role": "support",
+      "id": "arbeitnow:lead-commercial-sales-munich-184568",
+      "title": "Lead Commercial Sales",
+      "org": "The Exploration Company",
+      "role": "marketing",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/lead-commercial-sales-munich-184568",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793882429,
+      "tags": [
+        "People Experience"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We want you as a talented Lead Commercial Sales & Business Development professional to help us in our mission by driving commercial B2B success across our key technologies, Nyx, and fut"
+    },
+    {
+      "id": "arbeitnow:engineering-manager-cardiff-37636",
+      "title": "Engineering Manager",
+      "org": "Monzo",
+      "role": "training",
+      "location": "Cardiff",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/engineering-manager-cardiff-37636",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793894124,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;🚀 We’re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We’re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt; &"
+    },
+    {
+      "id": "arbeitnow:tcs-and-eclss-certification-engineer-bordeaux-311107",
+      "title": "TCS and ECLSS Certification Engineer",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Bordeaux, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/tcs-and-eclss-certification-engineer-bordeaux-311107",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793882429,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. Mission We are developing, manufacturing, and operating Nyx, a modular and reusable spacecraft which will carry cargo to space stations and potentially humans in the longer run. We are "
+    },
+    {
+      "id": "arbeitnow:developer-c-net-as-freelancer-all-genders-berlin-436931",
+      "title": "Developer C# / .NET as Freelancer (all genders)",
+      "org": "Vexcash AG",
+      "role": "project",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-b2b-kundenbetreuung-berlin-55139",
+      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/developer-c-net-as-freelancer-all-genders-berlin-436931",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793829649,
+      "postedAt": 1793905237,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "About Vexcash AG VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to bridge the gap until their next payday. More than 800,000 customers already rely on our service. Thanks to our "
+    },
+    {
+      "id": "arbeitnow:fullstack-engineer-prospect-data-solutions-munich-389827",
+      "title": "FullStack Engineer - Prospect Data Solutions",
+      "org": "Constructor",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-data-solutions-munich-389827",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793904015,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "About You You have a knack for solving intricate Software Development problems. You're driven by the idea of writing code that simplifies life for millions of users globally. You're committed to continuous learning and enjoy tackling new challenges. Pair progr"
+    },
+    {
+      "id": "arbeitnow:performance-marketing-specialist-seo-geo-paid-ads-hamburg-170528",
+      "title": "Performance Marketing Specialist | SEO, GEO & Paid Ads",
+      "org": "SBR International GmbH",
+      "role": "marketing",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/sbr-international-gmbh/performance-marketing-specialist-seo-geo-paid-ads-hamburg-170528",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793896263,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "Performance Marketing Specialist | SEO, GEO & Paid Ads | Remote – 5 Hours/Day We are looking to bring a Performance Marketing Specialist into our marketing team with proven experience in SEO, GEO (Generative Engine Optimization), Google Ads, and the developmen"
+    },
+    {
+      "id": "arbeitnow:remote-senior-staff-software-engineer-361512",
+      "title": "Senior/Staff Software Engineer",
+      "org": "3Ive",
+      "role": "project",
+      "location": "Remote Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/3ive/remote-senior-staff-software-engineer-361512",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793893220,
+      "tags": [
+        "Tech & Product"
+      ],
+      "summary": "YOUR MISSION A software engineer today uses Claude Code or Cursor. A mechanical engineer designing the next jet engine still searches Excel sheets and asks whoever has been around longest. We are building the AI co-engineer for physical products: one that work"
+    },
+    {
+      "id": "arbeitnow:remote-head-of-product-intch-319561",
+      "title": "Head of Product | Intch",
+      "org": "Hirehire",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-head-of-product-intch-319561",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793893219,
+      "tags": [
+        "Product Management"
+      ],
+      "summary": "About Intch Intch is a professional social network with a marketplace for part-time work. You can think of it as a professional network built for senior specialists who take on meaningful contracts alongside their main work. A typical contract lasts from three"
+    },
+    {
+      "id": "arbeitnow:kreditorenbuchhalterin-100-remote-berlin-13642",
+      "title": "Kreditorenbuchhalter:in (m/w/d) - 100% Remote",
+      "org": "1KOMMA5˚",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/kreditorenbuchhalterin-100-remote-berlin-13642",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793892663,
+      "tags": [
+        "Remote",
+        "Finance"
+      ],
+      "summary": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, W"
+    },
+    {
+      "id": "arbeitnow:buchhalter-intercompany-100-remote-berlin-257344",
+      "title": "Buchhalter Intercompany (m/w/d) - 100% Remote",
+      "org": "1KOMMA5˚",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/buchhalter-intercompany-100-remote-berlin-257344",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793892663,
+      "tags": [
+        "Remote",
+        "Finance"
+      ],
+      "summary": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, W"
+    },
+    {
+      "id": "arbeitnow:sales-manager-ai-startup-berlin-196750",
+      "title": "Sales Manager (m/w/d) AI-Startup",
+      "org": "Fenie AI",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/fenie-ai/sales-manager-ai-startup-berlin-196750",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793887252,
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader"
+      ],
+      "summary": "Du kannst gut verkaufen? Dann könnten wir gut matchen. Wir suchen einen motivierten Sales Manager (m/w/d) auf selbstständiger Basis , der Lust hat, gemeinsam mit einem internationalen AI-Startup zu wachsen. Der Einstieg ist ideal als Nebenjob möglich. Du arbei"
+    },
+    {
+      "id": "arbeitnow:cybersecurity-engineer-korntal-munchingen-377140",
+      "title": "Cybersecurity Engineer",
+      "org": "Haste",
+      "role": "project",
+      "location": "Korntal-Münchingen",
+      "url": "https://www.arbeitnow.com/jobs/companies/haste/cybersecurity-engineer-korntal-munchingen-377140",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793887252,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "As a Cybersecurity Engineer, you bring deep expertise in incident response, detection engineering and forensics across Windows/Linux/cloud environments/network. You hold certifications like Certified Incident Handler, Certified Forensic Analyst, and Certified "
+    },
+    {
+      "id": "arbeitnow:interviewer-fur-firmenbefragungen-im-telefonstudio-oder-home-office-berlin-22660",
+      "title": "Interviewer für Firmenbefragungen im Telefonstudio oder Home Office (m/w/d)",
+      "org": "USUMA GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/usuma-gmbh/interviewer-fur-firmenbefragungen-im-telefonstudio-oder-home-office-berlin-22660",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793885461,
+      "tags": [
+        "Remote",
+        "Market Research",
+        "Analysis"
+      ],
+      "summary": "Wir, das Markt-und Sozialforschungsinstitut USUMA GmbH, suchen in allen Altersgruppen ab 18 Jahren Interviewer:innen für Unternehmensbefragungen als freie Mitarbeiter:innen (auch nebenberuflich) auf Honorarbasis. Die Tätigkeit erfolgt dabei zeitlich flexibel v"
+    },
+    {
+      "id": "arbeitnow:kodierfachkraft-medizincontrollerin-psychiatrie-pepp-remote-berlin-184802",
+      "title": "Kodierfachkraft / Medizincontroller:in Psychiatrie (PEPP) – Remote (w/m/d)",
+      "org": "Valova",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/valova/kodierfachkraft-medizincontrollerin-psychiatrie-pepp-remote-berlin-184802",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793885458,
+      "tags": [
+        "Remote",
+        "Controlling"
+      ],
+      "summary": "Über Valova Wir entwickeln KI-Software für Krankenhäuser , die administrative Prozesse in Dokumentation, Kodierung und Abrechnung automatisiert. Damit entlasten wir Klinikteams, sichern Erlöse und schaffen mehr Zeit für Patient. Unser ambitioniertes Team aus M"
+    },
+    {
+      "id": "arbeitnow:remote-account-development-representative-united-states-441026",
+      "title": "Account Development Representative - United States",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-account-development-representative-united-states-441026",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793882429,
+      "tags": [
+        "Marketing"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-ai-process-forward-deployed-engineer-32726",
+      "title": "AI Process Forward Deployed Engineer",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-ai-process-forward-deployed-engineer-32726",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793882429,
+      "tags": [
+        "Field Operations"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-france-250328",
+      "title": "French Speaking Fitbit Customer Support Specialist - Work In Sofia, Bulgaria",
+      "org": "Patrique Mercier Recruitment Fr",
+      "role": "training",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-france-250328",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793888412,
+      "tags": [
+        "Consumer Electronics",
+        "Bulgaria",
+        "Remote"
+      ],
+      "summary": "French Speaking Fitbit Customer Support Specialist About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm, recognized as a leader in European recruitment and specialized BPO solutions. We take pride in connecting wor"
+    },
+    {
+      "id": "arbeitnow:superviseur-support-client-international-support-technique-operation-de-tracking-sportif-h-f-paris-167284",
+      "title": "Superviseur support client international (Support technique opération de tracking sportif) - (H/F)",
+      "org": "MAC LLOYD",
+      "role": "support",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mac-lloyd/superviseur-support-client-international-support-technique-operation-de-tracking-sportif-h-f-paris-167284",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793885459,
       "tags": [
         "Remote",
         "Customer Service"
       ],
-      "summary": "ProviPanda GmbH · Hamburg / Remote · Freelance oder Festanstellung · 30 Std./Woche · Start: sofort Über ProviPanda GmbH ProviPanda ist ein wachsendes HR-Tech-Startup aus dem Bereich Technology, Information and Internet und die größte Sales-Job-Plattform im DAC"
+      "summary": "McLloyd est une PME technologique française spécialisée dans les solutions de tracking appliquées aux courses. Nos technologies sont notamment utilisées dans plus de 13000 courses hippiques annuelles organisées en France et à l’international. Dans le cadre du "
     },
     {
-      "id": "arbeitnow:werkstudent-grafikdesign-meta-ads-canva-remote-berlin-428270",
-      "title": "Werkstudent Grafikdesign – Meta Ads & Canva (m/w/d) | Remote",
-      "org": "BeginnerBudget",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/beginnerbudget/werkstudent-grafikdesign-meta-ads-canva-remote-berlin-428270",
+      "id": "arbeitnow:closer-paris-294326",
+      "title": "Closer",
+      "org": "NextGenLearning",
+      "role": "training",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/nextgenlearning/closer-paris-294326",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793826039,
+      "postedAt": 1793891857,
       "tags": [
         "Remote",
-        "Graphic Arts and Communication Design"
+        "Business Development"
       ],
-      "summary": "Über BeginnerBudget Wir sind ein junges Startup aus Hamburg und suchen kreative Unterstützung bei der Gestaltung unserer Werbeanzeigen für Instagram und Facebook. Du hast ein gutes Auge für Design, arbeitest gerne mit Canva und nutzt KI als kreatives Werkzeug?"
+      "summary": "Chez nous, vendre, c'est coacher à la décision. 🎯 Nous sommes convaincus de trois choses : Vous êtes là pour sincèrement aider la personne en face de vous. Sa réussite se trouve souvent en dehors de sa zone de confort. Pour obtenir des résultats différents, i"
     },
     {
-      "id": "arbeitnow:remote-senior-partner-manager-data-ai-security-475954",
-      "title": "Senior Partner Manager - Data & AI Security",
-      "org": "veeamsoftware",
+      "id": "arbeitnow:remote-freelance-french-seo-content-writer-france-106511",
+      "title": "Freelance French SEO Content Writer",
+      "org": "Azeus Convene",
       "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-partner-manager-data-ai-security-475954",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793818524,
-      "tags": [
-        "Partner Sales 1009947"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;div class=\"elementToProof\"&gt; &lt;p&gt;Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe "
-    },
-    {
-      "id": "arbeitnow:remote-senior-solutions-engineer-commercial-482484",
-      "title": "Senior Solutions Engineer, Commercial",
-      "org": "Clickup",
-      "role": "project",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/clickup/remote-senior-solutions-engineer-commercial-482484",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793817616,
-      "tags": [
-        "Customer Experience"
-      ],
-      "summary": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI "
-    },
-    {
-      "id": "arbeitnow:remote-principal-global-campaign-operations-france-331161",
-      "title": "Principal, Global Campaign Operations",
-      "org": "Prosci",
-      "role": "training",
       "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/prosci/remote-principal-global-campaign-operations-france-331161",
+      "url": "https://www.arbeitnow.fr/jobs/companies/azeus-convene/remote-freelance-french-seo-content-writer-france-106511",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793845212,
+      "postedAt": 1793866817,
       "tags": [
         "Marketing",
-        "Professional Training & Coaching",
+        "Information Technology and Services",
+        "Freelancer",
         "Remote"
       ],
-      "summary": "We are looking for a Principal to lead global campaign operations at Prosci. You will turn Marketing plans for our Individual and Enterprise audiences into consistent, well-built campaigns across regions. You will own how campaigns are planned, built, tested a"
+      "summary": "About the Role We are looking for an experienced Freelance French SEO Content Writer to strengthen our organic search visibility and AI search presence across the French markets, including France and French-speaking Africa. Our current French organic search vi"
     },
     {
-      "id": "arbeitnow:remote-bilingual-prosci-instructor-france-26083",
-      "title": "Bilingual Prosci Instructor, France",
-      "org": "Prosci",
-      "role": "training",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/prosci/remote-bilingual-prosci-instructor-france-26083",
+      "id": "arbeitnow:head-of-website-conversion-paris-24141",
+      "title": "Head of Website & Conversion",
+      "org": "Pennylane SAS",
+      "role": "marketing",
+      "location": "All France (remote)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/head-of-website-conversion-paris-24141",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793845212,
+      "postedAt": 1793860815,
       "tags": [
-        "Training",
-        "Management Consulting",
-        "Training & Delivery",
-        "Remote"
+        "Marketing"
       ],
-      "summary": "Position summary Prosci Executive Instructors are dynamic teachers and facilitators, with a passion for change management and our client’s success. With deep business expertise, and a thorough understanding of Prosci’s change management research, methodologies"
+      "summary": "Why this role exists ? At Pennylane, our website is a key engine for acquisition and conversion, transforming traffic from SEO, paid acquisition, media, and partnerships into demo bookings and self-sign-ups. With over 450,000 monthly visits , our website alrea"
+    },
+    {
+      "id": "arbeitnow:gtm-lead-europe-paris-248893",
+      "title": "GTM Lead, Europe",
+      "org": "Higgsfield",
+      "role": "marketing",
+      "location": "Remote, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/higgsfield/gtm-lead-europe-paris-248893",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793860813,
+      "tags": [
+        "Marketing & Sales"
+      ],
+      "summary": "Why work at Higgsfield AI? We're the fastest-scaling generative AI company in history, hitting $1B in annual revenue run rate, 30M+ users worldwide, and powering 390 of Fortune 500 brands. We’re building at the absolute frontier of AI-powered video creation an"
+    },
+    {
+      "id": "arbeitnow:blockchain-engineer-zug-400842",
+      "title": "Blockchain Engineer",
+      "org": "Blockvora",
+      "role": "marketing",
+      "location": "Zug",
+      "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-400842",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793899873,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "The role We are hiring a Blockchain Engineer to design and implement smart contracts and chain integrations. You will work closely with backend and product teams to ship secure, production-ready on-chain systems. This is a hands-on role focused on correctness,"
+    },
+    {
+      "id": "arbeitnow:test-manager-output-ccm-dokumenten-management-systemen-bern-347745",
+      "title": "Test Manager - Output-/CCM-/Dokumenten-Management-Systemen",
+      "org": "Coopers Group AG",
+      "role": "project",
+      "location": "Bern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/test-manager-output-ccm-dokumenten-management-systemen-bern-347745",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793894450,
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "summary": "Test Manager 50% Für unseren Kunden aus Bern suchen wir eine:n erfahrene:n und aufgeschlossene:n Test Manager - Output-/CCM-Management-Systemen. Diese 50% Position kann möglicherweise mit der Test Engineer (50%) kombiniert werden. Deine Aufgaben: Erarbeiten un"
+    },
+    {
+      "id": "arbeitnow:business-analyst-krankenversicherung-solothurn-487230",
+      "title": "Business Analyst - Krankenversicherung",
+      "org": "Coopers Group AG",
+      "role": "project",
+      "location": "Solothurn",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/business-analyst-krankenversicherung-solothurn-487230",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793892666,
+      "tags": [
+        "Remote",
+        "Project Management"
+      ],
+      "summary": "................ Für unseren Kunden in Solothurn , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Business Analyst – Krankenversicherung. Deine Aufgaben: Analyse fachlicher Anforderungen und Geschäftsprozesse im Schweizer Kranken- und Unfall"
+    },
+    {
+      "id": "arbeitnow:requirements-engineer-bern-274835",
+      "title": "Requirements Engineer",
+      "org": "Coopers Group AG",
+      "role": "project",
+      "location": "Bern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/requirements-engineer-bern-274835",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793892666,
+      "tags": [
+        "Remote",
+        "Business Analyst"
+      ],
+      "summary": "................ Für unseren Kunden in Bern suchen wir eine engagierte Persönlichkeit als Requirements Engineer . Deine Aufgaben: Begleitung der technischen Lösungsfindung von der Konzeption und dem Lösungsdesign bis zur erfolgreichen Einführung in enger Zusam"
+    },
+    {
+      "id": "arbeitnow:test-engineer-bern-487432",
+      "title": "Test Engineer",
+      "org": "Coopers Group AG",
+      "role": "project",
+      "location": "Bern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/test-engineer-bern-487432",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793892666,
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "summary": "Test Engineer - Output-/CCM-Systeme Für unseren Kunden aus Bern , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Test Engineer - Output-/CCM-/Dokumenten-Management-Systemen. Diese 50% Position kann möglicherweise mit der Test Management Posi"
+    },
+    {
+      "id": "arbeitnow:senior-java-entwicklerin-bern-498260",
+      "title": "Senior Java Entwickler:in",
+      "org": "Coopers Group AG",
+      "role": "project",
+      "location": "Bern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-java-entwicklerin-bern-498260",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793892665,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "................ Für unseren Kunden aus dem Bankenumfeld in Bern , suchen wir eine:n motivierte:n und aufgeschlossene:n Senior Java Backend Entwickler:in . In dieser Rolle entwickelst du das Kernbankensystem unseres Kunden im Finanzdienstleistungsumfeld aktiv "
     },
     {
       "id": "arbeitnow:principal-java-engineer-distributed-systems-serverless-elasticsearch-27870",
@@ -465,39 +656,6 @@
         "Engineering Department"
       ],
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to quer"
-    },
-    {
-      "id": "arbeitnow:power-platform-and-azure-devops-expert-remote-from-eu-amsterdam-110494",
-      "title": "Power Platform and Azure DevOps Expert - remote from EU",
-      "org": "AlmavivA de Belgique",
-      "role": "hr",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/power-platform-and-azure-devops-expert-remote-from-eu-amsterdam-110494",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793763088,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "This is an experienced architect-level position. The appointed resource will be expected to serve as the Power Platform administrator, administering and supporting approximately 100 Power Platform environments. A significant part of the role will involve estab"
-    },
-    {
-      "id": "arbeitnow:remote-teamleider-voor-huishoudelijke-hulpen-zij-instromers-zijn-welkom-gorinchem-118030",
-      "title": "Teamleider voor huishoudelijke hulpen - Zij-instromers zijn welkom!",
-      "org": "Agentur für Haushaltshilfe GmbH",
-      "role": "training",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.nl/jobs/companies/agentur-fur-haushaltshilfe-gmbh/remote-teamleider-voor-huishoudelijke-hulpen-zij-instromers-zijn-welkom-gorinchem-118030",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793763085,
-      "tags": [
-        "Teamleiding",
-        "Remote"
-      ],
-      "summary": "AGFH huishoudelijke hulp Ons doel is ervoor te zorgen dat mensen die ondersteuning nodig hebben, kunnen wonen op de plek waar zij zich het meest op hun gemak voelen – thuis. Sinds 2018 zijn wij met meer dan 14.000 medewerkers uitgegroeid tot de toonaangevende "
     },
     {
       "id": "remotive:1749306",
@@ -689,20 +847,36 @@
       "summary": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an "
     },
     {
-      "id": "remotive:1185979",
-      "title": "Freelance Writer",
-      "org": "IAPWE",
+      "id": "arbeitnow:gtm-engineer-sales-automation-and-analytics-management-berlin-224004",
+      "title": "GTM Engineer - Sales Automation and Analytics Management",
+      "org": "Pergolux",
       "role": "marketing",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "source": "Remotive",
-      "remote": true,
+      "location": "Berlin | Global Team",
+      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/gtm-engineer-sales-automation-and-analytics-management-berlin-224004",
+      "source": "Arbeitnow",
+      "remote": false,
       "visaSponsorshipMentioned": false,
-      "postedAt": "2026-10-04T16:53:34",
+      "postedAt": 1793882428,
       "tags": [
-        "REST"
+        "Sales"
       ],
-      "summary": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include t"
+      "summary": "As a GTM Engineer - Sales Automation and Analytics Management (m/w/d), you will make our sales engine more productive across all PERGOLUX markets globally: more revenue per worked sales hour, less leakage between lead and order, and a lower cost per sale. Repo"
+    },
+    {
+      "id": "arbeitnow:gtm-engineer-sales-operations-crm-management-berlin-129560",
+      "title": "GTM Engineer - Sales Operations CRM Management",
+      "org": "Pergolux",
+      "role": "marketing",
+      "location": "Berlin | Global Team",
+      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/gtm-engineer-sales-operations-crm-management-berlin-129560",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793882428,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "As the GTM Engineer - Sales Operations CRM Management (m/w/d), you will own the systems that run sales and marketing across PERGOLUX's global operations, with HubSpot as the single source of truth, Aircall and WhatsApp as the conversation layer, and the integr"
     }
   ]
 }
