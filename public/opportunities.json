@@ -1,15 +1,95 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T20:04:13.084Z",
+  "updatedAt": "2026-11-06T06:57:53.724Z",
   "sourceCount": 2,
   "totalFetched": 310,
-  "relevantCount": 48,
+  "relevantCount": 46,
   "sources": [
     "Arbeitnow",
     "Remotive"
   ],
   "sourceErrors": [],
   "jobs": [
+    {
+      "id": "arbeitnow:compliance-director-germany-373341",
+      "title": "Compliance Director",
+      "org": "Bjak",
+      "role": "training",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/compliance-director-germany-373341",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793914817,
+      "tags": [
+        "CEO Office"
+      ],
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
+    },
+    {
+      "id": "arbeitnow:head-of-compliance-germany-317824",
+      "title": "Head of Compliance",
+      "org": "Bjak",
+      "role": "training",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/head-of-compliance-germany-317824",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793914817,
+      "tags": [
+        "CEO Office"
+      ],
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
+    },
+    {
+      "id": "arbeitnow:strategy-operations-director-germany-305093",
+      "title": "Strategy & Operations Director",
+      "org": "Bjak",
+      "role": "project",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/strategy-operations-director-germany-305093",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793914817,
+      "tags": [
+        "CEO Office"
+      ],
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
+    },
+    {
+      "id": "arbeitnow:general-manager-germany-113270",
+      "title": "General Manager",
+      "org": "Bjak",
+      "role": "project",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/general-manager-germany-113270",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793914817,
+      "tags": [
+        "CEO Office"
+      ],
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
+    },
+    {
+      "id": "arbeitnow:ceo-doit-lithuania-germany-450029",
+      "title": "CEO - Doit Lithuania",
+      "org": "Bjak",
+      "role": "project",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/ceo-doit-lithuania-germany-450029",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793914817,
+      "tags": [
+        "CEO Office"
+      ],
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
+    },
     {
       "id": "arbeitnow:legal-engineer-transactional-or-in-house-germany-126550",
       "title": "Legal Engineer (Transactional or In-house)",
@@ -27,52 +107,220 @@
       "summary": "Why Harvey At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is "
     },
     {
-      "id": "arbeitnow:lead-commercial-sales-munich-184568",
-      "title": "Lead Commercial Sales",
-      "org": "The Exploration Company",
-      "role": "marketing",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/lead-commercial-sales-munich-184568",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793882429,
-      "tags": [
-        "People Experience"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We want you as a talented Lead Commercial Sales & Business Development professional to help us in our mission by driving commercial B2B success across our key technologies, Nyx, and fut"
-    },
-    {
-      "id": "arbeitnow:engineering-manager-cardiff-37636",
-      "title": "Engineering Manager",
-      "org": "Monzo",
+      "id": "arbeitnow:compliance-director-france-413144",
+      "title": "Compliance Director",
+      "org": "Bjak",
       "role": "training",
-      "location": "Cardiff",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/engineering-manager-cardiff-37636",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/bjak/compliance-director-france-413144",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793894124,
+      "postedAt": 1793914817,
       "tags": [
-        "Engineering"
+        "CEO Office"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;🚀 We’re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We’re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt; &"
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
     },
     {
-      "id": "arbeitnow:tcs-and-eclss-certification-engineer-bordeaux-311107",
-      "title": "TCS and ECLSS Certification Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/tcs-and-eclss-certification-engineer-bordeaux-311107",
+      "id": "arbeitnow:head-of-compliance-netherlands-347503",
+      "title": "Head of Compliance",
+      "org": "Bjak",
+      "role": "training",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/bjak/head-of-compliance-netherlands-347503",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1793882429,
+      "postedAt": 1793914817,
       "tags": [
-        "Engineering"
+        "CEO Office"
       ],
-      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. Mission We are developing, manufacturing, and operating Nyx, a modular and reusable spacecraft which will carry cargo to space stations and potentially humans in the longer run. We are "
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
+    },
+    {
+      "id": "arbeitnow:compliance-director-netherlands-137581",
+      "title": "Compliance Director",
+      "org": "Bjak",
+      "role": "training",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/bjak/compliance-director-netherlands-137581",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793914817,
+      "tags": [
+        "CEO Office"
+      ],
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
+    },
+    {
+      "id": "arbeitnow:strategy-operations-director-netherlands-39616",
+      "title": "Strategy & Operations Director",
+      "org": "Bjak",
+      "role": "project",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/bjak/strategy-operations-director-netherlands-39616",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793914817,
+      "tags": [
+        "CEO Office"
+      ],
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
+    },
+    {
+      "id": "arbeitnow:general-manager-netherlands-104010",
+      "title": "General Manager",
+      "org": "Bjak",
+      "role": "project",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/bjak/general-manager-netherlands-104010",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793914817,
+      "tags": [
+        "CEO Office"
+      ],
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
+    },
+    {
+      "id": "arbeitnow:ceo-doit-lithuania-netherlands-282642",
+      "title": "CEO - Doit Lithuania",
+      "org": "Bjak",
+      "role": "project",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/bjak/ceo-doit-lithuania-netherlands-282642",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793914817,
+      "tags": [
+        "CEO Office"
+      ],
+      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
+    },
+    {
+      "id": "arbeitnow:remote-endear-product-designer-79201",
+      "title": "Endear - Product Designer",
+      "org": "Eleve Talent",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-product-designer-79201",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793936412,
+      "tags": [
+        "Endear"
+      ],
+      "summary": "Location: Remote, US-based Team: Product & Design — IRL Type: Full-Time, Employee Compensation: $100K–$129K base Target Start: January 2027 or earlier Our Story At Endear, we’re building the modern CRM for retail teams — starting with the frontline. Our softwa"
+    },
+    {
+      "id": "arbeitnow:remote-senior-site-reliability-engineer-sre-berlin-110950",
+      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+      "org": "Makersite GmbH",
+      "role": "project",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-110950",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793935906,
+      "tags": [
+        "Technology",
+        "Remote"
+      ],
+      "summary": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make"
+    },
+    {
+      "id": "arbeitnow:remote-senior-staff-product-engineer-full-stack-koln-16323",
+      "title": "Senior/Staff Product Engineer (Full Stack) (m/f/d)",
+      "org": "epilot GmbH",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-full-stack-koln-16323",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793935905,
+      "tags": [
+        "Tech",
+        "Remote"
+      ],
+      "summary": "Are you ready to be a technology leader in the SaaS space? Join epilot! We are looking for product minded engineers not only coders. We're seeking builders who bridge technical expertise with product strategy. If you're passionate about impactful software, app"
+    },
+    {
+      "id": "arbeitnow:remote-senior-consultant-digital-commerce-retail-cpg-dach-germany-249922",
+      "title": "Senior Consultant - Digital Commerce (Retail & CPG) | DACH",
+      "org": "Avomind",
+      "role": "marketing",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/avomind/remote-senior-consultant-digital-commerce-retail-cpg-dach-germany-249922",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793924419,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "About Our Client Our client is a global IT consulting and digital engineering company specializing in software development, cloud transformation, data and AI, and digital experience solutions. With an international presence and extensive engineering capabiliti"
+    },
+    {
+      "id": "arbeitnow:klaviyo-experte-fur-e-mail-marketing-100-remote-elsdorf-206983",
+      "title": "Klaviyo-Experte für E-Mail-Marketing (m/w/d) | 100 % Remote",
+      "org": "Bendt Brothers",
+      "role": "marketing",
+      "location": "Elsdorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/klaviyo-experte-fur-e-mail-marketing-100-remote-elsdorf-206983",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793914238,
+      "tags": [
+        "Remote",
+        "CRM",
+        "Direct Marketing"
+      ],
+      "summary": "NUR VOLLZEIT! Du lebst Marketing, kennst Klaviyo in- und auswendig und willst die Person sein, ohne die bei gestandenen D2C-Brands keine Mail rausgeht? Klingt gut? Dann bist du bei uns genau richtig. Hey, wir sind Bendt Brothers. Zwei Brüder, ein Fokus: E-Mail"
+    },
+    {
+      "id": "arbeitnow:e-mail-marketing-manager-klaviyo-100-remote-elsdorf-145366",
+      "title": "E-Mail-Marketing-Manager (Klaviyo) | 100 % Remote (m/w/d)",
+      "org": "Bendt Brothers",
+      "role": "marketing",
+      "location": "Elsdorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/e-mail-marketing-manager-klaviyo-100-remote-elsdorf-145366",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793914238,
+      "tags": [
+        "Remote",
+        "CRM",
+        "Direct Marketing"
+      ],
+      "summary": "NUR VOLLZEIT! Du lebst Marketing, kennst Klaviyo in- und auswendig und willst die Person sein, ohne die bei gestandenen D2C-Brands keine Mail rausgeht? Klingt gut? Dann bist du bei uns genau richtig. Hey, wir sind Bendt Brothers. Zwei Brüder, ein Fokus: E-Mail"
+    },
+    {
+      "id": "arbeitnow:klaviyo-spezialist-100-remote-elsdorf-492260",
+      "title": "Klaviyo-Spezialist (m/w/d) | 100 % Remote",
+      "org": "Bendt Brothers",
+      "role": "marketing",
+      "location": "Elsdorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/klaviyo-spezialist-100-remote-elsdorf-492260",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793914237,
+      "tags": [
+        "Remote",
+        "CRM",
+        "Direct Marketing"
+      ],
+      "summary": "NUR VOLLZEIT! Du lebst Marketing, kennst Klaviyo in- und auswendig und willst die Person sein, ohne die bei gestandenen D2C-Brands keine Mail rausgeht? Klingt gut? Dann bist du bei uns genau richtig. Hey, wir sind Bendt Brothers. Zwei Brüder, ein Fokus: E-Mail"
     },
     {
       "id": "arbeitnow:developer-c-net-as-freelancer-all-genders-berlin-436931",
@@ -157,243 +405,68 @@
       "summary": "About Intch Intch is a professional social network with a marketplace for part-time work. You can think of it as a professional network built for senior specialists who take on meaningful contracts alongside their main work. A typical contract lasts from three"
     },
     {
-      "id": "arbeitnow:kreditorenbuchhalterin-100-remote-berlin-13642",
-      "title": "Kreditorenbuchhalter:in (m/w/d) - 100% Remote",
-      "org": "1KOMMA5˚",
+      "id": "arbeitnow:lead-product-designer-platform-experience-uk-remote-united-kingdom-261521",
+      "title": "Lead Product Designer - Platform Experience - UK (Remote)",
+      "org": "Immersivelabs",
       "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/kreditorenbuchhalterin-100-remote-berlin-13642",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/lead-product-designer-platform-experience-uk-remote-united-kingdom-261521",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793892663,
+      "postedAt": 1793925611,
       "tags": [
-        "Remote",
-        "Finance"
+        "Product"
       ],
-      "summary": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, W"
+      "summary": "**This role is based within the UK only and you need to have the Right To Work without Sponsorship to be considered ** A platform you can believe in: Immersive One is the leading cyber resilience solution across the globe. Build and scale a best in class platf"
     },
     {
-      "id": "arbeitnow:buchhalter-intercompany-100-remote-berlin-257344",
-      "title": "Buchhalter Intercompany (m/w/d) - 100% Remote",
-      "org": "1KOMMA5˚",
+      "id": "arbeitnow:lead-product-designer-ai-security-agentic-experiences-uk-remote-united-kingdom-241364",
+      "title": "Lead Product Designer -AI Security & Agentic Experiences- UK (Remote)",
+      "org": "Immersivelabs",
       "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/buchhalter-intercompany-100-remote-berlin-257344",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/lead-product-designer-ai-security-agentic-experiences-uk-remote-united-kingdom-241364",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793892663,
+      "postedAt": 1793925611,
       "tags": [
-        "Remote",
-        "Finance"
+        "Product"
       ],
-      "summary": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, W"
+      "summary": "**This role is based within the UK only and you need to have the Right To Work without Sponsorship to be considered ** A platform you can believe in: Immersive One is the leading cyber resilience solution across the globe. Build and scale a best in class platf"
     },
     {
-      "id": "arbeitnow:sales-manager-ai-startup-berlin-196750",
-      "title": "Sales Manager (m/w/d) AI-Startup",
-      "org": "Fenie AI",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/fenie-ai/sales-manager-ai-startup-berlin-196750",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793887252,
-      "tags": [
-        "Remote",
-        "Management",
-        "Team Leader"
-      ],
-      "summary": "Du kannst gut verkaufen? Dann könnten wir gut matchen. Wir suchen einen motivierten Sales Manager (m/w/d) auf selbstständiger Basis , der Lust hat, gemeinsam mit einem internationalen AI-Startup zu wachsen. Der Einstieg ist ideal als Nebenjob möglich. Du arbei"
-    },
-    {
-      "id": "arbeitnow:cybersecurity-engineer-korntal-munchingen-377140",
-      "title": "Cybersecurity Engineer",
-      "org": "Haste",
-      "role": "project",
-      "location": "Korntal-Münchingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/haste/cybersecurity-engineer-korntal-munchingen-377140",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793887252,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "summary": "As a Cybersecurity Engineer, you bring deep expertise in incident response, detection engineering and forensics across Windows/Linux/cloud environments/network. You hold certifications like Certified Incident Handler, Certified Forensic Analyst, and Certified "
-    },
-    {
-      "id": "arbeitnow:interviewer-fur-firmenbefragungen-im-telefonstudio-oder-home-office-berlin-22660",
-      "title": "Interviewer für Firmenbefragungen im Telefonstudio oder Home Office (m/w/d)",
-      "org": "USUMA GmbH",
+      "id": "arbeitnow:remote-product-designer-78930",
+      "title": "Product Designer",
+      "org": "360Learning",
       "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/usuma-gmbh/interviewer-fur-firmenbefragungen-im-telefonstudio-oder-home-office-berlin-22660",
+      "location": "Paris, Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-product-designer-78930",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793885461,
+      "postedAt": 1793923668,
       "tags": [
-        "Remote",
-        "Market Research",
-        "Analysis"
+        "Design"
       ],
-      "summary": "Wir, das Markt-und Sozialforschungsinstitut USUMA GmbH, suchen in allen Altersgruppen ab 18 Jahren Interviewer:innen für Unternehmensbefragungen als freie Mitarbeiter:innen (auch nebenberuflich) auf Honorarbasis. Die Tätigkeit erfolgt dabei zeitlich flexibel v"
+      "summary": "As a Product Designer at 360Learning, you will work embedded in a product squad while being a full member of the Product Design team under the governance of the Head of Product Design. You will join the e-Learning Experience (ELXP) squad, whose mission is to E"
     },
     {
-      "id": "arbeitnow:kodierfachkraft-medizincontrollerin-psychiatrie-pepp-remote-berlin-184802",
-      "title": "Kodierfachkraft / Medizincontroller:in Psychiatrie (PEPP) – Remote (w/m/d)",
-      "org": "Valova",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/valova/kodierfachkraft-medizincontrollerin-psychiatrie-pepp-remote-berlin-184802",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793885458,
-      "tags": [
-        "Remote",
-        "Controlling"
-      ],
-      "summary": "Über Valova Wir entwickeln KI-Software für Krankenhäuser , die administrative Prozesse in Dokumentation, Kodierung und Abrechnung automatisiert. Damit entlasten wir Klinikteams, sichern Erlöse und schaffen mehr Zeit für Patient. Unser ambitioniertes Team aus M"
-    },
-    {
-      "id": "arbeitnow:remote-account-development-representative-united-states-441026",
-      "title": "Account Development Representative - United States",
-      "org": "Camunda",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-account-development-representative-united-states-441026",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793882429,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
-    },
-    {
-      "id": "arbeitnow:remote-ai-process-forward-deployed-engineer-32726",
-      "title": "AI Process Forward Deployed Engineer",
-      "org": "Camunda",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-ai-process-forward-deployed-engineer-32726",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793882429,
-      "tags": [
-        "Field Operations"
-      ],
-      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
-    },
-    {
-      "id": "arbeitnow:remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-france-250328",
-      "title": "French Speaking Fitbit Customer Support Specialist - Work In Sofia, Bulgaria",
-      "org": "Patrique Mercier Recruitment Fr",
+      "id": "arbeitnow:remote-chief-financial-officer-302100",
+      "title": "Chief Financial Officer",
+      "org": "360Learning",
       "role": "training",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-france-250328",
+      "location": "Paris, Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-chief-financial-officer-302100",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793888412,
+      "postedAt": 1793923668,
       "tags": [
-        "Consumer Electronics",
-        "Bulgaria",
-        "Remote"
+        "Finance & Accounting"
       ],
-      "summary": "French Speaking Fitbit Customer Support Specialist About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm, recognized as a leader in European recruitment and specialized BPO solutions. We take pride in connecting wor"
-    },
-    {
-      "id": "arbeitnow:superviseur-support-client-international-support-technique-operation-de-tracking-sportif-h-f-paris-167284",
-      "title": "Superviseur support client international (Support technique opération de tracking sportif) - (H/F)",
-      "org": "MAC LLOYD",
-      "role": "support",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mac-lloyd/superviseur-support-client-international-support-technique-operation-de-tracking-sportif-h-f-paris-167284",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793885459,
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "summary": "McLloyd est une PME technologique française spécialisée dans les solutions de tracking appliquées aux courses. Nos technologies sont notamment utilisées dans plus de 13000 courses hippiques annuelles organisées en France et à l’international. Dans le cadre du "
-    },
-    {
-      "id": "arbeitnow:closer-paris-294326",
-      "title": "Closer",
-      "org": "NextGenLearning",
-      "role": "training",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/nextgenlearning/closer-paris-294326",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793891857,
-      "tags": [
-        "Remote",
-        "Business Development"
-      ],
-      "summary": "Chez nous, vendre, c'est coacher à la décision. 🎯 Nous sommes convaincus de trois choses : Vous êtes là pour sincèrement aider la personne en face de vous. Sa réussite se trouve souvent en dehors de sa zone de confort. Pour obtenir des résultats différents, i"
-    },
-    {
-      "id": "arbeitnow:remote-freelance-french-seo-content-writer-france-106511",
-      "title": "Freelance French SEO Content Writer",
-      "org": "Azeus Convene",
-      "role": "marketing",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/azeus-convene/remote-freelance-french-seo-content-writer-france-106511",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793866817,
-      "tags": [
-        "Marketing",
-        "Information Technology and Services",
-        "Freelancer",
-        "Remote"
-      ],
-      "summary": "About the Role We are looking for an experienced Freelance French SEO Content Writer to strengthen our organic search visibility and AI search presence across the French markets, including France and French-speaking Africa. Our current French organic search vi"
-    },
-    {
-      "id": "arbeitnow:head-of-website-conversion-paris-24141",
-      "title": "Head of Website & Conversion",
-      "org": "Pennylane SAS",
-      "role": "marketing",
-      "location": "All France (remote)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/head-of-website-conversion-paris-24141",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793860815,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "Why this role exists ? At Pennylane, our website is a key engine for acquisition and conversion, transforming traffic from SEO, paid acquisition, media, and partnerships into demo bookings and self-sign-ups. With over 450,000 monthly visits , our website alrea"
-    },
-    {
-      "id": "arbeitnow:gtm-lead-europe-paris-248893",
-      "title": "GTM Lead, Europe",
-      "org": "Higgsfield",
-      "role": "marketing",
-      "location": "Remote, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/higgsfield/gtm-lead-europe-paris-248893",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793860813,
-      "tags": [
-        "Marketing & Sales"
-      ],
-      "summary": "Why work at Higgsfield AI? We're the fastest-scaling generative AI company in history, hitting $1B in annual revenue run rate, 30M+ users worldwide, and powering 390 of Fortune 500 brands. We’re building at the absolute frontier of AI-powered video creation an"
+      "summary": "360Learning is entering its next phase of growth. Today, more than 2,500 organizations worldwide rely on us to turn internal expertise into business performance. As AI reshapes how companies develop skills and share knowledge, we are bringing together Collabor"
     },
     {
       "id": "arbeitnow:blockchain-engineer-zug-400842",
@@ -548,114 +621,23 @@
       "summary": "This role is open only to candidates living in the EU or EEA. We can't consider applications from other locations. If you've built something before, start here The hardest part of a startup usually isn't the code. It's finding customers who really need what yo"
     },
     {
-      "id": "arbeitnow:remote-german-speaking-solutions-consultant-work-in-sofia-bulgaria-switzerland-43012",
-      "title": "German Speaking Solutions Consultant - Work In Sofia, Bulgaria",
-      "org": "Patrique Mercier Recruitment Fr",
-      "role": "training",
-      "location": "Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-german-speaking-solutions-consultant-work-in-sofia-bulgaria-switzerland-43012",
+      "id": "arbeitnow:remote-data-analyst-petten-38896",
+      "title": "Data Analyst",
+      "org": "Uni Systems",
+      "role": "project",
+      "location": "Petten, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/uni-systems/remote-data-analyst-petten-38896",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793794813,
+      "postedAt": 1793906415,
       "tags": [
-        "Customer Service",
-        "Consumer Services",
-        "Bulgaria",
+        "Information Technology",
+        "Information Technology and Services",
+        "International BU",
         "Remote"
       ],
-      "summary": "German Speaking Solutions Consultant About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm dedicated to connecting top-tier talent with world-class organizations. As a leader in European recruitment, we specialize i"
-    },
-    {
-      "id": "arbeitnow:remote-german-speaking-partner-technical-solutions-consultant-work-in-sofia-bulgaria-switzerland-78528",
-      "title": "German Speaking Partner Technical Solutions Consultant - Work In Sofia, Bulgaria",
-      "org": "Patrique Mercier Recruitment Fr",
-      "role": "training",
-      "location": "Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-german-speaking-partner-technical-solutions-consultant-work-in-sofia-bulgaria-switzerland-78528",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793794813,
-      "tags": [
-        "Customer Service",
-        "Consumer Electronics",
-        "Bulgaria",
-        "Remote"
-      ],
-      "summary": "German Speaking Partner Technical Solutions Consultant About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm dedicated to bridging elite talent with industry-leading organizations across Europe. As experts in the BP"
-    },
-    {
-      "id": "arbeitnow:remote-german-speaking-client-solutions-consultant-work-in-sofia-bulgaria-switzerland-149886",
-      "title": "German Speaking Client Solutions Consultant - Work In Sofia, Bulgaria",
-      "org": "Patrique Mercier Recruitment Fr",
-      "role": "training",
-      "location": "Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-german-speaking-client-solutions-consultant-work-in-sofia-bulgaria-switzerland-149886",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793794813,
-      "tags": [
-        "Customer Service",
-        "Consumer Services",
-        "Bulgaria",
-        "Remote"
-      ],
-      "summary": "German Speaking Client Solutions Consultant About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm recognized for connecting top-tier talent with world-class organizations across the European BPO landscape. As leader"
-    },
-    {
-      "id": "arbeitnow:remote-french-speaking-partner-technical-solutions-consultant-work-in-sofia-bulgaria-switzerland-462732",
-      "title": "French Speaking Partner Technical Solutions Consultant - Work In Sofia, Bulgaria",
-      "org": "Patrique Mercier Recruitment Fr",
-      "role": "training",
-      "location": "Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-partner-technical-solutions-consultant-work-in-sofia-bulgaria-switzerland-462732",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793794813,
-      "tags": [
-        "Customer Service",
-        "Consumer Electronics",
-        "Bulgaria",
-        "Remote"
-      ],
-      "summary": "French Speaking Partner Technical Solutions Consultant About Mercier Consultancy Group Mercier Consultancy Group is a premier European recruitment and BPO firm, dedicated to connecting top-tier talent with industry-leading global brands. We take pride in our s"
-    },
-    {
-      "id": "arbeitnow:remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-switzerland-469655",
-      "title": "French Speaking Fitbit Customer Support Specialist - Work In Sofia, Bulgaria",
-      "org": "Patrique Mercier Recruitment Fr",
-      "role": "training",
-      "location": "Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-fitbit-customer-support-specialist-work-in-sofia-bulgaria-switzerland-469655",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793794813,
-      "tags": [
-        "Consumer Electronics",
-        "Bulgaria",
-        "Remote"
-      ],
-      "summary": "French Speaking Fitbit Customer Support Specialist About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm, recognized as a leader in European recruitment and specialized BPO solutions. We take pride in connecting wor"
-    },
-    {
-      "id": "arbeitnow:remote-senior-staff-software-engineer-sap-connectors-462420",
-      "title": "Senior Staff Software Engineer - SAP Connectors",
-      "org": "Fivetran",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/fivetran/remote-senior-staff-software-engineer-sap-connectors-462420",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793786123,
-      "tags": [
-        "Engineering Department"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to quer"
+      "summary": "At Uni Systems, we are working towards turning digital visions into reality. We are continuously growing and we are looking for a professional AI & NLP Engineer to join our UniQue Petten, Netherlands team. What will you be bringing to the team? Collect and cle"
     },
     {
       "id": "remotive:1749306",
@@ -845,38 +827,6 @@
         "IT systems"
       ],
       "summary": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an "
-    },
-    {
-      "id": "arbeitnow:gtm-engineer-sales-automation-and-analytics-management-berlin-224004",
-      "title": "GTM Engineer - Sales Automation and Analytics Management",
-      "org": "Pergolux",
-      "role": "marketing",
-      "location": "Berlin | Global Team",
-      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/gtm-engineer-sales-automation-and-analytics-management-berlin-224004",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793882428,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "As a GTM Engineer - Sales Automation and Analytics Management (m/w/d), you will make our sales engine more productive across all PERGOLUX markets globally: more revenue per worked sales hour, less leakage between lead and order, and a lower cost per sale. Repo"
-    },
-    {
-      "id": "arbeitnow:gtm-engineer-sales-operations-crm-management-berlin-129560",
-      "title": "GTM Engineer - Sales Operations CRM Management",
-      "org": "Pergolux",
-      "role": "marketing",
-      "location": "Berlin | Global Team",
-      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/gtm-engineer-sales-operations-crm-management-berlin-129560",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793882428,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "As the GTM Engineer - Sales Operations CRM Management (m/w/d), you will own the systems that run sales and marketing across PERGOLUX's global operations, with HubSpot as the single source of truth, Aircall and WhatsApp as the conversation layer, and the integr"
     }
   ]
 }
