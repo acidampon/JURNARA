@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T06:57:53.724Z",
+  "updatedAt": "2026-11-06T19:29:55.787Z",
   "sourceCount": 2,
-  "totalFetched": 310,
-  "relevantCount": 46,
+  "totalFetched": 312,
+  "relevantCount": 28,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,633 +11,336 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:compliance-director-germany-373341",
-      "title": "Compliance Director",
-      "org": "Bjak",
-      "role": "training",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/compliance-director-germany-373341",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793914817,
-      "tags": [
-        "CEO Office"
-      ],
-      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
-    },
-    {
-      "id": "arbeitnow:head-of-compliance-germany-317824",
-      "title": "Head of Compliance",
-      "org": "Bjak",
-      "role": "training",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/head-of-compliance-germany-317824",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793914817,
-      "tags": [
-        "CEO Office"
-      ],
-      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
-    },
-    {
-      "id": "arbeitnow:strategy-operations-director-germany-305093",
-      "title": "Strategy & Operations Director",
-      "org": "Bjak",
-      "role": "project",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/strategy-operations-director-germany-305093",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793914817,
-      "tags": [
-        "CEO Office"
-      ],
-      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
-    },
-    {
-      "id": "arbeitnow:general-manager-germany-113270",
-      "title": "General Manager",
-      "org": "Bjak",
-      "role": "project",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/general-manager-germany-113270",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793914817,
-      "tags": [
-        "CEO Office"
-      ],
-      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
-    },
-    {
-      "id": "arbeitnow:ceo-doit-lithuania-germany-450029",
-      "title": "CEO - Doit Lithuania",
-      "org": "Bjak",
-      "role": "project",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/ceo-doit-lithuania-germany-450029",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793914817,
-      "tags": [
-        "CEO Office"
-      ],
-      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
-    },
-    {
-      "id": "arbeitnow:legal-engineer-transactional-or-in-house-germany-126550",
-      "title": "Legal Engineer (Transactional or In-house)",
-      "org": "Harvey",
-      "role": "training",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/harvey/legal-engineer-transactional-or-in-house-germany-126550",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793904015,
-      "tags": [
-        "Go to Market"
-      ],
-      "summary": "Why Harvey At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is "
-    },
-    {
-      "id": "arbeitnow:compliance-director-france-413144",
-      "title": "Compliance Director",
-      "org": "Bjak",
-      "role": "training",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/bjak/compliance-director-france-413144",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793914817,
-      "tags": [
-        "CEO Office"
-      ],
-      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
-    },
-    {
-      "id": "arbeitnow:head-of-compliance-netherlands-347503",
-      "title": "Head of Compliance",
-      "org": "Bjak",
-      "role": "training",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/bjak/head-of-compliance-netherlands-347503",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793914817,
-      "tags": [
-        "CEO Office"
-      ],
-      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
-    },
-    {
-      "id": "arbeitnow:compliance-director-netherlands-137581",
-      "title": "Compliance Director",
-      "org": "Bjak",
-      "role": "training",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/bjak/compliance-director-netherlands-137581",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793914817,
-      "tags": [
-        "CEO Office"
-      ],
-      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
-    },
-    {
-      "id": "arbeitnow:strategy-operations-director-netherlands-39616",
-      "title": "Strategy & Operations Director",
-      "org": "Bjak",
-      "role": "project",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/bjak/strategy-operations-director-netherlands-39616",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793914817,
-      "tags": [
-        "CEO Office"
-      ],
-      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
-    },
-    {
-      "id": "arbeitnow:general-manager-netherlands-104010",
-      "title": "General Manager",
-      "org": "Bjak",
-      "role": "project",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/bjak/general-manager-netherlands-104010",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793914817,
-      "tags": [
-        "CEO Office"
-      ],
-      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
-    },
-    {
-      "id": "arbeitnow:ceo-doit-lithuania-netherlands-282642",
-      "title": "CEO - Doit Lithuania",
-      "org": "Bjak",
-      "role": "project",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/bjak/ceo-doit-lithuania-netherlands-282642",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1793914817,
-      "tags": [
-        "CEO Office"
-      ],
-      "summary": "About Doit We are focused on reinventing how people spend, save, invest, exchange, travel, and more. Our objective is to build tools that will help people get more from their money and become an expert at ease. We believe AI will help make finance smart, acces"
-    },
-    {
-      "id": "arbeitnow:remote-endear-product-designer-79201",
-      "title": "Endear - Product Designer",
-      "org": "Eleve Talent",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-product-designer-79201",
+      "id": "arbeitnow:junior-growth-associate-berlin-369010",
+      "title": "(Junior) Growth Associate",
+      "org": "Ostrom",
+      "role": "marketing",
+      "location": "Berlin / Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ostrom/junior-growth-associate-berlin-369010",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793936412,
+      "postedAt": 1793990419,
       "tags": [
-        "Endear"
+        "Marketing"
       ],
-      "summary": "Location: Remote, US-based Team: Product & Design — IRL Type: Full-Time, Employee Compensation: $100K–$129K base Target Start: January 2027 or earlier Our Story At Endear, we’re building the modern CRM for retail teams — starting with the frontline. Our softwa"
+      "summary": "🌐 We are on the mission to build Europe’s leading energy management platform to provide fair, clean energy to everyone. ⚡ We’re a diverse team of 50+ employees , with 46% being female and from 16+ nationalities , and steadily growing. Having raised of over €4"
     },
     {
-      "id": "arbeitnow:remote-senior-site-reliability-engineer-sre-berlin-110950",
-      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
-      "org": "Makersite GmbH",
-      "role": "project",
+      "id": "arbeitnow:ci-sales-lead-commercial-industrial-energy-berlin-410473",
+      "title": "C&I Sales Lead (Commercial & Industrial Energy)",
+      "org": "Ostrom",
+      "role": "marketing",
+      "location": "Berlin / Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ostrom/ci-sales-lead-commercial-industrial-energy-berlin-410473",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793990419,
+      "tags": [
+        "Finance"
+      ],
+      "summary": "🌐 We are on the mission to build Europe’s leading energy management platform to provide fair, clean energy to everyone. ⚡ We’re a diverse team of 50+ employees , with 46% being female and from 16+ nationalities , and steadily growing. Having raised of over €4"
+    },
+    {
+      "id": "arbeitnow:trading-infrastructure-engineer-algorithmic-power-trading-berlin-218822",
+      "title": "Trading Infrastructure Engineer – Algorithmic Power Trading",
+      "org": "Ostrom",
+      "role": "training",
+      "location": "Berlin / Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ostrom/trading-infrastructure-engineer-algorithmic-power-trading-berlin-218822",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793990419,
+      "tags": [
+        "Finance"
+      ],
+      "summary": "🌐 We are on the mission to build Europe’s leading energy management platform to provide fair, clean energy to everyone. ⚡ We’re a diverse team of 50+ employees , with 46% being female and from 16+ nationalities , and steadily growing. Having raised of over €4"
+    },
+    {
+      "id": "arbeitnow:remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-335331",
+      "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
+      "org": "Kevin Kehr",
+      "role": "training",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-335331",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793989880,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching und einem klaren Weg i"
+    },
+    {
+      "id": "arbeitnow:remote-sales-director-uk-london-90169",
+      "title": "Sales Director - UK (m/f/t)",
+      "org": "Zeotap",
+      "role": "training",
       "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-110950",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zeotap/remote-sales-director-uk-london-90169",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793935906,
+      "postedAt": 1793989880,
       "tags": [
-        "Technology",
+        "Sales",
         "Remote"
       ],
-      "summary": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make"
+      "summary": "About Zeotap Founded in Berlin in 2014, Zeotap started with a mission to provide high-quality data to marketers. As we evolved, we recognized a greater challenge: helping brands create personalized, multi-channel experiences in a world that demands strict data"
     },
     {
-      "id": "arbeitnow:remote-senior-staff-product-engineer-full-stack-koln-16323",
-      "title": "Senior/Staff Product Engineer (Full Stack) (m/f/d)",
-      "org": "epilot GmbH",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-full-stack-koln-16323",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793935905,
-      "tags": [
-        "Tech",
-        "Remote"
-      ],
-      "summary": "Are you ready to be a technology leader in the SaaS space? Join epilot! We are looking for product minded engineers not only coders. We're seeking builders who bridge technical expertise with product strategy. If you're passionate about impactful software, app"
-    },
-    {
-      "id": "arbeitnow:remote-senior-consultant-digital-commerce-retail-cpg-dach-germany-249922",
-      "title": "Senior Consultant - Digital Commerce (Retail & CPG) | DACH",
-      "org": "Avomind",
-      "role": "marketing",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/avomind/remote-senior-consultant-digital-commerce-retail-cpg-dach-germany-249922",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793924419,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "About Our Client Our client is a global IT consulting and digital engineering company specializing in software development, cloud transformation, data and AI, and digital experience solutions. With an international presence and extensive engineering capabiliti"
-    },
-    {
-      "id": "arbeitnow:klaviyo-experte-fur-e-mail-marketing-100-remote-elsdorf-206983",
-      "title": "Klaviyo-Experte für E-Mail-Marketing (m/w/d) | 100 % Remote",
-      "org": "Bendt Brothers",
-      "role": "marketing",
-      "location": "Elsdorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/klaviyo-experte-fur-e-mail-marketing-100-remote-elsdorf-206983",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793914238,
-      "tags": [
-        "Remote",
-        "CRM",
-        "Direct Marketing"
-      ],
-      "summary": "NUR VOLLZEIT! Du lebst Marketing, kennst Klaviyo in- und auswendig und willst die Person sein, ohne die bei gestandenen D2C-Brands keine Mail rausgeht? Klingt gut? Dann bist du bei uns genau richtig. Hey, wir sind Bendt Brothers. Zwei Brüder, ein Fokus: E-Mail"
-    },
-    {
-      "id": "arbeitnow:e-mail-marketing-manager-klaviyo-100-remote-elsdorf-145366",
-      "title": "E-Mail-Marketing-Manager (Klaviyo) | 100 % Remote (m/w/d)",
-      "org": "Bendt Brothers",
-      "role": "marketing",
-      "location": "Elsdorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/e-mail-marketing-manager-klaviyo-100-remote-elsdorf-145366",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793914238,
-      "tags": [
-        "Remote",
-        "CRM",
-        "Direct Marketing"
-      ],
-      "summary": "NUR VOLLZEIT! Du lebst Marketing, kennst Klaviyo in- und auswendig und willst die Person sein, ohne die bei gestandenen D2C-Brands keine Mail rausgeht? Klingt gut? Dann bist du bei uns genau richtig. Hey, wir sind Bendt Brothers. Zwei Brüder, ein Fokus: E-Mail"
-    },
-    {
-      "id": "arbeitnow:klaviyo-spezialist-100-remote-elsdorf-492260",
-      "title": "Klaviyo-Spezialist (m/w/d) | 100 % Remote",
-      "org": "Bendt Brothers",
-      "role": "marketing",
-      "location": "Elsdorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/bendt-brothers/klaviyo-spezialist-100-remote-elsdorf-492260",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793914237,
-      "tags": [
-        "Remote",
-        "CRM",
-        "Direct Marketing"
-      ],
-      "summary": "NUR VOLLZEIT! Du lebst Marketing, kennst Klaviyo in- und auswendig und willst die Person sein, ohne die bei gestandenen D2C-Brands keine Mail rausgeht? Klingt gut? Dann bist du bei uns genau richtig. Hey, wir sind Bendt Brothers. Zwei Brüder, ein Fokus: E-Mail"
-    },
-    {
-      "id": "arbeitnow:developer-c-net-as-freelancer-all-genders-berlin-436931",
-      "title": "Developer C# / .NET as Freelancer (all genders)",
-      "org": "Vexcash AG",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/developer-c-net-as-freelancer-all-genders-berlin-436931",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793905237,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "summary": "About Vexcash AG VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to bridge the gap until their next payday. More than 800,000 customers already rely on our service. Thanks to our "
-    },
-    {
-      "id": "arbeitnow:fullstack-engineer-prospect-data-solutions-munich-389827",
-      "title": "FullStack Engineer - Prospect Data Solutions",
-      "org": "Constructor",
+      "id": "arbeitnow:people-employment-and-labor-law-france-anywhere-in-france-425208",
+      "title": "People — Employment and Labor Law (France)",
+      "org": "Alan",
       "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-data-solutions-munich-389827",
+      "location": "Anywhere in France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/people-employment-and-labor-law-france-anywhere-in-france-425208",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793904015,
+      "postedAt": 1793990413,
       "tags": [
-        "Engineering"
+        "People"
       ],
-      "summary": "About You You have a knack for solving intricate Software Development problems. You're driven by the idea of writing code that simplifies life for millions of users globally. You're committed to continuous learning and enjoy tackling new challenges. Pair progr"
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
     },
     {
-      "id": "arbeitnow:performance-marketing-specialist-seo-geo-paid-ads-hamburg-170528",
-      "title": "Performance Marketing Specialist | SEO, GEO & Paid Ads",
-      "org": "SBR International GmbH",
+      "id": "arbeitnow:customer-care-analyst-ops-cdi-paris-41690",
+      "title": "Customer Care Analyst & Ops - CDI",
+      "org": "Green-Got",
       "role": "marketing",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/sbr-international-gmbh/performance-marketing-specialist-seo-geo-paid-ads-hamburg-170528",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/green-got/customer-care-analyst-ops-cdi-paris-41690",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793896263,
+      "postedAt": 1793980872,
       "tags": [
         "Remote",
-        "Online Marketing"
+        "Customer Service"
       ],
-      "summary": "Performance Marketing Specialist | SEO, GEO & Paid Ads | Remote – 5 Hours/Day We are looking to bring a Performance Marketing Specialist into our marketing team with proven experience in SEO, GEO (Generative Engine Optimization), Google Ads, and the developmen"
+      "summary": "Green-Got est une institution financière française qui permet à chacun de choisir ce que son argent finance. Nous construisons l'infrastructure financière du monde de demain. Depuis janvier 2026, Green-Got est un Établissement de Paiement agréé par l'ACPR, sup"
     },
     {
-      "id": "arbeitnow:remote-senior-staff-software-engineer-361512",
-      "title": "Senior/Staff Software Engineer",
-      "org": "3Ive",
-      "role": "project",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/3ive/remote-senior-staff-software-engineer-361512",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793893220,
-      "tags": [
-        "Tech & Product"
-      ],
-      "summary": "YOUR MISSION A software engineer today uses Claude Code or Cursor. A mechanical engineer designing the next jet engine still searches Excel sheets and asks whoever has been around longest. We are building the AI co-engineer for physical products: one that work"
-    },
-    {
-      "id": "arbeitnow:remote-head-of-product-intch-319561",
-      "title": "Head of Product | Intch",
-      "org": "Hirehire",
+      "id": "arbeitnow:customer-care-analyst-ops-alternance-paris-170283",
+      "title": "Customer Care Analyst & Ops - Alternance",
+      "org": "Green-Got",
       "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-head-of-product-intch-319561",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/green-got/customer-care-analyst-ops-alternance-paris-170283",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793893219,
-      "tags": [
-        "Product Management"
-      ],
-      "summary": "About Intch Intch is a professional social network with a marketplace for part-time work. You can think of it as a professional network built for senior specialists who take on meaningful contracts alongside their main work. A typical contract lasts from three"
-    },
-    {
-      "id": "arbeitnow:lead-product-designer-platform-experience-uk-remote-united-kingdom-261521",
-      "title": "Lead Product Designer - Platform Experience - UK (Remote)",
-      "org": "Immersivelabs",
-      "role": "marketing",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/lead-product-designer-platform-experience-uk-remote-united-kingdom-261521",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793925611,
-      "tags": [
-        "Product"
-      ],
-      "summary": "**This role is based within the UK only and you need to have the Right To Work without Sponsorship to be considered ** A platform you can believe in: Immersive One is the leading cyber resilience solution across the globe. Build and scale a best in class platf"
-    },
-    {
-      "id": "arbeitnow:lead-product-designer-ai-security-agentic-experiences-uk-remote-united-kingdom-241364",
-      "title": "Lead Product Designer -AI Security & Agentic Experiences- UK (Remote)",
-      "org": "Immersivelabs",
-      "role": "marketing",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/lead-product-designer-ai-security-agentic-experiences-uk-remote-united-kingdom-241364",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793925611,
-      "tags": [
-        "Product"
-      ],
-      "summary": "**This role is based within the UK only and you need to have the Right To Work without Sponsorship to be considered ** A platform you can believe in: Immersive One is the leading cyber resilience solution across the globe. Build and scale a best in class platf"
-    },
-    {
-      "id": "arbeitnow:remote-product-designer-78930",
-      "title": "Product Designer",
-      "org": "360Learning",
-      "role": "marketing",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-product-designer-78930",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793923668,
-      "tags": [
-        "Design"
-      ],
-      "summary": "As a Product Designer at 360Learning, you will work embedded in a product squad while being a full member of the Product Design team under the governance of the Head of Product Design. You will join the e-Learning Experience (ELXP) squad, whose mission is to E"
-    },
-    {
-      "id": "arbeitnow:remote-chief-financial-officer-302100",
-      "title": "Chief Financial Officer",
-      "org": "360Learning",
-      "role": "training",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-chief-financial-officer-302100",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793923668,
-      "tags": [
-        "Finance & Accounting"
-      ],
-      "summary": "360Learning is entering its next phase of growth. Today, more than 2,500 organizations worldwide rely on us to turn internal expertise into business performance. As AI reshapes how companies develop skills and share knowledge, we are bringing together Collabor"
-    },
-    {
-      "id": "arbeitnow:blockchain-engineer-zug-400842",
-      "title": "Blockchain Engineer",
-      "org": "Blockvora",
-      "role": "marketing",
-      "location": "Zug",
-      "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-400842",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793899873,
+      "postedAt": 1793980869,
       "tags": [
         "Remote",
-        "Software Development"
+        "Customer Service"
       ],
-      "summary": "The role We are hiring a Blockchain Engineer to design and implement smart contracts and chain integrations. You will work closely with backend and product teams to ship secure, production-ready on-chain systems. This is a hands-on role focused on correctness,"
+      "summary": "À propos de Green-Got : Green-Got est une institution financière française qui permet à chacun de choisir ce que son argent finance. Nous construisons l'infrastructure financière du monde de demain. Depuis janvier 2026, Green-Got est un Établissement de Paieme"
     },
     {
-      "id": "arbeitnow:test-manager-output-ccm-dokumenten-management-systemen-bern-347745",
-      "title": "Test Manager - Output-/CCM-/Dokumenten-Management-Systemen",
-      "org": "Coopers Group AG",
+      "id": "arbeitnow:collaborateurtrice-danalyse-sib-specialisation-alimentation-et-sante-geneva-435089",
+      "title": "Collaborateur.trice d'analyse SIB – Spécialisation Alimentation et Santé",
+      "org": "gaea21",
       "role": "project",
-      "location": "Bern",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/test-manager-output-ccm-dokumenten-management-systemen-bern-347745",
+      "location": "Geneva",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gaea21/collaborateurtrice-danalyse-sib-specialisation-alimentation-et-sante-geneva-435089",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793894450,
-      "tags": [
-        "Remote",
-        "IT"
-      ],
-      "summary": "Test Manager 50% Für unseren Kunden aus Bern suchen wir eine:n erfahrene:n und aufgeschlossene:n Test Manager - Output-/CCM-Management-Systemen. Diese 50% Position kann möglicherweise mit der Test Engineer (50%) kombiniert werden. Deine Aufgaben: Erarbeiten un"
-    },
-    {
-      "id": "arbeitnow:business-analyst-krankenversicherung-solothurn-487230",
-      "title": "Business Analyst - Krankenversicherung",
-      "org": "Coopers Group AG",
-      "role": "project",
-      "location": "Solothurn",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/business-analyst-krankenversicherung-solothurn-487230",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793892666,
-      "tags": [
-        "Remote",
-        "Project Management"
-      ],
-      "summary": "................ Für unseren Kunden in Solothurn , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Business Analyst – Krankenversicherung. Deine Aufgaben: Analyse fachlicher Anforderungen und Geschäftsprozesse im Schweizer Kranken- und Unfall"
-    },
-    {
-      "id": "arbeitnow:requirements-engineer-bern-274835",
-      "title": "Requirements Engineer",
-      "org": "Coopers Group AG",
-      "role": "project",
-      "location": "Bern",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/requirements-engineer-bern-274835",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793892666,
+      "postedAt": 1793986257,
       "tags": [
         "Remote",
         "Business Analyst"
       ],
-      "summary": "................ Für unseren Kunden in Bern suchen wir eine engagierte Persönlichkeit als Requirements Engineer . Deine Aufgaben: Begleitung der technischen Lösungsfindung von der Konzeption und dem Lösungsdesign bis zur erfolgreichen Einführung in enger Zusam"
+      "summary": "Description des tâches à faire GCBOAL02 Business Management & Développement Bac+5 0-1 an Télétravail Votre mission : Audit et Évaluation de terrain : Appliquer et tester sur le terrain les questionnaires d'enquête initiale pour déterminer l'empreinte chromatiq"
     },
     {
-      "id": "arbeitnow:test-engineer-bern-487432",
-      "title": "Test Engineer",
-      "org": "Coopers Group AG",
-      "role": "project",
-      "location": "Bern",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/test-engineer-bern-487432",
+      "id": "arbeitnow:collaborateurtrice-de-strategie-marketing-b2b-developpement-rse-geneva-357816",
+      "title": "Collaborateur.trice de Stratégie Marketing B2B & Développement RSE",
+      "org": "gaea21",
+      "role": "marketing",
+      "location": "Geneva",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gaea21/collaborateurtrice-de-strategie-marketing-b2b-developpement-rse-geneva-357816",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793892666,
+      "postedAt": 1793986257,
+      "tags": [
+        "Remote",
+        "Strategic Marketing"
+      ],
+      "summary": "Description des tâches Votre rôle consiste à transformer les succès de nos phases pilotes en une stratégie de conquête pour engager des entreprises (PME, TPE, administrations). Votre mission : Réaliser un mapping concurrentiel de l’accompagnement RSE en Suisse"
+    },
+    {
+      "id": "arbeitnow:collaborateur-marketing-h-f-projet-coaching-teletravail-geneva-22213",
+      "title": "Collaborateur Marketing (H/F) - Projet Coaching télétravail",
+      "org": "gaea21",
+      "role": "marketing",
+      "location": "Geneva",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gaea21/collaborateur-marketing-h-f-projet-coaching-teletravail-geneva-22213",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793984454,
+      "tags": [
+        "Remote",
+        "Marketing Assistant"
+      ],
+      "summary": "Vous souhaitez évoluer dans le domaine du Marketing, et êtes à la recherche d’une expérience professionnelle enrichissante, vous désirez mettre en pratique les acquis de votre formation, acquérir de la pratique, et/ou développer votre autonomie pour compléter "
+    },
+    {
+      "id": "arbeitnow:remote-marketing-manager-gn-more-nutrition-schweiz-415540",
+      "title": "Marketing Manager (gn) - More Nutrition Schweiz",
+      "org": "thequalitygroupgmbh1",
+      "role": "marketing",
+      "location": "remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/thequalitygroupgmbh1/remote-marketing-manager-gn-more-nutrition-schweiz-415540",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793980519,
+      "tags": [
+        "Brand More"
+      ],
+      "summary": "&lt;p&gt;&lt;span class=\"TextRun SCXW53679484 BCX0\" lang=\"EN-US\" data-contrast=\"auto\"&gt;&lt;span class=\"NormalTextRun SCXW53679484 BCX0\"&gt;Start:&nbsp;&lt;/span&gt;&lt;span class=\"NormalTextRun SCXW53679484 BCX0\"&gt;ab&nbsp;&lt;/span&gt;&lt;span class=\"Norma"
+    },
+    {
+      "id": "arbeitnow:senior-gmp-manufacturing-ai-advisor-remote-zurich-41685",
+      "title": "Senior GMP Manufacturing & AI Advisor (remote)",
+      "org": "Coopers Group AG",
+      "role": "project",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-gmp-manufacturing-ai-advisor-remote-zurich-41685",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793975478,
       "tags": [
         "Remote",
         "IT"
       ],
-      "summary": "Test Engineer - Output-/CCM-Systeme Für unseren Kunden aus Bern , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Test Engineer - Output-/CCM-/Dokumenten-Management-Systemen. Diese 50% Position kann möglicherweise mit der Test Management Posi"
+      "summary": "................ For our client in Zurich, we are looking for an experienced Senior GMP Manufacturing & AI Advisor (remote). We are looking for an professional who combines deep GMP manufacturing expertise with hands-on experience in Artificial Intelligence wi"
     },
     {
-      "id": "arbeitnow:senior-java-entwicklerin-bern-498260",
-      "title": "Senior Java Entwickler:in",
-      "org": "Coopers Group AG",
+      "id": "arbeitnow:leiter-in-finanzen-rechnungswesen-50-60-head-of-finance-zurich-448935",
+      "title": "Leiter/in Finanzen & Rechnungswesen 50–60% (Head of Finance)",
+      "org": "Internationales E-Commerce-Unternehmen",
       "role": "project",
-      "location": "Bern",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-java-entwicklerin-bern-498260",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793892665,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "summary": "................ Für unseren Kunden aus dem Bankenumfeld in Bern , suchen wir eine:n motivierte:n und aufgeschlossene:n Senior Java Backend Entwickler:in . In dieser Rolle entwickelst du das Kernbankensystem unseres Kunden im Finanzdienstleistungsumfeld aktiv "
-    },
-    {
-      "id": "arbeitnow:principal-java-engineer-distributed-systems-serverless-elasticsearch-27870",
-      "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
-      "org": "Elastic",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.ch/jobs/companies/elastic/principal-java-engineer-distributed-systems-serverless-elasticsearch-27870",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793840122,
-      "tags": [
-        "Platform - Elasticsearch"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by m"
-    },
-    {
-      "id": "arbeitnow:sales-manager-ch-ki-software-fur-psychotherapeutinnen-zurich-223149",
-      "title": "Sales Manager CH, KI-Software für Psychotherapeut:innen",
-      "org": "VIA HealthTech",
-      "role": "marketing",
       "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/via-healthtech/sales-manager-ch-ki-software-fur-psychotherapeutinnen-zurich-223149",
+      "url": "https://www.arbeitnow.ch/jobs/companies/internationales-e-commerce-unternehmen/leiter-in-finanzen-rechnungswesen-50-60-head-of-finance-zurich-448935",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793831452,
+      "postedAt": 1793973679,
       "tags": [
         "Remote",
         "Management",
         "Team Leader"
       ],
-      "summary": "Über VIA HealthTech VIA macht aus einer Therapiesitzung ein fertiges Sitzungsprotokoll und aus Sitzungsprotokollen vollständige psychologische Berichte. Arbeit, die Therapeut:innen bisher mehrere Stunden pro Woche gekostet hat. Wir sind die marktführende KI-As"
+      "summary": "Internationales E-Commerce-Unternehmen · Remote innerhalb der Schweiz · Eintritt nach Vereinbarung Wir sind ein international tätiges E-Commerce-Unternehmen mit Sitz in der Schweiz und verkaufen hauptsächlich an Kundinnen und Kunden in den USA. In den letzten "
     },
     {
-      "id": "arbeitnow:senior-backend-ai-engineer-remote-zurich-344461",
-      "title": "Senior Backend & AI Engineer (Remote)",
-      "org": "Scalera",
+      "id": "arbeitnow:apporteur-daffaires-zurich-104253",
+      "title": "Apporteur d’affaires",
+      "org": "wibzo",
       "role": "project",
       "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/scalera/senior-backend-ai-engineer-remote-zurich-344461",
+      "url": "https://www.arbeitnow.ch/jobs/companies/wibzo/apporteur-daffaires-zurich-104253",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793828415,
+      "postedAt": 1793961085,
       "tags": [
-        "Engineering"
+        "Remote",
+        "Business Development"
       ],
-      "summary": "This role is open only to candidates living in the EU or EEA. We can't consider applications from other locations. If you've built something before, start here The hardest part of a startup usually isn't the code. It's finding customers who really need what yo"
+      "summary": "Wibzo crée des configurateurs 3D pour les entreprises qui fabriquent sur mesure : piscines, pergolas, vérandas, terrasses, constructions en bois, et bien d'autres. Sur le site de l'entreprise, son client règle son projet en 3D, voit un prix indicatif et envoie"
     },
     {
-      "id": "arbeitnow:remote-data-analyst-petten-38896",
-      "title": "Data Analyst",
-      "org": "Uni Systems",
-      "role": "project",
-      "location": "Petten, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/uni-systems/remote-data-analyst-petten-38896",
+      "id": "arbeitnow:remote-marketing-manager-gn-more-nutrition-schweiz-242607",
+      "title": "Marketing Manager (gn) - More Nutrition Schweiz",
+      "org": "thequalitygroupgmbh2",
+      "role": "marketing",
+      "location": "remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/thequalitygroupgmbh2/remote-marketing-manager-gn-more-nutrition-schweiz-242607",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793906415,
+      "postedAt": 1793958913,
       "tags": [
-        "Information Technology",
-        "Information Technology and Services",
-        "International BU",
-        "Remote"
+        "Brand More"
       ],
-      "summary": "At Uni Systems, we are working towards turning digital visions into reality. We are continuously growing and we are looking for a professional AI & NLP Engineer to join our UniQue Petten, Netherlands team. What will you be bringing to the team? Collect and cle"
+      "summary": "&lt;p&gt;&lt;span class=\"TextRun SCXW53679484 BCX0\" lang=\"EN-US\" data-contrast=\"auto\"&gt;&lt;span class=\"NormalTextRun SCXW53679484 BCX0\"&gt;Start:&nbsp;&lt;/span&gt;&lt;span class=\"NormalTextRun SCXW53679484 BCX0\"&gt;ab&nbsp;&lt;/span&gt;&lt;span class=\"Norma"
+    },
+    {
+      "id": "arbeitnow:product-owner-lucerne-180794",
+      "title": "Product Owner",
+      "org": "Coopers Group AG",
+      "role": "project",
+      "location": "Lucerne",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/product-owner-lucerne-180794",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793957478,
+      "tags": [
+        "Remote",
+        "Product Management"
+      ],
+      "summary": "................ Für unseren Kunden in Luzern suchen wir eine:n erfahrene:n Product Owner , welche:r sich in agilen Organisationen zu Hause fühlt und fundierte Erfahrung im SAFe mitbringt. In dieser Rolle gestaltest du die Weiterentwicklung digitaler Produkte "
+    },
+    {
+      "id": "arbeitnow:business-analystin-zurich-278509",
+      "title": "Business Analyst:in",
+      "org": "Coopers Group AG",
+      "role": "project",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/business-analystin-zurich-278509",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793950242,
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "summary": "................ Für unseren Kunden im Bankenumfeld in Bern suchen wir per sofort eine:n erfahrene:n Business Analyst:in zur Unterstützung eines strategisch wichtigen Compliance- und Risk-Programms. Deine Aufgaben: Enge Zusammenarbeit mit Product Managern sowi"
+    },
+    {
+      "id": "arbeitnow:head-of-product-experience-amsterdam-234028",
+      "title": "Head of Product Experience",
+      "org": "Vio",
+      "role": "marketing",
+      "location": "Amsterdam / Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/vio/head-of-product-experience-amsterdam-234028",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1793968812,
+      "tags": [
+        "Product"
+      ],
+      "summary": "At Vio , we believe booking accommodation should feel fair and effortless, never overwhelming or unclear. As one of the world's fastest-growing travel tech platforms, we help millions of travelers find and book the right stay at the right price. They can book "
+    },
+    {
+      "id": "remotive:1185979",
+      "title": "Freelance Writer",
+      "org": "IAPWE",
+      "role": "marketing",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "source": "Remotive",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": "2026-11-04T16:53:35",
+      "tags": [
+        "REST"
+      ],
+      "summary": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include t"
     },
     {
       "id": "remotive:1749306",
