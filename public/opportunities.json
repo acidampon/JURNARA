@@ -1,15 +1,406 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T19:29:55.787Z",
+  "updatedAt": "2026-11-07T06:10:18.271Z",
   "sourceCount": 2,
   "totalFetched": 312,
-  "relevantCount": 28,
+  "relevantCount": 52,
   "sources": [
     "Arbeitnow",
     "Remotive"
   ],
   "sourceErrors": [],
   "jobs": [
+    {
+      "id": "arbeitnow:staff-data-engineer-agentic-applications-bristol-325390",
+      "title": "Staff Data Engineer – Agentic Applications",
+      "org": "Graphcore",
+      "role": "project",
+      "location": "Bristol",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-data-engineer-agentic-applications-bristol-325390",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794023716,
+      "tags": [
+        "Data & Strategic Projects"
+      ],
+      "summary": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=\"auto\"&gt;About us&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=\"{}\"&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"auto\"&gt;Graphcore is one of the world's leading innovators in Artificial"
+    },
+    {
+      "id": "arbeitnow:staff-data-analyst-bristol-420434",
+      "title": "Staff Data Analyst",
+      "org": "Graphcore",
+      "role": "training",
+      "location": "Bristol",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-data-analyst-bristol-420434",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794023716,
+      "tags": [
+        "Data & Strategic Projects"
+      ],
+      "summary": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=\"auto\"&gt;About us&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=\"{}\"&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"auto\"&gt;Graphcore is one of the world’s leading innovators in Artificial"
+    },
+    {
+      "id": "arbeitnow:senior-network-operations-engineer-bristol-471735",
+      "title": "Senior Network Operations Engineer",
+      "org": "Graphcore",
+      "role": "project",
+      "location": "Bristol",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-network-operations-engineer-bristol-471735",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794023716,
+      "tags": [
+        "IT Engineering"
+      ],
+      "summary": "&lt;h2&gt;About the job&lt;/h2&gt; &lt;p&gt;Turn complex network faults into lasting fixes, and make new services ready for reliable operation.&lt;/p&gt; &lt;p&gt;As a Senior Network Operations Engineer in Bristol, UK, you’ll keep Graphcore’s networks reliable"
+    },
+    {
+      "id": "arbeitnow:senior-security-engineer-bristol-304983",
+      "title": "Senior Security Engineer",
+      "org": "Kaluza",
+      "role": "marketing",
+      "location": "Bristol, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/senior-security-engineer-bristol-304983",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794022827,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "Role: Senior Security Engineer Location: London, Bristol, Edinburgh Level: TL1 Team: Platform & Security Contract: Permanent This role is based in the UK and requires existing right to work in the UK. At this time, we are not able to offer visa sponsorship for"
+    },
+    {
+      "id": "arbeitnow:2027-finance-degree-apprenticeship-london-339099",
+      "title": "2027 Finance Degree Apprenticeship",
+      "org": "Checkout.com",
+      "role": "training",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/2027-finance-degree-apprenticeship-london-339099",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794022824,
+      "tags": [
+        "All Departments"
+      ],
+      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi"
+    },
+    {
+      "id": "arbeitnow:software-engineer-zurich-462160",
+      "title": "Software Engineer",
+      "org": "Benetics AI",
+      "role": "project",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/benetics-ai/software-engineer-zurich-462160",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1793997040,
+      "tags": [
+        "Software Development"
+      ],
+      "summary": "Construction is a multi-trillion-dollar industry used by every human across the planet. It needs your help: we need to invent new software systems so construction becomes as efficient, quick, automated and green as possible. The team at Benetics (60+ years of "
+    },
+    {
+      "id": "arbeitnow:senior-electronics-engineer-pcb-design-bring-up-delft-192235",
+      "title": "Senior Electronics Engineer — PCB Design & Bring-Up",
+      "org": "Fiducial",
+      "role": "marketing",
+      "location": "Delft",
+      "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/senior-electronics-engineer-pcb-design-bring-up-delft-192235",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794012011,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "Opening WE CANNOT PROVIDE VISA SPONSORSHIP Details Preferred starting date: ASAP Weekly availability: full-time (5 days/week) Location: Aerospace Innovation Hub, Delft, the Netherlands About the company Fiducial is a young but fast-growing deep-tech start-up w"
+    },
+    {
+      "id": "arbeitnow:internship-programming-automation-delft-385463",
+      "title": "Internship - Programming & Automation",
+      "org": "Fiducial",
+      "role": "project",
+      "location": "Delft",
+      "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-programming-automation-delft-385463",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794012011,
+      "tags": [
+        "Internships"
+      ],
+      "summary": "WE CANNOT PROVIDE VISA SPONSORSHIP Details Preferred starting date: ASAP Weekly availability: Full-time (5 days/week) Period: 6 months Location: Aerospace Innovation Hub, Delft, the Netherlands About the company Fiducial is a young but fast-growing deep-tech s"
+    },
+    {
+      "id": "arbeitnow:remote-senior-partner-solutions-architect-pan-emea-gsi-458815",
+      "title": "Senior Partner Solutions Architect (Pan-EMEA GSI)",
+      "org": "Datadog",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-partner-solutions-architect-pan-emea-gsi-458815",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794023717,
+      "tags": [
+        "Channels & Alliances"
+      ],
+      "summary": "&lt;p&gt;&lt;strong&gt;The Team:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are Datadog's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and succ"
+    },
+    {
+      "id": "arbeitnow:remote-middle-senior-staff-site-reliability-engineer-k8s-1859",
+      "title": "Middle/Senior/Staff Site Reliability Engineer (K8s)",
+      "org": "Npv",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/npv/remote-middle-senior-staff-site-reliability-engineer-k8s-1859",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794022827,
+      "tags": [
+        "PulsePoint"
+      ],
+      "summary": "tl;dr: Middle/Senior/Staff SRE; post-acquisition profitable US health/adtech; 10M+ rps k8s production infra; platform engineering; remote, ~up to 210k USD base, we can talk higher figures and EU/UK/US employment PulsePoint is a leading player in the US healthc"
+    },
+    {
+      "id": "arbeitnow:remote-account-executive-southern-europe-88082",
+      "title": "Account Executive, Southern Europe",
+      "org": "NetBird",
+      "role": "marketing",
+      "location": "+/-1 Central European Time/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/netbird/remote-account-executive-southern-europe-88082",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794022825,
+      "tags": [
+        "GTM"
+      ],
+      "summary": "🏢 Who we are A team from Germany with the vision to make advanced network security accessible for everyone We are a software company developing an open source zero-trust network security platform that is both easy to use and affordable for teams of all sizes "
+    },
+    {
+      "id": "arbeitnow:remote-senior-solution-architect-munchen-414114",
+      "title": "Senior Solution Architect (m/w/d)",
+      "org": "qinX",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/qinx/remote-senior-solution-architect-munchen-414114",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794022290,
+      "tags": [
+        "Tech / IT / Software Development",
+        "Remote"
+      ],
+      "summary": "Unser Kunde ist ein international tätiges Medizintechnikunternehmen mit Sitz in Deutschland. Als Senior Solution Architect (m/w/d) verantworten Sie die Konzeption und Integration komplexer IT-Lösungen und agieren als technische Schnittstelle zwischen Kunden, V"
+    },
+    {
+      "id": "arbeitnow:remote-senior-solutions-architect-german-speaking-290951",
+      "title": "Senior Solutions Architect (German speaking)",
+      "org": "Sanity",
+      "role": "marketing",
+      "location": "Remote in Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sanity/remote-senior-solutions-architect-german-speaking-290951",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794012012,
+      "tags": [
+        "Customer Solutions"
+      ],
+      "summary": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content o"
+    },
+    {
+      "id": "arbeitnow:remote-enterprise-account-executive-dach-273986",
+      "title": "Enterprise Account Executive, DACH",
+      "org": "Sanity",
+      "role": "marketing",
+      "location": "Remote in Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sanity/remote-enterprise-account-executive-dach-273986",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794012012,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content o"
+    },
+    {
+      "id": "arbeitnow:remote-sales-development-representative-german-speaking-162050",
+      "title": "Sales Development Representative (German Speaking)",
+      "org": "Sanity",
+      "role": "marketing",
+      "location": "Remote in Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sanity/remote-sales-development-representative-german-speaking-162050",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794012012,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content o"
+    },
+    {
+      "id": "arbeitnow:account-executive-steuerkanzleien-remote-deutschland-179234",
+      "title": "Account Executive – Steuerkanzleien (m/w/d) | Remote, Deutschland",
+      "org": "Pennylane",
+      "role": "marketing",
+      "location": "Germany (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/account-executive-steuerkanzleien-remote-deutschland-179234",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794012011,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "Als Account Executive (m/w/d) – Steuerkanzleien gewinnst du die Steuerkanzleien in deiner Region für Pennylane – vom ersten Gespräch über die Demo bis zur Unterschrift, häufig persönlich vor Ort in der Kanzlei. Du bist Owner des Umsatzes in deiner Region und m"
+    },
+    {
+      "id": "arbeitnow:remote-strategic-account-executive-germany-194498",
+      "title": "Strategic Account Executive - Germany",
+      "org": "Saviynt",
+      "role": "training",
+      "location": "Remote Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/saviynt/remote-strategic-account-executive-germany-194498",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794010120,
+      "tags": [
+        "Field Sales"
+      ],
+      "summary": "Saviynt's AI-powered identity platform manages and governs human and non-human access to all of an organization's applications, data, and business processes. Customers trust Saviynt to safeguard their digital assets, drive operational efficiency, and reduce co"
+    },
+    {
+      "id": "arbeitnow:senior-group-accountant-consolidation-specialist-remote-18319",
+      "title": "Senior Group Accountant & Consolidation Specialist (m/w/d) - Remote",
+      "org": "Swissitsecuritygroup",
+      "role": "project",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissitsecuritygroup/senior-group-accountant-consolidation-specialist-remote-18319",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794002115,
+      "tags": [
+        "Finance & Accounting"
+      ],
+      "summary": "&lt;p&gt;Mit über 600 Mitarbeitenden, 14 Gruppengesellschafen und Präsenz in fünf europäischen Ländern gestaltet die SITS Group eine sichere digitale Zukunft. Dafür bündeln wir europaweit unsere Expertise und unterstützen unsere Kunden umfassend rund um IT-Sic"
+    },
+    {
+      "id": "arbeitnow:remote-senior-network-engineer-bonn-109175",
+      "title": "Senior Network Engineer (m/w/d)",
+      "org": "virtual7 GmbH",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-network-engineer-bonn-109175",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794000684,
+      "tags": [
+        "Customer Cluster Defense & Public Security",
+        "Remote"
+      ],
+      "summary": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktu"
+    },
+    {
+      "id": "arbeitnow:remote-senior-cloud-software-engineer-bonn-61518",
+      "title": "Senior Cloud Software Engineer (m/w/d)",
+      "org": "virtual7 GmbH",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-cloud-software-engineer-bonn-61518",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794000684,
+      "tags": [
+        "Customer Cluster Defense & Public Security",
+        "Remote"
+      ],
+      "summary": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktu"
+    },
+    {
+      "id": "arbeitnow:remote-ai-solution-architect-nurnberg-mittelfranken-338337",
+      "title": "AI Solution Architect (m/w/d)",
+      "org": "virtual7 GmbH",
+      "role": "training",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-338337",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794000684,
+      "tags": [
+        "Customer Cluster Environment",
+        "Transportation & Energy",
+        "Remote"
+      ],
+      "summary": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, "
+    },
+    {
+      "id": "arbeitnow:remote-senior-oracle-data-engineer-karlsruhe-457351",
+      "title": "Senior Oracle Data Engineer (m/w/d)",
+      "org": "virtual7 GmbH",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-457351",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794000684,
+      "tags": [
+        "Customer Cluster Finance",
+        "Remote"
+      ],
+      "summary": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, "
+    },
+    {
+      "id": "arbeitnow:senior-cro-funnel-marketing-manager-remote-196035",
+      "title": "Senior CRO & Funnel Marketing Manager (m/w/d) · Remote",
+      "org": "Evolve Digital GmbH",
+      "role": "marketing",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-cro-funnel-marketing-manager-remote-196035",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794000682,
+      "tags": [
+        "Operations",
+        "Remote"
+      ],
+      "summary": "Du hast schon Onlineshops zum Wachsen gebracht und suchst ein Umfeld, in dem du auf höchstem Niveau arbeiten kannst? Dann übernimm bei EVOLVE die Conversionrate-Optimierung und Funnelentwicklung von E-Commerce-Brands, von der ersten Analyse bis zum messbaren E"
+    },
+    {
+      "id": "arbeitnow:remote-senior-sales-executive-mwd-software-as-a-service-152411",
+      "title": "Senior Sales Executive (m|w|d) Software as a Service",
+      "org": "ANGEHEUERT GmbH",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-senior-sales-executive-mwd-software-as-a-service-152411",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794000682,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Du willst Sales mit Impact & eine Mission mit Mehrwert ? Dann gestalte unseren Wachstumskurs in Deutschland aktiv mit. Unser Kunde revolutioniert die Parkinfrastruktur mit smarter Kennzeichenerkennung, Cloud Software & digitaler Bezahllösung. Bereits heute ist"
+    },
     {
       "id": "arbeitnow:junior-growth-associate-berlin-369010",
       "title": "(Junior) Growth Associate",
@@ -59,87 +450,69 @@
       "summary": "🌐 We are on the mission to build Europe’s leading energy management platform to provide fair, clean energy to everyone. ⚡ We’re a diverse team of 50+ employees , with 46% being female and from 16+ nationalities , and steadily growing. Having raised of over €4"
     },
     {
-      "id": "arbeitnow:remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-335331",
-      "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
-      "org": "Kevin Kehr",
-      "role": "training",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-335331",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793989880,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching und einem klaren Weg i"
-    },
-    {
-      "id": "arbeitnow:remote-sales-director-uk-london-90169",
-      "title": "Sales Director - UK (m/f/t)",
-      "org": "Zeotap",
-      "role": "training",
+      "id": "arbeitnow:remote-sales-account-executive-cybersecurity-montrouge-127371",
+      "title": "Sales Account Executive - Cybersecurity",
+      "org": "Crowdsec",
+      "role": "marketing",
       "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zeotap/remote-sales-director-uk-london-90169",
+      "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-127371",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793989880,
+      "postedAt": 1794022289,
       "tags": [
-        "Sales",
         "Remote"
       ],
-      "summary": "About Zeotap Founded in Berlin in 2014, Zeotap started with a mission to provide high-quality data to marketers. As we evolved, we recognized a greater challenge: helping brands create personalized, multi-channel experiences in a world that demands strict data"
+      "summary": "Passionate about Cybersecurity, open-source or network effect products? Interested in Sales? Join CrowdSec to build a safer internet for everyone. What we do We aim to deter opportunistic and organized cybercrime through an Internet-scale, real-time security n"
     },
     {
-      "id": "arbeitnow:people-employment-and-labor-law-france-anywhere-in-france-425208",
-      "title": "People — Employment and Labor Law (France)",
-      "org": "Alan",
+      "id": "arbeitnow:growth-engineer-fullstack-frontend-focused-paris-299551",
+      "title": "Growth Engineer (Fullstack, Frontend-Focused)",
+      "org": "Pennylane SAS",
       "role": "training",
-      "location": "Anywhere in France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alan/people-employment-and-labor-law-france-anywhere-in-france-425208",
+      "location": "All France (remote)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-engineer-fullstack-frontend-focused-paris-299551",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793990413,
+      "postedAt": 1794012011,
       "tags": [
-        "People"
+        "Marketing"
       ],
-      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
+      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our Engineering principles aligned with your vision? T"
     },
     {
-      "id": "arbeitnow:customer-care-analyst-ops-cdi-paris-41690",
-      "title": "Customer Care Analyst & Ops - CDI",
-      "org": "Green-Got",
-      "role": "marketing",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/green-got/customer-care-analyst-ops-cdi-paris-41690",
+      "id": "arbeitnow:senior-application-security-engineer-paris-101660",
+      "title": "Senior Application Security Engineer",
+      "org": "Pennylane SAS",
+      "role": "training",
+      "location": "All France (remote)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-application-security-engineer-paris-101660",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793980872,
+      "postedAt": 1794012011,
       "tags": [
-        "Remote",
-        "Customer Service"
+        "Tech"
       ],
-      "summary": "Green-Got est une institution financière française qui permet à chacun de choisir ce que son argent finance. Nous construisons l'infrastructure financière du monde de demain. Depuis janvier 2026, Green-Got est un Établissement de Paiement agréé par l'ACPR, sup"
+      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Then Pennylane is the right place for you ! Our vision We "
     },
     {
-      "id": "arbeitnow:customer-care-analyst-ops-alternance-paris-170283",
-      "title": "Customer Care Analyst & Ops - Alternance",
-      "org": "Green-Got",
-      "role": "marketing",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/green-got/customer-care-analyst-ops-alternance-paris-170283",
+      "id": "arbeitnow:remote-software-engineer-ai-assisted-development-basel-371528",
+      "title": "Software Engineer – AI-Assisted Development (m/w/d)",
+      "org": "DocCheck AG",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.ch/jobs/companies/doccheck-ag/remote-software-engineer-ai-assisted-development-basel-371528",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793980869,
+      "postedAt": 1794000683,
       "tags": [
-        "Remote",
-        "Customer Service"
+        "IT",
+        "Remote"
       ],
-      "summary": "À propos de Green-Got : Green-Got est une institution financière française qui permet à chacun de choisir ce que son argent finance. Nous construisons l'infrastructure financière du monde de demain. Depuis janvier 2026, Green-Got est un Établissement de Paieme"
+      "summary": "Hol' dir den Kick als DocCheck Software Engineer – AI-Assisted Development (m/w/d) Seit Jahrzehnten ist DocCheck im DACH-Raum und darüber hinaus eine bekannte Healthcare-Größe. Nun gehen wir technologisch den nächsten Schritt. DocCheck Schweiz realisiert das E"
     },
     {
       "id": "arbeitnow:collaborateurtrice-danalyse-sib-specialisation-alimentation-et-sante-geneva-435089",
@@ -530,6 +903,22 @@
         "IT systems"
       ],
       "summary": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an "
+    },
+    {
+      "id": "arbeitnow:senior-analytics-engineer-marketing-growth-berlin-317526",
+      "title": "Senior Analytics Engineer - Marketing & Growth",
+      "org": "Pergolux",
+      "role": "marketing",
+      "location": "Berlin | Global Team",
+      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/senior-analytics-engineer-marketing-growth-berlin-317526",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794022827,
+      "tags": [
+        "Data & BI"
+      ],
+      "summary": "Senior Analytics Engineer Marketing & Growth : You will own and architect the systems and definitions that determine how every euro of marketing spend is measured, audited, and optimized. Your work will directly shape how we understand acquisition performance,"
     }
   ]
 }
