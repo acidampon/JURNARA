@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T06:10:18.271Z",
+  "updatedAt": "2026-11-07T13:14:48.844Z",
   "sourceCount": 2,
   "totalFetched": 312,
-  "relevantCount": 52,
+  "relevantCount": 60,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,84 +11,132 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:staff-data-engineer-agentic-applications-bristol-325390",
-      "title": "Staff Data Engineer – Agentic Applications",
-      "org": "Graphcore",
-      "role": "project",
-      "location": "Bristol",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-data-engineer-agentic-applications-bristol-325390",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794023716,
-      "tags": [
-        "Data & Strategic Projects"
-      ],
-      "summary": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=\"auto\"&gt;About us&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=\"{}\"&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"auto\"&gt;Graphcore is one of the world's leading innovators in Artificial"
-    },
-    {
-      "id": "arbeitnow:staff-data-analyst-bristol-420434",
-      "title": "Staff Data Analyst",
-      "org": "Graphcore",
+      "id": "arbeitnow:head-of-electronics-software-munich-1333",
+      "title": "Head of Electronics & software",
+      "org": "The Exploration Company",
       "role": "training",
-      "location": "Bristol",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-data-analyst-bristol-420434",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/head-of-electronics-software-munich-1333",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794023716,
-      "tags": [
-        "Data & Strategic Projects"
-      ],
-      "summary": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=\"auto\"&gt;About us&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=\"{}\"&gt;&nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span data-contrast=\"auto\"&gt;Graphcore is one of the world’s leading innovators in Artificial"
-    },
-    {
-      "id": "arbeitnow:senior-network-operations-engineer-bristol-471735",
-      "title": "Senior Network Operations Engineer",
-      "org": "Graphcore",
-      "role": "project",
-      "location": "Bristol",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-network-operations-engineer-bristol-471735",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794023716,
-      "tags": [
-        "IT Engineering"
-      ],
-      "summary": "&lt;h2&gt;About the job&lt;/h2&gt; &lt;p&gt;Turn complex network faults into lasting fixes, and make new services ready for reliable operation.&lt;/p&gt; &lt;p&gt;As a Senior Network Operations Engineer in Bristol, UK, you’ll keep Graphcore’s networks reliable"
-    },
-    {
-      "id": "arbeitnow:senior-security-engineer-bristol-304983",
-      "title": "Senior Security Engineer",
-      "org": "Kaluza",
-      "role": "marketing",
-      "location": "Bristol, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/senior-security-engineer-bristol-304983",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794022827,
+      "postedAt": 1794033626,
       "tags": [
         "Engineering"
       ],
-      "summary": "Role: Senior Security Engineer Location: London, Bristol, Edinburgh Level: TL1 Team: Platform & Security Contract: Permanent This role is based in the UK and requires existing right to work in the UK. At this time, we are not able to offer visa sponsorship for"
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. Head of Electronics & Software Purpose We are looking for a Head of Electronics & Software to lead and develop the engineering capability behind some of the most critical systems in our"
     },
     {
-      "id": "arbeitnow:2027-finance-degree-apprenticeship-london-339099",
-      "title": "2027 Finance Degree Apprenticeship",
-      "org": "Checkout.com",
+      "id": "arbeitnow:emc-emi-engineer-munich-53705",
+      "title": "EMC/EMI Engineer",
+      "org": "The Exploration Company",
       "role": "training",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/2027-finance-degree-apprenticeship-london-339099",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/emc-emi-engineer-munich-53705",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794022824,
+      "postedAt": 1794033626,
       "tags": [
-        "All Departments"
+        "Engineering"
       ],
-      "summary": "Company Description We’re Checkout.com . You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billi"
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We are seeking an experienced and motivated EMC/EMI Engineer to join our team. The successful candidate will be responsible for developing design recommendations and establishing test p"
+    },
+    {
+      "id": "arbeitnow:ait-mgse-engineer-munich-192469",
+      "title": "AIT MGSE Engineer",
+      "org": "The Exploration Company",
+      "role": "training",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-mgse-engineer-munich-192469",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794033626,
+      "tags": [
+        "MAIT"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We want you as a talented AIT MGSE Engineer to help us in our mission by designing and delivering the MGSEs needed for the preparation of our next capsule. Key Responsibilities In your "
+    },
+    {
+      "id": "arbeitnow:staff-software-engineer-android-south-east-hampshire-431084",
+      "title": "Staff Software Engineer, Android",
+      "org": "Archer56",
+      "role": "marketing",
+      "location": "South East Hampshire",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/archer56/staff-software-engineer-android-south-east-hampshire-431084",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794034514,
+      "tags": [
+        "Plane Finder"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Headquartered in Silicon Valley, California, Archer is a leader in the next-gen aerospace sector building an end-to-end advanced air mobility platform that delivers air taxis, unmanned aircraft systems (“UAS”), aviatio"
+    },
+    {
+      "id": "arbeitnow:implementation-consultant-paris-345899",
+      "title": "Implementation Consultant",
+      "org": "Monday.com",
+      "role": "training",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mondaycom/implementation-consultant-paris-345899",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794044416,
+      "tags": [
+        "Delivery & Solutions"
+      ],
+      "summary": "monday.com is the AI work platform powering the most ambitious teams. 250,000+ customers across departments use us to bring people, workflows, and AI agents together on one flexible platform where AI doesn't just assist, it executes. We move fast, build things"
+    },
+    {
+      "id": "arbeitnow:cnc-turner-tourneur-cnc-bordeaux-170636",
+      "title": "CNC Turner / Tourneur CNC",
+      "org": "The Exploration Company",
+      "role": "training",
+      "location": "Bordeaux, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/cnc-turner-tourneur-cnc-bordeaux-170636",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794033626,
+      "tags": [
+        "MAIT"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. [Version française plus bas] You will be responsible for setting up, programming, and operating CNC lathes to manufacture critical aerospace components, including valve parts, pump comp"
+    },
+    {
+      "id": "arbeitnow:welding-engineer-bordeaux-162980",
+      "title": "Welding Engineer",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Bordeaux, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/welding-engineer-bordeaux-162980",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794033626,
+      "tags": [
+        "MAIT"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. We are developing the technologies and capabilities needed to make space exploration more accessible. We are looking for a Welding Specialist Engineer to support the industrialization a"
+    },
+    {
+      "id": "arbeitnow:ait-mgse-engineer-lunar-lander-bordeaux-426846",
+      "title": "AIT MGSE Engineer - Lunar Lander",
+      "org": "The Exploration Company",
+      "role": "training",
+      "location": "Bordeaux, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/ait-mgse-engineer-lunar-lander-bordeaux-426846",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794033626,
+      "tags": [
+        "MAIT"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecrafts for humanity. As part of this initiative, we are developing a lunar lander capable of precision landing and reusable operations. To support this effort, we are establishing a dedicated remote test si"
     },
     {
       "id": "arbeitnow:software-engineer-zurich-462160",
@@ -137,6 +185,185 @@
         "Internships"
       ],
       "summary": "WE CANNOT PROVIDE VISA SPONSORSHIP Details Preferred starting date: ASAP Weekly availability: Full-time (5 days/week) Period: 6 months Location: Aerospace Innovation Hub, Delft, the Netherlands About the company Fiducial is a young but fast-growing deep-tech s"
+    },
+    {
+      "id": "arbeitnow:pflichtpraktikum-recruiting-ki-berlin-152619",
+      "title": "Pflichtpraktikum Recruiting & KI (m/w/d)",
+      "org": "Leon Feig Recruitment Services",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/leon-feig-recruitment-services/pflichtpraktikum-recruiting-ki-berlin-152619",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794052872,
+      "tags": [
+        "Remote",
+        "Recruitment and Selection"
+      ],
+      "summary": "Deine Aufgaben im Praktikum Ich bin Leon, selbstständiger Personalvermittler im Raum München. Ich besetze Stellen vom Handwerk bis IT, dazu Projekte im Executive Bereich. Bei mir lernst du das komplette Handwerk der Personalvermittlung von innen, nicht als Zus"
+    },
+    {
+      "id": "arbeitnow:werkstudent-recruiting-ki-berlin-355602",
+      "title": "Werkstudent Recruiting & KI (m/w/d)",
+      "org": "Leon Feig Recruitment Services",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/leon-feig-recruitment-services/werkstudent-recruiting-ki-berlin-355602",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794051051,
+      "tags": [
+        "Remote",
+        "Recruitment and Selection"
+      ],
+      "summary": "Deine Aufgaben im Team Ich bin Leon, selbstständiger Personalvermittler im Raum München. Ich besetze Stellen vom Handwerk über Physiotherapie bis IT, dazu Projekte im Executive Bereich. Du steuerst bei mir die Neukundengewinnung über persönlich adressierte Bri"
+    },
+    {
+      "id": "arbeitnow:sales-development-representative-latam-munich-323727",
+      "title": "Sales Development Representative - LATAM",
+      "org": "Constructor",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructor/sales-development-representative-latam-munich-323727",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794044418,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "About You As Constructor.io ’s Sales Development Representative (SDR), you’ll be crucial to driving lead generation activities for Constructor. You’ll be expected to become intimately familiar with Constructor’s product offering and key differentiators in the "
+    },
+    {
+      "id": "arbeitnow:remote-senior-design-engineer-deel-395604",
+      "title": "Senior Design Engineer | Deel",
+      "org": "Hirehire",
+      "role": "support",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-senior-design-engineer-deel-395604",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794033628,
+      "tags": [
+        "Product Design"
+      ],
+      "summary": "Role: Senior Design Engineer Company: Deel Location: United Kingdom, Israel, Portugal, Spain, Czech Republic, Poland, France, Switzerland, Hungary, Ireland, Sweden, Germany or Estonia Job Type: Full-time About Deel Deel is the all-in-one payroll and HR platfor"
+    },
+    {
+      "id": "arbeitnow:remote-enterprise-account-executive-ii-uae-487206",
+      "title": "Enterprise Account Executive II - UAE",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-enterprise-account-executive-ii-uae-487206",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794033626,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-enterprise-account-executive-iii-nordic-62254",
+      "title": "Enterprise Account Executive III - Nordic",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-enterprise-account-executive-iii-nordic-62254",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794033626,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-senior-forward-deployed-engineer-canada-170128",
+      "title": "Senior Forward Deployed Engineer - Canada",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-forward-deployed-engineer-canada-170128",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794033626,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-senior-sales-engineer-north-america-441824",
+      "title": "Senior Sales Engineer - North America",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-north-america-441824",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794033626,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-senior-sales-engineer-dach-223556",
+      "title": "Senior Sales Engineer - DACH",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-sales-engineer-dach-223556",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794033626,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-manager-adr-emea-94520",
+      "title": "Manager, ADR - EMEA",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-manager-adr-emea-94520",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794033626,
+      "tags": [
+        "Marketing"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:senior-z-os-mainframe-trainer-lead-instructor-remote-munchen-416844",
+      "title": "Senior z/OS Mainframe Trainer / Lead Instructor (f/m/d) | remote",
+      "org": "Pineapple Recruiting GmbH",
+      "role": "training",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/pineapple-recruiting-gmbh/senior-z-os-mainframe-trainer-lead-instructor-remote-munchen-416844",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794033084,
+      "tags": [
+        "Miko",
+        "Remote"
+      ],
+      "summary": "We are looking for an experienced z/OS Mainframe Trainer to deliver an intensive Mainframe Academy designed to prepare the next generation of mainframe professionals for careers in complex enterprise IT environments. The Academy covers essential IBM Mainframe "
     },
     {
       "id": "arbeitnow:remote-senior-partner-solutions-architect-pan-emea-gsi-458815",
@@ -284,170 +511,116 @@
       "summary": "Saviynt's AI-powered identity platform manages and governs human and non-human access to all of an organization's applications, data, and business processes. Customers trust Saviynt to safeguard their digital assets, drive operational efficiency, and reduce co"
     },
     {
-      "id": "arbeitnow:senior-group-accountant-consolidation-specialist-remote-18319",
-      "title": "Senior Group Accountant & Consolidation Specialist (m/w/d) - Remote",
-      "org": "Swissitsecuritygroup",
+      "id": "arbeitnow:remote-ap-ar-assistant-397527",
+      "title": "AP/AR Assistant",
+      "org": "Uforce",
       "role": "project",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.com/jobs/companies/swissitsecuritygroup/senior-group-accountant-consolidation-specialist-remote-18319",
+      "location": "United Kingdom | Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/uforce/remote-ap-ar-assistant-397527",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794002115,
-      "tags": [
-        "Finance & Accounting"
-      ],
-      "summary": "&lt;p&gt;Mit über 600 Mitarbeitenden, 14 Gruppengesellschafen und Präsenz in fünf europäischen Ländern gestaltet die SITS Group eine sichere digitale Zukunft. Dafür bündeln wir europaweit unsere Expertise und unterstützen unsere Kunden umfassend rund um IT-Sic"
-    },
-    {
-      "id": "arbeitnow:remote-senior-network-engineer-bonn-109175",
-      "title": "Senior Network Engineer (m/w/d)",
-      "org": "virtual7 GmbH",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-network-engineer-bonn-109175",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794000684,
-      "tags": [
-        "Customer Cluster Defense & Public Security",
-        "Remote"
-      ],
-      "summary": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktu"
-    },
-    {
-      "id": "arbeitnow:remote-senior-cloud-software-engineer-bonn-61518",
-      "title": "Senior Cloud Software Engineer (m/w/d)",
-      "org": "virtual7 GmbH",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-cloud-software-engineer-bonn-61518",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794000684,
-      "tags": [
-        "Customer Cluster Defense & Public Security",
-        "Remote"
-      ],
-      "summary": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktu"
-    },
-    {
-      "id": "arbeitnow:remote-ai-solution-architect-nurnberg-mittelfranken-338337",
-      "title": "AI Solution Architect (m/w/d)",
-      "org": "virtual7 GmbH",
-      "role": "training",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-338337",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794000684,
-      "tags": [
-        "Customer Cluster Environment",
-        "Transportation & Energy",
-        "Remote"
-      ],
-      "summary": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, "
-    },
-    {
-      "id": "arbeitnow:remote-senior-oracle-data-engineer-karlsruhe-457351",
-      "title": "Senior Oracle Data Engineer (m/w/d)",
-      "org": "virtual7 GmbH",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-457351",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794000684,
-      "tags": [
-        "Customer Cluster Finance",
-        "Remote"
-      ],
-      "summary": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, "
-    },
-    {
-      "id": "arbeitnow:senior-cro-funnel-marketing-manager-remote-196035",
-      "title": "Senior CRO & Funnel Marketing Manager (m/w/d) · Remote",
-      "org": "Evolve Digital GmbH",
-      "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-cro-funnel-marketing-manager-remote-196035",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794000682,
-      "tags": [
-        "Operations",
-        "Remote"
-      ],
-      "summary": "Du hast schon Onlineshops zum Wachsen gebracht und suchst ein Umfeld, in dem du auf höchstem Niveau arbeiten kannst? Dann übernimm bei EVOLVE die Conversionrate-Optimierung und Funnelentwicklung von E-Commerce-Brands, von der ersten Analyse bis zum messbaren E"
-    },
-    {
-      "id": "arbeitnow:remote-senior-sales-executive-mwd-software-as-a-service-152411",
-      "title": "Senior Sales Executive (m|w|d) Software as a Service",
-      "org": "ANGEHEUERT GmbH",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-senior-sales-executive-mwd-software-as-a-service-152411",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794000682,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Du willst Sales mit Impact & eine Mission mit Mehrwert ? Dann gestalte unseren Wachstumskurs in Deutschland aktiv mit. Unser Kunde revolutioniert die Parkinfrastruktur mit smarter Kennzeichenerkennung, Cloud Software & digitaler Bezahllösung. Bereits heute ist"
-    },
-    {
-      "id": "arbeitnow:junior-growth-associate-berlin-369010",
-      "title": "(Junior) Growth Associate",
-      "org": "Ostrom",
-      "role": "marketing",
-      "location": "Berlin / Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/ostrom/junior-growth-associate-berlin-369010",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793990419,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "🌐 We are on the mission to build Europe’s leading energy management platform to provide fair, clean energy to everyone. ⚡ We’re a diverse team of 50+ employees , with 46% being female and from 16+ nationalities , and steadily growing. Having raised of over €4"
-    },
-    {
-      "id": "arbeitnow:ci-sales-lead-commercial-industrial-energy-berlin-410473",
-      "title": "C&I Sales Lead (Commercial & Industrial Energy)",
-      "org": "Ostrom",
-      "role": "marketing",
-      "location": "Berlin / Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/ostrom/ci-sales-lead-commercial-industrial-energy-berlin-410473",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1793990419,
+      "postedAt": 1794033629,
       "tags": [
         "Finance"
       ],
-      "summary": "🌐 We are on the mission to build Europe’s leading energy management platform to provide fair, clean energy to everyone. ⚡ We’re a diverse team of 50+ employees , with 46% being female and from 16+ nationalities , and steadily growing. Having raised of over €4"
+      "summary": "UFORCE exists to make aggression unaffordable. Founded in Ukraine and headquartered in London, UFORCE is a defence-technology company with operations across Europe, the United States and Asia. UFORCE builds uncrewed vessels, ground robotics and aircraft, auton"
     },
     {
-      "id": "arbeitnow:trading-infrastructure-engineer-algorithmic-power-trading-berlin-218822",
-      "title": "Trading Infrastructure Engineer – Algorithmic Power Trading",
-      "org": "Ostrom",
-      "role": "training",
-      "location": "Berlin / Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/ostrom/trading-infrastructure-engineer-algorithmic-power-trading-berlin-218822",
+      "id": "arbeitnow:account-executive-southern-africa-london-243250",
+      "title": "Account Executive - Southern Africa",
+      "org": "Everfield",
+      "role": "marketing",
+      "location": "Europe - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/everfield/account-executive-southern-africa-london-243250",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793990419,
+      "postedAt": 1794033627,
       "tags": [
-        "Finance"
+        "Frontu"
       ],
-      "summary": "🌐 We are on the mission to build Europe’s leading energy management platform to provide fair, clean energy to everyone. ⚡ We’re a diverse team of 50+ employees , with 46% being female and from 16+ nationalities , and steadily growing. Having raised of over €4"
+      "summary": "About Everfield Everfield buys, builds, and grows European vertical market and specialist software companies, providing them with the tools they need to move to the next level. Our mission is to foster ambition, fuel growth, and unlock opportunities for Europe"
+    },
+    {
+      "id": "arbeitnow:commercial-account-manager-manchester-396249",
+      "title": "Commercial Account Manager",
+      "org": "Influxdata",
+      "role": "marketing",
+      "location": "Remote UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/commercial-account-manager-manchester-396249",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794033627,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "InfluxData is the creator of InfluxDB, the leading time series platform used to collect, store, and analyze all time series data at any scale. Developers can query and analyze their time-stamped data in real-time to discover, interpret, and share new insights "
+    },
+    {
+      "id": "arbeitnow:sales-development-representative-german-speaking-manchester-491308",
+      "title": "Sales Development Representative, German Speaking",
+      "org": "Influxdata",
+      "role": "project",
+      "location": "Remote UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/sales-development-representative-german-speaking-manchester-491308",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794033627,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "InfluxData is the creator of InfluxDB, the leading time series platform used to collect, store, and analyze all time series data at any scale. Developers can query and analyze their time-stamped data in real-time to discover, interpret, and share new insights "
+    },
+    {
+      "id": "arbeitnow:sales-development-representative-french-speaking-manchester-44675",
+      "title": "Sales Development Representative, French Speaking",
+      "org": "Influxdata",
+      "role": "project",
+      "location": "Remote UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/sales-development-representative-french-speaking-manchester-44675",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794033627,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "InfluxData is the creator of InfluxDB, the leading time series platform used to collect, store, and analyze all time series data at any scale. Developers can query and analyze their time-stamped data in real-time to discover, interpret, and share new insights "
+    },
+    {
+      "id": "arbeitnow:sales-development-representative-emea-manchester-412171",
+      "title": "Sales Development Representative, EMEA",
+      "org": "Influxdata",
+      "role": "project",
+      "location": "Remote UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/sales-development-representative-emea-manchester-412171",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794033627,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "InfluxData is the creator of InfluxDB, the leading time series platform used to collect, store, and analyze all time series data at any scale. Developers can query and analyze their time-stamped data in real-time to discover, interpret, and share new insights "
+    },
+    {
+      "id": "arbeitnow:gestionnaire-paie-rh-h-f-paris-190261",
+      "title": "Gestionnaire Paie & RH H/F",
+      "org": "Everfield",
+      "role": "hr",
+      "location": "France - Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/everfield/gestionnaire-paie-rh-h-f-paris-190261",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794033627,
+      "tags": [
+        "Everfield HQ"
+      ],
+      "summary": "À propos d'Everfield Everfield achète, développe et accompagne la croissance d'éditeurs de logiciels métiers et spécialisés en Europe, en leur donnant les clés pour franchir un cap. Notre mission : nourrir l'ambition, alimenter la croissance et révéler le pote"
     },
     {
       "id": "arbeitnow:remote-sales-account-executive-cybersecurity-montrouge-127371",
@@ -464,38 +637,6 @@
         "Remote"
       ],
       "summary": "Passionate about Cybersecurity, open-source or network effect products? Interested in Sales? Join CrowdSec to build a safer internet for everyone. What we do We aim to deter opportunistic and organized cybercrime through an Internet-scale, real-time security n"
-    },
-    {
-      "id": "arbeitnow:growth-engineer-fullstack-frontend-focused-paris-299551",
-      "title": "Growth Engineer (Fullstack, Frontend-Focused)",
-      "org": "Pennylane SAS",
-      "role": "training",
-      "location": "All France (remote)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-engineer-fullstack-frontend-focused-paris-299551",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794012011,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our Engineering principles aligned with your vision? T"
-    },
-    {
-      "id": "arbeitnow:senior-application-security-engineer-paris-101660",
-      "title": "Senior Application Security Engineer",
-      "org": "Pennylane SAS",
-      "role": "training",
-      "location": "All France (remote)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-application-security-engineer-paris-101660",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794012011,
-      "tags": [
-        "Tech"
-      ],
-      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Then Pennylane is the right place for you ! Our vision We "
     },
     {
       "id": "arbeitnow:remote-software-engineer-ai-assisted-development-basel-371528",
@@ -667,37 +808,37 @@
       "summary": "................ Für unseren Kunden in Luzern suchen wir eine:n erfahrene:n Product Owner , welche:r sich in agilen Organisationen zu Hause fühlt und fundierte Erfahrung im SAFe mitbringt. In dieser Rolle gestaltest du die Weiterentwicklung digitaler Produkte "
     },
     {
-      "id": "arbeitnow:business-analystin-zurich-278509",
-      "title": "Business Analyst:in",
-      "org": "Coopers Group AG",
+      "id": "arbeitnow:remote-senior-staff-platform-engineer-382004",
+      "title": "(Senior/Staff) Platform Engineer",
+      "org": "Duna",
       "role": "project",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/business-analystin-zurich-278509",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-senior-staff-platform-engineer-382004",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793950242,
+      "postedAt": 1794033631,
       "tags": [
-        "Remote",
-        "IT"
+        "Engineering"
       ],
-      "summary": "................ Für unseren Kunden im Bankenumfeld in Bern suchen wir per sofort eine:n erfahrene:n Business Analyst:in zur Unterstützung eines strategisch wichtigen Compliance- und Risk-Programms. Deine Aufgaben: Enge Zusammenarbeit mit Product Managern sowi"
+      "summary": "At Duna, we see the company as the second product we're building and are continually working to create a transparent, ambitious culture. We want this to be the place where you do your best work. Our mission is to redefine identity for the global economy. We're"
     },
     {
-      "id": "arbeitnow:head-of-product-experience-amsterdam-234028",
-      "title": "Head of Product Experience",
-      "org": "Vio",
-      "role": "marketing",
-      "location": "Amsterdam / Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/vio/head-of-product-experience-amsterdam-234028",
-      "source": "Arbeitnow",
+      "id": "remotive:2091168",
+      "title": "US Remote Patient Care Advocate (Customer Service)",
+      "org": "VXI Global Solutions",
+      "role": "training",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168",
+      "source": "Remotive",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1793968812,
+      "postedAt": "2026-11-06T08:51:01",
       "tags": [
-        "Product"
+        "healthcare",
+        "insurance"
       ],
-      "summary": "At Vio , we believe booking accommodation should feel fair and effortless, never overwhelming or unclear. As one of the world's fastest-growing travel tech platforms, we help millions of travelers find and book the right stay at the right price. They can book "
+      "summary": "Job Title: Patient Care Advocate Job Location: Remote About Us: We are a dedicated team focused on improving access to affordable prescription medications for patients. By partnering with insurance companies, healthcare providers, and pharmacies, we work to re"
     },
     {
       "id": "remotive:1185979",
@@ -876,33 +1017,6 @@
         "Inside Sales"
       ],
       "summary": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive traini"
-    },
-    {
-      "id": "remotive:2091045",
-      "title": "Tier III Service Desk Engineer",
-      "org": "Unio Digital",
-      "role": "training",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "source": "Remotive",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": "2026-10-07T01:11:09",
-      "tags": [
-        "azure",
-        "cisco",
-        "security",
-        "video",
-        "documentation",
-        "hardware",
-        "helpdesk",
-        "onboarding",
-        "MSP",
-        "ticketing",
-        "Microsoft 365",
-        "IT systems"
-      ],
-      "summary": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an "
     },
     {
       "id": "arbeitnow:senior-analytics-engineer-marketing-growth-berlin-317526",
