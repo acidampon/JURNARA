@@ -1,15 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T13:39:46.741Z",
+  "updatedAt": "2026-11-08T22:14:43.487Z",
   "sourceCount": 2,
   "totalFetched": 313,
-  "relevantCount": 52,
+  "relevantCount": 40,
   "sources": [
     "Arbeitnow",
     "Remotive"
   ],
   "sourceErrors": [],
   "jobs": [
+    {
+      "id": "arbeitnow:senior-legal-counsel-product-berlin-365699",
+      "title": "Senior Legal Counsel, Product",
+      "org": "N8N",
+      "role": "training",
+      "location": "Berlin Office",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-legal-counsel-product-berlin-365699",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794163220,
+      "tags": [
+        "Finance & Legal"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
     {
       "id": "arbeitnow:partner-account-manager-france-paris-156585",
       "title": "Partner Account Manager - France",
@@ -43,68 +59,88 @@
       "summary": "Akur8 is one of the leading providers of insurance pricing and rating technology. Our mission is to modernize how insurers assess, price, and manage risk. Our SaaS platform combines transparent machine learning, predictive analytics, and rating technology to t"
     },
     {
-      "id": "arbeitnow:technical-project-manager-engineering-delivery-paris-257191",
-      "title": "Technical Project Manager - Engineering Delivery",
-      "org": "Diabolocom",
-      "role": "marketing",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/diabolocom/technical-project-manager-engineering-delivery-paris-257191",
+      "id": "arbeitnow:remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-424126",
+      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+      "org": "virtual7 GmbH",
+      "role": "hr",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-424126",
       "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794107298,
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794162686,
       "tags": [
-        "Software Development"
+        "Customer Cluster Justice",
+        "Remote"
       ],
-      "summary": "Diabolocom is looking for a Technical Project Manager to coordinate engineering delivery across our organization and work closely with the Head of Software Engineering on roadmap execution. You will work across Engineering, Product, Infrastructure and Project "
+      "summary": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, "
     },
     {
-      "id": "arbeitnow:head-of-infrastructure-paris-246897",
-      "title": "Head of Infrastructure",
-      "org": "Diabolocom",
+      "id": "arbeitnow:remote-senior-tech-operations-specialist-all-genders-250932",
+      "title": "Senior Tech Operations Specialist (all genders)",
+      "org": "Distribusion Technologies",
       "role": "marketing",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/diabolocom/head-of-infrastructure-paris-246897",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-tech-operations-specialist-all-genders-250932",
       "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794107298,
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794162682,
       "tags": [
-        "Infrastructure"
+        "Operations",
+        "Remote"
       ],
-      "summary": "Build the infrastructure behind the next generation of AI-powered customer communications Diabolocom is building an AI-first communication platform where AI agents, human agents, business workflows and communication channels work together seamlessly. As we ent"
+      "summary": "About us Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail an"
     },
     {
-      "id": "arbeitnow:game-developer-midcore-games-paris-455470",
-      "title": "Game Developer - Midcore Games",
-      "org": "Voodoo",
-      "role": "marketing",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/game-developer-midcore-games-paris-455470",
+      "id": "arbeitnow:ai-lead-genai-presales-ai-leadership-anywhere-in-germany-81405",
+      "title": "AI Lead (m/w/d) | GenAI, Presales & AI Leadership",
+      "org": "Krila Consultancy",
+      "role": "project",
+      "location": "Anywhere in Germany, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/krila-consultancy/ai-lead-genai-presales-ai-leadership-anywhere-in-germany-81405",
       "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794098411,
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794162682,
       "tags": [
-        "Gaming"
+        "Technology"
       ],
-      "summary": "About Voodoo Voodoo is a consumer tech company founded in Paris in 2013, with one mission: entertain the world. Today we are 1,000 people, generating $1b+ in annual revenue, profitably. Our games and apps have passed 7 billion downloads and reach 200 million+ "
+      "summary": "Sie verstehen AI nicht nur technisch, sondern können daraus überzeugende Lösungen für Kunden entwickeln, komplexe Themen auf C-Level erklären und neue Geschäftsmöglichkeiten mitgestalten? Dann bauen Sie bei einem internationalen Daten-, KI- und Beratungsuntern"
     },
     {
-      "id": "arbeitnow:game-developer-puzzle-games-paris-193626",
-      "title": "Game Developer - Puzzle Games",
-      "org": "Voodoo",
+      "id": "arbeitnow:growth-lead-berlin-224195",
+      "title": "Growth Lead (m/f/d)",
+      "org": "viral.app",
       "role": "marketing",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/game-developer-puzzle-games-paris-193626",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/viralapp/growth-lead-berlin-224195",
       "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794098411,
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794153665,
       "tags": [
-        "Gaming"
+        "Remote",
+        "Marketing Manager"
       ],
-      "summary": "About Voodoo Voodoo is a consumer tech company founded in Paris in 2013, with one mission: entertain the world. Today we are 1,000 people, generating $1b+ in annual revenue, profitably. Our games and apps have passed 7 billion downloads and reach 200 million+ "
+      "summary": "About viral.app viral.app is the software brands and agencies use to run UGC marketing at scale. It helps to hire creators, track every video on TikTok, Instagram, YouTube, Facebook and Snapchat, and pay creators based on performance. So far the founders have "
+    },
+    {
+      "id": "arbeitnow:vertriebs-und-projektmanager-messebau-deutsch-franzosisch-berlin-361774",
+      "title": "Vertriebs-und Projektmanager Messebau (m/w/d) - Deutsch/Französisch",
+      "org": "FAIR IDEA EXHIBITS",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/fair-idea-exhibits/vertriebs-und-projektmanager-messebau-deutsch-franzosisch-berlin-361774",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794144683,
+      "tags": [
+        "Remote",
+        "Business Development"
+      ],
+      "summary": "À propos de FAIR IDEA EXHIBITS FAIR IDEA EXHIBITS est une agence de conception de stands sur mesure et écoresponsables, spécialisée dans l'accompagnement des salons professionnels en France et à l'international. Notre équipe gère chaque projet de la conception"
     },
     {
       "id": "arbeitnow:mid-senior-ai-llm-engineer-full-remote-germany-226087",
@@ -221,263 +257,6 @@
       "summary": "Project Bay ist der erste CoWorking-Living Space mit direktem Meerzugang und neuer Hotspot für Innovation im Norden. Die Themen „Digitalisierung, Künstliche Intelligenz und neue Mobilitätslösungen“ werden hierbei mit regionaler Community, Work-Life-Balance und"
     },
     {
-      "id": "arbeitnow:remote-developer-advocate-germany-439959",
-      "title": "Developer Advocate (Germany)",
-      "org": "Adapty.io",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/adaptyio/remote-developer-advocate-germany-439959",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794109213,
-      "tags": [
-        "Adapty"
-      ],
-      "summary": "More than 30,000 subscription apps run on Adapty: $5B in revenue tracked, 4B users served, 80B API calls a month. That's one of the richest datasets in the app economy. Our mission is simple: make apps rich. We are a team of 210+ passionate, product-driven peo"
-    },
-    {
-      "id": "arbeitnow:remote-senior-forward-deployed-platform-engineer-berlin-228990",
-      "title": "Senior Forward Deployed Platform Engineer (m/w/d)",
-      "org": "Recare Deutschland GmbH",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-forward-deployed-platform-engineer-berlin-228990",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794108668,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processe"
-    },
-    {
-      "id": "arbeitnow:senior-sales-development-representative-remote-dusseldorf-de-56923",
-      "title": "Senior Sales Development Representative - (Remote)",
-      "org": "Vendavo",
-      "role": "training",
-      "location": "Düsseldorf, DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/vendavo/senior-sales-development-representative-remote-dusseldorf-de-56923",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794107298,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "We’re a growing team, and as we scale, so does our need to focus on expanding our sales development team. You’ll join a people-focused business that is putting AI at the center of how manufacturers and distributors price, quote and manage incentives, with a re"
-    },
-    {
-      "id": "arbeitnow:remote-b2b-marketing-india-333238",
-      "title": "B2B Marketing - India",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-b2b-marketing-india-333238",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794098411,
-      "tags": [
-        "Growth"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-gtm-enablement-global-onboarding-operations-110256",
-      "title": "GTM Enablement - Global Onboarding & Operations",
-      "org": "ElevenLabs",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-global-onboarding-operations-110256",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794098411,
-      "tags": [
-        "Revenue"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-gtm-enablement-partner-program-77337",
-      "title": "GTM Enablement - Partner Program",
-      "org": "ElevenLabs",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-gtm-enablement-partner-program-77337",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794098411,
-      "tags": [
-        "Revenue"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-ios-engineer-creative-app-27267",
-      "title": "iOS Engineer - Creative App",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-ios-engineer-creative-app-27267",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794098411,
-      "tags": [
-        "Engineering & Product"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-android-engineer-creative-app-434278",
-      "title": "Android Engineer - Creative App",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-android-engineer-creative-app-434278",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794098411,
-      "tags": [
-        "Engineering & Product"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-mobile-engineer-elevenmusic-25044",
-      "title": "Mobile Engineer - ElevenMusic",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-mobile-engineer-elevenmusic-25044",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794098411,
-      "tags": [
-        "Engineering & Product"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-account-executive-enterprise-insurance-426158",
-      "title": "Account Executive - Enterprise - Insurance",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-account-executive-enterprise-insurance-426158",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794098411,
-      "tags": [
-        "Revenue"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-full-stack-engineer-productions-417254",
-      "title": "Full-Stack Engineer - Productions",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-productions-417254",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794098411,
-      "tags": [
-        "Engineering & Product"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-full-stack-engineer-elevencreative-enterprise-233049",
-      "title": "Full-Stack Engineer - ElevenCreative Enterprise",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevencreative-enterprise-233049",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794098411,
-      "tags": [
-        "Engineering & Product"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-full-stack-engineer-ads-engine-93467",
-      "title": "Full-Stack Engineer - Ads Engine",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-ads-engine-93467",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794098411,
-      "tags": [
-        "Engineering & Product"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-global-events-lead-258923",
-      "title": "Global Events Lead",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-global-events-lead-258923",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794098411,
-      "tags": [
-        "Growth"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-sales-lead-enterprise-healthcare-229634",
-      "title": "Sales Lead - Enterprise - Healthcare",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-sales-lead-enterprise-healthcare-229634",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794098411,
-      "tags": [
-        "Revenue"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-direct-tax-lead-432404",
-      "title": "Direct Tax Lead",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-direct-tax-lead-432404",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794098411,
-      "tags": [
-        "Finance"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
       "id": "arbeitnow:remote-senior-strategic-abm-manager-93884",
       "title": "Senior Strategic ABM Manager",
       "org": "purestorage",
@@ -557,6 +336,38 @@
         "R&D: Observability"
       ],
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
+    },
+    {
+      "id": "arbeitnow:remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
+      "title": "Senior Fullstack Software Engineer (Ruby/React & TS)",
+      "org": "Pennylane SAS",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794152418,
+      "tags": [
+        "Tech"
+      ],
+      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our Engineering principles aligned with your vision? T"
+    },
+    {
+      "id": "arbeitnow:remote-senior-backend-software-engineer-ruby-on-rails-359527",
+      "title": "Senior Backend Software Engineer (Ruby on Rails)",
+      "org": "Pennylane SAS",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-backend-software-engineer-ruby-on-rails-359527",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794152418,
+      "tags": [
+        "Tech"
+      ],
+      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our Engineering principles aligned with your vision? T"
     },
     {
       "id": "arbeitnow:mid-senior-ai-llm-engineer-full-remote-france-463417",
