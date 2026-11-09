@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T06:48:43.740Z",
+  "updatedAt": "2026-11-09T22:29:15.635Z",
   "sourceCount": 2,
-  "totalFetched": 313,
-  "relevantCount": 49,
+  "totalFetched": 312,
+  "relevantCount": 26,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,379 +11,72 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:senior-legal-counsel-product-berlin-365699",
-      "title": "Senior Legal Counsel, Product",
-      "org": "N8N",
-      "role": "training",
-      "location": "Berlin Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-legal-counsel-product-berlin-365699",
+      "id": "arbeitnow:global-sales-director-energy-ai-london-147619",
+      "title": "Global Sales Director, Energy & AI",
+      "org": "Kraken",
+      "role": "marketing",
+      "location": "London, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/global-sales-director-energy-ai-london-147619",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794163220,
+      "postedAt": 1794260412,
       "tags": [
-        "Finance & Legal"
+        "Commercial"
       ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
     },
     {
-      "id": "arbeitnow:remote-support-engineer-paygo-317778",
-      "title": "Support Engineer, PAYGO",
-      "org": "Exa",
+      "id": "arbeitnow:sales-manager-vertriebsprofi-b2b-berlin-347180",
+      "title": "Sales Manager / Vertriebsprofi B2B (m/w/d)",
+      "org": "Harzspots GmbH",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/harzspots-gmbh/sales-manager-vertriebsprofi-b2b-berlin-347180",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794256244,
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader"
+      ],
+      "summary": "Du kannst verkaufen? Dann lass uns über deine nächsten Abschlüsse sprechen. Ein Hotel möchte mehr Gäste erreichen. Ein Handwerksbetrieb sucht Mitarbeiter. Ein Restaurant will neue Kunden gewinnen. Du erkennst daraus drei konkrete Verkaufschancen. Wir liefern d"
+    },
+    {
+      "id": "arbeitnow:remote-senior-accountant-karlsruhe-303234",
+      "title": "Senior Accountant (m/f/d)",
+      "org": "Chaos",
       "role": "project",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/exa/remote-support-engineer-paygo-317778",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/chaos/remote-senior-accountant-karlsruhe-303234",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794195630,
+      "postedAt": 1794249080,
       "tags": [
-        "GTM"
-      ],
-      "summary": "About Exa We raised a $250M Series C to build the search engine for AIs. Led by a16z, with existing investors Benchmark, Lightspeed, and YC doubling down, the round brings Exa's valuation to $2.2 billion. Exa is building a search engine for the AI era. Our Sea"
-    },
-    {
-      "id": "arbeitnow:remote-teamleiter-fur-haushaltshilfen-quereinsteiger-willkommen-bayern-299023",
-      "title": "Teamleiter für Haushaltshilfen (m/w/d) – Quereinsteiger willkommen!",
-      "org": "Agentur für Haushaltshilfe GmbH",
-      "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/agentur-fur-haushaltshilfe-gmbh/remote-teamleiter-fur-haushaltshilfen-quereinsteiger-willkommen-bayern-299023",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794195085,
-      "tags": [
-        "Teamleitung",
+        "Finance and Operations",
         "Remote"
       ],
-      "summary": "Agentur für Haushaltshilfe Die Nr. 1 für professionelle Haushaltshilfe und Alltagsbegleitung in Deutschland. Unser Ziel ist es, dafür zu sorgen, dass hilfsbedürftige Menschen da leben können, wo sie sich am wohlsten fühlen – und das ist in ihrem Zuhause. Seit "
+      "summary": "**This position is based in Germany with remote working options. Applicants must hold a valid work/residence permit for the respective location.** Chaos is a leading global software company that provides world-class visualization and design solutions, empoweri"
     },
     {
-      "id": "arbeitnow:account-executive-mittelstand-remote-in-germany-207130",
-      "title": "Account Executive - Mittelstand (Remote in Germany)",
-      "org": "Everbridge",
-      "role": "training",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/everbridge/account-executive-mittelstand-remote-in-germany-207130",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794193654,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "Everbridge : a fast-growing global provider of SaaS-based critical communications and enterprise safety solutions are currently seeking an Account Executive - Mittelstand to be based in the Germany. This is a remote role that can be based anywhere in Germany T"
-    },
-    {
-      "id": "arbeitnow:remote-head-of-gtm-systems-ai-231440",
-      "title": "Head of GTM Systems & AI (m/f/d)",
-      "org": "360Learning",
-      "role": "training",
-      "location": "Berlin, Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-head-of-gtm-systems-ai-231440",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794182840,
-      "tags": [
-        "Strategy & Operations"
-      ],
-      "summary": "Introduction to the Team & Role What if your team was the one that got to build the future of how a company runs — and tried it on itself first? GTM Systems owns the tech stack behind 360Learning's commercial engine — Salesforce, Marketo, data enrichment and A"
-    },
-    {
-      "id": "arbeitnow:remote-lead-employment-counsel-486921",
-      "title": "Lead Employment Counsel",
-      "org": "Camunda",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-lead-employment-counsel-486921",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794174026,
-      "tags": [
-        "People"
-      ],
-      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
-    },
-    {
-      "id": "arbeitnow:remote-manager-director-partnerships-dach-15148",
-      "title": "Remote Manager (Director) Partnerships DACH (m/f/d)",
-      "org": "Roompricegenie",
-      "role": "marketing",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-manager-director-partnerships-dach-15148",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794174025,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "About RoomPriceGenie ✨🧞‍♂️ Founded in 2017, RoomPriceGenie is dedicated to helping hoteliers around the globe achieve optimal pricing. 🌍 We understand that many small hotels face challenges with digitalization, making their operations increasingly complex an"
-    },
-    {
-      "id": "arbeitnow:remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-424126",
-      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-      "org": "virtual7 GmbH",
-      "role": "hr",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-424126",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794162686,
-      "tags": [
-        "Customer Cluster Justice",
-        "Remote"
-      ],
-      "summary": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, "
-    },
-    {
-      "id": "arbeitnow:remote-senior-tech-operations-specialist-all-genders-250932",
-      "title": "Senior Tech Operations Specialist (all genders)",
-      "org": "Distribusion Technologies",
+      "id": "arbeitnow:remote-rust-software-engineer-rust-c-gilching-217668",
+      "title": "Rust Software Engineer - Rust / C++ (m/f/d)",
+      "org": "Quantum-Systems GmbH",
       "role": "marketing",
       "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-tech-operations-specialist-all-genders-250932",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-rust-software-engineer-rust-c-gilching-217668",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794162682,
+      "postedAt": 1794249078,
       "tags": [
-        "Operations",
+        "Software",
         "Remote"
       ],
-      "summary": "About us Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail an"
-    },
-    {
-      "id": "arbeitnow:ai-lead-genai-presales-ai-leadership-anywhere-in-germany-81405",
-      "title": "AI Lead (m/w/d) | GenAI, Presales & AI Leadership",
-      "org": "Krila Consultancy",
-      "role": "project",
-      "location": "Anywhere in Germany, Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/krila-consultancy/ai-lead-genai-presales-ai-leadership-anywhere-in-germany-81405",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794162682,
-      "tags": [
-        "Technology"
-      ],
-      "summary": "Sie verstehen AI nicht nur technisch, sondern können daraus überzeugende Lösungen für Kunden entwickeln, komplexe Themen auf C-Level erklären und neue Geschäftsmöglichkeiten mitgestalten? Dann bauen Sie bei einem internationalen Daten-, KI- und Beratungsuntern"
-    },
-    {
-      "id": "arbeitnow:growth-lead-berlin-224195",
-      "title": "Growth Lead (m/f/d)",
-      "org": "viral.app",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/viralapp/growth-lead-berlin-224195",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794153665,
-      "tags": [
-        "Remote",
-        "Marketing Manager"
-      ],
-      "summary": "About viral.app viral.app is the software brands and agencies use to run UGC marketing at scale. It helps to hire creators, track every video on TikTok, Instagram, YouTube, Facebook and Snapchat, and pay creators based on performance. So far the founders have "
-    },
-    {
-      "id": "arbeitnow:vertriebs-und-projektmanager-messebau-deutsch-franzosisch-berlin-361774",
-      "title": "Vertriebs-und Projektmanager Messebau (m/w/d) - Deutsch/Französisch",
-      "org": "FAIR IDEA EXHIBITS",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/fair-idea-exhibits/vertriebs-und-projektmanager-messebau-deutsch-franzosisch-berlin-361774",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794144683,
-      "tags": [
-        "Remote",
-        "Business Development"
-      ],
-      "summary": "À propos de FAIR IDEA EXHIBITS FAIR IDEA EXHIBITS est une agence de conception de stands sur mesure et écoresponsables, spécialisée dans l'accompagnement des salons professionnels en France et à l'international. Notre équipe gère chaque projet de la conception"
-    },
-    {
-      "id": "arbeitnow:mid-senior-ai-llm-engineer-full-remote-germany-226087",
-      "title": "Mid/Senior AI LLM Engineer (Full Remote - Germany)",
-      "org": "EverAI",
-      "role": "training",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/everai/mid-senior-ai-llm-engineer-full-remote-germany-226087",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794141615,
-      "tags": [
-        "R&D"
-      ],
-      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
-    },
-    {
-      "id": "arbeitnow:remote-praktikant-consulting-headquarter-hamburg-und-stuttgart-228463",
-      "title": "Praktikant Consulting (w/m/d) | Headquarter Hamburg und Stuttgart",
-      "org": "enomyc GmbH",
-      "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/enomyc-gmbh/remote-praktikant-consulting-headquarter-hamburg-und-stuttgart-228463",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794141079,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Wir sind die europaweit agierende Beratung für mittelständische Unternehmen, die im Digital- und KI-Zeitalter profitabel wachsen wollen. Dich erwartet ein Umfeld, in dem unternehmerische Freiheit auf höchste Professionalität trifft: anspruchsvolle Projekte, in"
-    },
-    {
-      "id": "arbeitnow:remote-interim-cro-chief-restructuring-officer-stuttgart-236539",
-      "title": "Interim CRO / Chief Restructuring Officer (m/w/d)",
-      "org": "enomyc GmbH",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/enomyc-gmbh/remote-interim-cro-chief-restructuring-officer-stuttgart-236539",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794141079,
-      "tags": [
-        "People Advisory",
-        "Remote"
-      ],
-      "summary": "enomyc – Wir gestalten den Mittelstand von morgen. Wenn Unternehmen in herausfordernde Situationen geraten, braucht es Erfahrung, Klarheit und Menschen, die Verantwortung übernehmen. Für aktuelle und zukünftige Mandate bei mittelständischen Unternehmen bauen w"
-    },
-    {
-      "id": "arbeitnow:staff-software-engineer-opentelemetry-python-instrumentation-germany-remote-427337",
-      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Germany | Remote",
-      "org": "grafanalabs",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/staff-software-engineer-opentelemetry-python-instrumentation-germany-remote-427337",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794131724,
-      "tags": [
-        "R&D: Ops"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
-    },
-    {
-      "id": "arbeitnow:senior-full-stack-engineer-database-observability-grafana-cloud-germany-remote-305330",
-      "title": "Senior Full Stack Engineer | Database Observability, Grafana Cloud | Germany | Remote",
-      "org": "grafanalabs",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-full-stack-engineer-database-observability-grafana-cloud-germany-remote-305330",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794131724,
-      "tags": [
-        "R&D: Observability"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
-    },
-    {
-      "id": "arbeitnow:remote-principal-gsi-partner-manager-accenture-emea-268012",
-      "title": "Principal GSI Partner Manager - Accenture (EMEA)",
-      "org": "Datadog",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/datadog/remote-principal-gsi-partner-manager-accenture-emea-268012",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794196514,
-      "tags": [
-        "Channels & Alliances"
-      ],
-      "summary": "&lt;p&gt;We are looking for an experienced Partner Sales Manager to ignite partnerships by identifying and recruiting new partners for long-term success and nurture ongoing relationships with key strategic Global Systems Integrator partners. Our ultimate goal "
-    },
-    {
-      "id": "arbeitnow:remote-senior-strategic-abm-manager-93884",
-      "title": "Senior Strategic ABM Manager",
-      "org": "purestorage",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/remote-senior-strategic-abm-manager-93884",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794142519,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans th"
-    },
-    {
-      "id": "arbeitnow:international-data-acquisition-manager-london-167894",
-      "title": "International Data Acquisition Manager",
-      "org": "Socure",
-      "role": "marketing",
-      "location": "United Kingdom - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/socure/international-data-acquisition-manager-london-167894",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794141615,
-      "tags": [
-        "AI and Data"
-      ],
-      "summary": "Why Socure? Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, g"
-    },
-    {
-      "id": "arbeitnow:remote-senior-account-executive-55098",
-      "title": "Senior Account Executive",
-      "org": "Bluecatnetworks",
-      "role": "marketing",
-      "location": "UK - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bluecatnetworks/remote-senior-account-executive-55098",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794139637,
-      "tags": [
-        "AE",
-        "Hybrid"
-      ],
-      "summary": "BlueCat and LiveAction offer complementary solutions to enhance network performance and security. LiveAction’s Network Intelligence platform transforms complex data into actionable insights, providing organizations with a comprehensive view of their network, f"
-    },
-    {
-      "id": "arbeitnow:staff-software-engineer-opentelemetry-python-instrumentation-uk-remote-85977",
-      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | UK | Remote",
-      "org": "grafanalabs",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-software-engineer-opentelemetry-python-instrumentation-uk-remote-85977",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794131725,
-      "tags": [
-        "R&D: Ops"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
-    },
-    {
-      "id": "arbeitnow:senior-full-stack-engineer-database-observability-grafana-cloud-uk-remote-48471",
-      "title": "Senior Full Stack Engineer | Database Observability, Grafana Cloud | UK | Remote",
-      "org": "grafanalabs",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-full-stack-engineer-database-observability-grafana-cloud-uk-remote-48471",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794131725,
-      "tags": [
-        "R&D: Observability"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
+      "summary": "Quantum Systems develops autonomous, multi-domain systems that operate in the air, on the ground and on the water. Behind every platform is software that has to work reliably in the real world, with limited resources, unreliable connectivity and no second chan"
     },
     {
       "id": "arbeitnow:remote-channel-account-manager-12145",
@@ -402,116 +95,55 @@
       "summary": "This is a field position. About the Position The Channel Account Manager (CAM) responsibilities include working within the sales team to promote and sell network security products within a geographic territory. The CAM is responsible for supporting assigned Wa"
     },
     {
-      "id": "arbeitnow:remote-solution-expert-489560",
-      "title": "Solution Expert",
-      "org": "360Learning",
+      "id": "arbeitnow:remote-app-testers-wanted-in-switzerland-switzerland-anywhere-475008",
+      "title": "App Testers wanted in Switzerland!",
+      "org": "Tester Work",
       "role": "training",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-solution-expert-489560",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tester-work/remote-app-testers-wanted-in-switzerland-switzerland-anywhere-475008",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794182840,
+      "postedAt": 1794249080,
       "tags": [
-        "Solutions Engineering"
+        "QA Testing",
+        "Remote"
       ],
-      "summary": "Our Solution Expert team plays a key role in supporting strategic customers in RUN phase, by acting as trusted advisors on complex use cases. Working closely with Sales, Product, and Customer Success, they analyze advanced client needs, challenge existing setu"
+      "summary": "Tester Work provides access to exciting and rewarding project-based opportunities for freelancers. Learn new skills and earn money by testing world-class apps and websites. 🌎 For this specific project, we are looking for QA testers and tech enthusiasts in Swi"
     },
     {
-      "id": "arbeitnow:remote-key-account-manager-mid-market-pool-491343",
-      "title": "Key Account Manager Mid-Market - Pool",
-      "org": "360Learning",
-      "role": "training",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-key-account-manager-mid-market-pool-491343",
+      "id": "arbeitnow:senior-cloud-engineer-azure-basel-165209",
+      "title": "Senior Cloud Engineer - Azure",
+      "org": "Coopers Group AG",
+      "role": "project",
+      "location": "Basel",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-cloud-engineer-azure-basel-165209",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794182840,
+      "postedAt": 1794240069,
       "tags": [
-        "Account Management"
+        "Remote",
+        "IT"
       ],
-      "summary": "As a Key Account Manager Pool (KAM Pool), you play a strategic role in scaling 360Learning’s customer growth and retention engine. You will join a team focused on maximizing renewal and upsell opportunities across a large portfolio of existing customers throug"
+      "summary": "................ Für unseren Kunden in Basel Stadt suchen wir eine erfahrene Persönlichkeit im Bereich Cloud Engineering und DevOps , welche die Weiterentwicklung einer modernen Azure-Plattform vorantreibt. Der Fokus liegt auf Automatisierung, Infrastructure a"
     },
     {
-      "id": "arbeitnow:remote-key-account-manager-mid-market-307664",
-      "title": "Key Account Manager Mid Market",
-      "org": "360Learning",
-      "role": "training",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-key-account-manager-mid-market-307664",
+      "id": "arbeitnow:java-fullstack-software-engineer-spring-boot-angular-bern-241500",
+      "title": "Java Fullstack Software Engineer (Spring Boot / Angular)",
+      "org": "Coopers Group AG",
+      "role": "project",
+      "location": "Bern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/java-fullstack-software-engineer-spring-boot-angular-bern-241500",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794182840,
+      "postedAt": 1794222063,
       "tags": [
-        "Account Management"
+        "Remote",
+        "Software Development"
       ],
-      "summary": "As a Key Account Manager (KAM), you play a decisive role in the growth of 360Learning's business and you will join a team of 5 KAMs (Mid-market). You will be in charge of around 100 accounts (existing customers from 100 to 2,500 employees). At 360Learning, the"
-    },
-    {
-      "id": "arbeitnow:remote-head-of-gtm-systems-ai-121843",
-      "title": "Head of GTM Systems & AI",
-      "org": "360Learning",
-      "role": "training",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-head-of-gtm-systems-ai-121843",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794182840,
-      "tags": [
-        "Strategy & Operations"
-      ],
-      "summary": "Introduction to the Team & Role What if your team was the one that got to build the future of how a company runs — and tried it on itself first? GTM Systems owns the tech stack behind 360Learning's commercial engine — Salesforce, Marketo, data enrichment and A"
-    },
-    {
-      "id": "arbeitnow:remote-global-vp-marketing-268539",
-      "title": "Global VP Marketing",
-      "org": "360Learning",
-      "role": "training",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-global-vp-marketing-268539",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794182840,
-      "tags": [
-        "Brand and Content Marketing"
-      ],
-      "summary": "360Learning is entering its next phase of growth. Today, more than 2,500 organizations worldwide use 360Learning to turn internal expertise into business performance. As AI fundamentally reshapes how companies build skills, share knowledge and develop their pe"
-    },
-    {
-      "id": "arbeitnow:remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
-      "title": "Senior Fullstack Software Engineer (Ruby/React & TS)",
-      "org": "Pennylane SAS",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794152418,
-      "tags": [
-        "Tech"
-      ],
-      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our Engineering principles aligned with your vision? T"
-    },
-    {
-      "id": "arbeitnow:remote-senior-backend-software-engineer-ruby-on-rails-359527",
-      "title": "Senior Backend Software Engineer (Ruby on Rails)",
-      "org": "Pennylane SAS",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-backend-software-engineer-ruby-on-rails-359527",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794152418,
-      "tags": [
-        "Tech"
-      ],
-      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our Engineering principles aligned with your vision? T"
+      "summary": "................ Für unseren Kunden aus der Logistikbranche in Bern , suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Java Fullstack Software Engineer (Spring Boot / Angular). In diesem Projekt arbeitest du an der Entwicklung einer modernen, "
     },
     {
       "id": "arbeitnow:remote-software-test-engineer-bern-255669",
@@ -561,6 +193,41 @@
         "Remote"
       ],
       "summary": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosyste"
+    },
+    {
+      "id": "arbeitnow:remote-account-executive-dutch-netherlands-170881",
+      "title": "Account Executive - Dutch",
+      "org": "Huzzle",
+      "role": "project",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/huzzle/remote-account-executive-dutch-netherlands-170881",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794241228,
+      "tags": [
+        "Sales",
+        "Internet",
+        "Remote"
+      ],
+      "summary": "About Huzzle At Huzzle, we connect high-performing professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech, FinTech, and EdTech. W"
+    },
+    {
+      "id": "arbeitnow:2d-game-developer-defold-remote-worldwide-amsterdam-139626",
+      "title": "2D Game Developer (Defold) (Remote-Worldwide)",
+      "org": "Your Software Supplier",
+      "role": "training",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/2d-game-developer-defold-remote-worldwide-amsterdam-139626",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794214869,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "This job is with our partner Micro1. Scope of Work Develop and modify 2D games using the Defold game engine. Work with Lua scripting, game objects, components, and animations. Create and improve game mechanics, player controls, and UI elements. Debug issues an"
     },
     {
       "id": "arbeitnow:freelance-e-commerce-operations-ai-manager-right-hand-to-the-cbo-25-30h-week-amsterdam-176895",
@@ -629,22 +296,6 @@
         "Remote"
       ],
       "summary": "Who We Are Catalyst Capital is a profitable, bootstrapped holding company building a diversified financial services group: education, publishing, software, wealth and tax planning tools, investment products and proprietary trading technology. Funded entirely f"
-    },
-    {
-      "id": "arbeitnow:remote-senior-staff-platform-engineer-382004",
-      "title": "(Senior/Staff) Platform Engineer",
-      "org": "Duna",
-      "role": "project",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-senior-staff-platform-engineer-382004",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794033631,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "At Duna, we see the company as the second product we're building and are continually working to create a transparent, ambitious culture. We want this to be the place where you do your best work. Our mission is to redefine identity for the global economy. We're"
     },
     {
       "id": "remotive:2091045",
@@ -848,25 +499,6 @@
         "MySQL"
       ],
       "summary": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong commun"
-    },
-    {
-      "id": "remotive:2086540",
-      "title": "Inside Sales Contractor",
-      "org": "Credit Wellness, LLC",
-      "role": "training",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "source": "Remotive",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": "2026-10-08T21:47:32",
-      "tags": [
-        "CRM",
-        "google sheets",
-        "financial services",
-        "Inside Sales"
-      ],
-      "summary": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive traini"
     }
   ]
 }
