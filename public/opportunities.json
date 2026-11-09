@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T22:14:43.487Z",
+  "updatedAt": "2026-11-09T06:48:43.740Z",
   "sourceCount": 2,
   "totalFetched": 313,
-  "relevantCount": 40,
+  "relevantCount": 49,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -27,36 +27,101 @@
       "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
     },
     {
-      "id": "arbeitnow:partner-account-manager-france-paris-156585",
-      "title": "Partner Account Manager - France",
-      "org": "anthropic",
-      "role": "training",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/anthropic/partner-account-manager-france-paris-156585",
+      "id": "arbeitnow:remote-support-engineer-paygo-317778",
+      "title": "Support Engineer, PAYGO",
+      "org": "Exa",
+      "role": "project",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/exa/remote-support-engineer-paygo-317778",
       "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794131720,
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794195630,
+      "tags": [
+        "GTM"
+      ],
+      "summary": "About Exa We raised a $250M Series C to build the search engine for AIs. Led by a16z, with existing investors Benchmark, Lightspeed, and YC doubling down, the round brings Exa's valuation to $2.2 billion. Exa is building a search engine for the AI era. Our Sea"
+    },
+    {
+      "id": "arbeitnow:remote-teamleiter-fur-haushaltshilfen-quereinsteiger-willkommen-bayern-299023",
+      "title": "Teamleiter für Haushaltshilfen (m/w/d) – Quereinsteiger willkommen!",
+      "org": "Agentur für Haushaltshilfe GmbH",
+      "role": "marketing",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/agentur-fur-haushaltshilfe-gmbh/remote-teamleiter-fur-haushaltshilfen-quereinsteiger-willkommen-bayern-299023",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794195085,
+      "tags": [
+        "Teamleitung",
+        "Remote"
+      ],
+      "summary": "Agentur für Haushaltshilfe Die Nr. 1 für professionelle Haushaltshilfe und Alltagsbegleitung in Deutschland. Unser Ziel ist es, dafür zu sorgen, dass hilfsbedürftige Menschen da leben können, wo sie sich am wohlsten fühlen – und das ist in ihrem Zuhause. Seit "
+    },
+    {
+      "id": "arbeitnow:account-executive-mittelstand-remote-in-germany-207130",
+      "title": "Account Executive - Mittelstand (Remote in Germany)",
+      "org": "Everbridge",
+      "role": "training",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/everbridge/account-executive-mittelstand-remote-in-germany-207130",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794193654,
       "tags": [
         "Sales"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society a"
+      "summary": "Everbridge : a fast-growing global provider of SaaS-based critical communications and enterprise safety solutions are currently seeking an Account Executive - Mittelstand to be based in the Germany. This is a remote role that can be based anywhere in Germany T"
     },
     {
-      "id": "arbeitnow:product-engineer-paris-133562",
-      "title": "Product Engineer",
-      "org": "Akur8",
+      "id": "arbeitnow:remote-head-of-gtm-systems-ai-231440",
+      "title": "Head of GTM Systems & AI (m/f/d)",
+      "org": "360Learning",
       "role": "training",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/akur8/product-engineer-paris-133562",
+      "location": "Berlin, Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-head-of-gtm-systems-ai-231440",
       "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794130815,
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794182840,
       "tags": [
-        "Engineering"
+        "Strategy & Operations"
       ],
-      "summary": "Akur8 is one of the leading providers of insurance pricing and rating technology. Our mission is to modernize how insurers assess, price, and manage risk. Our SaaS platform combines transparent machine learning, predictive analytics, and rating technology to t"
+      "summary": "Introduction to the Team & Role What if your team was the one that got to build the future of how a company runs — and tried it on itself first? GTM Systems owns the tech stack behind 360Learning's commercial engine — Salesforce, Marketo, data enrichment and A"
+    },
+    {
+      "id": "arbeitnow:remote-lead-employment-counsel-486921",
+      "title": "Lead Employment Counsel",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-lead-employment-counsel-486921",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794174026,
+      "tags": [
+        "People"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-manager-director-partnerships-dach-15148",
+      "title": "Remote Manager (Director) Partnerships DACH (m/f/d)",
+      "org": "Roompricegenie",
+      "role": "marketing",
+      "location": "Remote Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-manager-director-partnerships-dach-15148",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794174025,
+      "tags": [
+        "Marketing"
+      ],
+      "summary": "About RoomPriceGenie ✨🧞‍♂️ Founded in 2017, RoomPriceGenie is dedicated to helping hoteliers around the globe achieve optimal pricing. 🌍 We understand that many small hotels face challenges with digitalization, making their operations increasingly complex an"
     },
     {
       "id": "arbeitnow:remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-424126",
@@ -224,37 +289,20 @@
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
     },
     {
-      "id": "arbeitnow:web-designer-at-aios-remote-75k-150k-yr-including-equity-berlin-388201",
-      "title": "Web Designer at AIOS — Remote, $75k-$150k/yr (including equity)",
-      "org": "AIOS (YC W20/S21)",
-      "role": "marketing",
-      "location": "Remote (EU)",
-      "url": "https://www.arbeitnow.com/jobs/companies/aios-yc-w20s21/web-designer-at-aios-remote-75k-150k-yr-including-equity-berlin-388201",
+      "id": "arbeitnow:remote-principal-gsi-partner-manager-accenture-emea-268012",
+      "title": "Principal GSI Partner Manager - Accenture (EMEA)",
+      "org": "Datadog",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/datadog/remote-principal-gsi-partner-manager-accenture-emea-268012",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794120011,
+      "postedAt": 1794196514,
       "tags": [
-        "Growth"
+        "Channels & Alliances"
       ],
-      "summary": "About AIOS AIOS is building the world’s first full-stack AI doctor. We’re at $450M ARR, growing from $7M/yr in April 2025. We’re faithfully serving &gt;200k/mo patients via Bolt Pharmacy, our main UK brand. We’ve just launched Bolt Med, our international brand"
-    },
-    {
-      "id": "arbeitnow:marketing-kommunikations-managerin-berlin-410759",
-      "title": "Marketing- & Kommunikations-Manager:in (d/w/m)",
-      "org": "Project Bay Workation Hotel UG (haftungsbeschränkt)",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/project-bay-workation-hotel-ug-haftungsbeschrankt/marketing-kommunikations-managerin-berlin-410759",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794117674,
-      "tags": [
-        "Remote",
-        "Marketing Manager"
-      ],
-      "summary": "Project Bay ist der erste CoWorking-Living Space mit direktem Meerzugang und neuer Hotspot für Innovation im Norden. Die Themen „Digitalisierung, Künstliche Intelligenz und neue Mobilitätslösungen“ werden hierbei mit regionaler Community, Work-Life-Balance und"
+      "summary": "&lt;p&gt;We are looking for an experienced Partner Sales Manager to ignite partnerships by identifying and recruiting new partners for long-term success and nurture ongoing relationships with key strategic Global Systems Integrator partners. Our ultimate goal "
     },
     {
       "id": "arbeitnow:remote-senior-strategic-abm-manager-93884",
@@ -338,6 +386,102 @@
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
     },
     {
+      "id": "arbeitnow:remote-channel-account-manager-12145",
+      "title": "Channel Account Manager",
+      "org": "Watchguard",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/watchguard/remote-channel-account-manager-12145",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794193655,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "This is a field position. About the Position The Channel Account Manager (CAM) responsibilities include working within the sales team to promote and sell network security products within a geographic territory. The CAM is responsible for supporting assigned Wa"
+    },
+    {
+      "id": "arbeitnow:remote-solution-expert-489560",
+      "title": "Solution Expert",
+      "org": "360Learning",
+      "role": "training",
+      "location": "Paris, Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-solution-expert-489560",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794182840,
+      "tags": [
+        "Solutions Engineering"
+      ],
+      "summary": "Our Solution Expert team plays a key role in supporting strategic customers in RUN phase, by acting as trusted advisors on complex use cases. Working closely with Sales, Product, and Customer Success, they analyze advanced client needs, challenge existing setu"
+    },
+    {
+      "id": "arbeitnow:remote-key-account-manager-mid-market-pool-491343",
+      "title": "Key Account Manager Mid-Market - Pool",
+      "org": "360Learning",
+      "role": "training",
+      "location": "Paris, Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-key-account-manager-mid-market-pool-491343",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794182840,
+      "tags": [
+        "Account Management"
+      ],
+      "summary": "As a Key Account Manager Pool (KAM Pool), you play a strategic role in scaling 360Learning’s customer growth and retention engine. You will join a team focused on maximizing renewal and upsell opportunities across a large portfolio of existing customers throug"
+    },
+    {
+      "id": "arbeitnow:remote-key-account-manager-mid-market-307664",
+      "title": "Key Account Manager Mid Market",
+      "org": "360Learning",
+      "role": "training",
+      "location": "Paris, Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-key-account-manager-mid-market-307664",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794182840,
+      "tags": [
+        "Account Management"
+      ],
+      "summary": "As a Key Account Manager (KAM), you play a decisive role in the growth of 360Learning's business and you will join a team of 5 KAMs (Mid-market). You will be in charge of around 100 accounts (existing customers from 100 to 2,500 employees). At 360Learning, the"
+    },
+    {
+      "id": "arbeitnow:remote-head-of-gtm-systems-ai-121843",
+      "title": "Head of GTM Systems & AI",
+      "org": "360Learning",
+      "role": "training",
+      "location": "Paris, Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-head-of-gtm-systems-ai-121843",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794182840,
+      "tags": [
+        "Strategy & Operations"
+      ],
+      "summary": "Introduction to the Team & Role What if your team was the one that got to build the future of how a company runs — and tried it on itself first? GTM Systems owns the tech stack behind 360Learning's commercial engine — Salesforce, Marketo, data enrichment and A"
+    },
+    {
+      "id": "arbeitnow:remote-global-vp-marketing-268539",
+      "title": "Global VP Marketing",
+      "org": "360Learning",
+      "role": "training",
+      "location": "Paris, Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-global-vp-marketing-268539",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794182840,
+      "tags": [
+        "Brand and Content Marketing"
+      ],
+      "summary": "360Learning is entering its next phase of growth. Today, more than 2,500 organizations worldwide use 360Learning to turn internal expertise into business performance. As AI fundamentally reshapes how companies build skills, share knowledge and develop their pe"
+    },
+    {
       "id": "arbeitnow:remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
       "title": "Senior Fullstack Software Engineer (Ruby/React & TS)",
       "org": "Pennylane SAS",
@@ -368,22 +512,6 @@
         "Tech"
       ],
       "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our Engineering principles aligned with your vision? T"
-    },
-    {
-      "id": "arbeitnow:mid-senior-ai-llm-engineer-full-remote-france-463417",
-      "title": "Mid/Senior AI LLM Engineer (Full Remote - France)",
-      "org": "EverAI",
-      "role": "training",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/everai/mid-senior-ai-llm-engineer-full-remote-france-463417",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794141616,
-      "tags": [
-        "R&D"
-      ],
-      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
     },
     {
       "id": "arbeitnow:remote-software-test-engineer-bern-255669",
@@ -433,6 +561,23 @@
         "Remote"
       ],
       "summary": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosyste"
+    },
+    {
+      "id": "arbeitnow:freelance-e-commerce-operations-ai-manager-right-hand-to-the-cbo-25-30h-week-amsterdam-176895",
+      "title": "Freelance E-Commerce Operations & AI Manager - Right Hand to the CBO - 25 - 30h/week",
+      "org": "Time to hire",
+      "role": "marketing",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/time-to-hire/freelance-e-commerce-operations-ai-manager-right-hand-to-the-cbo-25-30h-week-amsterdam-176895",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794175239,
+      "tags": [
+        "Remote",
+        "Business Operations"
+      ],
+      "summary": "For my client, a DTC jewelry brand I'm looking for the CBO's right hand. You will take a large share of operational and admin work off her plate, keep projects moving and use AI to make the way they work faster. What you will do 👉Operations: check stock again"
     },
     {
       "id": "arbeitnow:mid-senior-ai-llm-engineer-full-remote-netherlands-457814",
