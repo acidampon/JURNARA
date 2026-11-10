@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T22:29:15.635Z",
+  "updatedAt": "2026-11-10T07:27:47.937Z",
   "sourceCount": 2,
   "totalFetched": 312,
-  "relevantCount": 26,
+  "relevantCount": 37,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,20 +11,101 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:global-sales-director-energy-ai-london-147619",
-      "title": "Global Sales Director, Energy & AI",
-      "org": "Kraken",
+      "id": "arbeitnow:full-stack-engineer-munich-77931",
+      "title": "Full-stack Engineer (f/m/d)",
+      "org": "TYTAN Technologies GmbH",
       "role": "marketing",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/global-sales-director-energy-ai-london-147619",
+      "location": "Munich, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/full-stack-engineer-munich-77931",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794260412,
+      "postedAt": 1794292303,
       "tags": [
-        "Commercial"
+        "Engineering"
       ],
-      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
+      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything"
+    },
+    {
+      "id": "arbeitnow:senior-embedded-linux-engineer-munich-402137",
+      "title": "Senior Embedded Linux Engineer (m/f/d)",
+      "org": "TYTAN Technologies GmbH",
+      "role": "marketing",
+      "location": "Munich, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-embedded-linux-engineer-munich-402137",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794292303,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything"
+    },
+    {
+      "id": "arbeitnow:senior-data-analyst-london-353349",
+      "title": "Senior Data Analyst",
+      "org": "sumup",
+      "role": "training",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-data-analyst-london-353349",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794293721,
+      "tags": [
+        "Data & Analytics"
+      ],
+      "summary": "&lt;p&gt;&lt;strong&gt;Senior Data Analyst&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Team- &lt;/strong&gt;Consumer Bank&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;-London (office-first)&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Employment type &lt;/s"
+    },
+    {
+      "id": "arbeitnow:internship-uav-robotics-mechatronics-drone-prototyping-integration-field-testing-delft-234540",
+      "title": "Internship - UAV Robotics/Mechatronics (Drone Prototyping, Integration & Field Testing)",
+      "org": "Fiducial",
+      "role": "project",
+      "location": "Delft",
+      "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-uav-robotics-mechatronics-drone-prototyping-integration-field-testing-delft-234540",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794292815,
+      "tags": [
+        "Internships"
+      ],
+      "summary": "Opening WE CANNOT PROVIDE VISA SPONSORSHIP Details Preferred starting date: ASAP Weekly availability: full-time (5 days/week) Period: 6 months Location: Aerospace Innovation Hub, Delft, the Netherlands About the company Fiducial is a young but fast-growing dee"
+    },
+    {
+      "id": "arbeitnow:security-engineer-remote-germany-464932",
+      "title": "Security Engineer (Remote - Germany)",
+      "org": "EverAI",
+      "role": "training",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/everai/security-engineer-remote-germany-464932",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794282015,
+      "tags": [
+        "R&D"
+      ],
+      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
+    },
+    {
+      "id": "arbeitnow:remote-hands-on-engineering-manager-infrastructure-261178",
+      "title": "Hands-on Engineering Manager, Infrastructure",
+      "org": "Miaplaza",
+      "role": "training",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-infrastructure-261178",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794281493,
+      "tags": [
+        "Product Development",
+        "Remote"
+      ],
+      "summary": "Location : 100% remote (EMEA) Classification : Full-time Pay Range : 82.000€ to 140.000€ - determined by several factors, including location Miaplaza is dedicated to making education engaging and accessible through innovative online learning platforms. We deve"
     },
     {
       "id": "arbeitnow:sales-manager-vertriebsprofi-b2b-berlin-347180",
@@ -79,20 +160,102 @@
       "summary": "Quantum Systems develops autonomous, multi-domain systems that operate in the air, on the ground and on the water. Behind every platform is software that has to work reliably in the real world, with limited resources, unreliable connectivity and no second chan"
     },
     {
-      "id": "arbeitnow:remote-channel-account-manager-12145",
-      "title": "Channel Account Manager",
-      "org": "Watchguard",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/watchguard/remote-channel-account-manager-12145",
+      "id": "arbeitnow:remote-senior-support-engineer-eu-3043",
+      "title": "Senior Support Engineer, EU",
+      "org": "Sanity",
+      "role": "marketing",
+      "location": "Remote in the UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sanity/remote-senior-support-engineer-eu-3043",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794193655,
+      "postedAt": 1794292816,
       "tags": [
-        "Sales"
+        "Customer Solutions"
       ],
-      "summary": "This is a field position. About the Position The Channel Account Manager (CAM) responsibilities include working within the sales team to promote and sell network security products within a geographic territory. The CAM is responsible for supporting assigned Wa"
+      "summary": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content o"
+    },
+    {
+      "id": "arbeitnow:remote-senior-tax-accountant-emea-480081",
+      "title": "Senior Tax Accountant, EMEA",
+      "org": "Hims And Hers",
+      "role": "marketing",
+      "location": "UK - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/remote-senior-tax-accountant-emea-480081",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794282018,
+      "tags": [
+        "FINANCE & ACCOUNTING"
+      ],
+      "summary": "Hims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and "
+    },
+    {
+      "id": "arbeitnow:remote-tax-manager-emea-234674",
+      "title": "Tax Manager, EMEA",
+      "org": "Hims And Hers",
+      "role": "training",
+      "location": "UK - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/remote-tax-manager-emea-234674",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794282018,
+      "tags": [
+        "FINANCE & ACCOUNTING"
+      ],
+      "summary": "Hims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and "
+    },
+    {
+      "id": "arbeitnow:specialiste-support-services-financiers-teletravail-complet-possible-paris-205607",
+      "title": "Spécialiste Support Services Financiers (Télétravail complet possible)",
+      "org": "Pennylane SAS",
+      "role": "marketing",
+      "location": "All France (remote)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/specialiste-support-services-financiers-teletravail-complet-possible-paris-205607",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794292815,
+      "tags": [
+        "Customer Success"
+      ],
+      "summary": "Vous cherchez un environnement professionnel stimulant basé sur l'autonomie et la confiance ? Pennylane vous offre l'opportunité de grandir au sein d'une entreprise en pleine croissance. Ici, votre expertise contribuera directement à aider les entrepreneurs à "
+    },
+    {
+      "id": "arbeitnow:senior-design-manager-paris-189816",
+      "title": "Senior Design Manager",
+      "org": "Pennylane SAS",
+      "role": "marketing",
+      "location": "All France (remote)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-design-manager-paris-189816",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794292815,
+      "tags": [
+        "Product"
+      ],
+      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our product principles aligned with your vision? Then "
+    },
+    {
+      "id": "arbeitnow:remote-account-executive-dutch-france-411054",
+      "title": "Account Executive - Dutch",
+      "org": "Huzzle",
+      "role": "project",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/huzzle/remote-account-executive-dutch-france-411054",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794288018,
+      "tags": [
+        "Sales",
+        "Internet",
+        "Remote"
+      ],
+      "summary": "About Huzzle At Huzzle, we connect high-performing professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech, FinTech, and EdTech. W"
     },
     {
       "id": "arbeitnow:remote-app-testers-wanted-in-switzerland-switzerland-anywhere-475008",
@@ -193,6 +356,22 @@
         "Remote"
       ],
       "summary": "For our client, a leading strategic ServiceNow partner, we are looking for experienced ServiceNow CRM Architects, Senior Consultants and CRM Specialists to join their growing international team. Our client is very well positioned within the ServiceNow ecosyste"
+    },
+    {
+      "id": "arbeitnow:security-engineer-remote-netherlands-471107",
+      "title": "Security Engineer (Remote - Netherlands)",
+      "org": "EverAI",
+      "role": "training",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/everai/security-engineer-remote-netherlands-471107",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794282015,
+      "tags": [
+        "R&D"
+      ],
+      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
     },
     {
       "id": "arbeitnow:remote-account-executive-dutch-netherlands-170881",
