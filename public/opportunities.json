@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T06:41:05.853Z",
+  "updatedAt": "2026-11-11T19:41:51.647Z",
   "sourceCount": 2,
-  "totalFetched": 313,
-  "relevantCount": 35,
+  "totalFetched": 314,
+  "relevantCount": 43,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,420 +11,550 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:remote-generalist-operations-195554",
-      "title": "Generalist (Operations)",
-      "org": "Kairos Project",
-      "role": "hr",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/kairos-project/remote-generalist-operations-195554",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794357615,
-      "tags": [
-        "General"
-      ],
-      "summary": "Take on the business and back-end operations that keep Kairos running: finances, payments, HR, compliance, and systems, plus support for our programs and Pathfinder groups. Note: This role description is a first draft. Scope, salary, and responsibilities may e"
-    },
-    {
-      "id": "arbeitnow:c-software-engineer-united-kingdom-398275",
-      "title": "C++ Software Engineer",
-      "org": "Reactive Markets",
+      "id": "arbeitnow:sales-associate-moorgate-465796",
+      "title": "Sales Associate",
+      "org": "Checkatrade",
       "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/c-software-engineer-united-kingdom-398275",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794368412,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "C++ Software Engineer Remote (UK-based) | Full-Time About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ of th"
-    },
-    {
-      "id": "arbeitnow:technical-delivery-analyst-united-kingdom-128572",
-      "title": "Technical Delivery Analyst",
-      "org": "Reactive Markets",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/technical-delivery-analyst-united-kingdom-128572",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794368412,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "Technical Delivery Analyst Remote (UK-based) About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ of the world"
-    },
-    {
-      "id": "arbeitnow:senior-frontend-engineer-united-kingdom-408750",
-      "title": "Senior Frontend Engineer",
-      "org": "Reactive Markets",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/senior-frontend-engineer-united-kingdom-408750",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794368412,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "Senior Frontend Engineer Remote (UK-based) | Full-Time About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ of"
-    },
-    {
-      "id": "arbeitnow:senior-c-software-engineer-united-kingdom-25672",
-      "title": "Senior C++ Software Engineer",
-      "org": "Reactive Markets",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/senior-c-software-engineer-united-kingdom-25672",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794368412,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "Senior C++ Software Engineer Remote (UK-based) | Full-Time About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60"
-    },
-    {
-      "id": "arbeitnow:the-jump-fast-track-programme-london-468730",
-      "title": "The Jump: Fast-Track Programme",
-      "org": "Omnea",
-      "role": "project",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/the-jump-fast-track-programme-london-468730",
+      "location": "Moorgate London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkatrade/sales-associate-moorgate-465796",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794368412,
+      "postedAt": 1794411619,
       "tags": [
-        "Tech"
+        "Commercial & Operations"
       ],
-      "summary": "Our Mission: Omnea is the agentic operating system for procurement. Procurement touches every pound a business spends, yet requests still stall for weeks and approvals get lost in inboxes. Our AI-first platform changes that: our agents capture requests, route "
+      "summary": "Powering Great Work We started as the place to find a trusted trade. Now, as we shape the future of home improvement, we're building the tech to transform that landscape for everyone - better products, smarter data, AI where it actually helps - so trades can s"
     },
     {
-      "id": "arbeitnow:fix-onboarding-client-services-london-408539",
-      "title": "FIX Onboarding & Client Services",
-      "org": "Reactive Markets",
-      "role": "marketing",
-      "location": "Hybrid, London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/fix-onboarding-client-services-london-408539",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794368412,
-      "tags": [
-        "Sales",
-        "Client Services & Liquidity Management"
-      ],
-      "summary": "FIX Onboarding & Client Services, EMEA Hybrid, London, UK (3+ days per week in-office) | Full-Time About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equ"
-    },
-    {
-      "id": "arbeitnow:customer-operations-specialist-london-440436",
-      "title": "Customer Operations Specialist - London",
-      "org": "Plasma",
-      "role": "marketing",
-      "location": "London Office",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/plasma/customer-operations-specialist-london-440436",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794357616,
-      "tags": [
-        "Customer Experience"
-      ],
-      "summary": "About Plasma Plasma is building the primary account for global money. Money used to belong to a country. Increasingly, it belongs to a person or business moving through many countries. People and businesses now earn, spend, save, hire and invest across borders"
-    },
-    {
-      "id": "arbeitnow:head-of-ai-zurich-235333",
-      "title": "Head of AI",
-      "org": "Poesis",
+      "id": "arbeitnow:mid-senior-ai-cinematic-video-editor-freelance-full-remote-germany-268732",
+      "title": "Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - Germany)",
+      "org": "EverAI",
       "role": "training",
-      "location": "Zurich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/poesis/head-of-ai-zurich-235333",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794325236,
-      "tags": [
-        "AI Research"
-      ],
-      "summary": "About Poesis Whoever builds the leading intelligence for finance will create far more than returns. Poesis is the AI-native investment firm running autonomous agents that predict markets, construct portfolios, and manage risk. Our founders managed institutiona"
-    },
-    {
-      "id": "arbeitnow:internship-uav-robotics-mechatronics-drone-prototyping-integration-field-testing-delft-234540",
-      "title": "Internship - UAV Robotics/Mechatronics (Drone Prototyping, Integration & Field Testing)",
-      "org": "Fiducial",
-      "role": "project",
-      "location": "Delft",
-      "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-uav-robotics-mechatronics-drone-prototyping-integration-field-testing-delft-234540",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794292815,
-      "tags": [
-        "Internships"
-      ],
-      "summary": "Opening WE CANNOT PROVIDE VISA SPONSORSHIP Details Preferred starting date: ASAP Weekly availability: full-time (5 days/week) Period: 6 months Location: Aerospace Innovation Hub, Delft, the Netherlands About the company Fiducial is a young but fast-growing dee"
-    },
-    {
-      "id": "arbeitnow:senior-consultant-lucanet-consolidation-fpa-berlin-455229",
-      "title": "Senior Consultant Lucanet – Consolidation & FP&A (w/m/d)",
-      "org": "Right Search",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/right-search/senior-consultant-lucanet-consolidation-fpa-berlin-455229",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/everai/mid-senior-ai-cinematic-video-editor-freelance-full-remote-germany-268732",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794358831,
+      "postedAt": 1794422419,
       "tags": [
-        "Remote",
+        "R&D"
+      ],
+      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
+    },
+    {
+      "id": "arbeitnow:mid-senior-talent-acquisition-specialist-remote-germany-54355",
+      "title": "Mid/Senior Talent Acquisition Specialist (Remote - Germany)",
+      "org": "EverAI",
+      "role": "marketing",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/everai/mid-senior-talent-acquisition-specialist-remote-germany-54355",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794422419,
+      "tags": [
+        "Operations"
+      ],
+      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
+    },
+    {
+      "id": "arbeitnow:remote-data-engineer-frankfurt-am-main-258614",
+      "title": "Data Engineer (m/f/d)",
+      "org": "ANGEHEUERT GmbH",
+      "role": "training",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-data-engineer-frankfurt-am-main-258614",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794421880,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Data Engineer Are you technically skilled, enjoy exploring new approaches, and want to avoid being held back by existing structures and processes? As a Data Engineer , you will join an environment where many things are being built from the ground up and where "
+    },
+    {
+      "id": "arbeitnow:remote-lead-architect-platform-engineer-frankfurt-am-main-365204",
+      "title": "Lead Architect & Platform Engineer (m/f/d)",
+      "org": "ANGEHEUERT GmbH",
+      "role": "training",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-lead-architect-platform-engineer-frankfurt-am-main-365204",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794421880,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Lead Architect & Platform Engineer Are you looking for an architecture role where you do not simply optimize existing structures within a decades old IT environment? As a Lead Architect & Platform Engineer , you will have the opportunity to build key parts of "
+    },
+    {
+      "id": "arbeitnow:remote-data-ingenieur-frankfurt-am-main-499160",
+      "title": "Data Ingenieur (m/w/d)",
+      "org": "ANGEHEUERT GmbH",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-data-ingenieur-frankfurt-am-main-499160",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794421880,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Data Ingenieur Du bist technisch versiert, probierst gerne neue Ansätze aus und möchtest nicht bei jeder Entscheidung durch bestehende Strukturen ausgebremst werden? Als Data Ingenieur erwartet dich eine Umgebung, in der vieles neu aufgebaut wird und du deine "
+    },
+    {
+      "id": "arbeitnow:remote-lead-architekt-platform-engineer-frankfurt-am-main-4203",
+      "title": "Lead Architekt & Platform Engineer (m/w/d)",
+      "org": "ANGEHEUERT GmbH",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-lead-architekt-platform-engineer-frankfurt-am-main-4203",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794421880,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Lead Architekt & Platform Engineer Du suchst eine Architekturrolle, bei der du nicht in einem jahrzehntelang gewachsenen IT Umfeld nur bestehende Strukturen optimierst? Als Lead Architekt & Platform Engineer erhältst du die Möglichkeit, zentrale Teile einer mo"
+    },
+    {
+      "id": "arbeitnow:remote-senior-account-manager-existing-customers-all-genders-germany-241302",
+      "title": "(Senior) Account Manager - Existing Customers (all genders)",
+      "org": "Shiftmove",
+      "role": "marketing",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/shiftmove/remote-senior-account-manager-existing-customers-all-genders-germany-241302",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794421223,
+      "tags": [
+        "Sales",
+        "Computer Software",
+        "Remote"
+      ],
+      "summary": "Description In ganz Europa stehen Fuhrparks unter enormem Druck. Kraftstoffkosten steigen, regulatorische Anforderungen werden komplexer und der Umstieg auf emissionsärmere Fahrzeuge nimmt Fahrt auf. Gleichzeitig verwalten noch immer rund 70 % der europäischen"
+    },
+    {
+      "id": "arbeitnow:sap-abap-entwickler-bis-zu-80-remote-trier-187354",
+      "title": "SAP ABAP Entwickler (m/w/d) bis zu 80%-Remote",
+      "org": "VOLENTUM Deutschland GmbH",
+      "role": "project",
+      "location": "Trier",
+      "url": "https://www.arbeitnow.com/jobs/companies/volentum-deutschland-gmbh/sap-abap-entwickler-bis-zu-80-remote-trier-187354",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794414649,
+      "tags": [
         "SAP/ERP Consulting",
         "Development"
       ],
-      "summary": "WICHTIG: Wer keine Remote‑Arbeit oder 5‑10 % Reisebereitschaft akzeptiert, ist hier falsch. Du willst nicht nur ein weiteres Consulting‑Projekt abarbeiten, sondern eigenverantwortlich Lucanet‑Implementierungen von Tag 1 an leiten. Du willst dabei volle Autonom"
+      "summary": "Unser Kunde ist ein etabliertes Industrieunternehmen und Teil einer Unternehmensgruppe mit über 1.000 Mitarbeitenden. Moderne, hochautomatisierte Fertigungsprozesse, eine hohe Variantenvielfalt und eine leistungsfähige Logistik prägen das industrielle Umfeld. "
     },
     {
-      "id": "arbeitnow:remote-1207-content-writer-seo-copywriter-part-time-germany-224077",
-      "title": "1207 Content Writer / SEO Copywriter (Part-Time)",
-      "org": "Intetics 2",
-      "role": "marketing",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1207-content-writer-seo-copywriter-part-time-germany-224077",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794356416,
-      "tags": [
-        "Information Technology and Services",
-        "Remote"
-      ],
-      "summary": "Intetics Inc. , a global technology company providing custom software application development, distributed professional teams, software product quality assessment, and digital transformation solutions, is looking for a German Content Writer / SEO Copywriter to"
-    },
-    {
-      "id": "arbeitnow:remote-account-executive-dutch-germany-364152",
-      "title": "Account Executive - Dutch",
-      "org": "Huzzle",
+      "id": "arbeitnow:sustainability-consultant-pcf-lca-climate-tech-berlin-12238",
+      "title": "Sustainability Consultant – PCF/LCA / Climate Tech (w/m/d)",
+      "org": "Right Search",
       "role": "project",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/huzzle/remote-account-executive-dutch-germany-364152",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/right-search/sustainability-consultant-pcf-lca-climate-tech-berlin-12238",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794356412,
+      "postedAt": 1794412867,
       "tags": [
-        "Sales",
-        "Internet",
-        "Remote"
+        "Remote",
+        "Power Engineering and Environmental Engineering"
       ],
-      "summary": "About Huzzle At Huzzle, we connect high-performing professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech, FinTech, and EdTech. W"
+      "summary": "If you do not speak German at a minimum C1 level, please do not apply! Applying anyway is disrespectful and a waste of both your time and mine. This requirement is clearly stated for a reason. No fluent German, no chance. No exceptions! Unser Kunde Das Unterne"
     },
     {
-      "id": "arbeitnow:remote-strategic-customer-success-manager-16718",
-      "title": "Strategic Customer Success Manager",
-      "org": "Spring Health",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-strategic-customer-success-manager-16718",
+      "id": "arbeitnow:werkstudentin-research-und-ai-gn-im-executive-search-berlin-321659",
+      "title": "Werkstudent:in Research und AI (gn) im Executive Search",
+      "org": "proetzl executive search",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/proetzl-executive-search/werkstudentin-research-und-ai-gn-im-executive-search-berlin-321659",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794346825,
+      "postedAt": 1794412864,
+      "tags": [
+        "Remote",
+        "Recruitment and Selection"
+      ],
+      "summary": "Über uns Die proetzl unternehmensberatung ist eine Executive Search Boutique mit Sitz in der Münchner Maximilianstraße. Seit 1993 besetzen wir Führungs, Management und C Level Positionen für exklusive Mandanten im deutschen Mittelstand und im Konzernumfeld. Wi"
+    },
+    {
+      "id": "arbeitnow:remote-sales-support-manager-239174",
+      "title": "Sales Support Manager (w/m/d)",
+      "org": "Enpal",
+      "role": "project",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/enpal/remote-sales-support-manager-239174",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794411618,
       "tags": [
         "Sales"
       ],
-      "summary": "Our mission: eliminating every barrier to mental health. Spring Health is a global mental health company on a mission to eliminate every barrier to mental health. We're building a world where getting support is simple, personal, and built around the person, so"
+      "summary": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis z"
     },
     {
-      "id": "arbeitnow:customer-success-manager-100-remote-berlin-248564",
-      "title": "Customer Success Manager (m/w/d) - 100% Remote",
-      "org": "ProviPanda GmbH",
-      "role": "support",
+      "id": "arbeitnow:devsecops-engineer-all-genders-100-homeoffice-berlin-41277",
+      "title": "DevSecOps Engineer (all genders) 100% Homeoffice",
+      "org": "fino data services GmbH",
+      "role": "project",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-100-remote-berlin-248564",
+      "url": "https://www.arbeitnow.com/jobs/companies/fino-data-services-gmbh/devsecops-engineer-all-genders-100-homeoffice-berlin-41277",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794339043,
+      "postedAt": 1794409263,
       "tags": [
         "Remote",
-        "Customer Service"
+        "IT Security"
       ],
-      "summary": "ProviPanda ist ein wachsendes HR-Tech-Startup und mittlerweile die größte Sales-Job-App im DACH-Raum. Mit einem Team aus 15 Mitarbeitenden arbeiten wir daran, den Sales-HR-Markt zu revolutionieren und neu zu denken. Als Customer Success Manager bist du die zen"
+      "summary": "Dein Team Menschen, die etwas bewegen wollen, ziehen Menschen an, die etwas bewegen wollen. Bei der fino data services arbeitest du mit Menschen, die neugierig sind, schnell denken und Dinge gerne selbst in die Hand nehmen. Die sich festbeißen, wenn etwas span"
     },
     {
-      "id": "arbeitnow:remote-business-analytics-architect-372446",
-      "title": "Business Analytics Architect",
-      "org": "Muckrack",
+      "id": "arbeitnow:marketing-content-lead-in-teilzeit-oder-vollzeit-60-remote-frankfurt-am-main-171455",
+      "title": "Marketing & Content Lead (m/w/d) - in Teilzeit oder Vollzeit, 60% Remote",
+      "org": "Recruiting Sonia",
+      "role": "marketing",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/recruiting-sonia/marketing-content-lead-in-teilzeit-oder-vollzeit-60-remote-frankfurt-am-main-171455",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794409263,
+      "tags": [
+        "Social Media Manager"
+      ],
+      "summary": "book-n-drive – wir bewegen das Rhein-Main-Gebiet! Als größter Carsharing-Anbieter der Region setzen wir auf smarte Mobilität, nachhaltige Lösungen und ein starkes Team. Mit rund 1.000 Fahrzeugen und mehr als 80.000 Kunden gestalten wir die Mobilität von morgen"
+    },
+    {
+      "id": "arbeitnow:sales-manager-stadtwerke-industrie-suddeutschland-hanover-304355",
+      "title": "Sales Manager (m/w/d) – Stadtwerke & Industrie | Süddeutschland",
+      "org": "Emission Partner GmbH",
+      "role": "marketing",
+      "location": "Hanover",
+      "url": "https://www.arbeitnow.com/jobs/companies/emission-partner-gmbh/sales-manager-stadtwerke-industrie-suddeutschland-hanover-304355",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794407467,
+      "tags": [
+        "Remote",
+        "Business Development"
+      ],
+      "summary": "Dein Job für sauberere Luft. Werde Emission Partner. Technik aus dem Saterland. Wirkung weit darüber hinaus. In der Gemeinde Saterland entwickeln und produzieren wir Technologien, die Schadstoffemissionen reduzieren. Unsere Katalysatoren und Systeme kommen dor"
+    },
+    {
+      "id": "arbeitnow:remote-senior-clinical-research-associate-339167",
+      "title": "Senior Clinical Research Associate",
+      "org": "Precisionmedicinegroup",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-senior-clinical-research-associate-339167",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794423325,
+      "tags": [
+        "Clinical Solutions"
+      ],
+      "summary": "&lt;p&gt;At Precision for Medicine, we are always looking to connect with exceptional talents, and we are currently seeking &lt;strong&gt;Senior Clinical Research Associates&lt;/strong&gt; in &lt;strong&gt;Poland, Hungary, United Kingdom, France and Germany&lt"
+    },
+    {
+      "id": "arbeitnow:remote-regulatory-manager-senior-regulatory-manager-173388",
+      "title": "Regulatory Manager / Senior Regulatory Manager",
+      "org": "Precisionmedicinegroup",
       "role": "training",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-business-analytics-architect-372446",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-regulatory-manager-senior-regulatory-manager-173388",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794369320,
+      "postedAt": 1794423325,
       "tags": [
-        "G&A - Analytics"
+        "Clinical Solutions"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Muck Rack is trusted by thousands of organizations around the world to understand how their brands show up across news, social media and AI-generated answers.&lt;/p&gt; &lt;p&gt;Our AI-powered platform connects the ent"
+      "summary": "&lt;p&gt;&lt;span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\"&gt;Precision for Medicine is not your typical CRO.&nbsp; At Precision for Medicine we have brought together new technologies, expertise and operational scale to help the life"
     },
     {
-      "id": "arbeitnow:senior-business-analyst-requirements-engineer-76080-winterthur-352055",
-      "title": "Senior Business Analyst / Requirements Engineer (76080)",
-      "org": "IQ Plus AG",
-      "role": "project",
-      "location": "Winterthur",
-      "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/senior-business-analyst-requirements-engineer-76080-winterthur-352055",
+      "id": "arbeitnow:mid-senior-ai-cinematic-video-editor-freelance-full-remote-uk-united-kingdom-218574",
+      "title": "Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - UK)",
+      "org": "EverAI",
+      "role": "training",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/mid-senior-ai-cinematic-video-editor-freelance-full-remote-uk-united-kingdom-218574",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794330050,
+      "postedAt": 1794422417,
+      "tags": [
+        "R&D"
+      ],
+      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
+    },
+    {
+      "id": "arbeitnow:sponsorship-sales-executive-dalston-359118",
+      "title": "Sponsorship Sales Executive",
+      "org": "Pmmalliance",
+      "role": "marketing",
+      "location": "Hybrid or Fully Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/sponsorship-sales-executive-dalston-359118",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794422415,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The Company: When it comes to digital communities, The Alliance is leading the way. Product marketing, sales enablement, product-led growth, AI, customer success, CMOs, you name it, we’re home to thriving communities for them all. With 160,000+ professionals a"
+    },
+    {
+      "id": "arbeitnow:remote-seo-specialist-london-494431",
+      "title": "SEO Specialist",
+      "org": "TransPerfect",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-seo-specialist-london-494431",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794421883,
+      "tags": [
+        "Project Management",
+        "Remote"
+      ],
+      "summary": "Ready to turn SEO into measurable business growth? TransPerfect are looking for a strategic, data-driven SEO Specialist to support their digital department to help global brands expand into the UK English market. We're looking for a freelance expert to support"
+    },
+    {
+      "id": "arbeitnow:remote-senior-clinical-research-associate-21052",
+      "title": "Senior Clinical Research Associate",
+      "org": "Precisionmedicinegroup",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/precisionmedicinegroup/remote-senior-clinical-research-associate-21052",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794423325,
+      "tags": [
+        "Clinical Solutions"
+      ],
+      "summary": "&lt;p&gt;At Precision for Medicine, we are always looking to connect with exceptional talents, and we are currently seeking &lt;strong&gt;Senior Clinical Research Associates&lt;/strong&gt; in &lt;strong&gt;Poland, Hungary, United Kingdom, France and Germany&lt"
+    },
+    {
+      "id": "arbeitnow:mid-senior-talent-acquisition-specialist-remote-france-195707",
+      "title": "Mid/Senior Talent Acquisition Specialist (Remote - France)",
+      "org": "EverAI",
+      "role": "marketing",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/everai/mid-senior-talent-acquisition-specialist-remote-france-195707",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794422417,
+      "tags": [
+        "Operations"
+      ],
+      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
+    },
+    {
+      "id": "arbeitnow:remote-seo-specialist-paris-217879",
+      "title": "SEO Specialist",
+      "org": "TransPerfect",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/remote-seo-specialist-paris-217879",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794421882,
+      "tags": [
+        "Project Management",
+        "Remote"
+      ],
+      "summary": "Ready to turn SEO into measurable business growth? TransPerfect are looking for a strategic, data-driven SEO Specialist to support their digital department to help global brands expand into the French (France) market. We're looking for a freelance expert to su"
+    },
+    {
+      "id": "arbeitnow:accountmanager-in-auction-business-nouvelle-aquitaine-gn-bordeaux-240684",
+      "title": "Accountmanager in Auction Business - Nouvelle-Aquitaine (gn)",
+      "org": "Surplex GmbH",
+      "role": "marketing",
+      "location": "Bordeaux",
+      "url": "https://www.arbeitnow.fr/jobs/companies/surplex-gmbh/accountmanager-in-auction-business-nouvelle-aquitaine-gn-bordeaux-240684",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794418250,
       "tags": [
         "Remote",
-        "Consulting",
-        "Engineering"
+        "Business Development"
       ],
-      "summary": "Wir suchen für einen Kunden einen erfahrenen Business Analyst / Requirements Engineer. Dabei übernimmst du eine zentrale Rolle zwischen Business und Technologie: Du verstehst Geschäftsprozesse und Bedürfnisse im Kern, strukturierst komplexe Anforderungen und s"
+      "summary": "For this position we source for our sistercompany Troostwijk. About us Troostwijk and it's group TBAuctions are one of Europe’s leading networks for digital B2B auctions. We market machines, vehicles, equipment and other commercial assets, bringing sellers and"
     },
     {
-      "id": "arbeitnow:pega-spezialist-als-lead-business-amp-system-architect-76037-winterthur-205331",
-      "title": "PEGA Spezialist als Lead Business & System Architect (76037)",
-      "org": "IQ Plus AG",
+      "id": "arbeitnow:remote-mission-freelance-expert-devops-cloudflare-one-france-236688",
+      "title": "Mission Freelance - Expert DevOps Cloudflare One",
+      "org": "Brixio",
       "role": "project",
-      "location": "Winterthur",
-      "url": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/pega-spezialist-als-lead-business-amp-system-architect-76037-winterthur-205331",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brixio/remote-mission-freelance-expert-devops-cloudflare-one-france-236688",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794330048,
+      "postedAt": 1794417619,
       "tags": [
-        "Remote",
-        "Consulting",
-        "Engineering"
+        "Information Technology",
+        "Information Technology and Services",
+        "Remote"
       ],
-      "summary": "Für einen Kunden aus der öffentlichen Verwaltung suchen wir einen erfahrenen Pega Lead Business & System Architect. Bei diesem langfristigen Projekteinsatz spielen Sie eine zentrale Rolle bei der Gestaltung und Weiterentwicklung moderner Geschäftsanwendungen. "
+      "summary": "Mission Freelance – Expert DevOps Cloudflare One Zero Trust | Security Engineering | Terraform | GitOps Contexte Pour le compte d'un grand groupe français du secteur de l'énergie, nous recherchons un Expert DevOps Cloudflare pour accompagner le déploiement et "
     },
     {
-      "id": "arbeitnow:quality-operational-excellence-spezialistin-zurich-354624",
-      "title": "Quality & Operational Excellence Spezialist:in",
+      "id": "arbeitnow:accountmanager-in-auction-business-hauts-de-france-gn-lille-242834",
+      "title": "Accountmanager in Auction Business - Hauts de France (gn)",
+      "org": "Surplex GmbH",
+      "role": "marketing",
+      "location": "Lille",
+      "url": "https://www.arbeitnow.fr/jobs/companies/surplex-gmbh/accountmanager-in-auction-business-hauts-de-france-gn-lille-242834",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794412866,
+      "tags": [
+        "Remote",
+        "Business Development"
+      ],
+      "summary": "For this position we source for our sister company Troostwijk. About us Troostwijk & the TBAuctions group are part of one of Europe’s leading networks for digital B2B auctions. We market machines, vehicles, equipment and other commercial assets, bringing selle"
+    },
+    {
+      "id": "arbeitnow:remote-seo-specialist-zurich-115790",
+      "title": "SEO Specialist",
+      "org": "TransPerfect",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/transperfect/remote-seo-specialist-zurich-115790",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794421882,
+      "tags": [
+        "Project Management",
+        "Remote"
+      ],
+      "summary": "Ready to turn SEO into measurable business growth? TransPerfect are looking for a strategic, data-driven SEO Specialist to support their digital department to help global brands expand into the French (Swiss) market. We're looking for a freelance expert to sup"
+    },
+    {
+      "id": "arbeitnow:remote-seo-specialist-zurich-448819",
+      "title": "SEO Specialist",
+      "org": "TransPerfect",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/transperfect/remote-seo-specialist-zurich-448819",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794421882,
+      "tags": [
+        "Project Management",
+        "Remote"
+      ],
+      "summary": "Ready to turn SEO into measurable business growth? TransPerfect are looking for a strategic, data-driven SEO Specialist to support their digital department to help global brands expand into the German (Swiss) market. We're looking for a freelance expert to sup"
+    },
+    {
+      "id": "arbeitnow:cx-consultant-zurich-3047",
+      "title": "CX Consultant",
       "org": "Coopers Group AG",
       "role": "project",
       "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/quality-operational-excellence-spezialistin-zurich-354624",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/cx-consultant-zurich-3047",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794322873,
+      "postedAt": 1794412864,
       "tags": [
         "Remote",
-        "Quality Management"
+        "Business Consulting"
       ],
-      "summary": "................ Für unseren Kunden im Grossraum Zürich suchen wir eine engagierte Persönlichkeit als Quality & Operational Excellence Spezialist:in , die aktiv zur kontinuierlichen Verbesserung von Prozessen, Qualität und operativer Effizienz beiträgt. Deine "
+      "summary": "................ Für unseren Kunden in Zürich/Wien suchen wir eine:n erfahrene:n CX Consultant zur Unterstützung eines internationalen Transformations- und Customer-Experience-Projekts im Umfeld der Bauindustrie. Die Rolle erfordert eine starke Seniorität, aus"
     },
     {
-      "id": "arbeitnow:senior-data-engineer-datenplattform-zurich-278207",
-      "title": "Senior Data Engineer - Datenplattform",
-      "org": "Coopers Group AG",
-      "role": "project",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-data-engineer-datenplattform-zurich-278207",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794319277,
-      "tags": [
-        "Remote",
-        "Data Processing",
-        "Data Engineer"
-      ],
-      "summary": "................ Für unseren Kunden in Luzern suchen wir eine:n erfahrene:n Senior Data Engineer - Datenplattform zur Verstärkung des Teams. Deine Aufgaben: Weiterentwicklung und Betrieb einer modernen Datenplattform auf Databricks Entwicklung, Optimierung und"
-    },
-    {
-      "id": "arbeitnow:data-platform-engineer-zurich-361577",
-      "title": "Data & Platform Engineer",
-      "org": "Coopers Group AG",
-      "role": "project",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/data-platform-engineer-zurich-361577",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794315652,
-      "tags": [
-        "Remote",
-        "IT"
-      ],
-      "summary": "................ Für unseren Kunden in Zürich, suchen wir eine:n erfahrene:n und aufgeschlossene:n Data & Platform Engineer . In diesem Projekt unterstützt du den Aufbau und die Weiterentwicklung einer zentralen Datenplattform im Rahmen einer umfassenden IT-Tr"
-    },
-    {
-      "id": "arbeitnow:remote-senior-new-business-manager-suisse-romande-saas-iot-lausanne-54987",
-      "title": "📈 (Senior) New Business Manager (h/f/d) | Suisse Romande ⚡ SaaS & IoT",
-      "org": "ANGEHEUERT GmbH",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/angeheuert-gmbh/remote-senior-new-business-manager-suisse-romande-saas-iot-lausanne-54987",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794313883,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Tu veux donner du sens à ton travail commercial et contribuer à une mission à fort impact ? Tu parles couramment français et allemand et tu aimes conquérir de nouveaux clients ? Rejoins nous et participe activement au développement du marché suisse. Notre clie"
-    },
-    {
-      "id": "arbeitnow:remote-senior-new-business-manager-suisse-romande-saas-iot-genf-292037",
-      "title": "📈 (Senior) New Business Manager (h/f/d) | Suisse Romande ⚡ SaaS & IoT",
-      "org": "ANGEHEUERT GmbH",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/angeheuert-gmbh/remote-senior-new-business-manager-suisse-romande-saas-iot-genf-292037",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794313883,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Tu veux donner du sens à ton travail commercial et contribuer à une mission à fort impact ? Tu parles couramment français et allemand et tu aimes conquérir de nouveaux clients ? Rejoins nous et participe activement au développement du marché suisse. Notre clie"
-    },
-    {
-      "id": "arbeitnow:remote-senior-new-business-manager-suisse-romande-saas-iot-neuchatel-45711",
-      "title": "📈 (Senior) New Business Manager (h/f/d) | Suisse Romande ⚡ SaaS & IoT",
-      "org": "ANGEHEUERT GmbH",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/angeheuert-gmbh/remote-senior-new-business-manager-suisse-romande-saas-iot-neuchatel-45711",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794313883,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Tu veux donner du sens à ton travail commercial et contribuer à une mission à fort impact ? Tu parles couramment français et allemand et tu aimes conquérir de nouveaux clients ? Rejoins nous et participe activement au développement du marché suisse. Notre clie"
-    },
-    {
-      "id": "arbeitnow:remote-product-designer-amsterdam-294295",
-      "title": "Product Designer",
-      "org": "SkyCell AG",
+      "id": "arbeitnow:remote-app-testers-wanted-in-switzerland-switzerland-anywhere-115014",
+      "title": "App Testers wanted in Switzerland!",
+      "org": "Tester Work",
       "role": "training",
       "location": "Remote job",
-      "url": "https://www.arbeitnow.nl/jobs/companies/skycell-ag/remote-product-designer-amsterdam-294295",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tester-work/remote-app-testers-wanted-in-switzerland-switzerland-anywhere-115014",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794357083,
+      "postedAt": 1794411084,
       "tags": [
-        "Product",
+        "QA Testing",
         "Remote"
       ],
-      "summary": "Software is not just vital but a strategic cornerstone of our operations. We’re looking for a Product Designer to set the cross-application UX direction for our commercial software - from pharma cold-chain visibility that helps temperature-sensitive medicines "
+      "summary": "Tester Work provides access to exciting and rewarding project-based opportunities for freelancers. Learn new skills and earn money by testing world-class apps and websites. 🌎 For this specific project, we are looking for QA testers and tech enthusiasts in Swi"
+    },
+    {
+      "id": "arbeitnow:mid-senior-ai-cinematic-video-editor-freelance-full-remote-netherlands-47369",
+      "title": "Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - Netherlands)",
+      "org": "EverAI",
+      "role": "training",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/everai/mid-senior-ai-cinematic-video-editor-freelance-full-remote-netherlands-47369",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794422417,
+      "tags": [
+        "R&D"
+      ],
+      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
+    },
+    {
+      "id": "arbeitnow:remote-junior-system-engineer-apeldoorn-481393",
+      "title": "Junior System Engineer",
+      "org": "The Trainee Company",
+      "role": "project",
+      "location": "Werken op afstand",
+      "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/remote-junior-system-engineer-apeldoorn-481393",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794421885,
+      "tags": [
+        "Business & ICT",
+        "Remote"
+      ],
+      "summary": "Wil jij je ontwikkelen op het snijvlak van business en IT én direct impact maken binnen een van de belangrijkste organisaties van Nederland? Tijdens het Traineeship Business & IT bij The Trainee Company ga je aan de slag als systemengineer waar je meewerkt aan"
+    },
+    {
+      "id": "arbeitnow:remote-technical-integrations-manager-241796",
+      "title": "Technical Integrations Manager",
+      "org": "Vio",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/vio/remote-technical-integrations-manager-241796",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794400811,
+      "tags": [
+        "Engineering & Technology"
+      ],
+      "summary": "At Vio we believe booking accommodation should feel smart, fair, and effortless — never overwhelming or unclear. As one of the world’s fastest-growing travel tech platforms, we help millions of users make smarter travel decisions by comparing stays across 100+"
     },
     {
       "id": "remotive:2086540",
