@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T19:50:32.225Z",
+  "updatedAt": "2026-11-11T06:41:05.853Z",
   "sourceCount": 2,
   "totalFetched": 313,
-  "relevantCount": 47,
+  "relevantCount": 35,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,84 +11,133 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:strategic-account-executive-dach-munich-267865",
-      "title": "Strategic Account Executive, DACH",
-      "org": "Harvey",
-      "role": "marketing",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/harvey/strategic-account-executive-dach-munich-267865",
+      "id": "arbeitnow:remote-generalist-operations-195554",
+      "title": "Generalist (Operations)",
+      "org": "Kairos Project",
+      "role": "hr",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/kairos-project/remote-generalist-operations-195554",
       "source": "Arbeitnow",
-      "remote": false,
+      "remote": true,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794336033,
+      "postedAt": 1794357615,
       "tags": [
-        "Go to Market"
+        "General"
       ],
-      "summary": "Why Harvey At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is "
+      "summary": "Take on the business and back-end operations that keep Kairos running: finances, payments, HR, compliance, and systems, plus support for our programs and Pathfinder groups. Note: This role description is a first draft. Scope, salary, and responsibilities may e"
     },
     {
-      "id": "arbeitnow:qa-lead-data-platform-tl1-london-38241",
-      "title": "QA Lead - Data Platform (TL1)",
-      "org": "Kaluza",
+      "id": "arbeitnow:c-software-engineer-united-kingdom-398275",
+      "title": "C++ Software Engineer",
+      "org": "Reactive Markets",
       "role": "marketing",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/qa-lead-data-platform-tl1-london-38241",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/c-software-engineer-united-kingdom-398275",
       "source": "Arbeitnow",
-      "remote": false,
+      "remote": true,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794325235,
+      "postedAt": 1794368412,
       "tags": [
         "Engineering"
       ],
-      "summary": "Location: Bristol or London Level: TL1 Team: Quality Contract: Permanent Reporting To: Shira Tsinovich Please note: This role requires an existing right to work in the UK. We can’t offer visa sponsorship, but we review sponsorship role by role, so keep an eye "
+      "summary": "C++ Software Engineer Remote (UK-based) | Full-Time About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ of th"
     },
     {
-      "id": "arbeitnow:technical-project-manager-paris-252307",
-      "title": "Technical Project Manager",
-      "org": "Kaluza",
+      "id": "arbeitnow:technical-delivery-analyst-united-kingdom-128572",
+      "title": "Technical Delivery Analyst",
+      "org": "Reactive Markets",
       "role": "marketing",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/technical-project-manager-paris-252307",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/technical-delivery-analyst-united-kingdom-128572",
       "source": "Arbeitnow",
-      "remote": false,
+      "remote": true,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794325234,
+      "postedAt": 1794368412,
       "tags": [
-        "Client Delivery"
+        "Engineering"
       ],
-      "summary": "Location : Paris - Hybrid Level: C3 Team : Client Delivery Salary : Paris €63,900 - €78,100 Reporting to : Principal Programme Manager This role is based in Paris and requires existing right to work in the EU. At this time, we are not able to offer visa sponso"
+      "summary": "Technical Delivery Analyst Remote (UK-based) About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ of the world"
     },
     {
-      "id": "arbeitnow:learning-and-adoption-specialist-12-month-ftc-paris-491646",
-      "title": "Learning and Adoption specialist (12 month FTC)",
-      "org": "Kaluza",
-      "role": "training",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/learning-and-adoption-specialist-12-month-ftc-paris-491646",
+      "id": "arbeitnow:senior-frontend-engineer-united-kingdom-408750",
+      "title": "Senior Frontend Engineer",
+      "org": "Reactive Markets",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/senior-frontend-engineer-united-kingdom-408750",
       "source": "Arbeitnow",
-      "remote": false,
+      "remote": true,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794325234,
+      "postedAt": 1794368412,
       "tags": [
-        "Client Delivery"
+        "Engineering"
       ],
-      "summary": "Location: Paris, France (hybrid, three days a week in the office) Level: C2 Team: Client Delivery EMEA Contract: 12 month fixed-term Reporting To: Operating Model Design Lead Please note: This role requires an existing right to work in the EU. We can’t offer v"
+      "summary": "Senior Frontend Engineer Remote (UK-based) | Full-Time About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ of"
     },
     {
-      "id": "arbeitnow:technical-analyst-paris-269653",
-      "title": "Technical Analyst",
-      "org": "Kaluza",
-      "role": "training",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/technical-analyst-paris-269653",
+      "id": "arbeitnow:senior-c-software-engineer-united-kingdom-25672",
+      "title": "Senior C++ Software Engineer",
+      "org": "Reactive Markets",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/senior-c-software-engineer-united-kingdom-25672",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794368412,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "Senior C++ Software Engineer Remote (UK-based) | Full-Time About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60"
+    },
+    {
+      "id": "arbeitnow:the-jump-fast-track-programme-london-468730",
+      "title": "The Jump: Fast-Track Programme",
+      "org": "Omnea",
+      "role": "project",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/the-jump-fast-track-programme-london-468730",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794325234,
+      "postedAt": 1794368412,
       "tags": [
-        "Client Delivery"
+        "Tech"
       ],
-      "summary": "Location : Paris, France (Hybrid) Level : C2 Team : Client Delivery Salary : €48,000 - €63,000 per annum Reporting To : Head of Migration Enablement and Architecture This role is based in Paris and requires an existing right to work in the EU. At this time, we"
+      "summary": "Our Mission: Omnea is the agentic operating system for procurement. Procurement touches every pound a business spends, yet requests still stall for weeks and approvals get lost in inboxes. Our AI-first platform changes that: our agents capture requests, route "
+    },
+    {
+      "id": "arbeitnow:fix-onboarding-client-services-london-408539",
+      "title": "FIX Onboarding & Client Services",
+      "org": "Reactive Markets",
+      "role": "marketing",
+      "location": "Hybrid, London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/fix-onboarding-client-services-london-408539",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794368412,
+      "tags": [
+        "Sales",
+        "Client Services & Liquidity Management"
+      ],
+      "summary": "FIX Onboarding & Client Services, EMEA Hybrid, London, UK (3+ days per week in-office) | Full-Time About Us Reactive Markets is the 2026 OTC Trading Platform of the Year ( Risk.net ). Our network handles over $75 billion in daily trading volumes across FX, Equ"
+    },
+    {
+      "id": "arbeitnow:customer-operations-specialist-london-440436",
+      "title": "Customer Operations Specialist - London",
+      "org": "Plasma",
+      "role": "marketing",
+      "location": "London Office",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/plasma/customer-operations-specialist-london-440436",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794357616,
+      "tags": [
+        "Customer Experience"
+      ],
+      "summary": "About Plasma Plasma is building the primary account for global money. Money used to belong to a country. Increasingly, it belongs to a person or business moving through many countries. People and businesses now earn, spend, save, hire and invest across borders"
     },
     {
       "id": "arbeitnow:head-of-ai-zurich-235333",
@@ -123,328 +172,106 @@
       "summary": "Opening WE CANNOT PROVIDE VISA SPONSORSHIP Details Preferred starting date: ASAP Weekly availability: full-time (5 days/week) Period: 6 months Location: Aerospace Innovation Hub, Delft, the Netherlands About the company Fiducial is a young but fast-growing dee"
     },
     {
-      "id": "arbeitnow:remote-senior-application-security-engineer-all-genders-berlin-457264",
-      "title": "Senior Application Security Engineer (all genders)",
-      "org": "Distribusion Technologies",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-application-security-engineer-all-genders-berlin-457264",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794335484,
-      "tags": [
-        "Technology",
-        "Remote"
-      ],
-      "summary": "Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail and ferry o"
-    },
-    {
-      "id": "arbeitnow:unpaid-internship-growth-marketer-social-media-intern-mandatory-or-voluntary-internship-berlin-499542",
-      "title": "(Unpaid internship) Growth marketer & Social Media Intern (m/f/d): Mandatory or Voluntary Internship",
-      "org": "IndieKidz GmbH",
-      "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/unpaid-internship-growth-marketer-social-media-intern-mandatory-or-voluntary-internship-berlin-499542",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794333642,
-      "tags": [
-        "Remote",
-        "Social Media Manager"
-      ],
-      "summary": "About IndieKidz IndieKidz GmbH is a Berlin-based startup building Occibo, an AI-powered platform that helps authors, illustrators, parents, and teachers create, design, and publish children's books. We are a small, international team, and we are looking for so"
-    },
-    {
-      "id": "arbeitnow:data-protection-officer-landau-an-der-isar-431773",
-      "title": "Data Protection Officer (m/w/d)",
-      "org": "actago GmbH",
-      "role": "project",
-      "location": "Landau an der Isar",
-      "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/data-protection-officer-landau-an-der-isar-431773",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794331865,
-      "tags": [
-        "Remote",
-        "Compliance",
-        "Security"
-      ],
-      "summary": "Sie beraten Kunden bei datenschutzrechtlichen Fragestellungen und unterstützen bei der Umsetzung gesetzlicher Anforderungen. Dabei implementieren Sie ein Datenschutz-Managementsystem (DSMS), erstellen entsprechende Dokumentationen und führen Schulungs- und Sen"
-    },
-    {
-      "id": "arbeitnow:data-protection-information-security-consultant-landau-an-der-isar-213551",
-      "title": "Data Protection & Information Security Consultant (m/w/d)",
-      "org": "actago GmbH",
-      "role": "project",
-      "location": "Landau an der Isar",
-      "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/data-protection-information-security-consultant-landau-an-der-isar-213551",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794331861,
-      "tags": [
-        "Remote",
-        "Compliance",
-        "Security"
-      ],
-      "summary": "Sie begleiten Kunden bei der Einführung und Implementierung von Datenschutz-Managementsystemen (DSMS) und Informationssicherheits-Managementsystemen (ISMS). Darüber hinaus erstellen Sie Dokumentationen, vermitteln Fachwissen in Schulungen und beraten zu datens"
-    },
-    {
-      "id": "arbeitnow:junior-consultant-fur-datenschutz-und-informationssicherheit-landau-an-der-isar-175772",
-      "title": "Junior Consultant für Datenschutz und Informationssicherheit (m/w/d)",
-      "org": "actago GmbH",
-      "role": "project",
-      "location": "Landau an der Isar",
-      "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/junior-consultant-fur-datenschutz-und-informationssicherheit-landau-an-der-isar-175772",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794331861,
-      "tags": [
-        "Remote",
-        "Compliance",
-        "Security"
-      ],
-      "summary": "Sie begleiten Kunden bei der Einführung und Implementierung von Datenschutz-Managementsystemen (DSMS) und Informationssicherheits-Managementsystemen (ISMS). Darüber hinaus erstellen Sie Dokumentationen, vermitteln Fachwissen in Schulungen und beraten zu datens"
-    },
-    {
-      "id": "arbeitnow:information-security-officer-landau-an-der-isar-457173",
-      "title": "Information Security Officer (m/w/d)",
-      "org": "actago GmbH",
-      "role": "project",
-      "location": "Landau an der Isar",
-      "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/information-security-officer-landau-an-der-isar-457173",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794331861,
-      "tags": [
-        "Remote",
-        "IT Security"
-      ],
-      "summary": "Sie beraten Kunden bei der Umsetzung von Informationssicherheit nach VdS 10000, ISO/IEC 27001, BSI-Grundschutz und CISIS12. Dabei implementieren Sie ein Informationssicherheits-Managementsystem (ISMS), erstellen entsprechende Dokumentationen und führen Schulun"
-    },
-    {
-      "id": "arbeitnow:senior-sap-ewm-berater-test-lead-freelance-berlin-72500",
-      "title": "Senior SAP EWM Berater & Test Lead (Freelance)",
-      "org": "Sidekick Network GmbH & Co. KG",
+      "id": "arbeitnow:senior-consultant-lucanet-consolidation-fpa-berlin-455229",
+      "title": "Senior Consultant Lucanet – Consolidation & FP&A (w/m/d)",
+      "org": "Right Search",
       "role": "project",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-ewm-berater-test-lead-freelance-berlin-72500",
+      "url": "https://www.arbeitnow.com/jobs/companies/right-search/senior-consultant-lucanet-consolidation-fpa-berlin-455229",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794330051,
+      "postedAt": 1794358831,
       "tags": [
         "Remote",
         "SAP/ERP Consulting",
         "Development"
       ],
-      "summary": "Für unseren internationalen Kunden aus der Diagnostikbranche suchen wir einen erfahrenen Senior SAP EWM Berater & Test Lead zur Unterstützung eines globalen Warehouse-Transformationsprojekts. Im Mittelpunkt stehen die fachliche Gestaltung und Optimierung von S"
+      "summary": "WICHTIG: Wer keine Remote‑Arbeit oder 5‑10 % Reisebereitschaft akzeptiert, ist hier falsch. Du willst nicht nur ein weiteres Consulting‑Projekt abarbeiten, sondern eigenverantwortlich Lucanet‑Implementierungen von Tag 1 an leiten. Du willst dabei volle Autonom"
     },
     {
-      "id": "arbeitnow:junior-sap-ewm-berater-testkoordinator-freelance-berlin-136075",
-      "title": "Junior SAP EWM Berater & Testkoordinator (Freelance)",
-      "org": "Sidekick Network GmbH & Co. KG",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/junior-sap-ewm-berater-testkoordinator-freelance-berlin-136075",
+      "id": "arbeitnow:remote-1207-content-writer-seo-copywriter-part-time-germany-224077",
+      "title": "1207 Content Writer / SEO Copywriter (Part-Time)",
+      "org": "Intetics 2",
+      "role": "marketing",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1207-content-writer-seo-copywriter-part-time-germany-224077",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794328265,
+      "postedAt": 1794356416,
       "tags": [
-        "Remote",
-        "SAP/ERP Consulting",
-        "Development"
-      ],
-      "summary": "Für unseren internationalen Kunden aus der Diagnostikbranche suchen wir einen motivierten Junior SAP EWM Berater & Testkoordinator zur Unterstützung eines globalen Warehouse-Transformationsprojekts. Der Schwerpunkt liegt auf der Unterstützung bei SAP EWM-Anfor"
-    },
-    {
-      "id": "arbeitnow:remote-senior-site-reliability-engineer-sre-berlin-319771",
-      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
-      "org": "Makersite GmbH",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-319771",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794324689,
-      "tags": [
-        "Technology",
+        "Information Technology and Services",
         "Remote"
       ],
-      "summary": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make"
+      "summary": "Intetics Inc. , a global technology company providing custom software application development, distributed professional teams, software product quality assessment, and digital transformation solutions, is looking for a German Content Writer / SEO Copywriter to"
     },
     {
-      "id": "arbeitnow:senior-geo-seo-consultant-munich-295648",
-      "title": "Senior GEO/SEO Consultant",
-      "org": "Digital Loop GmbH",
-      "role": "marketing",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/digital-loop-gmbh/senior-geo-seo-consultant-munich-295648",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794322873,
-      "tags": [
-        "Remote",
-        "Online Marketing"
-      ],
-      "summary": "Deine Aufgaben Als Senior GEO/SEO Consultant treibst du das organische Wachstum und die digitale Sichtbarkeit unserer Kunden durch die Leitung von End-to-End-SEO- und Generative Engine Optimization (GEO)-Initiativen voran. Du verbindest die strategische Beratu"
-    },
-    {
-      "id": "arbeitnow:remote-global-head-of-manufacturing-300312",
-      "title": "Global Head of Manufacturing",
-      "org": "Uforce",
-      "role": "training",
-      "location": "United Kingdom | Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/uforce/remote-global-head-of-manufacturing-300312",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794336037,
-      "tags": [
-        "Manufacturing & Production"
-      ],
-      "summary": "UFORCE exists to make aggression unaffordable. Founded in Ukraine and headquartered in London, UFORCE is a defence-technology company with operations across Europe, the United States and Asia. UFORCE builds uncrewed vessels, ground robotics and aircraft, auton"
-    },
-    {
-      "id": "arbeitnow:remote-forward-deployed-software-engineer-443666",
-      "title": "Forward Deployed Software Engineer",
-      "org": "Uforce",
-      "role": "training",
-      "location": "United Kingdom | Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/uforce/remote-forward-deployed-software-engineer-443666",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794336037,
-      "tags": [
-        "Business Development"
-      ],
-      "summary": "UFORCE exists to make aggression unaffordable. Founded in Ukraine and headquartered in London, UFORCE is a defence-technology company with operations across Europe, the United States and Asia. UFORCE builds uncrewed vessels, ground robotics and aircraft, auton"
-    },
-    {
-      "id": "arbeitnow:senior-systems-security-engineer-london-460399",
-      "title": "Senior Systems Security Engineer",
-      "org": "Volta",
+      "id": "arbeitnow:remote-account-executive-dutch-germany-364152",
+      "title": "Account Executive - Dutch",
+      "org": "Huzzle",
       "role": "project",
-      "location": "United Kingdom - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/volta/senior-systems-security-engineer-london-460399",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/huzzle/remote-account-executive-dutch-germany-364152",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794336035,
+      "postedAt": 1794356412,
       "tags": [
-        "Delivery"
+        "Sales",
+        "Internet",
+        "Remote"
       ],
-      "summary": "About Volta Volta is the category-defining, fully vertically integrated AI infrastructure platform – from capital to clusters to software, under a founder-led enterprise. Our mission is The Utility of Compute™: AI infrastructure as dependable and available as "
+      "summary": "About Huzzle At Huzzle, we connect high-performing professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech, FinTech, and EdTech. W"
     },
     {
-      "id": "arbeitnow:facilities-readiness-lead-london-330692",
-      "title": "Facilities Readiness Lead",
-      "org": "Volta",
-      "role": "training",
-      "location": "United Kingdom - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/volta/facilities-readiness-lead-london-330692",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794336035,
-      "tags": [
-        "Delivery"
-      ],
-      "summary": "About Volta Volta is the category-defining, fully vertically integrated AI infrastructure platform – from capital to clusters to software, under a founder-led enterprise. Our mission is The Utility of Compute™: AI infrastructure as dependable and available as "
-    },
-    {
-      "id": "arbeitnow:gxp-computerised-systems-validation-consultant-london-485163",
-      "title": "GxP Computerised Systems Validation Consultant",
-      "org": "Intelance",
-      "role": "project",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/gxp-computerised-systems-validation-consultant-london-485163",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794333643,
-      "tags": [
-        "Remote",
-        "Quality Management"
-      ],
-      "summary": "About Intelance Intelance is an independent technology, AI and cyber assurance firm based in the UK. We help organisations check, govern and improve their technology through enterprise architecture, AI governance, cyber assurance and data governance work. We a"
-    },
-    {
-      "id": "arbeitnow:google-workspace-security-engineer-dlp-and-device-management-london-349090",
-      "title": "Google Workspace Security Engineer (DLP and Device Management)",
-      "org": "Intelance",
-      "role": "hr",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/google-workspace-security-engineer-dlp-and-device-management-london-349090",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794333643,
-      "tags": [
-        "Remote",
-        "IT Security"
-      ],
-      "summary": "Intelance is a UK advisory and assurance firm working across enterprise architecture, cyber assurance, AI governance and data governance. We run information security management systems (ISMS) for growing technology companies certified to ISO/IEC 27001:2022. We"
-    },
-    {
-      "id": "arbeitnow:health-data-protection-and-data-licensing-consultant-london-82672",
-      "title": "Health Data Protection and Data Licensing Consultant",
-      "org": "Intelance",
-      "role": "project",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/health-data-protection-and-data-licensing-consultant-london-82672",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794333643,
-      "tags": [
-        "Remote",
-        "Compliance",
-        "Security"
-      ],
-      "summary": "About Intelance Intelance is an independent technology, AI and cyber assurance firm based in the UK. We help organisations check, govern and improve their technology through enterprise architecture, AI governance, cyber assurance and data governance work. We a"
-    },
-    {
-      "id": "arbeitnow:tiktok-account-manager-remote-freelance-london-101606",
-      "title": "TikTok Account Manager (Remote, Freelance)",
-      "org": "Many Hands",
+      "id": "arbeitnow:remote-strategic-customer-success-manager-16718",
+      "title": "Strategic Customer Success Manager",
+      "org": "Spring Health",
       "role": "marketing",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/many-hands/tiktok-account-manager-remote-freelance-london-101606",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-strategic-customer-success-manager-16718",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794331862,
-      "tags": [
-        "Remote",
-        "Social Media Manager"
-      ],
-      "summary": "About Many Hands Many Hands runs TikTok accounts for UK brands, and we need people across the UK to look after them from their own phone. We give you the accounts, the videos and the captions. You keep them active and upload what we send. Your tasks Set up the"
-    },
-    {
-      "id": "arbeitnow:remote-senior-sales-engineer-332622",
-      "title": "Senior Sales Engineer",
-      "org": "Sift",
-      "role": "marketing",
-      "location": "Remote - United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sift/remote-senior-sales-engineer-332622",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794325235,
+      "postedAt": 1794346825,
       "tags": [
         "Sales"
       ],
-      "summary": "About the role Sift is looking for an experienced Senior Sales Engineer to help enterprise and mid-market customers evaluate and adopt our Digital Trust platform. In this role, you will partner closely with Enterprise Account Executives to lead the technical s"
+      "summary": "Our mission: eliminating every barrier to mental health. Spring Health is a global mental health company on a mission to eliminate every barrier to mental health. We're building a world where getting support is simple, personal, and built around the person, so"
+    },
+    {
+      "id": "arbeitnow:customer-success-manager-100-remote-berlin-248564",
+      "title": "Customer Success Manager (m/w/d) - 100% Remote",
+      "org": "ProviPanda GmbH",
+      "role": "support",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-100-remote-berlin-248564",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794339043,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "ProviPanda ist ein wachsendes HR-Tech-Startup und mittlerweile die größte Sales-Job-App im DACH-Raum. Mit einem Team aus 15 Mitarbeitenden arbeiten wir daran, den Sales-HR-Markt zu revolutionieren und neu zu denken. Als Customer Success Manager bist du die zen"
+    },
+    {
+      "id": "arbeitnow:remote-business-analytics-architect-372446",
+      "title": "Business Analytics Architect",
+      "org": "Muckrack",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/muckrack/remote-business-analytics-architect-372446",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794369320,
+      "tags": [
+        "G&A - Analytics"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Muck Rack is trusted by thousands of organizations around the world to understand how their brands show up across news, social media and AI-generated answers.&lt;/p&gt; &lt;p&gt;Our AI-powered platform connects the ent"
     },
     {
       "id": "arbeitnow:senior-business-analyst-requirements-engineer-76080-winterthur-352055",
@@ -583,53 +410,21 @@
       "summary": "Tu veux donner du sens à ton travail commercial et contribuer à une mission à fort impact ? Tu parles couramment français et allemand et tu aimes conquérir de nouveaux clients ? Rejoins nous et participe activement au développement du marché suisse. Notre clie"
     },
     {
-      "id": "arbeitnow:remote-eid-anerkannter-psychotherapeutin-a-hybrid-region-st-gallen-wil-40-100-149428",
-      "title": "Eid. anerkannte:r Psychotherapeut:in (a) - Hybrid / Region St. Gallen / Wil (40-100%)",
-      "org": "Oviva",
-      "role": "project",
-      "location": "Remote Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/oviva/remote-eid-anerkannter-psychotherapeutin-a-hybrid-region-st-gallen-wil-40-100-149428",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794303618,
-      "tags": [
-        "Clinical Delivery"
-      ],
-      "summary": "Standort: Hybrid (Home Office mit Remote Video Therapie sowie Möglichkeit von Arbeit vor Ort) Anstellung: Festanstellung mit vielen Freiheiten dank Gleitzeitmodell; zudem auch flexibles Lohnmodell möglich mit Gewinnbeteiligung, bei selbstbestimmter Abrechnung "
-    },
-    {
-      "id": "arbeitnow:senior-ma-finance-integration-manager-zurich-433955",
-      "title": "Senior M&A Finance Integration Manager",
-      "org": "Coopers Group AG",
-      "role": "hr",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-ma-finance-integration-manager-zurich-433955",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794303046,
-      "tags": [
-        "Remote",
-        "Finance"
-      ],
-      "summary": "................ For our client in Zurich , we are looking for an motivated and open-minded Senior M&A Finance Integration Manager . In this role, you will take ownership of finance integration activities related to mergers, acquisitions, divestitures and orga"
-    },
-    {
-      "id": "arbeitnow:security-engineer-remote-netherlands-471107",
-      "title": "Security Engineer (Remote - Netherlands)",
-      "org": "EverAI",
+      "id": "arbeitnow:remote-product-designer-amsterdam-294295",
+      "title": "Product Designer",
+      "org": "SkyCell AG",
       "role": "training",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/everai/security-engineer-remote-netherlands-471107",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.nl/jobs/companies/skycell-ag/remote-product-designer-amsterdam-294295",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794282015,
+      "postedAt": 1794357083,
       "tags": [
-        "R&D"
+        "Product",
+        "Remote"
       ],
-      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
+      "summary": "Software is not just vital but a strategic cornerstone of our operations. We’re looking for a Product Designer to set the cross-application UX direction for our commercial software - from pharma cold-chain visibility that helps temperature-sensitive medicines "
     },
     {
       "id": "remotive:2086540",
