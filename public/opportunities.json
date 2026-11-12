@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T07:22:18.837Z",
+  "updatedAt": "2026-11-12T20:04:09.051Z",
   "sourceCount": 2,
   "totalFetched": 314,
-  "relevantCount": 61,
+  "relevantCount": 37,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,260 +11,68 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:eclss-vv-engineer-intern-munich-173484",
-      "title": "ECLSS V&V Engineer Intern",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/eclss-vv-engineer-intern-munich-173484",
+      "id": "arbeitnow:change-and-transformation-manager-client-delivery-fluency-in-french-english-required-paris-306139",
+      "title": "Change and Transformation Manager - Client Delivery (Fluency in French & English required)",
+      "org": "Kaluza",
+      "role": "training",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/change-and-transformation-manager-client-delivery-fluency-in-french-english-required-paris-306139",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794465611,
+      "postedAt": 1794476431,
       "tags": [
-        "Engineering"
+        "Client Delivery"
       ],
-      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. We want you as a talented intern to help us in our mission by contributing to the development, justification and validation of our Environmental Control and Life Support System (ECLSS). "
+      "summary": "Change and Transformation Manager – Client Delivery (French/english) Location: Paris, France (hybrid, three days a week in the office; occasional travel to Brussels and London) Level: Programme Manager senior Team: Client Delivery Contract: Permanent Reporting"
     },
     {
-      "id": "arbeitnow:avionics-equipment-technical-owner-munich-223417",
-      "title": "Avionics Equipment Technical Owner",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/avionics-equipment-technical-owner-munich-223417",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794465611,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. We want you as a talented Avionics Equipment Technical Owner to help us in our mission by designing, testing, and optimizing avionics equipment, ensuring compliance with mission loads an"
-    },
-    {
-      "id": "arbeitnow:system-integration-senior-engineer-platform-focus-munich-124715",
-      "title": "System Integration Senior Engineer (Platform Focus)",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/system-integration-senior-engineer-platform-focus-munich-124715",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794465611,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. The System Integration Senior Engineer will help lead the Nyx system end‑to‑end integration and verification, with a focus on functional platforms (Software in the Loop Platform, Process"
-    },
-    {
-      "id": "arbeitnow:ait-evt-thermal-engineer-munich-110361",
-      "title": "AIT EVT & Thermal Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-evt-thermal-engineer-munich-110361",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794465611,
-      "tags": [
-        "MAIT"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refueled in orbit, and which carries cargo - and potentially humans i"
-    },
-    {
-      "id": "arbeitnow:lead-deployment-strategist-emea-berlin-414517",
-      "title": "Lead Deployment Strategist - EMEA",
-      "org": "N8N",
+      "id": "arbeitnow:lead-designer-paris-13051",
+      "title": "Lead Designer",
+      "org": "Kaluza",
       "role": "marketing",
-      "location": "Berlin Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/lead-deployment-strategist-emea-berlin-414517",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/lead-designer-paris-13051",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794454817,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
-    },
-    {
-      "id": "arbeitnow:head-of-enterprise-product-berlin-158161",
-      "title": "Head of Enterprise Product",
-      "org": "N8N",
-      "role": "marketing",
-      "location": "Berlin Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/head-of-enterprise-product-berlin-158161",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794454817,
+      "postedAt": 1794476431,
       "tags": [
         "Product"
       ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+      "summary": "Lead Designer Location: Paris, France (hybrid, three days a week in the office) Team: UX Contract: Permanent Reporting To: Head of UX Please note: This role requires an existing right to work in France. We can’t offer visa sponsorship, but we review sponsorshi"
     },
     {
-      "id": "arbeitnow:lead-forward-deployed-engineer-emea-berlin-58307",
-      "title": "Lead Forward Deployed Engineer - EMEA",
-      "org": "N8N",
+      "id": "arbeitnow:product-manager-ccaas-fluent-french-english-paris-115665",
+      "title": "Product Manager (CCaaS) - (Fluent French & English)",
+      "org": "Kaluza",
       "role": "project",
-      "location": "Berlin Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/lead-forward-deployed-engineer-emea-berlin-58307",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-ccaas-fluent-french-english-paris-115665",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794454817,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
-    },
-    {
-      "id": "arbeitnow:accountant-germany-217386",
-      "title": "Accountant",
-      "org": "N8N",
-      "role": "project",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/accountant-germany-217386",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794454817,
-      "tags": [
-        "Finance & Legal"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
-    },
-    {
-      "id": "arbeitnow:head-of-demand-generation-berlin-267053",
-      "title": "Head of Demand Generation",
-      "org": "N8N",
-      "role": "marketing",
-      "location": "Berlin Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/head-of-demand-generation-berlin-267053",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794454817,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
-    },
-    {
-      "id": "arbeitnow:senior-product-manager-core-platform-engine-scale-reliability-berlin-81290",
-      "title": "Senior Product Manager - Core Platform (Engine, Scale & Reliability)",
-      "org": "N8N",
-      "role": "project",
-      "location": "Berlin Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-product-manager-core-platform-engine-scale-reliability-berlin-81290",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794454817,
+      "postedAt": 1794476431,
       "tags": [
         "Product"
       ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+      "summary": "Job title: Product Manager Location: Paris — Hybrid - 3 days in office Team: Product Management - Customer Care Value Stream Reporting to: Head of Product This role is based in France and requires the successful candidate to be based in or willing to relocate "
     },
     {
-      "id": "arbeitnow:talent-acquisition-partner-london-457456",
-      "title": "Talent Acquisition Partner",
-      "org": "Monday.com",
-      "role": "hr",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mondaycom/talent-acquisition-partner-london-457456",
+      "id": "arbeitnow:internship-finance-dec-jan-start-6-months-eindhoven-462541",
+      "title": "Internship - Finance (Dec/Jan start, 6 months)",
+      "org": "Axelera AI",
+      "role": "support",
+      "location": "Eindhoven (hybrid)",
+      "url": "https://www.arbeitnow.nl/jobs/companies/axelera-ai/internship-finance-dec-jan-start-6-months-eindhoven-462541",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794465615,
+      "postedAt": 1794487232,
       "tags": [
-        "Talent Acquisition"
+        "Corporate Functions"
       ],
-      "summary": "monday.com is rapidly growing and attracting the best talent to join our teams is our top priority! We are looking for a Talent Acquisition Partner who can lead the recruiting lifecycle. You’ll be responsible for the end-to-end hiring process, have a deep unde"
-    },
-    {
-      "id": "arbeitnow:anthropic-fellows-program-the-anthropic-institute-economics-policy-london-247262",
-      "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
-      "org": "anthropic",
-      "role": "training",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/anthropic-fellows-program-the-anthropic-institute-economics-policy-london-247262",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794455724,
-      "tags": [
-        "AI Research & Engineering"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society a"
-    },
-    {
-      "id": "arbeitnow:anthropic-fellows-program-ml-systems-reinforcement-learning-london-340347",
-      "title": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
-      "org": "anthropic",
-      "role": "training",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/anthropic-fellows-program-ml-systems-reinforcement-learning-london-340347",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794455724,
-      "tags": [
-        "AI Research & Engineering"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society a"
-    },
-    {
-      "id": "arbeitnow:anthropic-fellows-program-ai-safety-security-london-145651",
-      "title": "Anthropic Fellows Program, AI Safety & Security",
-      "org": "anthropic",
-      "role": "training",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/anthropic-fellows-program-ai-safety-security-london-145651",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794455724,
-      "tags": [
-        "AI Research & Engineering"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society a"
-    },
-    {
-      "id": "arbeitnow:cloud-engineer-bordeaux-92158",
-      "title": "Cloud Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/cloud-engineer-bordeaux-92158",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794465612,
-      "tags": [
-        "Digital Systems"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. As a Cloud Engineer, you will operate and support the cloud platforms that power The Exploration Company’s engineering, operations, and data workloads in France. You will design, deploy,"
-    },
-    {
-      "id": "arbeitnow:combustion-engineer-bordeaux-472838",
-      "title": "Combustion Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/combustion-engineer-bordeaux-472838",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794465612,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. Here at The Exploration Company we are developing, producing, and operating Nyx, a modular and reusable orbital space vehicle that aims to eventually be refuellable in orbit - and potent"
+      "summary": "Axelera AI is a fast-growing European AI hardware scale-up building high-performance, energy-efficient AI acceleration for the edge. We are looking for a hands-on Finance Intern to join our team for 5-6 months, starting December 2026 or early January 2027. You"
     },
     {
       "id": "arbeitnow:senior-business-controller-operations-almere-288632",
@@ -283,343 +91,241 @@
       "summary": "Would you like to work closely with the business as a Senior Business Controller and use your financial expertise to make a real impact on decisions? You will bring financial structure and insight, while keeping a forward-looking perspective: where can we impr"
     },
     {
-      "id": "arbeitnow:remote-smb-account-executive-new-business-368346",
-      "title": "SMB Account Executive (New Business)",
-      "org": "gitlab",
+      "id": "arbeitnow:remote-ui-engineer-based-in-ca-or-nc-only-47794",
+      "title": "UI Engineer (Based in CA or NC only)",
+      "org": "Bluerocksecurity",
       "role": "training",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-smb-account-executive-new-business-368346",
+      "url": "https://www.arbeitnow.com/jobs/companies/bluerocksecurity/remote-ui-engineer-based-in-ca-or-nc-only-47794",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794466516,
+      "postedAt": 1794508815,
       "tags": [
-        "Global Digital - EMEA"
+        "Control Plane"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+      "summary": "Mission: Live at the intersection of app runtime & security. Protect applications in a fundamental way so that developers can build great application services and not be constantly looking over their shoulder. BlueRock is changing the landscape of App runtime "
     },
     {
-      "id": "arbeitnow:remote-smb-account-executive-growth-332021",
-      "title": "SMB Account Executive (Growth)",
-      "org": "gitlab",
+      "id": "arbeitnow:junior-vertriebsmitarbeiter-ki-losungen-berlin-388113",
+      "title": "(Junior-) Vertriebsmitarbeiter KI-Lösungen (m/w/d)",
+      "org": "MintCode Solutions GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/mintcode-solutions-gmbh/junior-vertriebsmitarbeiter-ki-losungen-berlin-388113",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794508239,
+      "tags": [
+        "Remote",
+        "Sales Engineer"
+      ],
+      "summary": "Du findest KI spannend, aber noch spannender, was Unternehmen damit im Alltag wirklich anfangen können? Du redest gern mit Menschen, erkennst schnell, wo in einem Betrieb Zeit liegen bleibt, und willst einen Kunden vom ersten Anruf bis zur Unterschrift selbst "
+    },
+    {
+      "id": "arbeitnow:marketing-content-intern-pflichtpraktikum-remote-berlin-483973",
+      "title": "Marketing & Content Intern (m/w/d) - Pflichtpraktikum, Remote",
+      "org": "Maramio",
       "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-smb-account-executive-growth-332021",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/maramio/marketing-content-intern-pflichtpraktikum-remote-berlin-483973",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794466516,
+      "postedAt": 1794501060,
       "tags": [
-        "Global Digital - EMEA"
+        "Remote",
+        "Social Media Manager"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+      "summary": "About Maramio Maramio is the managed-service platform for corporate gifting and branded merch. We handle sourcing, EU warehousing, fulfillment and gifting software for European mid-market and enterprise companies. One platform and one team replace the vendors,"
     },
     {
-      "id": "arbeitnow:account-executive-munich-323542",
-      "title": "Account Executive - (m/w/x)",
-      "org": "Eye Security",
+      "id": "arbeitnow:senior-consultant-sap-financial-services-berlin-283426",
+      "title": "Senior Consultant SAP Financial Services (m/w/d)",
+      "org": "innovative software applications & consulting AG",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/innovative-software-applications-consulting-ag/senior-consultant-sap-financial-services-berlin-283426",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794501060,
+      "tags": [
+        "Remote",
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "summary": "Ihre Aufgaben Sie beraten Kunden im Finanzdienstleistungssektor bei der Implementierung von SAP-Lösungen im Bereich Finance. Sie konzipieren und steuern anspruchsvolle Projekte von der Anforderungsanalyse bis zum erfolgreichen Go-Live. Sie optimieren bestehend"
+    },
+    {
+      "id": "arbeitnow:customer-success-manager-ki-fokus-berlin-432292",
+      "title": "Customer Success Manager (KI-Fokus) - m/w/d",
+      "org": "ML Media GmbH",
+      "role": "support",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/ml-media-gmbh/customer-success-manager-ki-fokus-berlin-432292",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794501059,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "Was wir suchen Eine Person, die ihre Freunde als „technisch-affinen Menschenfreund“ beschreiben würden, und Lust darauf hat zu erklären und zu beraten. Aufgaben Kickoff: Du führst Kickoff-Calls per Video mit neuen Kunden und klärst, wie die Prozesse, die wir f"
+    },
+    {
+      "id": "arbeitnow:online-marketing-managerin-berlin-460559",
+      "title": "Online Marketing Manager:in (m/w/d)",
+      "org": "moinAI [by knowhere]",
       "role": "marketing",
-      "location": "Munich - remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/eye-security/account-executive-munich-323542",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/moinai-by-knowhere/online-marketing-managerin-berlin-460559",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794465612,
+      "postedAt": 1794499266,
       "tags": [
-        "Business"
+        "Remote",
+        "Online Marketing"
       ],
-      "summary": "Wir suchen einen Account Executive mit echtem Gespür für Marktaufbau und Cyber Security und SaaS Sales. Als Account Executive verantwortest du den vollständigen Sales Cycle, von der Erstansprache bis zum Vertragsabschluss, und arbeitest direkt mit Endkunden so"
+      "summary": "Über moinAI moinAI ist die Agentic AI Plattform für Kundenservice und Marketing. Unsere AI-Agents beantworten Anfragen nicht nur, sondern lösen sie eigenständig: integriert in die Systeme unserer Kund:innen, kontrollierbar, DSGVO-konform und Made in Germany. Ü"
     },
     {
-      "id": "arbeitnow:remote-information-security-engineer-application-security-333975",
-      "title": "Information Security Engineer - Application Security",
-      "org": "Camunda",
+      "id": "arbeitnow:senior-consultant-informationssicherheit-bsi-it-grundschutz-berlin-157451",
+      "title": "Senior Consultant Informationssicherheit & BSI IT-Grundschutz (d/w/m)",
+      "org": "XAAS",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/xaas/senior-consultant-informationssicherheit-bsi-it-grundschutz-berlin-157451",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794495691,
+      "tags": [
+        "Remote",
+        "IT Security"
+      ],
+      "summary": "Ob du auf der Suche nach einer beruflichen Veränderung bist oder deine Expertise auf das nächste Level bringen möchtest – Bei uns findest du die richtigen Perspektiven. Wir unterstützen seit über 15 Jahren unsere Kundinnen und Kunden bei der Entwicklung ihrer "
+    },
+    {
+      "id": "arbeitnow:senior-privacy-counsel-berlin-127788",
+      "title": "Senior Privacy Counsel (m/f/d)",
+      "org": "Deep Blue Recruitment",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/deep-blue-recruitment/senior-privacy-counsel-berlin-127788",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794492060,
+      "tags": [
+        "Remote",
+        "Compliance",
+        "Security"
+      ],
+      "summary": "Deep Blue Recruitment is working with an international technology company looking to appoint an experienced Senior Privacy Counsel to join its legal team. Operating in the enterprise technology sector, the business develops software and digital solutions for c"
+    },
+    {
+      "id": "arbeitnow:projektmanager-tga-mep-remote-de-dusseldorf-61827",
+      "title": "Projektmanager TGA / MEP (m/w/d) - Remote (DE)",
+      "org": "Ruby GmbH",
+      "role": "training",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/ruby-gmbh/projektmanager-tga-mep-remote-de-dusseldorf-61827",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794488471,
+      "tags": [
+        "Remote",
+        "Project Management"
+      ],
+      "summary": "At Ruby, your personality really matters, your time really matters, and we strongly believe we groove way better together. At Ruby, we keep breaking new ground. Hey Sunshine, du bist ein Profi, wenn es um die Planung und Magie hinter den Kulissen geht? Du find"
+    },
+    {
+      "id": "arbeitnow:software-developer-mainframe-berlin-305231",
+      "title": "Software-Developer Mainframe (m/w/d)",
+      "org": "H. Wagner + Partner",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/h-wagner-partner/software-developer-mainframe-berlin-305231",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794488470,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Über diese Stelle Als Software-Entwickler bei H. Wagner + Partner arbeiten Sie an anspruchsvollen Projekten für namhafte Banken und Finanzinstitute. Sie entwickeln und pflegen Systeme für das Wertpapierdatenmanagement – Anwendungen mit hohen Anforderungen an S"
+    },
+    {
+      "id": "arbeitnow:infrastructure-engineer-london-356073",
+      "title": "Infrastructure Engineer",
+      "org": "Griffin",
       "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-information-security-engineer-application-security-333975",
+      "location": "London or remote within the UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/griffin/infrastructure-engineer-london-356073",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794465611,
+      "postedAt": 1794508818,
       "tags": [
-        "Products"
+        "Engineering"
       ],
-      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+      "summary": "About Griffin Hi, we’re Griffin. We’re a fully regulated UK bank that powers the accounts and payments offerings of product-led fintechs and platforms like Uber, Yonder, Prosper, and Sidekick. By doing the heavy lifting behind the scenes, our customers can foc"
     },
     {
-      "id": "arbeitnow:remote-product-builder-91448",
-      "title": "Product Builder",
-      "org": "Camunda",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-product-builder-91448",
+      "id": "arbeitnow:site-reliability-engineer-platform-remote-friendly-paris-80322",
+      "title": "Site Reliability Engineer (Platform) - remote friendly",
+      "org": "Qonto",
+      "role": "support",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/site-reliability-engineer-platform-remote-friendly-paris-80322",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794465611,
+      "postedAt": 1794487230,
       "tags": [
-        "Products"
+        "Tech & Data"
       ],
-      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+      "summary": "[OUR MISSION AND CUSTOMERS] We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace with banking at its core, augmented by financial tools. We are proud to be rated 4.7 on Trustpilot, based on 60,000 reviews. Our cultur"
     },
     {
-      "id": "arbeitnow:remote-software-engineer-backend-engineering-operations-483915",
-      "title": "Software Engineer, Backend - Engineering Operations",
-      "org": "Camunda",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-engineering-operations-483915",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794465611,
-      "tags": [
-        "Products"
-      ],
-      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
-    },
-    {
-      "id": "arbeitnow:remote-engineering-manager-infrastructure-86673",
-      "title": "Engineering Manager - Infrastructure",
-      "org": "Camunda",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-engineering-manager-infrastructure-86673",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794465611,
-      "tags": [
-        "Products"
-      ],
-      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
-    },
-    {
-      "id": "arbeitnow:remote-it-systemadministrator-reinert-cottbus-252406",
-      "title": "IT-Systemadministrator (m/w/d) Reinert",
-      "org": "Ritter von Gral GmbH",
+      "id": "arbeitnow:h3c-expert-fur-infrastruktur-migration-zurich-423184",
+      "title": "H3C Expert für Infrastruktur Migration",
+      "org": "Coopers Group AG",
       "role": "hr",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/ritter-von-gral-gmbh/remote-it-systemadministrator-reinert-cottbus-252406",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/h3c-expert-fur-infrastruktur-migration-zurich-423184",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794465076,
+      "postedAt": 1794499264,
       "tags": [
-        "Remote"
+        "Remote",
+        "System and Network Administration"
       ],
-      "summary": "Server-Management : Installation, Konfiguration und Wartung von Windows- und Linux-Servern in einer virtualisierten Umgebung (VMware/Hyper-V) Netzwerkadministration : Verwaltung von LAN/WAN-Netzwerken, einschließlich Switches, Router und Firewalls; Überwachung"
+      "summary": "................ Für ein anspruchsvolles Infrastruktur-Transformationsprojekt für unseren Kunden in Basel suchen wir eine:n erfahrene:n H3C Expert . Im Rahmen des Projekts wird eine bestehende Server-, Storage- und Virtualisierungslandschaft durch moderne H3C-"
     },
     {
-      "id": "arbeitnow:remote-account-executive-dach-munich-482250",
-      "title": "Account Executive DACH",
-      "org": "Aikido Security",
+      "id": "arbeitnow:e-commerce-operations-manager-in-amazon-de-usa-zurich-487927",
+      "title": "E-Commerce Operations Manager/-in (Amazon DE & USA)",
+      "org": "GalleryLab GmbH",
       "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/aikido-security/remote-account-executive-dach-munich-482250",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gallerylab-gmbh/e-commerce-operations-manager-in-amazon-de-usa-zurich-487927",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794454296,
+      "postedAt": 1794495690,
       "tags": [
-        "Sales",
-        "Remote"
+        "Remote",
+        "Online Marketing"
       ],
-      "summary": "🌍 We’re making security suck less for developers. Security tools haven’t kept up with how software is built today. They interrupt teams, slow releases, and turn security into a bottleneck instead of a capability. We built Aikido to change that. Aikido builds "
-    },
-    {
-      "id": "arbeitnow:remote-account-executive-deutschland-dusseldorf-25299",
-      "title": "Account Executive Deutschland",
-      "org": "Innova Market Insights",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/innova-market-insights/remote-account-executive-deutschland-dusseldorf-25299",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794454292,
-      "tags": [
-        "Sales",
-        "Remote"
-      ],
-      "summary": "Aufgrund des schnellen Wachstums unseres Unternehmens in Deutschland möchten wir unser Vertriebsteam erweitern! Diese Position als Account Executive / Business Development Manager bietet Ihnen die Gelegenheit, als echter Verkaufsprofi zu glänzen – mit einem kl"
-    },
-    {
-      "id": "arbeitnow:praktikum-strategy-und-ma-stuttgart-75284",
-      "title": "Praktikum Strategy und M&A (m/w/d)",
-      "org": "Flip GmbH",
-      "role": "marketing",
-      "location": "Stuttgart & Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/praktikum-strategy-und-ma-stuttgart-75284",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794444019,
-      "tags": [
-        "General"
-      ],
-      "summary": "Empowe every Employee KI hat verändert, wie Büroangestellte arbeiten. Bei den 80 % der weltweiten Belegschaft , die nicht am Schreibtisch sitzen, ist sie bisher kaum angekommen. Flip AI ändert das. Flip AI ist das #1 Frontline Agentic Operating System (OS) , m"
-    },
-    {
-      "id": "arbeitnow:internship-strategy-ma-stuttgart-125259",
-      "title": "Internship Strategy M&A (m/f/d)",
-      "org": "Flip GmbH",
-      "role": "marketing",
-      "location": "Stuttgart & Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/internship-strategy-ma-stuttgart-125259",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794444019,
-      "tags": [
-        "General"
-      ],
-      "summary": "Empower every Employee AI has changed how office workers get things done. For the 80% of the global workforce that doesn’t sit at a desk, it has barely arrived. Flip AI is changing that. Flip AI is the #1 Frontline Agentic Operating System (OS) to build, autom"
-    },
-    {
-      "id": "arbeitnow:remote-account-executive-french-speaking-berlin-108723",
-      "title": "Account Executive - French Speaking (m/f/x)",
-      "org": "Makersite GmbH",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-account-executive-french-speaking-berlin-108723",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794443472,
-      "tags": [
-        "Sales",
-        "Remote"
-      ],
-      "summary": "Account Executive (m/f/x) (French Speaking) Location: EU (Remote) Comp: 120k EUR base Territories: France / Benelux / Southern Europe Who You’ll Work For: At Makersite, we're pioneering the future of sustainable product development and digital collaboration. A"
-    },
-    {
-      "id": "arbeitnow:remote-threat-research-engineer-security-factory-threat-research-472873",
-      "title": "Threat Research Engineer, Security Factory: Threat Research",
-      "org": "gitlab",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-threat-research-engineer-security-factory-threat-research-472873",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794466516,
-      "tags": [
-        "Sec Engineering"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
-    },
-    {
-      "id": "arbeitnow:remote-smb-account-executive-new-business-43497",
-      "title": "SMB Account Executive (New Business)",
-      "org": "gitlab",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-smb-account-executive-new-business-43497",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794466516,
-      "tags": [
-        "Global Digital - EMEA"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
-    },
-    {
-      "id": "arbeitnow:remote-smb-account-executive-growth-8347",
-      "title": "SMB Account Executive (Growth)",
-      "org": "gitlab",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-smb-account-executive-growth-8347",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794466516,
-      "tags": [
-        "Global Digital - EMEA"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
-    },
-    {
-      "id": "arbeitnow:customer-success-manager-uk-birmingham-331475",
-      "title": "Customer Success Manager, UK",
-      "org": "3E",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/3e/customer-success-manager-uk-birmingham-331475",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794465614,
-      "tags": [
-        "Commercial"
-      ],
-      "summary": "About 3E: 3E is a mission-driven company dedicated to creating a safer and more sustainable world. We offer award-winning regulatory intelligence and AI solutions to help organizations protect people and products. With over 35 years of experience and a global "
-    },
-    {
-      "id": "arbeitnow:remote-smb-account-executive-new-business-58062",
-      "title": "SMB Account Executive (New Business)",
-      "org": "gitlab",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-smb-account-executive-new-business-58062",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794466516,
-      "tags": [
-        "Global Digital - EMEA"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
-    },
-    {
-      "id": "arbeitnow:remote-smb-account-executive-growth-51314",
-      "title": "SMB Account Executive (Growth)",
-      "org": "gitlab",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-smb-account-executive-growth-51314",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794466516,
-      "tags": [
-        "Global Digital - EMEA"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
-    },
-    {
-      "id": "arbeitnow:remote-senior-professional-services-project-manager-paris-101297",
-      "title": "Senior Professional Services Project Manager, Paris",
-      "org": "gitlab",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-senior-professional-services-project-manager-paris-101297",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794466516,
-      "tags": [
-        "Consulting Delivery"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
-    },
-    {
-      "id": "arbeitnow:remote-director-business-development-defence-government-france-448522",
-      "title": "Director, Business Development - Defence & Government (France)",
-      "org": "Loftorbital",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/remote-director-business-development-defence-government-france-448522",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794452882,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "Wanna join the adventure? Loft Orbital is hiring a Director, Business Development – Defence & Government to own and grow our relationships and commercial opportunities across the French Ministry of Armed Forces and broader defence and government ecosystem. Thi"
+      "summary": "Wir glauben: Guter Schlaf ist pure Lebensqualität und beginnt mit der richtigen Ausstattung. Deshalb haben wir uns vor über 5 Jahren auf die Entwicklung und den Verkauf qualitativer Bettwaren, wie Bettdecken, Kissen und Bezüge spezialisiert. Heute sind wir ein"
     },
     {
       "id": "arbeitnow:senior-solutions-engineer-switzerland-remote-203048",
@@ -672,38 +378,21 @@
       "summary": "Ready to turn SEO into measurable business growth? TransPerfect are looking for a strategic, data-driven SEO Specialist to support their digital department to help global brands expand into the German (Swiss) market. We're looking for a freelance expert to sup"
     },
     {
-      "id": "arbeitnow:cx-consultant-zurich-3047",
-      "title": "CX Consultant",
-      "org": "Coopers Group AG",
-      "role": "project",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/cx-consultant-zurich-3047",
+      "id": "arbeitnow:programmatic-advertising-specialist-benelux-amsterdam-479174",
+      "title": "Programmatic Advertising Specialist - BENELUX",
+      "org": "Refinery89",
+      "role": "marketing",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/refinery89/programmatic-advertising-specialist-benelux-amsterdam-479174",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794412864,
+      "postedAt": 1794488472,
       "tags": [
         "Remote",
-        "Business Consulting"
+        "Customer Service"
       ],
-      "summary": "................ Für unseren Kunden in Zürich/Wien suchen wir eine:n erfahrene:n CX Consultant zur Unterstützung eines internationalen Transformations- und Customer-Experience-Projekts im Umfeld der Bauindustrie. Die Rolle erfordert eine starke Seniorität, aus"
-    },
-    {
-      "id": "arbeitnow:remote-app-testers-wanted-in-switzerland-switzerland-anywhere-115014",
-      "title": "App Testers wanted in Switzerland!",
-      "org": "Tester Work",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tester-work/remote-app-testers-wanted-in-switzerland-switzerland-anywhere-115014",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794411084,
-      "tags": [
-        "QA Testing",
-        "Remote"
-      ],
-      "summary": "Tester Work provides access to exciting and rewarding project-based opportunities for freelancers. Learn new skills and earn money by testing world-class apps and websites. 🌎 For this specific project, we are looking for QA testers and tech enthusiasts in Swi"
+      "summary": "Programmatic Advertising Specialist (Dutch Speaking) Publisher Success | Amsterdam, Netherlands (Onsite) | Full Time | Permanent About Refinery89 Refinery89 is a Dutch AdTech company headquartered in Madrid, working with premium publishers worldwide to optimiz"
     },
     {
       "id": "arbeitnow:remote-smb-account-executive-new-business-456629",
@@ -787,23 +476,6 @@
         "R&D"
       ],
       "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
-    },
-    {
-      "id": "arbeitnow:remote-junior-system-engineer-apeldoorn-481393",
-      "title": "Junior System Engineer",
-      "org": "The Trainee Company",
-      "role": "project",
-      "location": "Werken op afstand",
-      "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/remote-junior-system-engineer-apeldoorn-481393",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794421885,
-      "tags": [
-        "Business & ICT",
-        "Remote"
-      ],
-      "summary": "Wil jij je ontwikkelen op het snijvlak van business en IT én direct impact maken binnen een van de belangrijkste organisaties van Nederland? Tijdens het Traineeship Business & IT bij The Trainee Company ga je aan de slag als systemengineer waar je meewerkt aan"
     },
     {
       "id": "remotive:2086540",
@@ -999,65 +671,6 @@
         "SOLID"
       ],
       "summary": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding mod"
-    },
-    {
-      "id": "remotive:1680495",
-      "title": "Remote Office Assistant",
-      "org": "Coalition Technologies",
-      "role": "training",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "source": "Remotive",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": "2026-10-11T20:17:27",
-      "tags": [
-        "CSS",
-        "excel",
-        "frontend",
-        "git",
-        "html",
-        "illustrator",
-        "magento",
-        "photoshop",
-        "php",
-        "shopify",
-        "wordpress",
-        "MySQL"
-      ],
-      "summary": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong commun"
-    },
-    {
-      "id": "arbeitnow:sales-operations-intern-berlin-465491",
-      "title": "Sales Operations Intern",
-      "org": "Pergolux",
-      "role": "marketing",
-      "location": "Berlin | Global Team",
-      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/sales-operations-intern-berlin-465491",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794454817,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "As a Sales Operations Intern (m/w/d), you will keep the engine behind our sales teams running cleanly: you own recurring CRM hygiene, accurate user set-up and reliable bonus data so reps can spend their time selling. Supporting the Head of Sales Operations and"
-    },
-    {
-      "id": "arbeitnow:performance-marketing-specialist-meta-berlin-93876",
-      "title": "Performance Marketing Specialist - Meta",
-      "org": "Pergolux",
-      "role": "marketing",
-      "location": "Berlin | Global Team",
-      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/performance-marketing-specialist-meta-berlin-93876",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794454817,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "You will own and scale our Meta advertising ecosystem, acting as the driving force behind demand generation and revenue growth across Facebook and Instagram. Your mission is to maximize conversion volume while maintaining a strong Marketing Efficiency Ratio (M"
     }
   ]
 }
