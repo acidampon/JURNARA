@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T20:04:09.051Z",
+  "updatedAt": "2026-11-13T06:55:34.537Z",
   "sourceCount": 2,
   "totalFetched": 314,
-  "relevantCount": 37,
+  "relevantCount": 43,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,52 +11,116 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:change-and-transformation-manager-client-delivery-fluency-in-french-english-required-paris-306139",
-      "title": "Change and Transformation Manager - Client Delivery (Fluency in French & English required)",
-      "org": "Kaluza",
-      "role": "training",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/change-and-transformation-manager-client-delivery-fluency-in-french-english-required-paris-306139",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794476431,
-      "tags": [
-        "Client Delivery"
-      ],
-      "summary": "Change and Transformation Manager – Client Delivery (French/english) Location: Paris, France (hybrid, three days a week in the office; occasional travel to Brussels and London) Level: Programme Manager senior Team: Client Delivery Contract: Permanent Reporting"
-    },
-    {
-      "id": "arbeitnow:lead-designer-paris-13051",
-      "title": "Lead Designer",
-      "org": "Kaluza",
+      "id": "arbeitnow:delivery-manager-generation-flex-berlin-411604",
+      "title": "Delivery Manager - Generation Flex",
+      "org": "Kraken",
       "role": "marketing",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/lead-designer-paris-13051",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/kraken/delivery-manager-generation-flex-berlin-411604",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794476431,
+      "postedAt": 1794541212,
       "tags": [
-        "Product"
+        "Delivery Tech"
       ],
-      "summary": "Lead Designer Location: Paris, France (hybrid, three days a week in the office) Team: UX Contract: Permanent Reporting To: Head of UX Please note: This role requires an existing right to work in France. We can’t offer visa sponsorship, but we review sponsorshi"
+      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
     },
     {
-      "id": "arbeitnow:product-manager-ccaas-fluent-french-english-paris-115665",
-      "title": "Product Manager (CCaaS) - (Fluent French & English)",
-      "org": "Kaluza",
-      "role": "project",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-ccaas-fluent-french-english-paris-115665",
+      "id": "arbeitnow:full-stack-engineer-berlin-392943",
+      "title": "Full-Stack Engineer (f/m/d)",
+      "org": "Zenjob",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/zenjob/full-stack-engineer-berlin-392943",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794476431,
+      "postedAt": 1794519615,
       "tags": [
-        "Product"
+        "Engineering"
       ],
-      "summary": "Job title: Product Manager Location: Paris — Hybrid - 3 days in office Team: Product Management - Customer Care Value Stream Reporting to: Head of Product This role is based in France and requires the successful candidate to be based in or willing to relocate "
+      "summary": "Please note: For this position, we are unable to offer visa sponsorship or relocation support. Applicants must already hold the legal right to work in Germany (e.g., EU/EEA citizenship or a valid residence/work permit). About us Zenjob is an AI-powered flexibl"
+    },
+    {
+      "id": "arbeitnow:finance-legal-lead-munich-8574",
+      "title": "Finance & Legal Lead",
+      "org": "Emidat GmbH",
+      "role": "marketing",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/emidat-gmbh/finance-legal-lead-munich-8574",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794519615,
+      "tags": [
+        "Operations"
+      ],
+      "summary": "👷🏻‍♀️ What we do 👷🏻‍♀️ At Emidat, we get manufacturers back to manufacturing. Why it matters. Today, only 11% of employees in Germany are engaged at work , and knowledge workers spend 58% of their day on work about work . We want to live in a world where p"
+    },
+    {
+      "id": "arbeitnow:senior-analytics-engineer-manchester-220540",
+      "title": "Senior Analytics Engineer",
+      "org": "Kraken",
+      "role": "marketing",
+      "location": "Manchester, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-analytics-engineer-manchester-220540",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794541213,
+      "tags": [
+        "Tech Development"
+      ],
+      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
+    },
+    {
+      "id": "arbeitnow:senior-electronics-engineer-cirencester-468530",
+      "title": "Senior Electronics Engineer",
+      "org": "Arcticrd",
+      "role": "project",
+      "location": "Calmsden, Cirencester",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/arcticrd/senior-electronics-engineer-cirencester-468530",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794541212,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "FULL-TIME | 5 DAYS ON-SITE LOCATION: CALMSDEN, CIRENCESTER, UK FIELD TRAVEL: AS REQUIRED THE LAST FRONTIER ARD was founded on a paradox. The Arctic is both the next great economic frontier and one of the most hostile environments on Earth. Rich in resources an"
+    },
+    {
+      "id": "arbeitnow:vp-sales-reading-146710",
+      "title": "VP Sales",
+      "org": "Neworbit",
+      "role": "project",
+      "location": "Reading, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/vp-sales-reading-146710",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794530410,
+      "tags": [
+        "Business"
+      ],
+      "summary": "Company NewOrbit builds satellites that fly in very low Earth orbit, below 300 km, along with the electric propulsion that keeps them there. Flying closer to Earth means sharper imagery from smaller optics, and an orbit that cleans itself: our satellites de-or"
+    },
+    {
+      "id": "arbeitnow:talent-acquisition-specialist-rotterdam-41092",
+      "title": "Talent Acquisition Specialist",
+      "org": "Helloprint",
+      "role": "marketing",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/helloprint/talent-acquisition-specialist-rotterdam-41092",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794519100,
+      "tags": [
+        "People & Culture"
+      ],
+      "summary": "HelloPrint is on a mission to become the world’s leading infrastructure for customizable printed products. From our offices in Rotterdam and Valencia, 100+ professionals from 20+ nationalities are building an AI-first company that scales output faster than hea"
     },
     {
       "id": "arbeitnow:internship-finance-dec-jan-start-6-months-eindhoven-462541",
@@ -89,6 +153,171 @@
         "Finance"
       ],
       "summary": "Would you like to work closely with the business as a Senior Business Controller and use your financial expertise to make a real impact on decisions? You will bring financial structure and insight, while keeping a forward-looking perspective: where can we impr"
+    },
+    {
+      "id": "arbeitnow:remote-senior-staff-platform-engineer-rust-228633",
+      "title": "Senior/Staff Platform Engineer - Rust (d/f/m)",
+      "org": "Luminovo GmbH",
+      "role": "project",
+      "location": "🇪🇺 Germany (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/remote-senior-staff-platform-engineer-rust-228633",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794530410,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "🤓 About Luminovo At Luminovo , we’re building the infrastructure that turns the electronics supply chain into something software can read and act on. Our customers use it to quote PCBAs faster, find cost savings and act on risks in their supply chain. We serv"
+    },
+    {
+      "id": "arbeitnow:remote-senior-staff-platform-engineer-rust-426496",
+      "title": "Senior/Staff Platform Engineer - Rust (d/f/m)",
+      "org": "Luminovo GmbH",
+      "role": "project",
+      "location": "🇪🇺 Germany (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/remote-senior-staff-platform-engineer-rust-426496",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794530410,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "🤓 About Luminovo At Luminovo , we’re building the infrastructure that turns the electronics supply chain into something software can read and act on. Our customers use it to quote PCBAs faster, find cost savings and act on risks in their supply chain. We serv"
+    },
+    {
+      "id": "arbeitnow:ux-research-intern-berlin-272486",
+      "title": "UX Research Intern",
+      "org": "baesh social UG",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/baesh-social-ug/ux-research-intern-berlin-272486",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794526235,
+      "tags": [
+        "Remote",
+        "Media",
+        "Screen and Web Design"
+      ],
+      "summary": "About baesh baesh is a social platform connecting people in real life through events, communities, and shared interests. We’re a small team using AI to move quickly from ideas to working experiences. Research is central to how we decide what to build and wheth"
+    },
+    {
+      "id": "arbeitnow:werkstudent-customer-care-all-genders-100-remote-421050",
+      "title": "Werkstudent Customer Care (all genders) - 100% Remote",
+      "org": "Wemolo",
+      "role": "project",
+      "location": "Remote - Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/werkstudent-customer-care-all-genders-100-remote-421050",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794519616,
+      "tags": [
+        "Early Careers"
+      ],
+      "summary": "Werkstudent Customer Care (all genders) - 100% Remote Bei Wemolo bauen wir smarte Technologie für die Mobilität von morgen. Das funktioniert nur, weil wir nachhaltige Kontakte zu den Autofahrer:innen pflegen. Du trägst mit deiner Arbeit jeden Tag dazu bei, das"
+    },
+    {
+      "id": "arbeitnow:senior-game-producer-live-games-fully-remote-berlin-267750",
+      "title": "Senior Game Producer (Live Games) - Fully Remote",
+      "org": "SOFTGAMES",
+      "role": "training",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-game-producer-live-games-fully-remote-berlin-267750",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794519100,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "At SOFTGAMES , we’re looking for a Senior Game Producer to lead one of our most exciting casual games on Facebook Instant. You’ll be at the heart of a small, agile team, defining the product vision, shaping the creative direction, and driving the roadmap for a"
+    },
+    {
+      "id": "arbeitnow:senior-game-designer-systems-economy-fully-remote-berlin-338173",
+      "title": "Senior Game Designer - Systems & Economy - Fully Remote",
+      "org": "SOFTGAMES",
+      "role": "training",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-game-designer-systems-economy-fully-remote-berlin-338173",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794519100,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "At SOFTGAMES, we build games played by millions of players worldwide. We are looking for a Senior Game Designer (Systems & Economy) to help evolve our leading games. You will own the long-term evolution of one or two existing games with a loyal player base, ba"
+    },
+    {
+      "id": "arbeitnow:senior-qa-manager-automation-ai-fully-remote-berlin-71172",
+      "title": "Senior QA Manager Automation & AI - Fully Remote",
+      "org": "SOFTGAMES",
+      "role": "training",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-automation-ai-fully-remote-berlin-71172",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794519100,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "We’re looking for a hands-on, AI-driven Senior QA Manager to transform QA across our mobile, web, and instant games portfolio. Your mission is to build an AI-first QA environment, developing and orchestrating AI agents, automating testing workflows, and contin"
+    },
+    {
+      "id": "arbeitnow:marketing-manager-berlin-236123",
+      "title": "Marketing Manager (m/f/d)",
+      "org": "AffiliateLandscape",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/affiliatelandscape/marketing-manager-berlin-236123",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794510039,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "Location: Fully Remote – Worldwide Employment Type: Full-time Industry: Performance Marketing / Digital Advertising About the Role We are looking for a data-driven Performance Marketing Manager who understands how to plan, execute, and optimize digital acquisi"
+    },
+    {
+      "id": "arbeitnow:business-development-manager-affiliate-marketing-berlin-73692",
+      "title": "Business Development Manager – Affiliate Marketing (m/f/d)",
+      "org": "AffiliateLandscape",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/affiliatelandscape/business-development-manager-affiliate-marketing-berlin-73692",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794510039,
+      "tags": [
+        "Remote",
+        "Business Development"
+      ],
+      "summary": "Location: Fully Remote – Worldwide Employment Type: Full-time Industry: Affiliate Marketing / Digital Advertising About the Role We are looking for a driven Business Development Manager with experience in affiliate marketing, performance advertising, or digita"
+    },
+    {
+      "id": "arbeitnow:senior-affiliate-marketing-manager-berlin-482248",
+      "title": "(Senior) Affiliate Marketing Manager (m/f/d)",
+      "org": "AffiliateLandscape",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/affiliatelandscape/senior-affiliate-marketing-manager-berlin-482248",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794510038,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "Location: Fully Remote – Worldwide Employment Type: Full-time Industry: Affiliate Marketing / Performance Marketing About the Role We are looking for an experienced Senior Affiliate Marketing Manager with a strong understanding of the global affiliate marketin"
     },
     {
       "id": "arbeitnow:remote-ui-engineer-based-in-ca-or-nc-only-47794",
@@ -133,7 +362,7 @@
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794501060,
+      "postedAt": 1794531746,
       "tags": [
         "Remote",
         "Social Media Manager"
@@ -191,91 +420,6 @@
         "Online Marketing"
       ],
       "summary": "Über moinAI moinAI ist die Agentic AI Plattform für Kundenservice und Marketing. Unsere AI-Agents beantworten Anfragen nicht nur, sondern lösen sie eigenständig: integriert in die Systeme unserer Kund:innen, kontrollierbar, DSGVO-konform und Made in Germany. Ü"
-    },
-    {
-      "id": "arbeitnow:senior-consultant-informationssicherheit-bsi-it-grundschutz-berlin-157451",
-      "title": "Senior Consultant Informationssicherheit & BSI IT-Grundschutz (d/w/m)",
-      "org": "XAAS",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/xaas/senior-consultant-informationssicherheit-bsi-it-grundschutz-berlin-157451",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794495691,
-      "tags": [
-        "Remote",
-        "IT Security"
-      ],
-      "summary": "Ob du auf der Suche nach einer beruflichen Veränderung bist oder deine Expertise auf das nächste Level bringen möchtest – Bei uns findest du die richtigen Perspektiven. Wir unterstützen seit über 15 Jahren unsere Kundinnen und Kunden bei der Entwicklung ihrer "
-    },
-    {
-      "id": "arbeitnow:senior-privacy-counsel-berlin-127788",
-      "title": "Senior Privacy Counsel (m/f/d)",
-      "org": "Deep Blue Recruitment",
-      "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/deep-blue-recruitment/senior-privacy-counsel-berlin-127788",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794492060,
-      "tags": [
-        "Remote",
-        "Compliance",
-        "Security"
-      ],
-      "summary": "Deep Blue Recruitment is working with an international technology company looking to appoint an experienced Senior Privacy Counsel to join its legal team. Operating in the enterprise technology sector, the business develops software and digital solutions for c"
-    },
-    {
-      "id": "arbeitnow:projektmanager-tga-mep-remote-de-dusseldorf-61827",
-      "title": "Projektmanager TGA / MEP (m/w/d) - Remote (DE)",
-      "org": "Ruby GmbH",
-      "role": "training",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/ruby-gmbh/projektmanager-tga-mep-remote-de-dusseldorf-61827",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794488471,
-      "tags": [
-        "Remote",
-        "Project Management"
-      ],
-      "summary": "At Ruby, your personality really matters, your time really matters, and we strongly believe we groove way better together. At Ruby, we keep breaking new ground. Hey Sunshine, du bist ein Profi, wenn es um die Planung und Magie hinter den Kulissen geht? Du find"
-    },
-    {
-      "id": "arbeitnow:software-developer-mainframe-berlin-305231",
-      "title": "Software-Developer Mainframe (m/w/d)",
-      "org": "H. Wagner + Partner",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/h-wagner-partner/software-developer-mainframe-berlin-305231",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794488470,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "summary": "Über diese Stelle Als Software-Entwickler bei H. Wagner + Partner arbeiten Sie an anspruchsvollen Projekten für namhafte Banken und Finanzinstitute. Sie entwickeln und pflegen Systeme für das Wertpapierdatenmanagement – Anwendungen mit hohen Anforderungen an S"
-    },
-    {
-      "id": "arbeitnow:infrastructure-engineer-london-356073",
-      "title": "Infrastructure Engineer",
-      "org": "Griffin",
-      "role": "marketing",
-      "location": "London or remote within the UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/griffin/infrastructure-engineer-london-356073",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794508818,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "About Griffin Hi, we’re Griffin. We’re a fully regulated UK bank that powers the accounts and payments offerings of product-led fintechs and platforms like Uber, Yonder, Prosper, and Sidekick. By doing the heavy lifting behind the scenes, our customers can foc"
     },
     {
       "id": "arbeitnow:site-reliability-engineer-platform-remote-friendly-paris-80322",
@@ -342,40 +486,6 @@
         "Solutions Engineering (EMEA)"
       ],
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
-    },
-    {
-      "id": "arbeitnow:remote-seo-specialist-zurich-115790",
-      "title": "SEO Specialist",
-      "org": "TransPerfect",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.ch/jobs/companies/transperfect/remote-seo-specialist-zurich-115790",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794421882,
-      "tags": [
-        "Project Management",
-        "Remote"
-      ],
-      "summary": "Ready to turn SEO into measurable business growth? TransPerfect are looking for a strategic, data-driven SEO Specialist to support their digital department to help global brands expand into the French (Swiss) market. We're looking for a freelance expert to sup"
-    },
-    {
-      "id": "arbeitnow:remote-seo-specialist-zurich-448819",
-      "title": "SEO Specialist",
-      "org": "TransPerfect",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.ch/jobs/companies/transperfect/remote-seo-specialist-zurich-448819",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794421882,
-      "tags": [
-        "Project Management",
-        "Remote"
-      ],
-      "summary": "Ready to turn SEO into measurable business growth? TransPerfect are looking for a strategic, data-driven SEO Specialist to support their digital department to help global brands expand into the German (Swiss) market. We're looking for a freelance expert to sup"
     },
     {
       "id": "arbeitnow:programmatic-advertising-specialist-benelux-amsterdam-479174",
@@ -460,22 +570,6 @@
         "Remote"
       ],
       "summary": "Are you interested in working with a leading education technology player, the global leader in the assessment and certification of professional skills industry with presence in more than 200 countries worldwide? If so, this is the chance to apply now! 📥 Shape"
-    },
-    {
-      "id": "arbeitnow:mid-senior-ai-cinematic-video-editor-freelance-full-remote-netherlands-47369",
-      "title": "Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - Netherlands)",
-      "org": "EverAI",
-      "role": "training",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/everai/mid-senior-ai-cinematic-video-editor-freelance-full-remote-netherlands-47369",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794422417,
-      "tags": [
-        "R&D"
-      ],
-      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect"
     },
     {
       "id": "remotive:2086540",
