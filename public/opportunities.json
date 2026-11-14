@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T06:40:02.255Z",
+  "updatedAt": "2026-11-14T18:15:15.447Z",
   "sourceCount": 2,
   "totalFetched": 316,
-  "relevantCount": 42,
+  "relevantCount": 40,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,36 +11,36 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:product-lead-security-identity-london-444799",
-      "title": "Product Lead, Security & Identity",
-      "org": "Kaluza",
-      "role": "marketing",
+      "id": "arbeitnow:systems-simulation-performance-modelling-member-of-technical-staff-london-237693",
+      "title": "Systems Simulation & Performance Modelling - Member of Technical Staff",
+      "org": "Callosum",
+      "role": "project",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/product-lead-security-identity-london-444799",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/callosum/systems-simulation-performance-modelling-member-of-technical-staff-london-237693",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794627628,
+      "postedAt": 1794649221,
       "tags": [
-        "Product"
+        "Compute & Infrastructure"
       ],
-      "summary": "Product Lead, Security & Identity Location: Bristol or London (hybrid, three days a week in the office) Level: Lead Team: Contract: Permanent Reporting To: Director - Platform & Security Please note: This role requires an existing right to work in the UK. We c"
+      "summary": "About Us We’re living through a Cambrian explosion of intelligence: new models and new chips, each specialised for different tasks, are arriving all at once. The result is a new era for AI, one of radical heterogeneity. Callosum is the Intelligent Systems Comp"
     },
     {
-      "id": "arbeitnow:qa-automation-lead-bristol-139587",
-      "title": "QA Automation Lead",
-      "org": "Kaluza",
-      "role": "marketing",
-      "location": "Bristol, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/qa-automation-lead-bristol-139587",
+      "id": "arbeitnow:hardware-aware-model-optimisation-member-of-technical-staff-london-179014",
+      "title": "Hardware-Aware Model Optimisation - Member of Technical Staff",
+      "org": "Callosum",
+      "role": "project",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/callosum/hardware-aware-model-optimisation-member-of-technical-staff-london-179014",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794627628,
+      "postedAt": 1794649221,
       "tags": [
-        "Engineering"
+        "Compute & Infrastructure"
       ],
-      "summary": "Role: QA Automation Lead Location: London, Bristol Level: C3 Team: Quality Contract: Permanent Reporting To: Senior QA Manager Please note: This role requires an existing right to work in the UK. We can’t offer visa sponsorship, but we review sponsorship role "
+      "summary": "About Us We’re living through a Cambrian explosion of intelligence: new models and new chips, each specialised for different tasks, are arriving all at once. The result is a new era for AI, one of radical heterogeneity. Callosum is the Intelligent Systems Comp"
     },
     {
       "id": "arbeitnow:account-manager-332438",
@@ -73,6 +73,173 @@
         "Sales"
       ],
       "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:customer-success-manager-100-remote-hamburg-33107",
+      "title": "Customer Success Manager (m/w/d) - 100% Remote",
+      "org": "ProviPanda GmbH",
+      "role": "support",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-100-remote-hamburg-33107",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794655860,
+      "tags": [
+        "Customer Service"
+      ],
+      "summary": "ProviPanda ist ein wachsendes HR-Tech-Startup und mittlerweile die größte Sales-Job-App im DACH-Raum. Mit einem Team aus 15 Mitarbeitenden arbeiten wir daran, den Sales-HR-Markt zu revolutionieren und neu zu denken. Als Customer Success Manager bist du die zen"
+    },
+    {
+      "id": "arbeitnow:social-media-ai-manager-quereinstieg-homeoffice-vollzeit-oder-teilzeit-berlin-474717",
+      "title": "Social Media & AI Manager (m/w/d) – Quereinstieg | Homeoffice | Vollzeit oder Teilzeit",
+      "org": "Digital Evolution",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/digital-evolution/social-media-ai-manager-quereinstieg-homeoffice-vollzeit-oder-teilzeit-berlin-474717",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794652266,
+      "tags": [
+        "Remote",
+        "Social Media Manager"
+      ],
+      "summary": "Social Media & AI Manager (m/w/d) – Quereinstieg | Homeoffice | Vollzeit oder Teilzeit Du möchtest beruflich etwas Neues starten, dich weiterentwickeln? Dann starte jetzt im Bereich Social Media & Künstliche Intelligenz (KI) durch! Egal, ob Vollzeit oder Teilz"
+    },
+    {
+      "id": "arbeitnow:remote-technical-program-manager-software-197537",
+      "title": "Technical Program Manager, Software",
+      "org": "Swarmaero",
+      "role": "project",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-technical-program-manager-software-197537",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794649220,
+      "tags": [
+        "Aircraft"
+      ],
+      "summary": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command & Control"
+    },
+    {
+      "id": "arbeitnow:senior-sales-executive-remote-berlin-478657",
+      "title": "Senior Sales Executive (Remote)",
+      "org": "Siteminder",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/siteminder/senior-sales-executive-remote-berlin-478657",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794638430,
+      "tags": [
+        "GTM - Sales"
+      ],
+      "summary": "At SiteMinder, we believe our success comes from our people. We build diverse, inclusive teams where different voices, backgrounds and perspectives are valued. Our differences drive innovation for our customers, and our people bring the ideas, expertise and en"
+    },
+    {
+      "id": "arbeitnow:remote-team-lead-sap-abap-development-data-migration-berlin-98262",
+      "title": "Team Lead SAP ABAP Development – Data Migration (m/w/d)",
+      "org": "Natuvion GmbH",
+      "role": "project",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-team-lead-sap-abap-development-data-migration-berlin-98262",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794637891,
+      "tags": [
+        "Technical Migration",
+        "Remote"
+      ],
+      "summary": "Du findest ABAP-Entwicklungen und technische Beratung im SAP-Umfeld spannend, bist spezialisiert an Themen der Datenmigration und bringst erste Führungserfahrung und Leidenschaft für die Entwicklung deiner Mitarbeitenden mit? Du hast Lust in agilen und interna"
+    },
+    {
+      "id": "arbeitnow:remote-sap-finance-fi-co-migration-architect-berlin-208083",
+      "title": "SAP Finance (FI/CO) Migration Architect (m/w/d)",
+      "org": "Natuvion GmbH",
+      "role": "project",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-finance-fi-co-migration-architect-berlin-208083",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794637891,
+      "tags": [
+        "Technical Migration",
+        "Remote"
+      ],
+      "summary": "Möchtest du die Zukunft unserer Kunden aktiv mitgestalten und dabei sowohl fachlich als auch technisch Verantwortung übernehmen? Dann bist du bei uns genau richtig! Wir suchen einen Migration Architect SAP FI/CO (m/w/d) der unsere nationalen und internationale"
+    },
+    {
+      "id": "arbeitnow:remote-senior-ai-product-designer-berlin-84714",
+      "title": "Senior AI Product Designer (m/w/d)",
+      "org": "Recare Deutschland GmbH",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-ai-product-designer-berlin-84714",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794637890,
+      "tags": [
+        "Product",
+        "Remote"
+      ],
+      "summary": "About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simp"
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-computer-use-integrations-berlin-434731",
+      "title": "Software Engineer (Computer Use & Integrations) (m/w/d)",
+      "org": "Recare Deutschland GmbH",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-434731",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794637890,
+      "tags": [
+        "Engineering",
+        "Remote"
+      ],
+      "summary": "Software Engineer – Backend (Computer Use & Integrations) (m/w/d) Remote job About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to "
+    },
+    {
+      "id": "arbeitnow:remote-lead-security-engineer-berlin-229517",
+      "title": "Lead Security Engineer (m/w/d)",
+      "org": "Recare Deutschland GmbH",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-lead-security-engineer-berlin-229517",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794637890,
+      "tags": [
+        "Engineering",
+        "Remote"
+      ],
+      "summary": "Lead Security Engineer (m/w/d) About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop A"
+    },
+    {
+      "id": "arbeitnow:remote-tech-lead-medical-coding-agents-berlin-279658",
+      "title": "Tech Lead (Medical Coding Agents) (m/w/d)",
+      "org": "Recare Deutschland GmbH",
+      "role": "training",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-tech-lead-medical-coding-agents-berlin-279658",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794637889,
+      "tags": [
+        "Engineering",
+        "Remote"
+      ],
+      "summary": "About Recare As one of the leading German HealthTech companies, we are reshaping discharge management: technology-driven, patient-centered and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simpli"
     },
     {
       "id": "arbeitnow:senior-full-stack-engineer-experimentation-product-analytics-germany-remote-250355",
@@ -139,214 +306,68 @@
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
     },
     {
-      "id": "arbeitnow:remote-senior-software-engineer-75803",
-      "title": "Senior Software Engineer",
-      "org": "Hexa",
-      "role": "project",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/hexa/remote-senior-software-engineer-75803",
+      "id": "arbeitnow:growth-marketing-manager-studio-remote-united-kingdom-79776",
+      "title": "Growth Marketing Manager (Studio) - Remote",
+      "org": "Reedsy",
+      "role": "marketing",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reedsy/growth-marketing-manager-studio-remote-united-kingdom-79776",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794616817,
+      "postedAt": 1794670812,
       "tags": [
-        "Filiz"
+        "Marketing"
       ],
-      "summary": "Filiz est une startup SaaS de 30 personnes qui digitalise aujourd'hui les contrats d'apprentissage en France et construit son deuxième produit : un ERP nouvelle génération pour transformer la façon dont les établissements d'enseignement supérieur opèrent au qu"
+      "summary": "About Reedsy We’re here to give authors the tools and resources they need to create beautiful books. Our marketplace gathers the industry's best publishing professionals — the likes of Neil Gaiman's editor, Nora Roberts' book marketer, and GRRM’s cover designe"
     },
     {
-      "id": "arbeitnow:data-engineer-merchant-intelligence-agent-munich-364148",
-      "title": "Data Engineer: Merchant Intelligence Agent",
-      "org": "Constructor",
+      "id": "arbeitnow:remote-software-engineer-all-levels-united-kingdom-213631",
+      "title": "Software Engineer (All Levels), United Kingdom",
+      "org": "Koboldmetals",
       "role": "training",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/constructor/data-engineer-merchant-intelligence-agent-munich-364148",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/koboldmetals/remote-software-engineer-all-levels-united-kingdom-213631",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794616814,
+      "postedAt": 1794660923,
+      "tags": [
+        "Software Engineering"
+      ],
+      "summary": "&lt;p&gt;&lt;em data-stringify-type=\"italic\"&gt;We are open to hiring at multiple levels for this role, depending on experience, impact, and demonstrated ownership. While this role is level-agnostic, it is best suited for engineers with experience owning produ"
+    },
+    {
+      "id": "arbeitnow:remote-senior-software-engineer-appsec-175070",
+      "title": "Senior Software Engineer (AppSec)",
+      "org": "Triggerdev",
+      "role": "training",
+      "location": "Remote or Hybrid UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/triggerdev/remote-senior-software-engineer-appsec-175070",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794649222,
       "tags": [
         "Engineering"
       ],
-      "summary": "About Us Launched in 2019, Constructor is an AI-first e-commerce search and discovery platform that helps shoppers find the right products at the right time and enables leading global e-commerce brands to drive meaningful revenue and conversion gains. About th"
+      "summary": "About us Trigger.dev is the platform for running reliable AI agents and workflows. Developers use it to build, deploy, and scale production systems with built-in tools for orchestration, scheduling, monitoring, and debugging. Our Cloud product is a managed ser"
     },
     {
-      "id": "arbeitnow:senior-backend-engineer-search-features-apis-sabr-munich-217383",
-      "title": "Senior Backend Engineer - Search Features & APIs (SABR)",
-      "org": "Constructor",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/constructor/senior-backend-engineer-search-features-apis-sabr-munich-217383",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794616814,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "About us Launched in 2019, Constructor is an AI-first e-commerce search and discovery platform that helps shoppers find the right products at the right time and enables leading global e-commerce brands to drive meaningful revenue and conversion gains. About th"
-    },
-    {
-      "id": "arbeitnow:hr-manager-personalmanagement-hr-operations-nidderau-333827",
-      "title": "HR Manager (m/w/d) – Personalmanagement & HR Operations",
-      "org": "Nature Heart GmbH & Co KG",
-      "role": "hr",
-      "location": "Nidderau",
-      "url": "https://www.arbeitnow.com/jobs/companies/nature-heart-gmbh-co-kg/hr-manager-personalmanagement-hr-operations-nidderau-333827",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794616238,
-      "tags": [
-        "Remote",
-        "Personnel Specialist"
-      ],
-      "summary": "HR Manager (m/w/d) – Personalmanagement & HR Operations Gemeinsam für natürliche Gesundheit – von Herz zu Herz Bei Nature Heart glauben wir an die Kraft der Natur und daran, dass Qualität bei Nahrungsergänzung keine Kompromisse zulässt. Nature Heart wächst – u"
-    },
-    {
-      "id": "arbeitnow:kundendienstmitarbeiter-forderungsmanagement-polnisch-berlin-426867",
-      "title": "Kundendienstmitarbeiter Forderungsmanagement Polnisch (m/w/d)",
-      "org": "UAI SOLUTIONS",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/uai-solutions/kundendienstmitarbeiter-forderungsmanagement-polnisch-berlin-426867",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794609034,
-      "tags": [
-        "Remote",
-        "Accounts Receivable"
-      ],
-      "summary": "Gemeinsam halten wir Prozesse in Bewegung. Die UAI SOLUTIONS Firmengruppe entwickelt und betreibt innovative Lösungen für Mobilität, Verwaltungsprozesse und internationale Dienstleistungen in Europa. Unser Ziel ist es, Mobilität einfacher, transparenter und ef"
-    },
-    {
-      "id": "arbeitnow:remote-solution-consulting-manager-286794",
-      "title": "Solution Consulting Manager",
-      "org": "Rillet",
+      "id": "arbeitnow:sales-development-representative-london-290784",
+      "title": "Sales Development Representative",
+      "org": "Livekit",
       "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/rillet/remote-solution-consulting-manager-286794",
+      "location": "London (Remote)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/livekit/sales-development-representative-london-290784",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794606016,
+      "postedAt": 1794649220,
       "tags": [
-        "GTM"
+        "S&M"
       ],
-      "summary": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams. We help companies au"
-    },
-    {
-      "id": "arbeitnow:strategic-account-director-perm-uk-remote-17179",
-      "title": "Strategic Account Director (Perm, UK, Remote)",
-      "org": "nearform",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nearform/strategic-account-director-perm-uk-remote-17179",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794628524,
-      "tags": [
-        "Technical Leadership"
-      ],
-      "summary": "&lt;p&gt;&lt;strong&gt;Strategic Account Director (Perm, UK, Remote)&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;About Nearform&nbsp;&nbsp;&lt;/h2&gt; &lt;p&gt;Nearform is an independent team of data and AI experts, engineers, and designers who build intelligent digita"
-    },
-    {
-      "id": "arbeitnow:senior-full-stack-engineer-experimentation-product-analytics-uk-remote-90710",
-      "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | UK | Remote",
-      "org": "grafanalabs",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-full-stack-engineer-experimentation-product-analytics-uk-remote-90710",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794628523,
-      "tags": [
-        "R&D: Observability"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
-    },
-    {
-      "id": "arbeitnow:senior-full-stack-engineer-databases-analytics-uk-remote-424903",
-      "title": "Senior Full Stack Engineer - Databases - Analytics | UK | Remote",
-      "org": "grafanalabs",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-full-stack-engineer-databases-analytics-uk-remote-424903",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794628523,
-      "tags": [
-        "R&D: Second Horizon"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
-    },
-    {
-      "id": "arbeitnow:remote-staff-forward-deployed-engineer-emea-378204",
-      "title": "Staff Forward Deployed Engineer, EMEA",
-      "org": "gitlab",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-staff-forward-deployed-engineer-emea-378204",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794628522,
-      "tags": [
-        "Customer Experience"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
-    },
-    {
-      "id": "arbeitnow:remote-senior-contracts-manager-commercial-emea-225591",
-      "title": "Senior Contracts Manager, Commercial (EMEA)",
-      "org": "gitlab",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-contracts-manager-commercial-emea-225591",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794628522,
-      "tags": [
-        "Legal"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
-    },
-    {
-      "id": "arbeitnow:lead-staff-product-manager-ai-automation-remote-london-60347",
-      "title": "Lead/Staff Product Manager (AI Automation) | Remote",
-      "org": "Mimica",
-      "role": "marketing",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mimica/lead-staff-product-manager-ai-automation-remote-london-60347",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794627624,
-      "tags": [
-        "Product"
-      ],
-      "summary": "What we are building Mimica is an AI-powered process intelligence platform enabling enterprises and individuals to reclaim their most precious resource: time. We've all seen repetitive tasks and redundant processes quietly drain productivity and creativity. No"
-    },
-    {
-      "id": "arbeitnow:remote-technical-engineering-manager-81232",
-      "title": "Technical Engineering Manager",
-      "org": "Carwow",
-      "role": "training",
-      "location": "United Kingdom - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/remote-technical-engineering-manager-81232",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794616813,
-      "tags": [
-        "Technology"
-      ],
-      "summary": "OUR MISSION To become the car-changing destination of choice. By combining technology, media and deep automotive expertise, we've turned how people buy, sell, advertise and lease cars on its head. What started as a simple reviews site is now one of the largest"
+      "summary": "About LiveKit LiveKit is the default infrastructure layer for real-time AI, the platform that gives AI the ability to see, hear, and speak. From powering voice for millions of ChatGPT users to enabling drone teleoperation at Skydio and serving as the backbone "
     },
     {
       "id": "arbeitnow:remote-staff-forward-deployed-engineer-emea-238197",
@@ -363,24 +384,6 @@
         "Customer Experience"
       ],
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
-    },
-    {
-      "id": "arbeitnow:remote-senior-growth-product-manager-paris-473086",
-      "title": "Senior Growth Product Manager",
-      "org": "Soda Data Nv",
-      "role": "marketing",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-growth-product-manager-paris-473086",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794612009,
-      "tags": [
-        "Computer Software",
-        "Product and Engineering",
-        "Remote"
-      ],
-      "summary": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call. Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. Our open-source engine, Soda Core, is used by comp"
     },
     {
       "id": "arbeitnow:regulatory-reporting-expert-energiehandel-compliance-bern-230643",
@@ -453,23 +456,6 @@
       "summary": "Wir bieten für die Promotion der Angebote von Home Office Club Schweiz, die Möglichkeit als Promo / Admin / Social Media Quereinsteiger-/in mitzuarbeiten. Aufgaben Remote Job / Home Office Job / von zu Hause arbeiten möglich • Sie teilen die Website vom Home O"
     },
     {
-      "id": "arbeitnow:remote-software-test-engineer-bern-98324",
-      "title": "Software Test Engineer",
-      "org": "SwissPeak Partners GmbH",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-98324",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794562296,
-      "tags": [
-        "Software Engineering",
-        "Remote"
-      ],
-      "summary": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest im Sprint mit und ve"
-    },
-    {
       "id": "arbeitnow:remote-staff-forward-deployed-engineer-emea-101256",
       "title": "Staff Forward Deployed Engineer, EMEA",
       "org": "gitlab",
@@ -517,23 +503,6 @@
         "Remote"
       ],
       "summary": "DeepHealth is seeking an experienced Talent Acquisition Partner based in Europe to own high-impact, full-cycle recruiting across European markets and support global hiring as needed. This is a hands-on execution role in a fast-paced, high-volume environment wh"
-    },
-    {
-      "id": "arbeitnow:remote-senior-cloud-engineer-utrecht-183144",
-      "title": "Senior Cloud Engineer",
-      "org": "Luscii",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.nl/jobs/companies/luscii/remote-senior-cloud-engineer-utrecht-183144",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794562293,
-      "tags": [
-        "Software Development",
-        "Remote"
-      ],
-      "summary": "At Luscii, we're creating space for care by developing and improving digital healthcare applications that make a real difference in people's lives through several applications. From Luscii Thuismeten, which helps healthcare professionals monitor patients remot"
     },
     {
       "id": "remotive:1680495",
