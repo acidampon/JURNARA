@@ -1,47 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T18:15:15.447Z",
+  "updatedAt": "2026-11-14T22:35:41.825Z",
   "sourceCount": 2,
   "totalFetched": 316,
-  "relevantCount": 40,
+  "relevantCount": 38,
   "sources": [
     "Arbeitnow",
     "Remotive"
   ],
   "sourceErrors": [],
   "jobs": [
-    {
-      "id": "arbeitnow:systems-simulation-performance-modelling-member-of-technical-staff-london-237693",
-      "title": "Systems Simulation & Performance Modelling - Member of Technical Staff",
-      "org": "Callosum",
-      "role": "project",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/callosum/systems-simulation-performance-modelling-member-of-technical-staff-london-237693",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794649221,
-      "tags": [
-        "Compute & Infrastructure"
-      ],
-      "summary": "About Us We’re living through a Cambrian explosion of intelligence: new models and new chips, each specialised for different tasks, are arriving all at once. The result is a new era for AI, one of radical heterogeneity. Callosum is the Intelligent Systems Comp"
-    },
-    {
-      "id": "arbeitnow:hardware-aware-model-optimisation-member-of-technical-staff-london-179014",
-      "title": "Hardware-Aware Model Optimisation - Member of Technical Staff",
-      "org": "Callosum",
-      "role": "project",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/callosum/hardware-aware-model-optimisation-member-of-technical-staff-london-179014",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794649221,
-      "tags": [
-        "Compute & Infrastructure"
-      ],
-      "summary": "About Us We’re living through a Cambrian explosion of intelligence: new models and new chips, each specialised for different tasks, are arriving all at once. The result is a new era for AI, one of radical heterogeneity. Callosum is the Intelligent Systems Comp"
-    },
     {
       "id": "arbeitnow:account-manager-332438",
       "title": "Account Manager",
@@ -73,6 +41,105 @@
         "Sales"
       ],
       "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:remote-senior-site-reliability-engineer-sre-berlin-312709",
+      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+      "org": "Makersite GmbH",
+      "role": "project",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-312709",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794691891,
+      "tags": [
+        "Technology",
+        "Remote"
+      ],
+      "summary": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make"
+    },
+    {
+      "id": "arbeitnow:remote-ai-integration-automation-engineer-ger-128389",
+      "title": "AI Integration & Automation Engineer (m/w/d) GER",
+      "org": "Customs Support Group",
+      "role": "project",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794691886,
+      "tags": [
+        "IT & Tech",
+        "Remote"
+      ],
+      "summary": "Über die Customs Support Group Die Customs Support Group (CSG) ist der europäische Marktführer für Zolldienstleistungen und in 15 Ländern aktiv. CSG befindet sich im Besitz einer Private-Equity-Gesellschaft und ist ein schnell wachsendes, dynamisches und daten"
+    },
+    {
+      "id": "arbeitnow:product-engineer-remote-oder-karlsruhe-193000",
+      "title": "Product Engineer (m/w/d) - remote oder Karlsruhe",
+      "org": "Knuddels GmbH & Co. KG",
+      "role": "marketing",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/product-engineer-remote-oder-karlsruhe-193000",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794691886,
+      "tags": [
+        "Alle Abteilungen",
+        "Remote"
+      ],
+      "summary": "Wir bei Knuddels wollen soziale Netzwerke wieder wirklich sozial machen – weg vom Konsumieren von Content, hin zu echter menschlicher Nähe. Unser Ziel: Bei Knuddels soll jeder Mensch drei wichtige Menschen für sein echtes Leben finden. Als Product Engineer ver"
+    },
+    {
+      "id": "arbeitnow:remote-senior-security-engineer-appsec-40606",
+      "title": "Senior Security Engineer - AppSec (d/f/m)",
+      "org": "Vivenu",
+      "role": "training",
+      "location": "Remote Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-senior-security-engineer-appsec-40606",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794691598,
+      "tags": [
+        "Product & Development"
+      ],
+      "summary": "Redefine the future of live entertainment tech Welcome to vivenu, the global leader in event ticketing tech and one of the world’s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golde"
+    },
+    {
+      "id": "arbeitnow:remote-portfolio-accountant-384566",
+      "title": "Portfolio Accountant",
+      "org": "Access Destination Services",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/access-destination-services/remote-portfolio-accountant-384566",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794681612,
+      "tags": [
+        "Corporate Services Group"
+      ],
+      "summary": "Access Your Potential. Join us to create and deliver experiences that inspire people, spark connection, and bring imagination to life—while having a lot of fun doing it. About the Job We’re seeking a detail-oriented and organized Portfolio Accountant to join o"
+    },
+    {
+      "id": "arbeitnow:remote-events-auditor-associate-460273",
+      "title": "Events Auditor Associate",
+      "org": "Access Destination Services",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/access-destination-services/remote-events-auditor-associate-460273",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794681612,
+      "tags": [
+        "Corporate Services Group"
+      ],
+      "summary": "Access Your Potential. Join us to create and deliver experiences that inspire people, spark connection, and bring imagination to life—while having a lot of fun doing it. About the Job We're seeking a detail-oriented and organized Events Auditing Associate to j"
     },
     {
       "id": "arbeitnow:customer-success-manager-100-remote-hamburg-33107",
@@ -174,200 +241,100 @@
       "summary": "Möchtest du die Zukunft unserer Kunden aktiv mitgestalten und dabei sowohl fachlich als auch technisch Verantwortung übernehmen? Dann bist du bei uns genau richtig! Wir suchen einen Migration Architect SAP FI/CO (m/w/d) der unsere nationalen und internationale"
     },
     {
-      "id": "arbeitnow:remote-senior-ai-product-designer-berlin-84714",
-      "title": "Senior AI Product Designer (m/w/d)",
-      "org": "Recare Deutschland GmbH",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-ai-product-designer-berlin-84714",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794637890,
-      "tags": [
-        "Product",
-        "Remote"
-      ],
-      "summary": "About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simp"
-    },
-    {
-      "id": "arbeitnow:remote-software-engineer-computer-use-integrations-berlin-434731",
-      "title": "Software Engineer (Computer Use & Integrations) (m/w/d)",
-      "org": "Recare Deutschland GmbH",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-434731",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794637890,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "Software Engineer – Backend (Computer Use & Integrations) (m/w/d) Remote job About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to "
-    },
-    {
-      "id": "arbeitnow:remote-lead-security-engineer-berlin-229517",
-      "title": "Lead Security Engineer (m/w/d)",
-      "org": "Recare Deutschland GmbH",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-lead-security-engineer-berlin-229517",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794637890,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "Lead Security Engineer (m/w/d) About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop A"
-    },
-    {
-      "id": "arbeitnow:remote-tech-lead-medical-coding-agents-berlin-279658",
-      "title": "Tech Lead (Medical Coding Agents) (m/w/d)",
-      "org": "Recare Deutschland GmbH",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-tech-lead-medical-coding-agents-berlin-279658",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794637889,
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "summary": "About Recare As one of the leading German HealthTech companies, we are reshaping discharge management: technology-driven, patient-centered and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simpli"
-    },
-    {
-      "id": "arbeitnow:senior-full-stack-engineer-experimentation-product-analytics-germany-remote-250355",
-      "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | Germany | Remote",
-      "org": "grafanalabs",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-full-stack-engineer-experimentation-product-analytics-germany-remote-250355",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794628522,
-      "tags": [
-        "R&D: Observability"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
-    },
-    {
-      "id": "arbeitnow:senior-full-stack-engineer-databases-analytics-germany-remote-216267",
-      "title": "Senior Full Stack Engineer - Databases - Analytics | Germany | Remote",
-      "org": "grafanalabs",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-full-stack-engineer-databases-analytics-germany-remote-216267",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794628522,
-      "tags": [
-        "R&D: Second Horizon"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
-    },
-    {
-      "id": "arbeitnow:major-account-executive-remote-germany-306145",
-      "title": "Major Account Executive | Remote | Germany",
-      "org": "grafanalabs",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/major-account-executive-remote-germany-306145",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794628522,
-      "tags": [
-        "Sales (EMEA)"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
-    },
-    {
-      "id": "arbeitnow:remote-staff-forward-deployed-engineer-emea-244241",
-      "title": "Staff Forward Deployed Engineer, EMEA",
-      "org": "gitlab",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-forward-deployed-engineer-emea-244241",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794628522,
-      "tags": [
-        "Customer Experience"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
-    },
-    {
-      "id": "arbeitnow:growth-marketing-manager-studio-remote-united-kingdom-79776",
-      "title": "Growth Marketing Manager (Studio) - Remote",
-      "org": "Reedsy",
-      "role": "marketing",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/reedsy/growth-marketing-manager-studio-remote-united-kingdom-79776",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794670812,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "About Reedsy We’re here to give authors the tools and resources they need to create beautiful books. Our marketplace gathers the industry's best publishing professionals — the likes of Neil Gaiman's editor, Nora Roberts' book marketer, and GRRM’s cover designe"
-    },
-    {
-      "id": "arbeitnow:remote-software-engineer-all-levels-united-kingdom-213631",
-      "title": "Software Engineer (All Levels), United Kingdom",
-      "org": "Koboldmetals",
+      "id": "arbeitnow:remote-account-executive-smb-374470",
+      "title": "Account Executive, SMB",
+      "org": "Karbon",
       "role": "training",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/koboldmetals/remote-software-engineer-all-levels-united-kingdom-213631",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/karbon/remote-account-executive-smb-374470",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794660923,
+      "postedAt": 1794693314,
       "tags": [
-        "Software Engineering"
+        "Sales"
       ],
-      "summary": "&lt;p&gt;&lt;em data-stringify-type=\"italic\"&gt;We are open to hiring at multiple levels for this role, depending on experience, impact, and demonstrated ownership. While this role is level-agnostic, it is best suited for engineers with experience owning produ"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;About Karbon&lt;/strong&gt;&lt;/p&gt; &lt;p style=\"text-align: left;\"&gt;Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud plat"
     },
     {
-      "id": "arbeitnow:remote-senior-software-engineer-appsec-175070",
-      "title": "Senior Software Engineer (AppSec)",
-      "org": "Triggerdev",
+      "id": "arbeitnow:remote-account-executive-mid-market-evergreen-352662",
+      "title": "Account Executive - Mid Market (Evergreen)",
+      "org": "Karbon",
       "role": "training",
-      "location": "Remote or Hybrid UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/triggerdev/remote-senior-software-engineer-appsec-175070",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/karbon/remote-account-executive-mid-market-evergreen-352662",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794649222,
+      "postedAt": 1794693314,
       "tags": [
-        "Engineering"
+        "Sales"
       ],
-      "summary": "About us Trigger.dev is the platform for running reliable AI agents and workflows. Developers use it to build, deploy, and scale production systems with built-in tools for orchestration, scheduling, monitoring, and debugging. Our Cloud product is a managed ser"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;About Karbon&lt;/strong&gt;&lt;/p&gt; &lt;p style=\"text-align: left;\"&gt;Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud plat"
     },
     {
-      "id": "arbeitnow:sales-development-representative-london-290784",
-      "title": "Sales Development Representative",
-      "org": "Livekit",
+      "id": "arbeitnow:clinical-recruiter-at-aios-remote-100-200k-inc-equity-blackburn-478104",
+      "title": "Clinical Recruiter at AIOS- Remote, $100-200k inc equity",
+      "org": "AIOS (YC W20/S21)",
       "role": "marketing",
-      "location": "London (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/livekit/sales-development-representative-london-290784",
+      "location": "Remote (UK hours)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/clinical-recruiter-at-aios-remote-100-200k-inc-equity-blackburn-478104",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794649220,
+      "postedAt": 1794692411,
       "tags": [
-        "S&M"
+        "Company"
       ],
-      "summary": "About LiveKit LiveKit is the default infrastructure layer for real-time AI, the platform that gives AI the ability to see, hear, and speak. From powering voice for millions of ChatGPT users to enabling drone teleoperation at Skydio and serving as the backbone "
+      "summary": "About AIOS AIOS is building the world’s first full-stack AI doctor. We’re at $450M ARR, growing from $7M/yr in April 2025. We’re faithfully serving 200k/mo patients via Bolt Pharmacy, our main UK brand. We’ve just launched Bolt Med, our international brand. We"
+    },
+    {
+      "id": "arbeitnow:clinical-operations-lead-registered-manager-cqc-at-aios-remote-uk-ps90k-ps150k-yr-inc-equity-london-212130",
+      "title": "Clinical Operations Lead & Registered Manager (CQC) at AIOS — Remote (UK), £90k–£150k/yr inc equity",
+      "org": "AIOS (YC W20/S21)",
+      "role": "training",
+      "location": "UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/clinical-operations-lead-registered-manager-cqc-at-aios-remote-uk-ps90k-ps150k-yr-inc-equity-london-212130",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794692411,
+      "tags": [
+        "Medical/Program"
+      ],
+      "summary": "About AIOS AIOS is building the world’s first full-stack AI doctor. We’re at $450M ARR, growing from $7M/yr in April 2025. We’re faithfully serving 200k/mo patients via Bolt Pharmacy, our main UK brand. We’ve just launched Bolt Med, our international brand. We"
+    },
+    {
+      "id": "arbeitnow:senior-manager-performance-creative-strategy-casino-remote-leeds-london-manchester-376850",
+      "title": "Senior Manager, Performance Creative Strategy – Casino (Remote)",
+      "org": "Fanaticsfbg",
+      "role": "marketing",
+      "location": "Leeds; London; Manchester",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-manager-performance-creative-strategy-casino-remote-leeds-london-manchester-376850",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794682517,
+      "tags": [
+        "Gaming - Marketing"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\"&gt;About Us&lt;/h2&gt; &lt;div class=\"job-details__description-content basic-f"
+    },
+    {
+      "id": "arbeitnow:sar-remote-sensing-engineer-paris-289669",
+      "title": "SAR Remote Sensing Engineer",
+      "org": "Signal Processing Engineer (RF Processing & Analytics)",
+      "role": "marketing",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/sar-remote-sensing-engineer-paris-289669",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794692413,
+      "tags": [
+        "R&D"
+      ],
+      "summary": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical sys"
     },
     {
       "id": "arbeitnow:remote-staff-forward-deployed-engineer-emea-238197",
