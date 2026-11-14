@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T19:50:37.295Z",
+  "updatedAt": "2026-11-14T06:40:02.255Z",
   "sourceCount": 2,
   "totalFetched": 316,
-  "relevantCount": 40,
+  "relevantCount": 42,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,36 +11,36 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:support-systems-programs-lead-europe-remote-berlin-462388",
-      "title": "Support Systems & Programs Lead | Europe Remote",
-      "org": "N8N",
-      "role": "support",
-      "location": "Berlin Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/support-systems-programs-lead-europe-remote-berlin-462388",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794595225,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
-    },
-    {
-      "id": "arbeitnow:sales-development-representative-dach-berlin-279935",
-      "title": "Sales Development Representative DACH",
-      "org": "N8N",
+      "id": "arbeitnow:product-lead-security-identity-london-444799",
+      "title": "Product Lead, Security & Identity",
+      "org": "Kaluza",
       "role": "marketing",
-      "location": "Berlin Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/sales-development-representative-dach-berlin-279935",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/product-lead-security-identity-london-444799",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794595225,
+      "postedAt": 1794627628,
       "tags": [
-        "Sales"
+        "Product"
       ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+      "summary": "Product Lead, Security & Identity Location: Bristol or London (hybrid, three days a week in the office) Level: Lead Team: Contract: Permanent Reporting To: Director - Platform & Security Please note: This role requires an existing right to work in the UK. We c"
+    },
+    {
+      "id": "arbeitnow:qa-automation-lead-bristol-139587",
+      "title": "QA Automation Lead",
+      "org": "Kaluza",
+      "role": "marketing",
+      "location": "Bristol, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/qa-automation-lead-bristol-139587",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794627628,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "Role: QA Automation Lead Location: London, Bristol Level: C3 Team: Quality Contract: Permanent Reporting To: Senior QA Manager Please note: This role requires an existing right to work in the UK. We can’t offer visa sponsorship, but we review sponsorship role "
     },
     {
       "id": "arbeitnow:account-manager-332438",
@@ -75,269 +75,312 @@
       "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
     },
     {
-      "id": "arbeitnow:talent-acquisition-specialist-rotterdam-41092",
-      "title": "Talent Acquisition Specialist",
-      "org": "Helloprint",
+      "id": "arbeitnow:senior-full-stack-engineer-experimentation-product-analytics-germany-remote-250355",
+      "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | Germany | Remote",
+      "org": "grafanalabs",
       "role": "marketing",
-      "location": "Rotterdam, Zuid-Holland, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/helloprint/talent-acquisition-specialist-rotterdam-41092",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794519100,
-      "tags": [
-        "People & Culture"
-      ],
-      "summary": "HelloPrint is on a mission to become the world’s leading infrastructure for customizable printed products. From our offices in Rotterdam and Valencia, 100+ professionals from 20+ nationalities are building an AI-first company that scales output faster than hea"
-    },
-    {
-      "id": "arbeitnow:remote-senior-sales-engineer-enterprise-158139",
-      "title": "Senior Sales Engineer, Enterprise",
-      "org": "Fivetran",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-senior-sales-engineer-enterprise-158139",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794596126,
-      "tags": [
-        "Sales Department"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to quer"
-    },
-    {
-      "id": "arbeitnow:remote-senior-account-executive-enterprise-176237",
-      "title": "Senior Account Executive, Enterprise",
-      "org": "Fivetran",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/fivetran/remote-senior-account-executive-enterprise-176237",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794596126,
-      "tags": [
-        "Sales Department"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to quer"
-    },
-    {
-      "id": "arbeitnow:freelance-software-tester-remote-in-germany-365769",
-      "title": "Freelance Software Tester | Remote in Germany",
-      "org": "Testlio",
-      "role": "training",
       "location": "Location not specified",
-      "url": "https://www.arbeitnow.com/jobs/companies/testlio/freelance-software-tester-remote-in-germany-365769",
+      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-full-stack-engineer-experimentation-product-analytics-germany-remote-250355",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794596123,
+      "postedAt": 1794628522,
       "tags": [
-        "Freelancers"
+        "R&D: Observability"
       ],
-      "summary": "&lt;p data-pm-slice=\"1 1 []\"&gt;Hi there! We're Testlio, a global software testing company that has been helping businesses improve their digital products since 2012.&lt;br&gt;We work with companies around the world to test websites, mobile apps, and online pa"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
     },
     {
-      "id": "arbeitnow:remote-initiativbewerbung-werkstudentin-softwareentwicklung-karlsruhe-60089",
-      "title": "Initiativbewerbung Werkstudent:in Softwareentwicklung (m/w/d) - Karlsruhe",
-      "org": "Knuddels GmbH & Co. KG",
+      "id": "arbeitnow:senior-full-stack-engineer-databases-analytics-germany-remote-216267",
+      "title": "Senior Full Stack Engineer - Databases - Analytics | Germany | Remote",
+      "org": "grafanalabs",
       "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/remote-initiativbewerbung-werkstudentin-softwareentwicklung-karlsruhe-60089",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/senior-full-stack-engineer-databases-analytics-germany-remote-216267",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794594678,
+      "postedAt": 1794628522,
       "tags": [
-        "Initiativ",
-        "Remote"
+        "R&D: Second Horizon"
       ],
-      "summary": "Wir bei Knuddels haben uns das Ziel gesetzt, soziale Netzwerke wieder wirklich sozial zu machen - mit echter menschlicher Nähe statt bloßen Content-Konsums. In unserer Community soll jedes Mitglied 3 wichtige Menschen für sein echtes Leben finden: Jobtitel sin"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
     },
     {
-      "id": "arbeitnow:remote-enterprise-account-executive-fr-bnl-se-berlin-165357",
-      "title": "Enterprise Account Executive - FR/BNL/SE (m/f/x)",
-      "org": "Makersite GmbH",
+      "id": "arbeitnow:major-account-executive-remote-germany-306145",
+      "title": "Major Account Executive | Remote | Germany",
+      "org": "grafanalabs",
       "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-enterprise-account-executive-fr-bnl-se-berlin-165357",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/major-account-executive-remote-germany-306145",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794594674,
+      "postedAt": 1794628522,
       "tags": [
-        "Sales",
-        "Remote"
+        "Sales (EMEA)"
       ],
-      "summary": "Account Executive (m/f/x) (French Speaking) Location: EU (Remote) Comp: 120k EUR base Territories: France / Benelux / Southern Europe Who You’ll Work For: At Makersite, we're pioneering the future of sustainable product development and digital collaboration. A"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
     },
     {
-      "id": "arbeitnow:remote-enterprise-account-executive-uki-nordics-berlin-275040",
-      "title": "Enterprise Account Executive - UKI/Nordics (m/f/x)",
-      "org": "Makersite GmbH",
+      "id": "arbeitnow:remote-staff-forward-deployed-engineer-emea-244241",
+      "title": "Staff Forward Deployed Engineer, EMEA",
+      "org": "gitlab",
       "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-enterprise-account-executive-uki-nordics-berlin-275040",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-forward-deployed-engineer-emea-244241",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794594674,
+      "postedAt": 1794628522,
       "tags": [
-        "Sales",
-        "Remote"
+        "Customer Experience"
       ],
-      "summary": "Account Executive (m/f/x) (English Speaking) Location: EU (Remote) Comp: 120k EUR base Territories: UKI/Nordics Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform "
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
     },
     {
-      "id": "arbeitnow:sales-manager-im-aussendienst-100-remote-stuttgart-134389",
-      "title": "Sales Manager im Außendienst (m/w/d) 100% Remote",
-      "org": "MY Humancapital GmbH",
+      "id": "arbeitnow:remote-senior-software-engineer-75803",
+      "title": "Senior Software Engineer",
+      "org": "Hexa",
       "role": "project",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/sales-manager-im-aussendienst-100-remote-stuttgart-134389",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/hexa/remote-senior-software-engineer-75803",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794592849,
+      "postedAt": 1794616817,
       "tags": [
-        "Sales Engineer"
+        "Filiz"
       ],
-      "summary": "Außendienstmitarbeiter (m/w/d) gesucht – Vollzeit | Baden-Württemberg | 100% Remote Im Auftrag unseres Partnerunternehmens suchen wir Sie zum nächstmöglichen Zeitpunkt als „ Sales Manager (m/w/d) – Technischer Vertrieb “. Aufgaben Als Vertriebsmitarbeiter (m/w"
+      "summary": "Filiz est une startup SaaS de 30 personnes qui digitalise aujourd'hui les contrats d'apprentissage en France et construit son deuxième produit : un ERP nouvelle génération pour transformer la façon dont les établissements d'enseignement supérieur opèrent au qu"
     },
     {
-      "id": "arbeitnow:elektroplaner-smart-home-als-content-creator-berlin-329588",
-      "title": "Elektroplaner Smart Home als Content Creator (m/w/d)",
-      "org": "JETPLAN",
-      "role": "marketing",
+      "id": "arbeitnow:data-engineer-merchant-intelligence-agent-munich-364148",
+      "title": "Data Engineer: Merchant Intelligence Agent",
+      "org": "Constructor",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructor/data-engineer-merchant-intelligence-agent-munich-364148",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794616814,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "About Us Launched in 2019, Constructor is an AI-first e-commerce search and discovery platform that helps shoppers find the right products at the right time and enables leading global e-commerce brands to drive meaningful revenue and conversion gains. About th"
+    },
+    {
+      "id": "arbeitnow:senior-backend-engineer-search-features-apis-sabr-munich-217383",
+      "title": "Senior Backend Engineer - Search Features & APIs (SABR)",
+      "org": "Constructor",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructor/senior-backend-engineer-search-features-apis-sabr-munich-217383",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794616814,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "About us Launched in 2019, Constructor is an AI-first e-commerce search and discovery platform that helps shoppers find the right products at the right time and enables leading global e-commerce brands to drive meaningful revenue and conversion gains. About th"
+    },
+    {
+      "id": "arbeitnow:hr-manager-personalmanagement-hr-operations-nidderau-333827",
+      "title": "HR Manager (m/w/d) – Personalmanagement & HR Operations",
+      "org": "Nature Heart GmbH & Co KG",
+      "role": "hr",
+      "location": "Nidderau",
+      "url": "https://www.arbeitnow.com/jobs/companies/nature-heart-gmbh-co-kg/hr-manager-personalmanagement-hr-operations-nidderau-333827",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794616238,
+      "tags": [
+        "Remote",
+        "Personnel Specialist"
+      ],
+      "summary": "HR Manager (m/w/d) – Personalmanagement & HR Operations Gemeinsam für natürliche Gesundheit – von Herz zu Herz Bei Nature Heart glauben wir an die Kraft der Natur und daran, dass Qualität bei Nahrungsergänzung keine Kompromisse zulässt. Nature Heart wächst – u"
+    },
+    {
+      "id": "arbeitnow:kundendienstmitarbeiter-forderungsmanagement-polnisch-berlin-426867",
+      "title": "Kundendienstmitarbeiter Forderungsmanagement Polnisch (m/w/d)",
+      "org": "UAI SOLUTIONS",
+      "role": "project",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetplan/elektroplaner-smart-home-als-content-creator-berlin-329588",
+      "url": "https://www.arbeitnow.com/jobs/companies/uai-solutions/kundendienstmitarbeiter-forderungsmanagement-polnisch-berlin-426867",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794587449,
+      "postedAt": 1794609034,
       "tags": [
         "Remote",
-        "Social Media Manager"
+        "Accounts Receivable"
       ],
-      "summary": "Remote · 4-Tage-Woche möglich · 50.000–80.000 € p. a. (Vollzeit) „Smart Home oder konventionell?“ Die Frage landet immer bei dir, weil du dich sehr gut auskennst und auch gut erklären kannst? Dann komm zu uns und mach genau das zu deinem Job! JETPLAN entwickel"
+      "summary": "Gemeinsam halten wir Prozesse in Bewegung. Die UAI SOLUTIONS Firmengruppe entwickelt und betreibt innovative Lösungen für Mobilität, Verwaltungsprozesse und internationale Dienstleistungen in Europa. Unser Ziel ist es, Mobilität einfacher, transparenter und ef"
     },
     {
-      "id": "arbeitnow:remote-senior-clinical-research-associate-286231",
-      "title": "Senior Clinical Research Associate",
-      "org": "Precisionmedicinegroup",
+      "id": "arbeitnow:remote-solution-consulting-manager-286794",
+      "title": "Solution Consulting Manager",
+      "org": "Rillet",
       "role": "marketing",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/precisionmedicinegroup/remote-senior-clinical-research-associate-286231",
+      "url": "https://www.arbeitnow.com/jobs/companies/rillet/remote-solution-consulting-manager-286794",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794585320,
+      "postedAt": 1794606016,
       "tags": [
-        "Clinical Solutions"
+        "GTM"
       ],
-      "summary": "&lt;p&gt;At Precision for Medicine, we are always looking to connect with exceptional talents, and we are currently seeking &lt;strong&gt;Senior Clinical Research Associates&lt;/strong&gt; in &lt;strong&gt;Poland, Hungary, United Kingdom, France and Germany&lt"
+      "summary": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the Agentic ERP built for modern finance teams. We help companies au"
     },
     {
-      "id": "arbeitnow:remote-accident-health-claims-handler-309012",
-      "title": "Accident & Health Claims Handler",
-      "org": "ClaimSorted",
-      "role": "training",
-      "location": "UK (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/claimsorted/remote-accident-health-claims-handler-309012",
+      "id": "arbeitnow:strategic-account-director-perm-uk-remote-17179",
+      "title": "Strategic Account Director (Perm, UK, Remote)",
+      "org": "nearform",
+      "role": "marketing",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nearform/strategic-account-director-perm-uk-remote-17179",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794595220,
+      "postedAt": 1794628524,
       "tags": [
-        "Claims"
+        "Technical Leadership"
       ],
-      "summary": "Building a More Resilient World When things go wrong, insurance has one job: get people and businesses back on their feet. Too often, it doesn’t. At ClaimSorted, we’re changing that, and building a more resilient world where people and businesses have the conf"
+      "summary": "&lt;p&gt;&lt;strong&gt;Strategic Account Director (Perm, UK, Remote)&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;About Nearform&nbsp;&nbsp;&lt;/h2&gt; &lt;p&gt;Nearform is an independent team of data and AI experts, engineers, and designers who build intelligent digita"
     },
     {
-      "id": "arbeitnow:remote-senior-research-scientist-london-450159",
-      "title": "Senior Research Scientist",
-      "org": "DeepHealth",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deephealth/remote-senior-research-scientist-london-450159",
+      "id": "arbeitnow:senior-full-stack-engineer-experimentation-product-analytics-uk-remote-90710",
+      "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | UK | Remote",
+      "org": "grafanalabs",
+      "role": "marketing",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-full-stack-engineer-experimentation-product-analytics-uk-remote-90710",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794594678,
+      "postedAt": 1794628523,
       "tags": [
-        "R&D",
-        "Remote"
+        "R&D: Observability"
       ],
-      "summary": "Job Summary The Senior Research Scientist sits on DeepHealth's ML Capabilities team and advances research in machine learning for medical imaging, with a focus on foundation models in radiology AI. This role designs novel model architectures, develops experime"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
     },
     {
-      "id": "arbeitnow:customer-success-specialist-paris-494951",
-      "title": "Customer Success Specialist",
-      "org": "Askara",
-      "role": "support",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/askara/customer-success-specialist-paris-494951",
+      "id": "arbeitnow:senior-full-stack-engineer-databases-analytics-uk-remote-424903",
+      "title": "Senior Full Stack Engineer - Databases - Analytics | UK | Remote",
+      "org": "grafanalabs",
+      "role": "marketing",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-full-stack-engineer-databases-analytics-uk-remote-424903",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794585651,
+      "postedAt": 1794628523,
       "tags": [
-        "Remote",
-        "Customer Service"
+        "R&D: Second Horizon"
       ],
-      "summary": "Finalité du poste Le.la Customer Success Specialist assure l’accompagnement opérationnel des clients dans l’utilisation des solutions de l’entreprise afin de garantir la qualité de service, la satisfaction client et le bon traitement des demandes utilisateurs."
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
     },
     {
-      "id": "arbeitnow:remote-senior-people-operations-partner-259706",
-      "title": "Senior People Operations Partner",
-      "org": "Precisionmedicinegroup",
+      "id": "arbeitnow:remote-staff-forward-deployed-engineer-emea-378204",
+      "title": "Staff Forward Deployed Engineer, EMEA",
+      "org": "gitlab",
       "role": "marketing",
       "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/precisionmedicinegroup/remote-senior-people-operations-partner-259706",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-staff-forward-deployed-engineer-emea-378204",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794585320,
+      "postedAt": 1794628522,
       "tags": [
-        "Precision for Medicine"
+        "Customer Experience"
       ],
-      "summary": "&lt;p&gt;&lt;strong&gt;Senior People Operations Partner&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Position Summary&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Senior People Operations Partner provides advanced operational HR leadership across multiple countrie"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
     },
     {
-      "id": "arbeitnow:remote-account-executive-france-414703",
-      "title": "Account Executive, France",
-      "org": "NetBox Labs - Ashby",
+      "id": "arbeitnow:remote-senior-contracts-manager-commercial-emea-225591",
+      "title": "Senior Contracts Manager, Commercial (EMEA)",
+      "org": "gitlab",
       "role": "marketing",
-      "location": "France, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/netbox-labs-ashby/remote-account-executive-france-414703",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-contracts-manager-commercial-emea-225591",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794584415,
+      "postedAt": 1794628522,
       "tags": [
-        "Sales"
+        "Legal"
       ],
-      "summary": "NetBox Labs is seeking a Senior Account Executive (AE) to play a pivotal role in the growth and expansion of our business. You will be tasked with proactive outbound prospecting and managing inbound leads. Given the technical nature of our product, a high tech"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
     },
     {
-      "id": "arbeitnow:remote-business-development-director-europe-exeevo-lifesciences-crm-france-208652",
-      "title": "Business Development Director (Europe) - Exeevo Lifesciences CRM",
-      "org": "Valsoft Corp",
-      "role": "training",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/valsoft-corp/remote-business-development-director-europe-exeevo-lifesciences-crm-france-208652",
+      "id": "arbeitnow:lead-staff-product-manager-ai-automation-remote-london-60347",
+      "title": "Lead/Staff Product Manager (AI Automation) | Remote",
+      "org": "Mimica",
+      "role": "marketing",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mimica/lead-staff-product-manager-ai-automation-remote-london-60347",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794579606,
+      "postedAt": 1794627624,
       "tags": [
-        "Business Development",
+        "Product"
+      ],
+      "summary": "What we are building Mimica is an AI-powered process intelligence platform enabling enterprises and individuals to reclaim their most precious resource: time. We've all seen repetitive tasks and redundant processes quietly drain productivity and creativity. No"
+    },
+    {
+      "id": "arbeitnow:remote-technical-engineering-manager-81232",
+      "title": "Technical Engineering Manager",
+      "org": "Carwow",
+      "role": "training",
+      "location": "United Kingdom - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/remote-technical-engineering-manager-81232",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794616813,
+      "tags": [
+        "Technology"
+      ],
+      "summary": "OUR MISSION To become the car-changing destination of choice. By combining technology, media and deep automotive expertise, we've turned how people buy, sell, advertise and lease cars on its head. What started as a simple reviews site is now one of the largest"
+    },
+    {
+      "id": "arbeitnow:remote-staff-forward-deployed-engineer-emea-238197",
+      "title": "Staff Forward Deployed Engineer, EMEA",
+      "org": "gitlab",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-staff-forward-deployed-engineer-emea-238197",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794628522,
+      "tags": [
+        "Customer Experience"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+    },
+    {
+      "id": "arbeitnow:remote-senior-growth-product-manager-paris-473086",
+      "title": "Senior Growth Product Manager",
+      "org": "Soda Data Nv",
+      "role": "marketing",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-growth-product-manager-paris-473086",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794612009,
+      "tags": [
         "Computer Software",
-        "Exeevo",
+        "Product and Engineering",
         "Remote"
       ],
-      "summary": "About Exeevo Exeevo is a life sciences engagement platform built natively on Microsoft Dynamics 365, helping pharmaceutical, MedTech, and consumer health companies connect more effectively with healthcare professionals and patients. Our products, Exeevo CRM, E"
+      "summary": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call. Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. Our open-source engine, Soda Core, is used by comp"
     },
     {
       "id": "arbeitnow:regulatory-reporting-expert-energiehandel-compliance-bern-230643",
@@ -427,21 +470,36 @@
       "summary": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest im Sprint mit und ve"
     },
     {
-      "id": "arbeitnow:h3c-expert-fur-infrastruktur-migration-zurich-423184",
-      "title": "H3C Expert für Infrastruktur Migration",
-      "org": "Coopers Group AG",
-      "role": "hr",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/h3c-expert-fur-infrastruktur-migration-zurich-423184",
+      "id": "arbeitnow:remote-staff-forward-deployed-engineer-emea-101256",
+      "title": "Staff Forward Deployed Engineer, EMEA",
+      "org": "gitlab",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gitlab/remote-staff-forward-deployed-engineer-emea-101256",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794499264,
+      "postedAt": 1794628522,
       "tags": [
-        "Remote",
-        "System and Network Administration"
+        "Customer Experience"
       ],
-      "summary": "................ Für ein anspruchsvolles Infrastruktur-Transformationsprojekt für unseren Kunden in Basel suchen wir eine:n erfahrene:n H3C Expert . Im Rahmen des Projekts wird eine bestehende Server-, Storage- und Virtualisierungslandschaft durch moderne H3C-"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+    },
+    {
+      "id": "arbeitnow:senior-cloud-engineer-product-metrics-emea-remote-amsterdam-453090",
+      "title": "Senior Cloud Engineer - Product Metrics (EMEA Remote)",
+      "org": "Clickhouse",
+      "role": "project",
+      "location": "The Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/clickhouse/senior-cloud-engineer-product-metrics-emea-remote-amsterdam-453090",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794616814,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "About the team The Product Metrics team owns the collection, storage, and serving of metrics collected from customers' ClickHouse instances. As a part of the team you will be responsible for designing, building, operating and maintaining components of the peta"
     },
     {
       "id": "arbeitnow:remote-talent-acquisition-partner-europe-amsterdam-rotterdam-370843",
@@ -476,24 +534,6 @@
         "Remote"
       ],
       "summary": "At Luscii, we're creating space for care by developing and improving digital healthcare applications that make a real difference in people's lives through several applications. From Luscii Thuismeten, which helps healthcare professionals monitor patients remot"
-    },
-    {
-      "id": "arbeitnow:remote-account-executive-dutch-speaker-netherlands-83879",
-      "title": "Account Executive - Dutch Speaker",
-      "org": "Huzzle",
-      "role": "project",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/huzzle/remote-account-executive-dutch-speaker-netherlands-83879",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794554415,
-      "tags": [
-        "Sales",
-        "Internet",
-        "Remote"
-      ],
-      "summary": "About Huzzle At Huzzle, we connect high-performing professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech, FinTech, and EdTech. W"
     },
     {
       "id": "remotive:1680495",
@@ -716,22 +756,6 @@
         "SOLID"
       ],
       "summary": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding mod"
-    },
-    {
-      "id": "arbeitnow:copywriter-berlin-54363",
-      "title": "Copywriter",
-      "org": "Pergolux",
-      "role": "marketing",
-      "location": "Berlin | Global Team",
-      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/copywriter-berlin-54363",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794595227,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "As a Copywriter (m/w/d), you will own the words behind PERGOLUX campaigns across our global markets, writing and editing copy for Meta, Google, email, and web that turns product benefits into clear, persuasive messaging. You will shape headlines, product descr"
     }
   ]
 }
