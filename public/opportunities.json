@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T06:46:20.955Z",
+  "updatedAt": "2026-11-15T18:56:47.369Z",
   "sourceCount": 2,
   "totalFetched": 316,
-  "relevantCount": 35,
+  "relevantCount": 41,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,20 +11,196 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:account-manager-332438",
-      "title": "Account Manager",
-      "org": "Cloudbedsthirdpartyboard",
-      "role": "training",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.ch/jobs/companies/cloudbedsthirdpartyboard/account-manager-332438",
+      "id": "arbeitnow:ait-test-engineer-munich-148999",
+      "title": "AIT Test Engineer",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-test-engineer-munich-148999",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794585322,
+      "postedAt": 1794757214,
       "tags": [
-        "Account Management"
+        "MAIT"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;𝗪𝗵𝗮𝘁 𝗠𝗮𝗸𝗲𝘀 𝗖𝗹𝗼𝘂𝗱𝗯𝗲𝗱𝘀 𝗨𝗻𝗶𝗾𝘂𝗲&lt;/p&gt; &lt;p&gt;At &lt;a href=\"https://www.cloudbeds.com/\"&gt;Cloudbeds&lt;/a&gt;, we're not just building software, we're transforming hospitality. Our platform p"
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refueled in orbit, and which carries cargo - and potentially humans i"
+    },
+    {
+      "id": "arbeitnow:ait-test-assembly-technician-munich-462971",
+      "title": "AIT Test & Assembly Technician",
+      "org": "The Exploration Company",
+      "role": "training",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-test-assembly-technician-munich-462971",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794757214,
+      "tags": [
+        "MAIT"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refueled in orbit and that can carry cargo - and potentially humans i"
+    },
+    {
+      "id": "arbeitnow:ait-mechanical-technician-thermal-protection-system-munich-416618",
+      "title": "AIT Mechanical Technician - Thermal Protection System",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-mechanical-technician-thermal-protection-system-munich-416618",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794757214,
+      "tags": [
+        "MAIT"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refueled in orbit, and which carries cargo – and potentially humans i"
+    },
+    {
+      "id": "arbeitnow:ait-senior-test-technician-munich-48849",
+      "title": "AIT Senior Test Technician",
+      "org": "The Exploration Company",
+      "role": "training",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-senior-test-technician-munich-48849",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794757214,
+      "tags": [
+        "MAIT"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that caneventually be refueled in orbit and that can carry cargo - and potentially humans in"
+    },
+    {
+      "id": "arbeitnow:ait-propulsion-engineer-munich-497189",
+      "title": "AIT Propulsion Engineer",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-propulsion-engineer-munich-497189",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794757214,
+      "tags": [
+        "MAIT"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refueled in orbit, and which carries cargo - and potentially humans i"
+    },
+    {
+      "id": "arbeitnow:team-lead-account-executive-italy-spain-berlin-44725",
+      "title": "Team Lead Account Executive - Italy & Spain",
+      "org": "Ninjaone",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/ninjaone/team-lead-account-executive-italy-spain-berlin-44725",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794747318,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;About us&lt;/h3&gt; &lt;p&gt;NinjaOne unifies IT to simplify work for nearly 40,000 customers in 140+ countries&lt;br&gt;&lt;br&gt;The NinjaOne Unified IT Operations Platform delivers endpoint management, autonomous p"
+    },
+    {
+      "id": "arbeitnow:solutions-engineer-italian-berlin-364527",
+      "title": "Solutions Engineer - Italian",
+      "org": "Ninjaone",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/ninjaone/solutions-engineer-italian-berlin-364527",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794747318,
+      "tags": [
+        "Commercial Solutions Engineering"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;About us&lt;/h3&gt; &lt;p&gt;NinjaOne unifies IT to simplify work for nearly 40,000 customers in 140+ countries&lt;br&gt;&lt;br&gt;The NinjaOne Unified IT Operations Platform delivers endpoint management, autonomous p"
+    },
+    {
+      "id": "arbeitnow:enterprise-account-executive-msp-dach-312606",
+      "title": "Enterprise Account Executive MSP, DACH",
+      "org": "Ninjaone",
+      "role": "training",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.com/jobs/companies/ninjaone/enterprise-account-executive-msp-dach-312606",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794747318,
+      "tags": [
+        "Enterprise"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;About us&lt;/h3&gt; &lt;p&gt;NinjaOne unifies IT to simplify work for nearly 40,000 customers in 140+ countries&lt;br&gt;&lt;br&gt;The NinjaOne Unified IT Operations Platform delivers endpoint management, autonomous p"
+    },
+    {
+      "id": "arbeitnow:solutions-engineer-sydney-australia-288308",
+      "title": "Solutions Engineer",
+      "org": "Ninjaone",
+      "role": "marketing",
+      "location": "Sydney, Australia",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ninjaone/solutions-engineer-sydney-australia-288308",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794747317,
+      "tags": [
+        "Commercial Solutions Engineering"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;About us&lt;/h3&gt; &lt;p&gt;NinjaOne unifies IT to simplify work for nearly 40,000 customers in 140+ countries&lt;br&gt;&lt;br&gt;The NinjaOne Unified IT Operations Platform delivers endpoint management, autonomous p"
+    },
+    {
+      "id": "arbeitnow:senior-data-engineer-emerging-products-australia-408411",
+      "title": "Senior Data Engineer | Emerging Products",
+      "org": "Ninjaone",
+      "role": "marketing",
+      "location": "Australia",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ninjaone/senior-data-engineer-emerging-products-australia-408411",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794747317,
+      "tags": [
+        "Technology"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;About us&lt;/h3&gt; &lt;p&gt;NinjaOne unifies IT to simplify work for nearly 40,000 customers in 140+ countries&lt;br&gt;&lt;br&gt;The NinjaOne Unified IT Operations Platform delivers endpoint management, autonomous p"
+    },
+    {
+      "id": "arbeitnow:enterprise-account-executive-english-1995",
+      "title": "Enterprise Account Executive - English",
+      "org": "Ninjaone",
+      "role": "training",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ninjaone/enterprise-account-executive-english-1995",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794747317,
+      "tags": [
+        "Enterprise"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;About us&lt;/h3&gt; &lt;p&gt;NinjaOne unifies IT to simplify work for nearly 40,000 customers in 140+ countries&lt;br&gt;&lt;br&gt;The NinjaOne Unified IT Operations Platform delivers endpoint management, autonomous p"
+    },
+    {
+      "id": "arbeitnow:hr-director-us-europe-meta-london-420875",
+      "title": "HR Director, US, Europe & Meta",
+      "org": "opswat",
+      "role": "marketing",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/opswat/hr-director-us-europe-meta-london-420875",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794736515,
+      "tags": [
+        "Human Resources - Field"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;span class=\"acronym-highlight\"&gt;OPSWAT&lt;/span&gt;, a global leader in IT, &lt;span class=\"acronym-highlight\"&gt;OT&lt;/span&gt;, and &lt;span class=\"acronym-highlight\"&gt;ICS&lt;/span&gt; critical infrastructur"
     },
     {
       "id": "arbeitnow:large-enterprise-account-executive-nordics-benelux-netherlands-195953",
@@ -41,6 +217,72 @@
         "Sales"
       ],
       "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:remote-head-of-ux-381333",
+      "title": "Remote Head of UX (m/f/d)",
+      "org": "Roompricegenie",
+      "role": "marketing",
+      "location": "Remote Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-head-of-ux-381333",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794757212,
+      "tags": [
+        "Product & Engineering"
+      ],
+      "summary": "About RoomPriceGenie ✨🧞‍♂️ Founded in 2017, RoomPriceGenie is dedicated to helping hoteliers around the globe achieve optimal pricing. 🌍 We understand that many small hotels face challenges with digitalization, making their operations increasingly complex an"
+    },
+    {
+      "id": "arbeitnow:google-ads-media-buyer-100-remote-hohes-fixgehalt-provision-berlin-113291",
+      "title": "Google Ads Media Buyer (m/w/d) | 100 % Remote | Hohes Fixgehalt + Provision",
+      "org": "Just Hiring",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/just-hiring/google-ads-media-buyer-100-remote-hohes-fixgehalt-provision-berlin-113291",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794749453,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "Du skalierst Google-Kampagnen, aber vom Ergebnis siehst du selbst nichts auf deinem Konto? Und statt einen Account wirklich groß zu machen, verwaltest du nebenbei noch acht andere? Dann ist das hier interessant für dich. Für eine der erfolgreichsten Supplement"
+    },
+    {
+      "id": "arbeitnow:creative-strategist-100-remote-funfstelliges-monatsgehalt-provision-berlin-35580",
+      "title": "Creative Strategist (m/w/d) | 100 % Remote | Fünfstelliges Monatsgehalt + Provision",
+      "org": "Just Hiring",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/just-hiring/creative-strategist-100-remote-funfstelliges-monatsgehalt-provision-berlin-35580",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794745845,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "Deine Ads verkaufen, aber dein Gehalt bleibt gleich, egal wie gut sie laufen? Und statt dich richtig in eine Brand reinzudenken, springst du zwischen zehn Kunden hin und her? Dann lies weiter. Für eine der erfolgreichsten Supplement-Brands aus den USA suchen w"
+    },
+    {
+      "id": "arbeitnow:remote-platform-engineer-34275",
+      "title": "Platform Engineer",
+      "org": "Finmid.com",
+      "role": "project",
+      "location": "Berlin / Greece / Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/finmidcom/remote-platform-engineer-34275",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794735617,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "About finmid At finmid, we’re building infrastructure that integrates access to capital for SMEs directly into the platforms they use daily. We leverage technology, data, and strategic partnerships to deliver financing solutions that significantly outperform t"
     },
     {
       "id": "arbeitnow:senior-crm-lifecycle-manager-berlin-30191",
@@ -191,119 +433,6 @@
       "summary": "Access Your Potential. Join us to create and deliver experiences that inspire people, spark connection, and bring imagination to life—while having a lot of fun doing it. About the Job We're seeking a detail-oriented and organized Events Auditing Associate to j"
     },
     {
-      "id": "arbeitnow:customer-success-manager-100-remote-hamburg-33107",
-      "title": "Customer Success Manager (m/w/d) - 100% Remote",
-      "org": "ProviPanda GmbH",
-      "role": "support",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-100-remote-hamburg-33107",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794655860,
-      "tags": [
-        "Customer Service"
-      ],
-      "summary": "ProviPanda ist ein wachsendes HR-Tech-Startup und mittlerweile die größte Sales-Job-App im DACH-Raum. Mit einem Team aus 15 Mitarbeitenden arbeiten wir daran, den Sales-HR-Markt zu revolutionieren und neu zu denken. Als Customer Success Manager bist du die zen"
-    },
-    {
-      "id": "arbeitnow:social-media-ai-manager-quereinstieg-homeoffice-vollzeit-oder-teilzeit-berlin-474717",
-      "title": "Social Media & AI Manager (m/w/d) – Quereinstieg | Homeoffice | Vollzeit oder Teilzeit",
-      "org": "Digital Evolution",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/digital-evolution/social-media-ai-manager-quereinstieg-homeoffice-vollzeit-oder-teilzeit-berlin-474717",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794652266,
-      "tags": [
-        "Remote",
-        "Social Media Manager"
-      ],
-      "summary": "Social Media & AI Manager (m/w/d) – Quereinstieg | Homeoffice | Vollzeit oder Teilzeit Du möchtest beruflich etwas Neues starten, dich weiterentwickeln? Dann starte jetzt im Bereich Social Media & Künstliche Intelligenz (KI) durch! Egal, ob Vollzeit oder Teilz"
-    },
-    {
-      "id": "arbeitnow:remote-technical-program-manager-software-197537",
-      "title": "Technical Program Manager, Software",
-      "org": "Swarmaero",
-      "role": "project",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-technical-program-manager-software-197537",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794649220,
-      "tags": [
-        "Aircraft"
-      ],
-      "summary": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command & Control"
-    },
-    {
-      "id": "arbeitnow:remote-account-executive-smb-374470",
-      "title": "Account Executive, SMB",
-      "org": "Karbon",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/karbon/remote-account-executive-smb-374470",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794693314,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;About Karbon&lt;/strong&gt;&lt;/p&gt; &lt;p style=\"text-align: left;\"&gt;Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud plat"
-    },
-    {
-      "id": "arbeitnow:remote-account-executive-mid-market-evergreen-352662",
-      "title": "Account Executive - Mid Market (Evergreen)",
-      "org": "Karbon",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/karbon/remote-account-executive-mid-market-evergreen-352662",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794693314,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;About Karbon&lt;/strong&gt;&lt;/p&gt; &lt;p style=\"text-align: left;\"&gt;Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud plat"
-    },
-    {
-      "id": "arbeitnow:clinical-recruiter-at-aios-remote-100-200k-inc-equity-blackburn-478104",
-      "title": "Clinical Recruiter at AIOS- Remote, $100-200k inc equity",
-      "org": "AIOS (YC W20/S21)",
-      "role": "marketing",
-      "location": "Remote (UK hours)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/clinical-recruiter-at-aios-remote-100-200k-inc-equity-blackburn-478104",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794692411,
-      "tags": [
-        "Company"
-      ],
-      "summary": "About AIOS AIOS is building the world’s first full-stack AI doctor. We’re at $450M ARR, growing from $7M/yr in April 2025. We’re faithfully serving 200k/mo patients via Bolt Pharmacy, our main UK brand. We’ve just launched Bolt Med, our international brand. We"
-    },
-    {
-      "id": "arbeitnow:clinical-operations-lead-registered-manager-cqc-at-aios-remote-uk-ps90k-ps150k-yr-inc-equity-london-212130",
-      "title": "Clinical Operations Lead & Registered Manager (CQC) at AIOS — Remote (UK), £90k–£150k/yr inc equity",
-      "org": "AIOS (YC W20/S21)",
-      "role": "training",
-      "location": "UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/clinical-operations-lead-registered-manager-cqc-at-aios-remote-uk-ps90k-ps150k-yr-inc-equity-london-212130",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794692411,
-      "tags": [
-        "Medical/Program"
-      ],
-      "summary": "About AIOS AIOS is building the world’s first full-stack AI doctor. We’re at $450M ARR, growing from $7M/yr in April 2025. We’re faithfully serving 200k/mo patients via Bolt Pharmacy, our main UK brand. We’ve just launched Bolt Med, our international brand. We"
-    },
-    {
       "id": "arbeitnow:brand-manager-b2b-anywhere-in-france-463852",
       "title": "Brand Manager (B2B)",
       "org": "Alan",
@@ -334,41 +463,6 @@
         "R&D"
       ],
       "summary": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical sys"
-    },
-    {
-      "id": "arbeitnow:regulatory-reporting-expert-energiehandel-compliance-bern-230643",
-      "title": "Regulatory Reporting Expert – Energiehandel & Compliance",
-      "org": "Coopers Group AG",
-      "role": "project",
-      "location": "Bern",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/regulatory-reporting-expert-energiehandel-compliance-bern-230643",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794587449,
-      "tags": [
-        "Remote",
-        "Compliance",
-        "Security"
-      ],
-      "summary": "................ Für unseren Kunden in Bern , suchen wir eine:n erfahrene:n und motivierte:n Regulatory Reporting Expert – Energiehandel & Compliance In diesem Projekt verantwortest du die Analyse und Schliessung regulatorischer Compliance-Lücken im Energiehan"
-    },
-    {
-      "id": "arbeitnow:customer-operations-specialist-zurich-148078",
-      "title": "Customer Operations Specialist",
-      "org": "Coopers Group AG",
-      "role": "training",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-148078",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794585651,
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "summary": "................ For our client in Ticino , we are looking for an experienced and open-minded Customer Operations Specialist . In this role, you will have the opportunity to provide technical, order, and payment-related assistance/support to the internal and e"
     },
     {
       "id": "arbeitnow:remote-staff-forward-deployed-engineer-emea-101256",
