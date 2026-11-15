@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T22:35:41.825Z",
+  "updatedAt": "2026-11-15T06:46:20.955Z",
   "sourceCount": 2,
   "totalFetched": 316,
-  "relevantCount": 38,
+  "relevantCount": 35,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -41,6 +41,55 @@
         "Sales"
       ],
       "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:senior-crm-lifecycle-manager-berlin-30191",
+      "title": "Senior CRM & Lifecycle Manager",
+      "org": "Cosuno",
+      "role": "marketing",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-crm-lifecycle-manager-berlin-30191",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794714010,
+      "tags": [
+        "Marketing"
+      ],
+      "summary": "Your mission Cosuno is a platform for construction tendering in the German-speaking market. It connects general contractors, who publish bid packages, with subcontractors, who bid on them, and both sides pay. As our Senior Lifecycle & Customer Growth Manager, "
+    },
+    {
+      "id": "arbeitnow:senior-data-analyst-berlin-443903",
+      "title": "Senior Data Analyst",
+      "org": "Cosuno",
+      "role": "marketing",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-data-analyst-berlin-443903",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794714010,
+      "tags": [
+        "Tech"
+      ],
+      "summary": "Your mission We're a small data team with a big job: helping everyone at Cosuno make better decisions. Our data platform is stable and in good hands. What we need now is someone who takes our most important, open-ended business questions and answers them prope"
+    },
+    {
+      "id": "arbeitnow:remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
+      "title": "Senior Data Engineer & Consultant (all genders) – Microsoft Fabric",
+      "org": "teccle group GmbH",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794713473,
+      "tags": [
+        "Professional",
+        "Remote"
+      ],
+      "summary": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unterschiedlichsten Schwerpunkten unter einem Dach zusammen - und entwickeln uns so zu einem der führend"
     },
     {
       "id": "arbeitnow:remote-senior-site-reliability-engineer-sre-berlin-312709",
@@ -191,56 +240,6 @@
       "summary": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command & Control"
     },
     {
-      "id": "arbeitnow:senior-sales-executive-remote-berlin-478657",
-      "title": "Senior Sales Executive (Remote)",
-      "org": "Siteminder",
-      "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/siteminder/senior-sales-executive-remote-berlin-478657",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794638430,
-      "tags": [
-        "GTM - Sales"
-      ],
-      "summary": "At SiteMinder, we believe our success comes from our people. We build diverse, inclusive teams where different voices, backgrounds and perspectives are valued. Our differences drive innovation for our customers, and our people bring the ideas, expertise and en"
-    },
-    {
-      "id": "arbeitnow:remote-team-lead-sap-abap-development-data-migration-berlin-98262",
-      "title": "Team Lead SAP ABAP Development – Data Migration (m/w/d)",
-      "org": "Natuvion GmbH",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-team-lead-sap-abap-development-data-migration-berlin-98262",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794637891,
-      "tags": [
-        "Technical Migration",
-        "Remote"
-      ],
-      "summary": "Du findest ABAP-Entwicklungen und technische Beratung im SAP-Umfeld spannend, bist spezialisiert an Themen der Datenmigration und bringst erste Führungserfahrung und Leidenschaft für die Entwicklung deiner Mitarbeitenden mit? Du hast Lust in agilen und interna"
-    },
-    {
-      "id": "arbeitnow:remote-sap-finance-fi-co-migration-architect-berlin-208083",
-      "title": "SAP Finance (FI/CO) Migration Architect (m/w/d)",
-      "org": "Natuvion GmbH",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-finance-fi-co-migration-architect-berlin-208083",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794637891,
-      "tags": [
-        "Technical Migration",
-        "Remote"
-      ],
-      "summary": "Möchtest du die Zukunft unserer Kunden aktiv mitgestalten und dabei sowohl fachlich als auch technisch Verantwortung übernehmen? Dann bist du bei uns genau richtig! Wir suchen einen Migration Architect SAP FI/CO (m/w/d) der unsere nationalen und internationale"
-    },
-    {
       "id": "arbeitnow:remote-account-executive-smb-374470",
       "title": "Account Executive, SMB",
       "org": "Karbon",
@@ -305,20 +304,20 @@
       "summary": "About AIOS AIOS is building the world’s first full-stack AI doctor. We’re at $450M ARR, growing from $7M/yr in April 2025. We’re faithfully serving 200k/mo patients via Bolt Pharmacy, our main UK brand. We’ve just launched Bolt Med, our international brand. We"
     },
     {
-      "id": "arbeitnow:senior-manager-performance-creative-strategy-casino-remote-leeds-london-manchester-376850",
-      "title": "Senior Manager, Performance Creative Strategy – Casino (Remote)",
-      "org": "Fanaticsfbg",
+      "id": "arbeitnow:brand-manager-b2b-anywhere-in-france-463852",
+      "title": "Brand Manager (B2B)",
+      "org": "Alan",
       "role": "marketing",
-      "location": "Leeds; London; Manchester",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-manager-performance-creative-strategy-casino-remote-leeds-london-manchester-376850",
+      "location": "Anywhere in France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/brand-manager-b2b-anywhere-in-france-463852",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794682517,
+      "postedAt": 1794703212,
       "tags": [
-        "Gaming - Marketing"
+        "Marketing"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\"&gt;About Us&lt;/h2&gt; &lt;div class=\"job-details__description-content basic-f"
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
     },
     {
       "id": "arbeitnow:sar-remote-sensing-engineer-paris-289669",
@@ -335,22 +334,6 @@
         "R&D"
       ],
       "summary": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical sys"
-    },
-    {
-      "id": "arbeitnow:remote-staff-forward-deployed-engineer-emea-238197",
-      "title": "Staff Forward Deployed Engineer, EMEA",
-      "org": "gitlab",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-staff-forward-deployed-engineer-emea-238197",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794628522,
-      "tags": [
-        "Customer Experience"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
     },
     {
       "id": "arbeitnow:regulatory-reporting-expert-energiehandel-compliance-bern-230643",
@@ -386,41 +369,6 @@
         "Customer Service"
       ],
       "summary": "................ For our client in Ticino , we are looking for an experienced and open-minded Customer Operations Specialist . In this role, you will have the opportunity to provide technical, order, and payment-related assistance/support to the internal and e"
-    },
-    {
-      "id": "arbeitnow:senior-business-analyst-versicherung-zurich-461493",
-      "title": "Senior Business Analyst - Versicherung",
-      "org": "Coopers Group AG",
-      "role": "project",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-business-analyst-versicherung-zurich-461493",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794576668,
-      "tags": [
-        "Remote",
-        "Consulting",
-        "Engineering"
-      ],
-      "summary": "................ Für unseren Kunden aus dem Versicherungsumfeld in Zürich suchen wir eine:n erfahrene:n Senior Business Analyst mit fundierten Kenntnissen in der Versicherungsbranche, insbesondere im Bereich Unfallversicherung. Im Rahmen des Projekts unterstüt"
-    },
-    {
-      "id": "arbeitnow:remote-job-homeoffice-job-als-social-media-und-promo-mitarbeiter-in-zurich-156314",
-      "title": "Remote Job / Homeoffice Job als Social Media und Promo Mitarbeiter-/in",
-      "org": "HomeOfficeClub.ch",
-      "role": "marketing",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/homeofficeclubch/remote-job-homeoffice-job-als-social-media-und-promo-mitarbeiter-in-zurich-156314",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794565883,
-      "tags": [
-        "Remote",
-        "Social Media Manager"
-      ],
-      "summary": "Wir bieten für die Promotion der Angebote von Home Office Club Schweiz, die Möglichkeit als Promo / Admin / Social Media Quereinsteiger-/in mitzuarbeiten. Aufgaben Remote Job / Home Office Job / von zu Hause arbeiten möglich • Sie teilen die Website vom Home O"
     },
     {
       "id": "arbeitnow:remote-staff-forward-deployed-engineer-emea-101256",
