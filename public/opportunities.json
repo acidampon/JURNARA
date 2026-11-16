@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T18:56:47.369Z",
+  "updatedAt": "2026-11-16T06:44:21.166Z",
   "sourceCount": 2,
   "totalFetched": 316,
-  "relevantCount": 41,
+  "relevantCount": 42,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -139,68 +139,36 @@
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;About us&lt;/h3&gt; &lt;p&gt;NinjaOne unifies IT to simplify work for nearly 40,000 customers in 140+ countries&lt;br&gt;&lt;br&gt;The NinjaOne Unified IT Operations Platform delivers endpoint management, autonomous p"
     },
     {
-      "id": "arbeitnow:solutions-engineer-sydney-australia-288308",
-      "title": "Solutions Engineer",
-      "org": "Ninjaone",
-      "role": "marketing",
-      "location": "Sydney, Australia",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ninjaone/solutions-engineer-sydney-australia-288308",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794747317,
-      "tags": [
-        "Commercial Solutions Engineering"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;About us&lt;/h3&gt; &lt;p&gt;NinjaOne unifies IT to simplify work for nearly 40,000 customers in 140+ countries&lt;br&gt;&lt;br&gt;The NinjaOne Unified IT Operations Platform delivers endpoint management, autonomous p"
-    },
-    {
-      "id": "arbeitnow:senior-data-engineer-emerging-products-australia-408411",
-      "title": "Senior Data Engineer | Emerging Products",
-      "org": "Ninjaone",
-      "role": "marketing",
-      "location": "Australia",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ninjaone/senior-data-engineer-emerging-products-australia-408411",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794747317,
-      "tags": [
-        "Technology"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;About us&lt;/h3&gt; &lt;p&gt;NinjaOne unifies IT to simplify work for nearly 40,000 customers in 140+ countries&lt;br&gt;&lt;br&gt;The NinjaOne Unified IT Operations Platform delivers endpoint management, autonomous p"
-    },
-    {
-      "id": "arbeitnow:enterprise-account-executive-english-1995",
-      "title": "Enterprise Account Executive - English",
-      "org": "Ninjaone",
-      "role": "training",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ninjaone/enterprise-account-executive-english-1995",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794747317,
-      "tags": [
-        "Enterprise"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;About us&lt;/h3&gt; &lt;p&gt;NinjaOne unifies IT to simplify work for nearly 40,000 customers in 140+ countries&lt;br&gt;&lt;br&gt;The NinjaOne Unified IT Operations Platform delivers endpoint management, autonomous p"
-    },
-    {
-      "id": "arbeitnow:hr-director-us-europe-meta-london-420875",
-      "title": "HR Director, US, Europe & Meta",
-      "org": "opswat",
+      "id": "arbeitnow:member-of-product-staff-product-designer-london-121859",
+      "title": "Member of Product Staff, Product Designer",
+      "org": "Metaview",
       "role": "marketing",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/opswat/hr-director-us-europe-meta-london-420875",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/metaview/member-of-product-staff-product-designer-london-121859",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794736515,
+      "postedAt": 1794789627,
       "tags": [
-        "Human Resources - Field"
+        "Product"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;span class=\"acronym-highlight\"&gt;OPSWAT&lt;/span&gt;, a global leader in IT, &lt;span class=\"acronym-highlight\"&gt;OT&lt;/span&gt;, and &lt;span class=\"acronym-highlight\"&gt;ICS&lt;/span&gt; critical infrastructur"
+      "summary": "Coding was first. Recruiting is next. We are building it. Metaview is an applied AI lab building AI coworkers for some of the world's most ambitious recruiting teams. Hear directly from our customers . The challenge is not another chatbot. It is software that "
+    },
+    {
+      "id": "arbeitnow:talent-acquisition-partner-london-281432",
+      "title": "Talent Acquisition Partner",
+      "org": "Solveintelligence",
+      "role": "project",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/solveintelligence/talent-acquisition-partner-london-281432",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794778812,
+      "tags": [
+        "Operations"
+      ],
+      "summary": "Talent Acquisition Partner Help take Solve Intelligence 3x in a single year. We’re looking for a recruiter with strong engineering hiring experience who wants to recruit across the business and help build our talent function. 🏗️ About the role You’ll be an ea"
     },
     {
       "id": "arbeitnow:large-enterprise-account-executive-nordics-benelux-netherlands-195953",
@@ -217,6 +185,88 @@
         "Sales"
       ],
       "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:no-code-developer-bubbleio-100-remote-berlin-302182",
+      "title": "No-Code Developer (m/w/d) | Bubble.io | 100 % Remote",
+      "org": "ALPHA Software GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-302182",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794799837,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Unsere gesamte Software läuft auf Bubble.io – und du sollst sie zu deinem Produkt machen. Die ALPHA Software GmbH digitalisiert die Erstellung von Gebäudeunterlagen für Immobilienprofis. Über unsere Bestellplattform beauftragen Kund:innen Grundrisse, Wohnfläch"
+    },
+    {
+      "id": "arbeitnow:remote-senior-engagement-manager-professional-services-sales-emea-410334",
+      "title": "Senior Engagement Manager - Professional Services Sales, EMEA",
+      "org": "gitlab",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-senior-engagement-manager-professional-services-sales-emea-410334",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794790523,
+      "tags": [
+        "Practice Management"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+    },
+    {
+      "id": "arbeitnow:remote-senior-infrastructure-solutions-engineer-316487",
+      "title": "Senior Infrastructure Solutions Engineer",
+      "org": "planetlabs",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-infrastructure-solutions-engineer-316487",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794779728,
+      "tags": [
+        "Infrastructure and Operations"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Planet designs, builds, and operates the largest constellation of imaging satellites in history. This "
+    },
+    {
+      "id": "arbeitnow:remote-product-manager-growth-website-422416",
+      "title": "Product Manager - Growth & Website (m/f/d)",
+      "org": "Berlitz",
+      "role": "project",
+      "location": "Germany Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-product-manager-growth-website-422416",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794778812,
+      "tags": [
+        "Product"
+      ],
+      "summary": "We're building a new global Berlitz, and this is your opportunity to help shape it. Nearly 150 years of expertise, meeting the ambition and technology to power a new era of learning. If you are the kind of person who thrives in a fast-paced environment, isn’t "
+    },
+    {
+      "id": "arbeitnow:developer-community-lead-berlin-444293",
+      "title": "Developer Community Lead",
+      "org": "RhymeQ Technologies GmbH",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/rhymeq-technologies-gmbh/developer-community-lead-berlin-444293",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794772829,
+      "tags": [
+        "Remote",
+        "Social Media Manager"
+      ],
+      "summary": "About RhymeQ RhymeQ is on a mission to make quantum programmable for every developer. Today, developing quantum software often requires deep physics expertise and code tailored to specific hardware. We’re removing these barriers so developers can focus on solv"
     },
     {
       "id": "arbeitnow:remote-head-of-ux-381333",
@@ -334,103 +384,84 @@
       "summary": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unterschiedlichsten Schwerpunkten unter einem Dach zusammen - und entwickeln uns so zu einem der führend"
     },
     {
-      "id": "arbeitnow:remote-senior-site-reliability-engineer-sre-berlin-312709",
-      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
-      "org": "Makersite GmbH",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-312709",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794691891,
-      "tags": [
-        "Technology",
-        "Remote"
-      ],
-      "summary": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make"
-    },
-    {
-      "id": "arbeitnow:remote-ai-integration-automation-engineer-ger-128389",
-      "title": "AI Integration & Automation Engineer (m/w/d) GER",
-      "org": "Customs Support Group",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794691886,
-      "tags": [
-        "IT & Tech",
-        "Remote"
-      ],
-      "summary": "Über die Customs Support Group Die Customs Support Group (CSG) ist der europäische Marktführer für Zolldienstleistungen und in 15 Ländern aktiv. CSG befindet sich im Besitz einer Private-Equity-Gesellschaft und ist ein schnell wachsendes, dynamisches und daten"
-    },
-    {
-      "id": "arbeitnow:product-engineer-remote-oder-karlsruhe-193000",
-      "title": "Product Engineer (m/w/d) - remote oder Karlsruhe",
-      "org": "Knuddels GmbH & Co. KG",
+      "id": "arbeitnow:remote-account-executive-commercial-815",
+      "title": "Account Executive, Commercial",
+      "org": "Sonatype",
       "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/product-engineer-remote-oder-karlsruhe-193000",
+      "location": "UK - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonatype/remote-account-executive-commercial-815",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794691886,
+      "postedAt": 1794799618,
       "tags": [
-        "Alle Abteilungen",
-        "Remote"
+        "Sales - EMEA - Southwest"
       ],
-      "summary": "Wir bei Knuddels wollen soziale Netzwerke wieder wirklich sozial machen – weg vom Konsumieren von Content, hin zu echter menschlicher Nähe. Unser Ziel: Bei Knuddels soll jeder Mensch drei wichtige Menschen für sein echtes Leben finden. Als Product Engineer ver"
+      "summary": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the lea"
     },
     {
-      "id": "arbeitnow:remote-senior-security-engineer-appsec-40606",
-      "title": "Senior Security Engineer - AppSec (d/f/m)",
-      "org": "Vivenu",
-      "role": "training",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-senior-security-engineer-appsec-40606",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794691598,
-      "tags": [
-        "Product & Development"
-      ],
-      "summary": "Redefine the future of live entertainment tech Welcome to vivenu, the global leader in event ticketing tech and one of the world’s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golde"
-    },
-    {
-      "id": "arbeitnow:remote-portfolio-accountant-384566",
-      "title": "Portfolio Accountant",
-      "org": "Access Destination Services",
+      "id": "arbeitnow:remote-senior-engagement-manager-professional-services-sales-emea-279514",
+      "title": "Senior Engagement Manager - Professional Services Sales, EMEA",
+      "org": "gitlab",
       "role": "training",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/access-destination-services/remote-portfolio-accountant-384566",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-engagement-manager-professional-services-sales-emea-279514",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794681612,
+      "postedAt": 1794790524,
       "tags": [
-        "Corporate Services Group"
+        "Practice Management"
       ],
-      "summary": "Access Your Potential. Join us to create and deliver experiences that inspire people, spark connection, and bring imagination to life—while having a lot of fun doing it. About the Job We’re seeking a detail-oriented and organized Portfolio Accountant to join o"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
     },
     {
-      "id": "arbeitnow:remote-events-auditor-associate-460273",
-      "title": "Events Auditor Associate",
-      "org": "Access Destination Services",
+      "id": "arbeitnow:remote-customer-success-architect-neur-53586",
+      "title": "Customer Success Architect, NEUR",
+      "org": "gitlab",
       "role": "training",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/access-destination-services/remote-events-auditor-associate-460273",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-customer-success-architect-neur-53586",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794681612,
+      "postedAt": 1794790523,
       "tags": [
-        "Corporate Services Group"
+        "Customer Success Architecture"
       ],
-      "summary": "Access Your Potential. Join us to create and deliver experiences that inspire people, spark connection, and bring imagination to life—while having a lot of fun doing it. About the Job We're seeking a detail-oriented and organized Events Auditing Associate to j"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+    },
+    {
+      "id": "arbeitnow:remote-senior-engagement-manager-professional-services-sales-emea-404987",
+      "title": "Senior Engagement Manager - Professional Services Sales, EMEA",
+      "org": "gitlab",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-senior-engagement-manager-professional-services-sales-emea-404987",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794790524,
+      "tags": [
+        "Practice Management"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+    },
+    {
+      "id": "arbeitnow:remote-customer-success-architect-france-248760",
+      "title": "Customer Success Architect, France",
+      "org": "gitlab",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-customer-success-architect-france-248760",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794790523,
+      "tags": [
+        "Customer Success Architecture"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
     },
     {
       "id": "arbeitnow:brand-manager-b2b-anywhere-in-france-463852",
@@ -447,22 +478,6 @@
         "Marketing"
       ],
       "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
-    },
-    {
-      "id": "arbeitnow:sar-remote-sensing-engineer-paris-289669",
-      "title": "SAR Remote Sensing Engineer",
-      "org": "Signal Processing Engineer (RF Processing & Analytics)",
-      "role": "marketing",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/sar-remote-sensing-engineer-paris-289669",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794692413,
-      "tags": [
-        "R&D"
-      ],
-      "summary": "About Us Harmattan AI is a next-generation defense prime building autonomous and scalable defense systems. Following the close of a $200M Series B, valuing the company at $1.4 billion, we are expanding our teams and capabilities to deliver mission-critical sys"
     },
     {
       "id": "arbeitnow:remote-staff-forward-deployed-engineer-emea-101256",
