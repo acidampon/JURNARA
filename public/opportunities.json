@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T22:16:17.208Z",
+  "updatedAt": "2026-11-17T08:04:17.133Z",
   "sourceCount": 2,
   "totalFetched": 317,
-  "relevantCount": 41,
+  "relevantCount": 46,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,20 +11,68 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:electrical-engineer-ii-integrations-manchester-361596",
-      "title": "Electrical Engineer II (Integrations)",
-      "org": "Kraken",
-      "role": "marketing",
-      "location": "Manchester, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/electrical-engineer-ii-integrations-manchester-361596",
+      "id": "arbeitnow:enterprise-account-executive-dach-remote-dach-germany-407812",
+      "title": "Enterprise Account Executive DACH (Remote DACH)",
+      "org": "N8N",
+      "role": "project",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/enterprise-account-executive-dach-remote-dach-germany-407812",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794897619,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:manager-customer-success-remote-emea-berlin-425368",
+      "title": "Manager, Customer Success (Remote - EMEA)",
+      "org": "N8N",
+      "role": "project",
+      "location": "Berlin Office",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/manager-customer-success-remote-emea-berlin-425368",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794897619,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:enterprise-account-executive-uki-remote-uki-united-kingdom-48835",
+      "title": "Enterprise Account Executive UK&I (Remote UK&I)",
+      "org": "n8n",
+      "role": "project",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/n8n/enterprise-account-executive-uki-remote-uki-united-kingdom-48835",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1794897616,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:forward-deployed-engineer-emea-berlin-220154",
+      "title": "Forward Deployed Engineer - EMEA",
+      "org": "N8N",
+      "role": "project",
+      "location": "Berlin Office",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/forward-deployed-engineer-emea-berlin-220154",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794843612,
+      "postedAt": 1794897619,
       "tags": [
-        "Delivery Tech"
+        "Sales"
       ],
-      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
     },
     {
       "id": "arbeitnow:product-ml-engineer-paris-117267",
@@ -41,6 +89,89 @@
         "R&D"
       ],
       "summary": "About us Founded in 2019 and part of Y Combinator’s Summer 2020 cohort, Photoroom is the leading AI photo and video solution for e-commerce, helping businesses sell at first sight. Backed by Series B funding, we’ve reached 300M+ downloads and now process aroun"
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-desktop-automation-rpa-berlin-169089",
+      "title": "Software Engineer – Desktop Automation / RPA (m/w/d)",
+      "org": "Recare Deutschland GmbH",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-desktop-automation-rpa-berlin-169089",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794898287,
+      "tags": [
+        "Engineering",
+        "Remote"
+      ],
+      "summary": "Software Engineer – Desktop Automation / RPA (m/w/d) Remote in Germany, Austria, Spain, Portugal, Italy, the Netherlands or the UK · Full-time · Engineering, Interoperability team About Recare As one of the leading German HealthTech companies, we are reshaping"
+    },
+    {
+      "id": "arbeitnow:director-growth-marketing-berlin-478486",
+      "title": "Director Growth Marketing",
+      "org": "Glow25 (by Primal State Performance GmbH)",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/glow25-by-primal-state-performance-gmbh/director-growth-marketing-berlin-478486",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794897063,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "Welcome to Glow25! At Glow25 , we unite beauty with science and cutting-edge technology – AI is a natural part of our everyday work. As Germany's leading collagen brand, we help people feel confident at every life stage and enhance their natural beauty. For ou"
+    },
+    {
+      "id": "arbeitnow:analytics-engineer-power-trading-berlin-243378",
+      "title": "Analytics Engineer - Power Trading",
+      "org": "Ostrom",
+      "role": "marketing",
+      "location": "Berlin / Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ostrom/analytics-engineer-power-trading-berlin-243378",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794876011,
+      "tags": [
+        "Finance"
+      ],
+      "summary": "🌐 We are on the mission to build Europe’s leading energy management platform to provide fair, clean energy to everyone. ⚡ We’re a diverse team of 50+ employees , with 46% being female and from 16+ nationalities , and steadily growing. Having raised of over €4"
+    },
+    {
+      "id": "arbeitnow:llm-engineer-post-training-remote-germany-336396",
+      "title": "LLM Engineer — Post-Training (Remote - Germany)",
+      "org": "EverAI",
+      "role": "training",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/everai/llm-engineer-post-training-remote-germany-336396",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794876010,
+      "tags": [
+        "R&D"
+      ],
+      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top Largest & Fastest-Growing AI Companies in the World 60 Million Users in 3 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect wi"
+    },
+    {
+      "id": "arbeitnow:finanzberater-personliche-finanzplanung-quereinstieg-mit-ihk-abschluss-bonn-12138",
+      "title": "Finanzberater (m/w/d) - Persönliche Finanzplanung | Quereinstieg mit IHK-Abschluss",
+      "org": "GLOBAL FINANZ AG",
+      "role": "training",
+      "location": "Bonn",
+      "url": "https://www.arbeitnow.com/jobs/companies/global-finanz-ag/finanzberater-personliche-finanzplanung-quereinstieg-mit-ihk-abschluss-bonn-12138",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794862845,
+      "tags": [
+        "Remote",
+        "Private Banking"
+      ],
+      "summary": "Du möchtest Dich beruflich neu orientieren oder direkt nach Deiner Ausbildung durchstarten? Dann bist Du bei uns genau richtig! Wir bieten Dir einen strukturierten Weg zum/zur IHK-geprüften Finanzberater:in – mit intensiver fachlicher Ausbildung, flexiblen Arb"
     },
     {
       "id": "arbeitnow:pflichtpraktikum-im-bereich-tech-berlin-69142",
@@ -129,159 +260,85 @@
       "summary": "FREIE Zeiteinteilung SELBSTSTÄNDIGES beraten HOME-OFFICE-Möglichkeit (nach Absprache) Aufgaben \"Finanzen und ich\", dass kann nur schief gehen, denken Sie sich jetzt vielleicht. Aber genau das ist der Grund warum wir seit 50 Jahren am Markt und mit großem Absta"
     },
     {
-      "id": "arbeitnow:attraktiver-nebenjob-auch-als-quereinstieg-nurtingen-440714",
-      "title": "Attraktiver Nebenjob (auch als Quereinstieg!)",
-      "org": "Allfinanz AG Deutsche Vermögensberatung Christian Schmid",
-      "role": "project",
-      "location": "Nürtingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/allfinanz-ag-deutsche-vermogensberatung-christian-schmid/attraktiver-nebenjob-auch-als-quereinstieg-nurtingen-440714",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794861040,
-      "tags": [
-        "Remote",
-        "Private Banking"
-      ],
-      "summary": "Sie möchten zu Ihrem jetzigen Job etwas dazuverdienen? Wir suchen Menschen die bereit sind jede Woche ein paar Stunden Zeit zu investieren und nebenher 300,400 oder 500 Euro im Monat dazuverdienen möchten. Wie soll das gehen? Ganz einfach, indem Du die Vorteil"
-    },
-    {
-      "id": "arbeitnow:kosmetiker-in-nageldesigner-in-fusspfleger-in-frankfurt-am-main-179889",
-      "title": "Kosmetiker/in, Nageldesigner/in, Fusspfleger/in",
-      "org": "Beauty Mosaic Kosmetikstudio",
-      "role": "project",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/beauty-mosaic-kosmetikstudio/kosmetiker-in-nageldesigner-in-fusspfleger-in-frankfurt-am-main-179889",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794861040,
-      "tags": [
-        "Remote",
-        "Beauty",
-        "Wellness"
-      ],
-      "summary": "Beauty Mosaic Kosmetikstudio in Frankfurt sucht eine Unterstützung im Bereich Kosmetik und Nageldesigne. Wir bieten einen Job an zwei Standorten: in Frankfurt am Main und in Neu-Isenburg. Unser Team kümmert sich rund um die Gesichtsbehandlungen, Nageldesign, M"
-    },
-    {
-      "id": "arbeitnow:hf-vertriebsingenieur-deutschland-nord-nufringen-422385",
-      "title": "HF-Vertriebsingenieur Deutschland Nord",
-      "org": "bsw TestSystems & Consulting AG",
-      "role": "project",
-      "location": "Nufringen",
-      "url": "https://www.arbeitnow.com/jobs/companies/bsw-testsystems-consulting-ag/hf-vertriebsingenieur-deutschland-nord-nufringen-422385",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794861038,
-      "tags": [
-        "Remote",
-        "Sales Engineer"
-      ],
-      "summary": "Die bsw TestSystems & Consulting AG ist ein Messtechnik Lösungslieferant für die Halbleiter-, Elektronik- und Telekomindustrie sowie für Hochschul- und Forschungseinrichtungen. Unsere Schwerpunkte liegen in der HF-Messtechnik für On-wafer Test, der Tunermesste"
-    },
-    {
-      "id": "arbeitnow:remote-senior-sales-consultant-closer-hockenheim-154032",
-      "title": "Senior Sales Consultant / Closer (m/w/d)",
-      "org": "Teaching Finance GmbH & Co. KG",
+      "id": "arbeitnow:remote-cloud-security-go-to-market-specialist-wiz-google-cloud-london-238946",
+      "title": "Cloud Security Go To Market Specialist--Wiz/Google Cloud-London",
+      "org": "Tenex",
       "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/teaching-finance-gmbh-co-kg/remote-senior-sales-consultant-closer-hockenheim-154032",
+      "location": "Remote-United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tenex/remote-cloud-security-go-to-market-specialist-wiz-google-cloud-london-238946",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794853914,
+      "postedAt": 1794887249,
       "tags": [
-        "Sales",
+        "EMEA"
+      ],
+      "summary": "Location: London Reports to: VP Alliances EMEA Type: Full-time, quota-carrying About Tenex TENEX is an AI-native, automation-first, built-for-scale Managed Detection and Response (MDR) provider. We are a force multiplier for defenders, helping organizations en"
+    },
+    {
+      "id": "arbeitnow:remote-account-executive-south-east-373585",
+      "title": "Account Executive (m/f/d)",
+      "org": "Primion Technology GmbH",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/primion-technology-gmbh/remote-account-executive-south-east-373585",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794898288,
+      "tags": [
+        "Primion France",
         "Remote"
       ],
-      "summary": "Über Teaching Socials Teaching Socials ist die führende Unternehmensberatung für Personal Brands im Finanz- & Immobilienbereich im DACH-Raum. Unser Team aus 25 High-Performern hat innerhalb von 2 Jahren ein konstantes Monatswachstum von über 750.000 € aufgebau"
+      "summary": "Protect what matters. Primion Technology is a global solution provider and market leader in Converged Security Solutions and Workforce Management . For more than 30 years, we have supported around 5,000 satisfied customers worldwide who rely on our certified s"
     },
     {
-      "id": "arbeitnow:marketing-intern-affiliate-digital-marketing-berlin-494406",
-      "title": "Marketing Intern – Affiliate & Digital Marketing (m/f/d)",
-      "org": "AffiliateLandscape",
+      "id": "arbeitnow:specialiste-support-services-financiers-bilingue-allemand-h-f-paris-18923",
+      "title": "Spécialiste Support Services Financiers bilingue allemand H/F",
+      "org": "Pennylane SAS",
       "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/affiliatelandscape/marketing-intern-affiliate-digital-marketing-berlin-494406",
+      "location": "All France (remote)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/specialiste-support-services-financiers-bilingue-allemand-h-f-paris-18923",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794852047,
+      "postedAt": 1794887250,
       "tags": [
-        "Remote",
-        "Online Marketing"
+        "Customer Success"
       ],
-      "summary": "Location: Fully Remote – Worldwide Employment Type: Internship Industry: Affiliate Marketing / Digital Marketing About the Role Are you interested in digital marketing, social media, and the online business world? AffiliateLandscape is looking for a motivated "
+      "summary": "Vous cherchez un environnement professionnel stimulant basé sur l'autonomie et la confiance ? Pennylane vous offre l'opportunité de grandir au sein d'une entreprise en pleine croissance. Ici, votre expertise contribuera directement à aider les entrepreneurs à "
     },
     {
-      "id": "arbeitnow:platform-associate-berlin-71848",
-      "title": "Platform Associate",
-      "org": "First Momentum Ventures",
+      "id": "arbeitnow:remote-senior-hrbp-220830",
+      "title": "Senior HRBP",
+      "org": "Pennylane SAS",
       "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/first-momentum-ventures/platform-associate-berlin-71848",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-hrbp-220830",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794852047,
+      "postedAt": 1794887250,
       "tags": [
-        "Remote",
-        "Business Operations"
+        "People"
       ],
-      "summary": "Platform Associate (m/f/d): Talent, Growth, Content & AI Workflows Remote, with offices in Munich and Karlsruhe · Start January or February 2027 About us First Momentum invests in deep tech and industrial tech founders across Europe at pre-seed when there's mo"
+      "summary": "Our vision We aim to become the most beloved financial Operating System of French SMEs and Accounting Firms (and soon, European ones). We help entrepreneurs rid themselves of time-consuming tasks related to accounting and finance while providing them with acce"
     },
     {
-      "id": "arbeitnow:praktikum-content-ai-berlin-13325",
-      "title": "Praktikum Content & AI (m/w/d)",
-      "org": "KLUUU",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/kluuu/praktikum-content-ai-berlin-13325",
+      "id": "arbeitnow:llm-engineer-post-training-remote-france-6143",
+      "title": "LLM Engineer — Post-Training (Remote - France)",
+      "org": "EverAI",
+      "role": "training",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/everai/llm-engineer-post-training-remote-france-6143",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794850252,
+      "postedAt": 1794876010,
       "tags": [
-        "Remote",
-        "Social Media Manager"
+        "R&D"
       ],
-      "summary": "Praktikum Media, Content & AI (m/w/d) Remote | Teilzeit oder Vollzeit | Unbezahlt | Bis zu 3 Monate Wir sind KLUUU , ein KI-Startup, das Lernmaterialien in Sekunden in interaktive Quizze verwandelt. Unser Ziel ist es, Lernen effizienter, interaktiver und zugän"
-    },
-    {
-      "id": "arbeitnow:senior-cloud-ai-solutions-architect-berlin-88513",
-      "title": "Senior Cloud & AI Solutions Architect (m/w/d)",
-      "org": "TEQWERK GmbH",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/teqwerk-gmbh/senior-cloud-ai-solutions-architect-berlin-88513",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794848446,
-      "tags": [
-        "Remote",
-        "Consulting",
-        "Engineering"
-      ],
-      "summary": "Du denkst Systeme ganzheitlich. Von der Idee bis zur skalierbaren Realität. Als Senior Cloud & AI Solutions Architect verantwortest du die Architektur unserer Kundenprojekte auf Azure – Landing Zones, Plattformen, Migrationen und die Infrastruktur, auf der pro"
-    },
-    {
-      "id": "arbeitnow:technical-sales-manager-composites-gn-gn-munich-355573",
-      "title": "Technical Sales Manager – Composites (gn) (gn)",
-      "org": "Vality One Recruitment GmbH",
-      "role": "project",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/vality-one-recruitment-gmbh/technical-sales-manager-composites-gn-gn-munich-355573",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794846654,
-      "tags": [
-        "Remote",
-        "Sales Engineer"
-      ],
-      "summary": "Dein Aufgabengebiet Eigenverantwortliche Vermarktung und Weiterentwicklung eines Rohstoffportfolios für glas- und carbonfaserverstärkte Kunststoffe, insbesondere Harzsysteme, Glas- und Carbonfasern sowie weitere funktionale Zusatzstoffe Fachliche Beratung von "
+      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top Largest & Fastest-Growing AI Companies in the World 60 Million Users in 3 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect wi"
     },
     {
       "id": "arbeitnow:customer-success-specialist-paris-56102",
@@ -335,20 +392,58 @@
       "summary": "For this position we source for our sistercompany Troostwijk. About us Troostwijk and it's group TBAuctions are one of Europe’s leading networks for digital B2B auctions. We market machines, vehicles, equipment and other commercial assets, bringing sellers and"
     },
     {
-      "id": "arbeitnow:remote-senior-ai-engineer-344791",
-      "title": "Senior AI Engineer",
-      "org": "Inato",
-      "role": "project",
-      "location": "PARIS OFFICE or REMOTE FROM FRANCE",
-      "url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-senior-ai-engineer-344791",
+      "id": "arbeitnow:german-speaking-video-streaming-customer-experts-work-remote-in-greece-switzerland-210868",
+      "title": "German Speaking Video Streaming Customer Experts - Work Remote In Greece",
+      "org": "Patrique Mercier Recruitment Fr",
+      "role": "training",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/german-speaking-video-streaming-customer-experts-work-remote-in-greece-switzerland-210868",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794811218,
+      "postedAt": 1794874805,
       "tags": [
-        "Tech"
+        "Customer Service",
+        "Online Media",
+        "Greece",
+        "Remote"
       ],
-      "summary": "Who We Are Inato is a Tech for Good company striving to bring clinical research to each and every patient, regardless of who they are or where they live. To do this, we’ve built an AI-powered platform that changes how pharmaceutical companies and doctors aroun"
+      "summary": "German Speaking Video Streaming Customer Experts About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm dedicated to connecting top-tier talent with industry-leading corporations. As a leader in European recruitment "
+    },
+    {
+      "id": "arbeitnow:remote-german-speaking-customer-support-specialist-work-in-athens-greece-switzerland-479591",
+      "title": "German Speaking Customer Support Specialist - Work In Athens, Greece",
+      "org": "Patrique Mercier Recruitment Fr",
+      "role": "training",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-german-speaking-customer-support-specialist-work-in-athens-greece-switzerland-479591",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794874804,
+      "tags": [
+        "Customer Service",
+        "Consumer Services",
+        "Greece",
+        "Remote"
+      ],
+      "summary": "German Speaking Customer Support Specialist About Mercier Consultancy Group Mercier Consultancy Group is a premier international recruitment and BPO firm, dedicated to connecting top-tier talent with world-leading organizations across the globe. We pride ourse"
+    },
+    {
+      "id": "arbeitnow:ai-benchmark-engineer-native-language-specialist-german-switzerland-remote-bern-90445",
+      "title": "AI Benchmark Engineer | Native Language Specialist - German (Switzerland) - Remote",
+      "org": "LILT (Production)",
+      "role": "project",
+      "location": "Switzerland (Remote)",
+      "url": "https://www.arbeitnow.ch/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-german-switzerland-remote-bern-90445",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794865214,
+      "tags": [
+        "LiltLancer Community"
+      ],
+      "summary": "About The Opportunity We are building a rigorous, verifiable evaluation suite of Terminal-Bench tasks designed to test the limits of large language models on multilingual software challenges. Our goal is to measure multilingual robustness across prompt languag"
     },
     {
       "id": "arbeitnow:senior-frontend-entwicklerin-ux-ui-lucerne-54073",
@@ -436,38 +531,20 @@
       "summary": "Als Mitglied der internationalen PureGym Gruppe mit mehr als 2 Millionen Mitgliedern gehören wir zu den drei größten Fitnessketten in Europa und sind damit bestens aufgestellt, um unsere ehrgeizigen Ziele weiter zu verfolgen und zu realisieren. So können wir i"
     },
     {
-      "id": "arbeitnow:head-of-support-fully-remote-zurich-130510",
-      "title": "Head of Support (m/f/d) – Fully Remote",
-      "org": "what. AG",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.ch/jobs/companies/what-ag/head-of-support-fully-remote-zurich-130510",
+      "id": "arbeitnow:llm-engineer-post-training-remote-netherlands-250490",
+      "title": "LLM Engineer — Post-Training (Remote - Netherlands)",
+      "org": "EverAI",
+      "role": "training",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/everai/llm-engineer-post-training-remote-netherlands-250490",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794843076,
+      "postedAt": 1794876010,
       "tags": [
-        "Tech Team",
-        "Remote"
+        "R&D"
       ],
-      "summary": "Location: fully remote, work from anywhere About what. AG what. is a Zurich-based digital agency. We build websites, e-commerce and growth marketing for Swiss SMEs — and we’re pushing hard into AI-driven delivery, from our own Support Agent to our what. growth"
-    },
-    {
-      "id": "arbeitnow:senior-delivery-manager-remote-zurich-43276",
-      "title": "Senior Delivery Manager (Remote)",
-      "org": "Coopers Group AG",
-      "role": "marketing",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-delivery-manager-remote-zurich-43276",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794834097,
-      "tags": [
-        "Remote",
-        "Project Management"
-      ],
-      "summary": "................ For our client in Zurich, we are looking for an experienced Senior Delivery Manager to lead a large-scale IT transformation project within the airport industry (Remote). This role offers the opportunity to manage complex technology implementat"
+      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top Largest & Fastest-Growing AI Companies in the World 60 Million Users in 3 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect wi"
     },
     {
       "id": "arbeitnow:remote-android-developer-utrecht-265338",
