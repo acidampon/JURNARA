@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T07:40:17.699Z",
+  "updatedAt": "2026-11-18T20:39:52.135Z",
   "sourceCount": 2,
   "totalFetched": 316,
-  "relevantCount": 53,
+  "relevantCount": 46,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,116 +11,20 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:sr-renewals-manager-england-437342",
-      "title": "Sr Renewals Manager",
-      "org": "Docker",
-      "role": "training",
-      "location": "England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/docker/sr-renewals-manager-england-437342",
+      "id": "arbeitnow:senior-director-ml-software-bristol-192826",
+      "title": "Senior Director, ML Software",
+      "org": "Graphcore",
+      "role": "project",
+      "location": "Bristol",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-director-ml-software-bristol-192826",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1794984010,
+      "postedAt": 1795006518,
       "tags": [
-        "Sales"
+        "Core"
       ],
-      "summary": "About Docker Docker has been one of the most loved brands in developer tooling, trusted by more than 20 million monthly users and over 20 billion container image pulls. From solo founders to the world's largest companies, developers rely on Docker to build, sh"
-    },
-    {
-      "id": "arbeitnow:product-manager-energy-billing-fluent-french-english-paris-471987",
-      "title": "Product Manager - Energy Billing (Fluent French & English)",
-      "org": "Kaluza",
-      "role": "marketing",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-energy-billing-fluent-french-english-paris-471987",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794951632,
-      "tags": [
-        "Product"
-      ],
-      "summary": "Job title: Product Manager (Billing) Location: Paris— 3 days in office (occasional travel to Belgium required) Team: Product Management - Billing & Payments Reporting to: Head of Product This role is based in London, UK and requires the successful candidate to"
-    },
-    {
-      "id": "arbeitnow:product-manager-customer-account-lifecycle-cal-market-interactions-paris-french-english-400700",
-      "title": "Product Manager - Customer Account Lifecycle (CAL) + Market Interactions, Paris (French & English)",
-      "org": "Kaluza",
-      "role": "marketing",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-customer-account-lifecycle-cal-market-interactions-paris-french-english-400700",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794951632,
-      "tags": [
-        "Product"
-      ],
-      "summary": "Job title: Product Manager - Customer Account Lifecycle Location : Location: Paris, France — 3 days a week in office Team: Product Management Reporting To: Group Product Manager Please note: This role is based in France, so you need to live here or be open to "
-    },
-    {
-      "id": "arbeitnow:member-of-technical-staff-platform-engineering-paris-264835",
-      "title": "Member of Technical Staff — Platform Engineering",
-      "org": "Remanence",
-      "role": "training",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/remanence/member-of-technical-staff-platform-engineering-paris-264835",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794951632,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "Member of Technical Staff — Platform Engineering Remanence is pioneering the next era of enterprise AI by building intelligent systems that learn continuously from real-world execution. We transform complex enterprise workflows and business context into dynami"
-    },
-    {
-      "id": "arbeitnow:member-of-technical-staff-infrastructure-paris-461769",
-      "title": "Member of Technical Staff — Infrastructure",
-      "org": "Remanence",
-      "role": "training",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/remanence/member-of-technical-staff-infrastructure-paris-461769",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794951632,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "Member of Technical Staff — Infrastructure Remanence is pioneering the next era of enterprise AI by building intelligent systems that learn continuously from real-world execution. We transform complex enterprise workflows and business context into dynamic, int"
-    },
-    {
-      "id": "arbeitnow:member-of-technical-staff-environments-evals-paris-68366",
-      "title": "Member of Technical Staff — Environments / Evals",
-      "org": "Remanence",
-      "role": "training",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/remanence/member-of-technical-staff-environments-evals-paris-68366",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794951632,
-      "tags": [
-        "Research"
-      ],
-      "summary": "Member of Technical Staff — Environments / Evals Remanence is pioneering the next era of enterprise AI by building intelligent systems that learn continuously from real-world execution. We transform complex enterprise workflows and business context into dynami"
-    },
-    {
-      "id": "arbeitnow:member-of-technical-staff-post-training-rl-paris-50317",
-      "title": "Member of Technical Staff — Post-training / RL",
-      "org": "Remanence",
-      "role": "training",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/remanence/member-of-technical-staff-post-training-rl-paris-50317",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794951632,
-      "tags": [
-        "Research"
-      ],
-      "summary": "Member of Technical Staff — Post-training / RL Remanence is pioneering the next era of enterprise AI by building intelligent systems that learn continuously from real-world execution. We transform complex enterprise workflows and business context into dynamic,"
+      "summary": "&lt;h2&gt;About the job&lt;/h2&gt; &lt;p&gt;Set the direction for Graphcore’s ML software, with accountability for organisational leadership, investment priorities and delivery across platform generations.&nbsp;As Senior Director of ML Software in Bristol, you"
     },
     {
       "id": "arbeitnow:customer-support-coach-409887",
@@ -139,458 +43,425 @@
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p data-path-to-node=\"0\"&gt;&lt;strong data-path-to-node=\"0\" data-index-in-node=\"0\"&gt;What Makes Cloudbeds Unique&lt;/strong&gt;&lt;/p&gt; &lt;p data-path-to-node=\"1\"&gt;At &lt;a href=\"https://www.cloudbeds.com/\"&gt;Cloudbe"
     },
     {
-      "id": "arbeitnow:platforms-and-infrastructure-engineer-zurich-119094",
-      "title": "Platforms and Infrastructure Engineer",
-      "org": "Enactintelligence",
+      "id": "arbeitnow:werkstudent-content-erstellung-offenburg-404575",
+      "title": "Werkstudent (m/w/d) Content-Erstellung",
+      "org": "Claudius Wurth Agrarberatung",
+      "role": "marketing",
+      "location": "Offenburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/claudius-wurth-agrarberatung/werkstudent-content-erstellung-offenburg-404575",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795032036,
+      "tags": [
+        "Remote",
+        "Social Media Manager"
+      ],
+      "summary": "Als Werkstudent (m/w/d) im Bereich Content-Erstellung bei Claudius Wurth Agrarberatung haben Sie die Möglichkeit, Ihre kreativen Fähigkeiten in einem spezialisierten Beratungsunternehmen für landwirtschaftliche Betriebe einzubringen. Unser Team unterstützt Lan"
+    },
+    {
+      "id": "arbeitnow:social-media-marketing-managerin-paid-ads-berlin-498369",
+      "title": "Social Media Marketing Manager:in (m/w/d) Paid Ads",
+      "org": "Performance Marketing Agentur firststars GmbH",
       "role": "training",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/platforms-and-infrastructure-engineer-zurich-119094",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/performance-marketing-agentur-firststars-gmbh/social-media-marketing-managerin-paid-ads-berlin-498369",
       "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794962432,
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795028437,
       "tags": [
-        "Technical Staff"
+        "Remote",
+        "Online Marketing"
       ],
-      "summary": "About Enact The next defining technological breakthrough will be in the physical world. We stand at a historical inflection point: bringing general-purpose intelligence into robotics. At Enact we rethink the entire robotic tech stack from model architectures a"
+      "summary": "Remote | Performance Marketing | FIRST STARS Über uns FIRST STARS ist eine Performance Marketing Agentur , die Unternehmen dabei hilft, durch datengetriebenes Marketing nachhaltig zu wachsen. Wir arbeiten mit ambitionierten Brands – von schnell wachsenden Nisc"
     },
     {
-      "id": "arbeitnow:robotic-controls-engineer-zurich-41326",
-      "title": "Robotic Controls Engineer",
-      "org": "Enactintelligence",
-      "role": "project",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/robotic-controls-engineer-zurich-41326",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794962432,
-      "tags": [
-        "Technical Staff"
-      ],
-      "summary": "About Enact The next defining technological breakthrough will be in the physical world. We stand at a historical inflection point: bringing general-purpose intelligence into robotics. At Enact we rethink the entire robotic tech stack from model architectures a"
-    },
-    {
-      "id": "arbeitnow:technician-zurich-54904",
-      "title": "Technician",
-      "org": "Enactintelligence",
-      "role": "training",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/technician-zurich-54904",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794962432,
-      "tags": [
-        "Operations"
-      ],
-      "summary": "About Enact The next defining technological breakthrough will be in the physical world. We stand at a historical inflection point: bringing general-purpose intelligence into robotics. At Enact we rethink the entire robotic tech stack from model architectures a"
-    },
-    {
-      "id": "arbeitnow:robot-operator-zurich-157267",
-      "title": "Robot Operator",
-      "org": "Enactintelligence",
-      "role": "training",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/robot-operator-zurich-157267",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794962432,
-      "tags": [
-        "Operations"
-      ],
-      "summary": "About Enact The next defining technological breakthrough will be in the physical world. We stand at a historical inflection point: bringing general-purpose intelligence into robotics. At Enact we rethink the entire robotic tech stack from model architectures a"
-    },
-    {
-      "id": "arbeitnow:research-scientist-post-training-zurich-164875",
-      "title": "Research Scientist: Post-Training",
-      "org": "Enactintelligence",
-      "role": "training",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/research-scientist-post-training-zurich-164875",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794962432,
-      "tags": [
-        "Technical Staff"
-      ],
-      "summary": "About Enact The next defining technological breakthrough will be in the physical world. We stand at a historical inflection point: bringing general-purpose intelligence into robotics. At Enact we rethink the entire robotic tech stack from model architectures a"
-    },
-    {
-      "id": "arbeitnow:research-scientist-pre-training-zurich-156093",
-      "title": "Research Scientist: Pre-Training",
-      "org": "Enactintelligence",
-      "role": "training",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/research-scientist-pre-training-zurich-156093",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794962432,
-      "tags": [
-        "Technical Staff"
-      ],
-      "summary": "About Enact The next defining technological breakthrough will be in the physical world. We stand at a historical inflection point: bringing general-purpose intelligence into robotics. At Enact we rethink the entire robotic tech stack from model architectures a"
-    },
-    {
-      "id": "arbeitnow:fpga-engineer-controls-signal-processing-zurich-377560",
-      "title": "FPGA Engineer (Controls & Signal Processing)",
-      "org": "Enactintelligence",
-      "role": "project",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/fpga-engineer-controls-signal-processing-zurich-377560",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794962432,
-      "tags": [
-        "Technical Staff"
-      ],
-      "summary": "About Enact The next defining technological breakthrough will be in the physical world. We stand at a historical inflection point: bringing general-purpose intelligence into robotics. At Enact we rethink the entire robotic tech stack from model architectures a"
-    },
-    {
-      "id": "arbeitnow:lead-forward-deployed-software-engineer-zurich-212901",
-      "title": "Lead Forward Deployed Software Engineer",
-      "org": "Flink",
-      "role": "project",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/flink/lead-forward-deployed-software-engineer-zurich-212901",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1794962431,
-      "tags": [
-        "Physical Reasoning"
-      ],
-      "summary": "Flink Robotics is a fast-paced startup, out of ETH Zürich's Computational Robotics Lab, building autonomous robots that can handle any item - including ones they’ve never seen before. We're revolutionising material handling, from stacking boxes to sorting parc"
-    },
-    {
-      "id": "arbeitnow:remote-hyperscaler-systems-integrator-partner-manager-north-america-331543",
-      "title": "Hyperscaler & Systems Integrator Partner Manager (North America)",
-      "org": "ElevenLabs",
+      "id": "arbeitnow:customer-service-vz-tz-moglich-berlin-288863",
+      "title": "Customer Service (m/w/d) - VZ/TZ möglich",
+      "org": "Goodright GmbH",
       "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-hyperscaler-systems-integrator-partner-manager-north-america-331543",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/goodright-gmbh/customer-service-vz-tz-moglich-berlin-288863",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794984010,
-      "tags": [
-        "Revenue"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-full-stack-engineer-elevenmusic-301874",
-      "title": "Full-Stack Engineer - ElevenMusic",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevenmusic-301874",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794984010,
-      "tags": [
-        "Engineering & Product"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-account-executive-enterprise-healthcare-77113",
-      "title": "Account Executive - Enterprise - Healthcare",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-account-executive-enterprise-healthcare-77113",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794984010,
-      "tags": [
-        "Revenue"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-full-stack-engineer-backend-leaning-payments-engineering-51351",
-      "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-payments-engineering-51351",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794984010,
-      "tags": [
-        "Engineering & Product"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-full-stack-engineer-backend-leaning-platform-engineering-8063",
-      "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-platform-engineering-8063",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794984010,
-      "tags": [
-        "Engineering & Product"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:remote-head-of-strategic-pursuits-490085",
-      "title": "Head of Strategic Pursuits",
-      "org": "ElevenLabs",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-head-of-strategic-pursuits-490085",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794984010,
-      "tags": [
-        "Revenue"
-      ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
-    },
-    {
-      "id": "arbeitnow:werkstudent-content-management-remote-14434",
-      "title": "Werkstudent Content Management (m/w/d) · Remote",
-      "org": "Evolve Digital GmbH",
-      "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/werkstudent-content-management-remote-14434",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794983487,
-      "tags": [
-        "Operations",
-        "Remote"
-      ],
-      "summary": "Du studierst Marketing, Medien oder etwas Ähnliches, hast Spaß an Social Media und Creator-Content und behältst auch bei vielen Themen gleichzeitig den Überblick? Bei uns koordinierst du die Zusammenarbeit mit unseren Content Creatorn von der Auswahl bis zur f"
-    },
-    {
-      "id": "arbeitnow:kundenbetreuerin-beschwerdemanagement-remote-telefon-monheim-am-rhein-104292",
-      "title": "Kundenbetreuer:in Beschwerdemanagement (Remote, Telefon)",
-      "org": "Simplyright GmbH",
-      "role": "support",
-      "location": "Monheim am Rhein",
-      "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/kundenbetreuerin-beschwerdemanagement-remote-telefon-monheim-am-rhein-104292",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794983447,
+      "postedAt": 1795023047,
       "tags": [
         "Remote",
         "Customer Service"
       ],
-      "summary": "Über Simplyright Simplyright hilft Menschen, die Ärger mit Abos, Kündigungen oder Inkasso-Schreiben haben. Viele Kundinnen und Kunden nutzen dafür unseren Service und unser Abo Simplyright+. Wenn dabei einmal etwas schiefläuft, soll sich sofort ein Mensch pers"
+      "summary": "Bist du bereit, mit uns die Zukunft der Pflege zu gestalten? Bei Pflegewächter suchen wir nach einer/einem engagierten Customer Experience Manager:in, die/der unsere Mission teilt, Pflege für alle zugänglich und verständlich zu machen. Zur Verstärkung unseres "
     },
     {
-      "id": "arbeitnow:remote-teamleiter-fur-haushaltshilfen-quereinstieg-einzelhandel-bayern-229952",
-      "title": "Teamleiter für Haushaltshilfen (m/w/d) Quereinstieg Einzelhandel",
-      "org": "Agentur für Haushaltshilfe GmbH",
-      "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/agentur-fur-haushaltshilfe-gmbh/remote-teamleiter-fur-haushaltshilfen-quereinstieg-einzelhandel-bayern-229952",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794972674,
-      "tags": [
-        "Teamleitung",
-        "Remote"
-      ],
-      "summary": "Agentur für Haushaltshilfe Die Nr. 1 für professionelle Haushaltshilfe und Alltagsbegleitung in Deutschland. Unser Ziel ist es, dafür zu sorgen, dass hilfsbedürftige Menschen da leben können, wo sie sich am wohlsten fühlen – und das ist in ihrem Zuhause. Seit "
-    },
-    {
-      "id": "arbeitnow:remote-senior-social-media-managerin-gn-berlin-498414",
-      "title": "(Senior) Social Media Manager:in (gn)",
-      "org": "Intermate Media GmbH",
-      "role": "training",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/remote-senior-social-media-managerin-gn-berlin-498414",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794972672,
-      "tags": [
-        "Social Media Marketing",
-        "Remote"
-      ],
-      "summary": "Intermate x SAMY – Shaping the State of Social Intermate gehört zu den größten Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, Köln und Remote entwickeln wir Social-First-Strategien, produzieren Content in eigene"
-    },
-    {
-      "id": "arbeitnow:remote-cloud-native-architect-strategic-accounts-emea-398967",
-      "title": "Cloud Native Architect, Strategic Accounts (EMEA)",
-      "org": "purestorage",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/purestorage/remote-cloud-native-architect-strategic-accounts-emea-398967",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794963324,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans th"
-    },
-    {
-      "id": "arbeitnow:remote-hands-on-engineering-manager-devops-gcp-kubernetes-302151",
-      "title": "Hands-on Engineering Manager DevOps (GCP/Kubernetes)",
-      "org": "Miaplaza",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-devops-gcp-kubernetes-302151",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794963094,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Location : 100% remote (EMEA) Classification : Full-time Pay Range : 82.000€ to 140.000€ - determined by several factors, including location Miaplaza is dedicated to making education engaging and accessible through innovative online learning platforms. We deve"
-    },
-    {
-      "id": "arbeitnow:commercial-account-executive-growth-remote-germany-32147",
-      "title": "Commercial Account Executive, Growth | Remote | Germany",
-      "org": "grafanalabs",
-      "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/commercial-account-executive-growth-remote-germany-32147",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794952530,
-      "tags": [
-        "Sales (EMEA)"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Bui"
-    },
-    {
-      "id": "arbeitnow:remote-senior-product-manager-211555",
-      "title": "Senior Product Manager",
-      "org": "Yubico",
-      "role": "training",
-      "location": "Remote US (EST), London",
-      "url": "https://www.arbeitnow.com/jobs/companies/yubico/remote-senior-product-manager-211555",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794952529,
-      "tags": [
-        "Product Management"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;&lt;strong&gt;Meet Yubico&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Yubico is a global leader in identity security and creator of the YubiKey, the original hardware-backed passkey. We are publicly traded on Nasdaq Stockholm;"
-    },
-    {
-      "id": "arbeitnow:remote-customer-success-manager-key-440393",
-      "title": "Customer Success Manager - Key",
-      "org": "Sugarai",
-      "role": "training",
-      "location": "Germany - Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/sugarai/remote-customer-success-manager-key-440393",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794951636,
-      "tags": [
-        "Customer Experience"
-      ],
-      "summary": "About SugarAI SugarAI is redefining CRM for the age of AI. We’re delivering on the original promise of CRM—turning fragmented customer and revenue signals into clear, prioritized action. Instead of more dashboards or surface-level insights, we help teams focus"
-    },
-    {
-      "id": "arbeitnow:remote-staff-forward-deployed-engineer-424891",
-      "title": "Staff Forward Deployed Engineer",
-      "org": "Swarmaero",
-      "role": "hr",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-staff-forward-deployed-engineer-424891",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1794951630,
-      "tags": [
-        "Legion"
-      ],
-      "summary": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command & Control"
-    },
-    {
-      "id": "arbeitnow:remote-head-of-engineering-services-schoppingen-372510",
-      "title": "Head of Engineering Services (m/w/d)",
-      "org": "shopware AG",
+      "id": "arbeitnow:working-student-ai-engineer-llms-rag-ai-agents-berlin-402834",
+      "title": "Working Student AI Engineer – LLMs, RAG & AI Agents",
+      "org": "AgentixLake GmbH",
       "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-head-of-engineering-services-schoppingen-372510",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-engineer-llms-rag-ai-agents-berlin-402834",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794951084,
+      "postedAt": 1795021246,
       "tags": [
-        "Product",
-        "Remote"
+        "Remote",
+        "Data Scientist"
       ],
-      "summary": "Shopware ist eine international führende Open-Commerce-Plattform für ambitionierte Unternehmen im digitalen Handel. Mit einem API-first-Ansatz, maximaler Flexibilität und einer starken Community schaffen wir zukunftsorientierte E-Commerce-Lösungen. Unsere 450 "
+      "summary": "IMPORTANT Application note Please apply only through this job portal. Kindly do not send applications or recruitment messages by email or LinkedIn. Only applications submitted through the portal will be considered. Thank you. About AgentixLake AgentixLake GmbH"
     },
     {
-      "id": "arbeitnow:remote-senior-account-executive-schoppingen-118104",
-      "title": "Senior Account Executive (m/w/d)",
-      "org": "shopware AG",
-      "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-senior-account-executive-schoppingen-118104",
+      "id": "arbeitnow:working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
+      "title": "Working Student Data Engineer – Python, SQL & Cloud Platforms",
+      "org": "AgentixLake GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794951084,
+      "postedAt": 1795021245,
+      "tags": [
+        "Remote",
+        "Data Processing",
+        "Data Engineer"
+      ],
+      "summary": "IMPORTANT Application note Please apply only through this job portal. Kindly do not send applications or recruitment messages by email or LinkedIn. Only applications submitted through the portal will be considered. Thank you. About AgentixLake AgentixLake GmbH"
+    },
+    {
+      "id": "arbeitnow:working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-292864",
+      "title": "Working Student AI Solutions Architect – Generative AI & Data Platforms",
+      "org": "AgentixLake GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-292864",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795021245,
+      "tags": [
+        "Remote",
+        "Data Scientist"
+      ],
+      "summary": "IMPORTANT Application note Please apply only through this job portal. Kindly do not send applications or recruitment messages by email or LinkedIn. Only applications submitted through the portal will be considered. Thank you. About AgentixLake AgentixLake GmbH"
+    },
+    {
+      "id": "arbeitnow:performance-marketing-manager-fokus-sea-berlin-261813",
+      "title": "Performance Marketing Manager - Fokus SEA (m/w/d)",
+      "org": "anocus GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/anocus-gmbh/performance-marketing-manager-fokus-sea-berlin-261813",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795021245,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "Wir möchten die Anlaufstelle für Google Ads & Web Analytics für E-Commerce Unternehmen mit großem Produktsortiment im DACH-Raum werden. Wir sind davon überzeugt, dass viele Online-Shops noch nicht ihr volles Potenzial aufgrund von schlechter Betreuung ausschöp"
+    },
+    {
+      "id": "arbeitnow:senior-infrastructure-engineer-azure-active-directory-hybrid-infrastructure-berlin-498065",
+      "title": "Senior Infrastructure Engineer – Azure, Active Directory & Hybrid Infrastructure (m/f/d)",
+      "org": "KD Pharma",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/kd-pharma/senior-infrastructure-engineer-azure-active-directory-hybrid-infrastructure-berlin-498065",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795019480,
+      "tags": [
+        "Remote",
+        "System and Network Administration"
+      ],
+      "summary": "Salary: €60,000–80,000 gross per year, depending on experience | Permanent | Immediate start | Remote within Germany or Switzerland (proximity to our Bexbach site is a plus) You want full ownership of a group's Azure and hybrid environment: not just tickets, b"
+    },
+    {
+      "id": "arbeitnow:senior-java-backend-developer-spring-boot-postgresql-kubernetes-festanstellung-berlin-198423",
+      "title": "Senior Java Backend Developer – Spring Boot, PostgreSQL, Kubernetes (m/w/d) – Festanstellung",
+      "org": "Rockstardevelopers GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-java-backend-developer-spring-boot-postgresql-kubernetes-festanstellung-berlin-198423",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795017657,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedbac"
+    },
+    {
+      "id": "arbeitnow:senior-fullstack-developer-angular-kotlin-spring-boot-aws-stuttgart-368767",
+      "title": "Senior Fullstack Developer Angular / Kotlin – Spring Boot, AWS (m/w/d)",
+      "org": "Rockstardevelopers GmbH",
+      "role": "project",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-developer-angular-kotlin-spring-boot-aws-stuttgart-368767",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795017657,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedbac"
+    },
+    {
+      "id": "arbeitnow:remote-director-growth-marketing-449145",
+      "title": "Director Growth Marketing",
+      "org": "Glow25",
+      "role": "marketing",
+      "location": "Remote - Europe Only",
+      "url": "https://www.arbeitnow.com/jobs/companies/glow25/remote-director-growth-marketing-449145",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795016413,
+      "tags": [
+        "Marketing"
+      ],
+      "summary": "Welcome to Glow25! At Glow25 , we unite beauty with science and cutting-edge technology – AI is a natural part of our everyday work. As Germany's leading collagen brand, we help people feel confident at every life stage and enhance their natural beauty. For ou"
+    },
+    {
+      "id": "arbeitnow:remote-accounting-manager-a-r-e-commerce-all-genders-104274",
+      "title": "Accounting Manager A/R – E-Commerce (all genders)",
+      "org": "Glow25",
+      "role": "marketing",
+      "location": "Remote - Germany Only",
+      "url": "https://www.arbeitnow.com/jobs/companies/glow25/remote-accounting-manager-a-r-e-commerce-all-genders-104274",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795016413,
+      "tags": [
+        "Finance / Legal / BI"
+      ],
+      "summary": "Willkommen bei Glow25! Wir sind ein dynamisches Berliner Beauty- und Pro-Aging-Unternehmen. Unsere Mission: Glow-Momente, die bleiben. Bei uns landen Erlöse nicht einfach auf einem Konto – sie kommen über Amazon, Marktplätze und B2B, jeder Kanal mit eigener Lo"
+    },
+    {
+      "id": "arbeitnow:remote-enterprise-account-executive-fr-bnl-se-berlin-473489",
+      "title": "Enterprise Account Executive - FR/BNL/SE (m/f/x)",
+      "org": "Makersite GmbH",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-enterprise-account-executive-fr-bnl-se-berlin-473489",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795015882,
       "tags": [
         "Sales",
         "Remote"
       ],
-      "summary": "Als Senior Account Executive bei Shopware übernimmst du eine Schlüsselrolle beim Ausbau unseres Enterprise- und Mid-Market-Geschäfts in der DACH-Region. Du verantwortest den gesamten Sales Cycle, führst komplexe Vertriebsprozesse und stellst sicher, dass deine"
+      "summary": "Account Executive (m/f/x) (French Speaking) Location: EU (Remote) Comp: 120k EUR base Territories: France / Benelux / Southern Europe Who You’ll Work For: At Makersite, we're pioneering the future of sustainable product development and digital collaboration. A"
     },
     {
-      "id": "arbeitnow:treasury-lead-london-155430",
-      "title": "Treasury Lead",
-      "org": "Griffin",
+      "id": "arbeitnow:remote-enterprise-account-executive-uki-nordics-berlin-77224",
+      "title": "Enterprise Account Executive - UKI/Nordics (m/f/x)",
+      "org": "Makersite GmbH",
       "role": "marketing",
-      "location": "London or remote within the UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/griffin/treasury-lead-london-155430",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-enterprise-account-executive-uki-nordics-berlin-77224",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794984013,
+      "postedAt": 1795015882,
       "tags": [
-        "Finance"
+        "Sales",
+        "Remote"
       ],
-      "summary": "About Griffin Hi, we’re Griffin. We’re a fully regulated UK bank that powers the accounts and payments offerings of product-led fintechs and platforms like Uber, Yonder, Prosper, and Sidekick. By doing the heavy lifting behind the scenes, our customers can foc"
+      "summary": "Account Executive (m/f/x) (English Speaking) Location: EU (Remote) Comp: 120k EUR base Territories: UKI/Nordics Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform "
     },
     {
-      "id": "arbeitnow:remote-senior-channel-account-manager-bilingual-german-uk-48351",
-      "title": "Senior Channel Account Manager, Bilingual (German) - UK",
-      "org": "Keepersecurity",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/keepersecurity/remote-senior-channel-account-manager-bilingual-german-uk-48351",
+      "id": "arbeitnow:channel-marketing-manager-berlin-422871",
+      "title": "Channel Marketing Manager",
+      "org": "Nextcloud",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/nextcloud/channel-marketing-manager-berlin-422871",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794974125,
+      "postedAt": 1795014090,
       "tags": [
-        "Channel Managers"
+        "Remote",
+        "Trade Marketing"
       ],
-      "summary": "&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Keeper is hiring a driven, German speaking Senior Channel Account Manager to join the Keeper EMEA Channel Sales team. Qualified candidates must permanently reside in the UK (London). This is "
+      "summary": "About Nextcloud At Nextcloud we help our users achieve a safe home for all their data. Secure, under your control and developed in an open, transparent and trustworthy way. Our team of 170 is distributed in 30 countries worldwide. We work remotely and our work"
+    },
+    {
+      "id": "arbeitnow:customer-success-manager-power-bi-mit-entscheidungsbefugnis-berlin-463002",
+      "title": "Customer Success Manager (m/w/d) Power BI mit Entscheidungsbefugnis",
+      "org": "Weiler Consult GmbH",
+      "role": "support",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/customer-success-manager-power-bi-mit-entscheidungsbefugnis-berlin-463002",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795012277,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "Über uns Die Weiler Consult GmbH ist eine Power-BI-Boutique für den deutschen Mittelstand und das Konzernumfeld. Rund 10 Power-BI-Expertinnen und -Experten bauen Reporting, das Geschäftsführer und CFOs wirklich nutzen. Unser Prinzip: Wir sind der Sherpa. Wir a"
+    },
+    {
+      "id": "arbeitnow:amazon-account-manager-weiterbildung-fur-online-marktplatze-ai-100-remote-berlin-379623",
+      "title": "Amazon Account Manager (m/w/d) - Weiterbildung für Online-Marktplätze & AI, 100 % remote",
+      "org": "Mentify Learn GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/mentify-learn-gmbh/amazon-account-manager-weiterbildung-fur-online-marktplatze-ai-100-remote-berlin-379623",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795012276,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "📍 Homeoffice – Einstieg jederzeit möglich – Vollzeit oder Teilzeit 📦 E-Commerce ist die Zukunft – mach dich fit für den digitalen Handel! Mit unserer Weiterbildung wirst du in 3–6 Monaten zur Fachkraft für digitale Marktplätze. Du lernst praxisnah in drei sp"
+    },
+    {
+      "id": "arbeitnow:quereinstieg-geforderte-weiterbildung-zum-amazon-marketplace-manager-berlin-127858",
+      "title": "Quereinstieg: Geförderte Weiterbildung zum Amazon Marketplace Manager (m/w/d)",
+      "org": "Mentify Learn GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/mentify-learn-gmbh/quereinstieg-geforderte-weiterbildung-zum-amazon-marketplace-manager-berlin-127858",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795012276,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "📍 Homeoffice – Einstieg jederzeit möglich – Vollzeit oder Teilzeit 📦 E-Commerce ist die Zukunft – mach dich fit für den digitalen Handel! Mit unserer geförderten Weiterbildung wirst du in 3–6 Monaten zur Fachkraft für digitale Marktplätze. Du lernst praxisna"
+    },
+    {
+      "id": "arbeitnow:fachredakteur-steuerrecht-content-seo-berlin-417843",
+      "title": "Fachredakteur Steuerrecht (m/w/d) - Content & SEO",
+      "org": "steueragenten.de Steuerberatungsgesellschaft mbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/steueragentende-steuerberatungsgesellschaft-mbh/fachredakteur-steuerrecht-content-seo-berlin-417843",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795010475,
+      "tags": [
+        "Remote",
+        "Social Media Manager"
+      ],
+      "summary": "Wer wir sind Seit 16 Jahren betreuen wir als digitale Steuerkanzlei Unternehmen in ganz Deutschland, vor allem E-Commerce, vemögensverwaltende GmbH und KMU. Wir sprechen Steuerrecht genauso fließend wie Software und machen Steuerberatung mit eigenen Lösungen e"
+    },
+    {
+      "id": "arbeitnow:werkstudent-operations-automation-no-code-low-code-prozesse-berlin-315136",
+      "title": "Werkstudent (m/w/d) Operations & Automation – No-Code, Low-Code, Prozesse",
+      "org": "ProviPanda GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/werkstudent-operations-automation-no-code-low-code-prozesse-berlin-315136",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795010475,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Deine Aufgaben Automatisierung: Du baust Workflows mit Tools wie Make, Zapier oder n8n, die uns manuelle Arbeit abnehmen, und hältst sie am Laufen. Technisches Onboarding & Offboarding: Du richtest Kundenaccounts, Zugänge und Integrationen ein und sorgst dafür"
+    },
+    {
+      "id": "arbeitnow:social-media-manager-schwerpunkt-meta-ads-performance-marketing-berlin-365267",
+      "title": "Social Media Manager (m/w/d) – Schwerpunkt Meta Ads & Performance Marketing",
+      "org": "Horn Druck & Verlag KG",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/horn-druck-verlag-kg/social-media-manager-schwerpunkt-meta-ads-performance-marketing-berlin-365267",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795008663,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "Über die Horn Druck & Verlag KG Die Horn Druck & Verlag KG ist ein traditionsreiches, seit 1986 bestehendes Unternehmen mit Fokussierung auf die Fitness- und Gesundheitsbranche. Wir beraten unsere Kunden innovativ, kreativ und individuell mit maßgeschneiderten"
+    },
+    {
+      "id": "arbeitnow:cyber-essentials-plus-lead-assessor-iasme-licensed-london-263603",
+      "title": "Cyber Essentials Plus Lead Assessor (IASME licensed)",
+      "org": "Intelance",
+      "role": "project",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/cyber-essentials-plus-lead-assessor-iasme-licensed-london-263603",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795030239,
+      "tags": [
+        "Remote",
+        "IT Security"
+      ],
+      "summary": "Intelance is a UK advisory and assurance firm and an IASME licensed Certification Body for Cyber Essentials and Cyber Essentials Plus. We are adding experienced Cyber Essentials Plus Lead Assessors to our associate panel to lead UK client assessments from star"
+    },
+    {
+      "id": "arbeitnow:senior-manager-performance-creative-strategy-fanatics-market-remote-fixed-contract-edinburgh-leeds-london-manchester-224547",
+      "title": "Senior Manager, Performance Creative Strategy – Fanatics Market (Remote Fixed Contract)",
+      "org": "Fanaticsfbg",
+      "role": "marketing",
+      "location": "Edinburgh; Leeds; London; Manchester",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-manager-performance-creative-strategy-fanatics-market-remote-fixed-contract-edinburgh-leeds-london-manchester-224547",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795006517,
+      "tags": [
+        "Gaming - Marketing"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\"&gt;About Us&lt;/h2&gt; &lt;div class=\"job-details__description-content basic-f"
+    },
+    {
+      "id": "arbeitnow:remote-intescia-ingenieur-systemes-et-reseaux-h-f-cdd-6-mois-issy-les-moulineaux-39014",
+      "title": "INTESCIA - Ingénieur systèmes et réseaux (H/F) - CDD 6 mois",
+      "org": "INTESCIA GROUP",
+      "role": "hr",
+      "location": "Poste à distance",
+      "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/remote-intescia-ingenieur-systemes-et-reseaux-h-f-cdd-6-mois-issy-les-moulineaux-39014",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795015885,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Ingénieur systèmes et réseaux (H/F) CDD - 6 mois Rejoignez le Groupe INTESCIA, leader de la Business Intelligence en Europe ! Qui sommes-nous ? Chez Intescia, nous transformons la donnée en levier de croissance. Leader européen de la Data Intelligence, nous op"
+    },
+    {
+      "id": "arbeitnow:growth-marketer-anywhere-in-france-53958",
+      "title": "Growth Marketer",
+      "org": "Alan",
+      "role": "marketing",
+      "location": "Anywhere in France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/growth-marketer-anywhere-in-france-53958",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795005615,
+      "tags": [
+        "Marketing"
+      ],
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
     },
     {
       "id": "arbeitnow:sre-platform-manager-paris-167482",
@@ -609,36 +480,75 @@
       "summary": "Who we are Yubo is the instantly social, social app: the leading real-time social discovery platform where you can meet new people for friendship, crushes and community. Our mission is to help young adults find community - whoever they are, wherever they are a"
     },
     {
-      "id": "arbeitnow:remote-cloud-native-architect-strategic-accounts-emea-418277",
-      "title": "Cloud Native Architect, Strategic Accounts (EMEA)",
-      "org": "purestorage",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/purestorage/remote-cloud-native-architect-strategic-accounts-emea-418277",
+      "id": "arbeitnow:ai-operations-monitor-digital-operations-incident-response-zurich-253036",
+      "title": "AI Operations Monitor – Digital Operations & Incident Response",
+      "org": "Lightly AG",
+      "role": "support",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/lightly-ag/ai-operations-monitor-digital-operations-incident-response-zurich-253036",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794963326,
+      "postedAt": 1795014089,
       "tags": [
-        "Sales"
+        "Remote",
+        "Applications Administration"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans th"
+      "summary": "Lightly AG is a Zurich-based AI company and ETH/HSG spin-off, backed by Y Combinator and top-tier investors. Our machine learning and computer vision technology is trusted by global leaders in autonomous driving, medical imaging, and visual inspection. We’re l"
     },
     {
-      "id": "arbeitnow:remote-commercial-account-executive-belux-423256",
-      "title": "Commercial Account Executive, Belux",
-      "org": "gitlab",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-commercial-account-executive-belux-423256",
+      "id": "arbeitnow:senior-workplace-engineer-windows-macos-zurich-384396",
+      "title": "Senior Workplace Engineer (Windows & macOS)",
+      "org": "Coopers Group AG",
+      "role": "hr",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-workplace-engineer-windows-macos-zurich-384396",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1794952530,
+      "postedAt": 1795012276,
       "tags": [
-        "EMEA - Commercial"
+        "Remote",
+        "System and Network Administration"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+      "summary": "................ Für unseren Kunden suchen wir eine:n Senior Workplace Engineer (Windows & macOS) zur Unterstützung des Workplace-Betriebs sowie zur Weiterentwicklung moderner Client-Management- und Automatisierungslösungen.In dieser Rolle übernimmst du Verant"
+    },
+    {
+      "id": "arbeitnow:senior-business-analystin-derivate-zurich-386257",
+      "title": "Senior Business Analyst:in - Derivate",
+      "org": "Coopers Group AG",
+      "role": "project",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-business-analystin-derivate-zurich-386257",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794999645,
+      "tags": [
+        "Remote",
+        "Consulting",
+        "Engineering"
+      ],
+      "summary": "................ Für unseren Kunden aus der Finanzbranche in der Umgebung Bern , suchen wir eine:n erfahrene:n und aufgeschlossene:n Business Analyst:in - Derivate . In diesem Projekt übernimmst du eine zentrale Rolle bei der Analyse, Konzeption und Weiterentw"
+    },
+    {
+      "id": "arbeitnow:german-speaking-netflix-customer-experts-work-remote-in-greece-switzerland-460533",
+      "title": "German Speaking Netflix Customer Experts - Work Remote In Greece",
+      "org": "Patrique Mercier Recruitment Fr",
+      "role": "training",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/german-speaking-netflix-customer-experts-work-remote-in-greece-switzerland-460533",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1794993614,
+      "tags": [
+        "Customer Service",
+        "Online Media",
+        "Greece",
+        "Remote"
+      ],
+      "summary": "German Speaking Netflix Customer Experts About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm, recognized for bridging top-tier talent with industry-leading global brands. We specialize in navigating the complexiti"
     },
     {
       "id": "arbeitnow:remote-software-test-engineer-bern-271000",
