@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T07:27:56.731Z",
+  "updatedAt": "2026-11-20T20:29:55.956Z",
   "sourceCount": 2,
-  "totalFetched": 315,
-  "relevantCount": 45,
+  "totalFetched": 316,
+  "relevantCount": 37,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,527 +11,438 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:remote-implementation-manager-german-speaking-102106",
-      "title": "Implementation Manager - German Speaking (m/w/d)",
-      "org": "Kraken",
-      "role": "project",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/kraken/remote-implementation-manager-german-speaking-102106",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795146185,
-      "tags": [
-        "Delivery Tech"
-      ],
-      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
-    },
-    {
-      "id": "arbeitnow:remote-client-delivery-lead-330650",
-      "title": "Client Delivery Lead (f/m/d)",
-      "org": "Kraken",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/kraken/remote-client-delivery-lead-330650",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795146185,
-      "tags": [
-        "Delivery Tech"
-      ],
-      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
-    },
-    {
-      "id": "arbeitnow:client-delivery-lead-billing-or-accounting-experience-munich-477822",
-      "title": "Client Delivery Lead - Billing or Accounting Experience (f/m/d)",
-      "org": "Kraken",
-      "role": "marketing",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/kraken/client-delivery-lead-billing-or-accounting-experience-munich-477822",
+      "id": "arbeitnow:people-partner-germany-baden-wurttemberg-141242",
+      "title": "People Partner, Germany",
+      "org": "Wayve",
+      "role": "training",
+      "location": "Leonberg, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/wayve/people-partner-germany-baden-wurttemberg-141242",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795146185,
+      "postedAt": 1795189214,
       "tags": [
-        "Delivery Tech"
+        "People & Talent"
       ],
-      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
+      "summary": "Before the detail, here's the challenge you'd help us solve. We build the embodied intelligence that moves real vehicles safely, and the ecosystem a billion machines will run on in the future. Very few people in AI can say this. Every role here, whatever the t"
     },
     {
-      "id": "arbeitnow:client-delivery-lead-berlin-218128",
-      "title": "Client Delivery Lead (f/m/d)",
-      "org": "Kraken",
-      "role": "marketing",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/kraken/client-delivery-lead-berlin-218128",
+      "id": "arbeitnow:staff-data-scientist-cardiff-481436",
+      "title": "Staff Data Scientist",
+      "org": "Monzo",
+      "role": "training",
+      "location": "Cardiff",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/staff-data-scientist-cardiff-481436",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795146185,
+      "postedAt": 1795200921,
       "tags": [
-        "Delivery Tech"
+        "Data"
       ],
-      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;🚀 We’re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We’re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt; &"
     },
     {
-      "id": "arbeitnow:senior-software-engineer-hardware-in-the-loop-systems-munich-334384",
-      "title": "Senior Software Engineer, Hardware-in-the-Loop Systems (m/f/d)",
-      "org": "TYTAN Technologies GmbH",
-      "role": "marketing",
-      "location": "Munich, Bayern, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-software-engineer-hardware-in-the-loop-systems-munich-334384",
+      "id": "arbeitnow:lead-data-scientist-cardiff-333838",
+      "title": "Lead Data Scientist",
+      "org": "Monzo",
+      "role": "training",
+      "location": "Cardiff",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-data-scientist-cardiff-333838",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795145482,
+      "postedAt": 1795200921,
+      "tags": [
+        "Data"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;🚀 We’re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We’re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt; &"
+    },
+    {
+      "id": "arbeitnow:platform-engineer-amsterdam-55956",
+      "title": "Platform Engineer",
+      "org": "Catawiki",
+      "role": "marketing",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/catawiki/platform-engineer-amsterdam-55956",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795190117,
       "tags": [
         "Engineering"
       ],
-      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;At Catawiki, every day brings the extraordinary! Whether it’s &lt;a href=\"https://www.catawiki.com/en/c/583-sports-memorabilia\"&gt;Daniel Ricciardo’s Formula 1 Car&lt;/a&gt;, a &lt;a href=\"https://www.catawiki.com/en/c"
     },
     {
-      "id": "arbeitnow:senior-industrial-engineering-munich-326192",
-      "title": "Senior Industrial Engineering (m/f/d)",
-      "org": "TYTAN Technologies GmbH",
-      "role": "marketing",
-      "location": "Munich, Bayern, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-industrial-engineering-munich-326192",
+      "id": "arbeitnow:sales-manager-im-aussendienst-100-remote-stuttgart-200765",
+      "title": "Sales Manager im Außendienst (m/w/d) 100% Remote",
+      "org": "MY Humancapital GmbH",
+      "role": "project",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/sales-manager-im-aussendienst-100-remote-stuttgart-200765",
       "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795145482,
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795201238,
       "tags": [
-        "Operations"
+        "Sales Engineer"
       ],
-      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything"
+      "summary": "Außendienstmitarbeiter (m/w/d) gesucht – Vollzeit | Baden-Württemberg | 100% Remote Im Auftrag unseres Partnerunternehmens suchen wir Sie zum nächstmöglichen Zeitpunkt als „ Sales Manager (m/w/d) – Technischer Vertrieb “. Aufgaben Als Vertriebsmitarbeiter (m/w"
     },
     {
-      "id": "arbeitnow:senior-customer-success-manager-munich-69616",
-      "title": "Senior Customer Success Manager - (m/f/d)",
-      "org": "TYTAN Technologies GmbH",
-      "role": "training",
-      "location": "Munich, Bayern, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-customer-success-manager-munich-69616",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795145482,
-      "tags": [
-        "Business"
-      ],
-      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything"
-    },
-    {
-      "id": "arbeitnow:senior-campaign-manager-temp-contract-london-380823",
-      "title": "Senior Campaign Manager (Temp Contract)",
-      "org": "Pleo",
+      "id": "arbeitnow:director-vp-of-marketing-stuttgart-71290",
+      "title": "Director / VP of Marketing (m/w/d)",
+      "org": "Flip GmbH",
       "role": "marketing",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-campaign-manager-temp-contract-london-380823",
+      "location": "Stuttgart & Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/director-vp-of-marketing-stuttgart-71290",
       "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795156812,
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795200013,
       "tags": [
         "Marketing"
       ],
-      "summary": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly eff"
+      "summary": "Empower every employee. KI hat verändert, wie Büroangestellte arbeiten. Bei den 80 % der weltweiten Belegschaft , die nicht am Schreibtisch sitzen, ist sie bisher kaum angekommen. Flip AI ändert das. Flip AI ist das #1 Frontline Agentic Operating System (OS) ,"
     },
     {
-      "id": "arbeitnow:remote-1221-technical-lead-germany-322857",
-      "title": "1221 | Technical Lead",
-      "org": "Intetics 2",
-      "role": "hr",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1221-technical-lead-germany-322857",
+      "id": "arbeitnow:director-vp-of-marketing-stuttgart-431965",
+      "title": "Director / VP of Marketing (m/f/d)",
+      "org": "Flip GmbH",
+      "role": "marketing",
+      "location": "Stuttgart & Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/director-vp-of-marketing-stuttgart-431965",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795155603,
+      "postedAt": 1795200013,
       "tags": [
-        "Remote"
+        "Marketing"
       ],
-      "summary": "Intetics Inc. , a global technology company providing custom software application development, distributed professional teams, software product quality assessment, and “all-things-digital” solutions, is seeking a highly skilled Technical Lead to join our dynam"
+      "summary": "Empower every employee. AI has changed how office workers get things done. For the 80% of the global workforce that doesn't sit at a desk, it has barely arrived. Flip AI is changing that. Flip AI is the #1 Frontline Agentic Operating System (OS) to build, auto"
     },
     {
-      "id": "arbeitnow:remote-1220-solution-architect-germany-213259",
-      "title": "1220 | Solution Architect",
-      "org": "Intetics 2",
+      "id": "arbeitnow:remote-senior-network-engineer-all-genders-cisco-fortinet-st-ingbert-2612",
+      "title": "Senior Network Engineer (all genders) – Cisco & Fortinet",
+      "org": "teccle group GmbH",
+      "role": "hr",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-network-engineer-all-genders-cisco-fortinet-st-ingbert-2612",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795199472,
+      "tags": [
+        "System Engineer",
+        "Remote"
+      ],
+      "summary": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unterschiedlichsten Schwerpunkten unter einem Dach zusammen - und entwickeln uns so zu einem der führend"
+    },
+    {
+      "id": "arbeitnow:remote-it-security-engineer-all-genders-st-ingbert-270949",
+      "title": "IT Security Engineer (all genders)",
+      "org": "teccle group GmbH",
+      "role": "hr",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-it-security-engineer-all-genders-st-ingbert-270949",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795199472,
+      "tags": [
+        "System Engineer",
+        "Remote"
+      ],
+      "summary": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unterschiedlichsten Schwerpunkten unter einem Dach zusammen - und entwickeln uns so zu einem der führend"
+    },
+    {
+      "id": "arbeitnow:ai-full-stack-developer-berlin-465878",
+      "title": "AI Full-Stack Developer (m/w/d)",
+      "org": "NEON Software Solutions",
       "role": "project",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1220-solution-architect-germany-213259",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/neon-software-solutions/ai-full-stack-developer-berlin-465878",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795155603,
+      "postedAt": 1795192268,
       "tags": [
-        "Information Technology and Services",
-        "Remote"
+        "Remote",
+        "Software Development"
       ],
-      "summary": "Intetics Inc. , a global technology company providing custom software application development, distributed professional teams, software product quality assessment, and “all-things-digital” solutions, is seeking a Solution Architect to join our dynamic team on "
+      "summary": "Über NEON Software Solutions NEON ist ein Entwicklungsstudio aus Berlin mit einem Team von über 20 Köpfen, das auf Design, Entwicklung, Betrieb und Analyse von mobilen Apps spezialisiert ist. Mit der Erfahrung aus über 60 App-Projekten arbeiten wir vollständig"
     },
     {
-      "id": "arbeitnow:remote-1218-senior-project-manager-germany-225493",
-      "title": "1218 | Senior Project Manager",
-      "org": "Intetics 2",
-      "role": "hr",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1218-senior-project-manager-germany-225493",
+      "id": "arbeitnow:developer-c-net-as-freelancer-all-genders-berlin-43395",
+      "title": "Developer C# / .NET as Freelancer (all genders)",
+      "org": "Vexcash AG",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/developer-c-net-as-freelancer-all-genders-berlin-43395",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795155603,
+      "postedAt": 1795192268,
       "tags": [
-        "Information Technology and Services",
-        "Remote"
+        "Remote",
+        "Software Development"
       ],
-      "summary": "Intetics Inc. , a global technology company providing custom software application development, distributed professional teams, software product quality assessment, and “all-things-digital” solutions, is seeking a Senior Project Manager to join our dynamic team"
+      "summary": "About Vexcash AG VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to bridge the gap until their next payday. More than 800,000 customers already rely on our service. Thanks to our "
     },
     {
-      "id": "arbeitnow:remote-1025-senior-end-user-trainer-germany-1923",
-      "title": "1025 | Senior End-User Trainer",
-      "org": "Intetics 2",
+      "id": "arbeitnow:product-manager-business-analyst-as-freelancer-all-genders-berlin-283084",
+      "title": "Product Manager/ Business Analyst As Freelancer (All Genders)",
+      "org": "Vexcash AG",
       "role": "training",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1025-senior-end-user-trainer-germany-1923",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/product-manager-business-analyst-as-freelancer-all-genders-berlin-283084",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795155603,
+      "postedAt": 1795192263,
       "tags": [
-        "Information Technology and Services",
-        "Remote"
+        "Remote",
+        "Consulting",
+        "Engineering"
       ],
-      "summary": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is on the lookout for a Senior End-U"
+      "summary": "About Vexcash AG VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to bridge the gap until their next payday. More than 800,000 customers already rely on our service. Thanks to our "
     },
     {
-      "id": "arbeitnow:remote-1024-senior-cloud-devops-engineer-germany-218124",
-      "title": "1024 | Senior Cloud & DevOps Engineer",
-      "org": "Intetics 2",
-      "role": "support",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1024-senior-cloud-devops-engineer-germany-218124",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795155603,
-      "tags": [
-        "Information Technology and Services",
-        "Remote"
-      ],
-      "summary": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is on the lookout for a Senior Cloud"
-    },
-    {
-      "id": "arbeitnow:remote-1023-senior-ux-ui-designer-germany-329887",
-      "title": "1023 | Senior UX/UI Designer",
-      "org": "Intetics 2",
-      "role": "support",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1023-senior-ux-ui-designer-germany-329887",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795155603,
-      "tags": [
-        "Information Technology and Services",
-        "UI/UX",
-        "Remote"
-      ],
-      "summary": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is on the lookout for a Senior UX/UI"
-    },
-    {
-      "id": "arbeitnow:remote-10221-senior-business-analyst-germany-436934",
-      "title": "1022.1 | Senior Business Analyst",
-      "org": "Intetics 2",
-      "role": "support",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-10221-senior-business-analyst-germany-436934",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795155603,
-      "tags": [
-        "Information Technology and Services",
-        "Business Analysis",
-        "Remote"
-      ],
-      "summary": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is on the lookout for a Senior Busin"
-    },
-    {
-      "id": "arbeitnow:remote-founding-tech-lead-growthbricks-155233",
-      "title": "Founding Tech Lead (GrowthBricks)",
-      "org": "jetbrains",
+      "id": "arbeitnow:marketing-allrounder-all-genders-100-homeoffice-berlin-485463",
+      "title": "Marketing Allrounder (all genders) 100% Homeoffice",
+      "org": "fino data services GmbH",
       "role": "marketing",
-      "location": "Berlin; Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-founding-tech-lead-growthbricks-155233",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/fino-data-services-gmbh/marketing-allrounder-all-genders-100-homeoffice-berlin-485463",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795146921,
+      "postedAt": 1795190460,
       "tags": [
-        "GrowthBricks"
+        "Remote",
+        "Online Marketing"
       ],
-      "summary": "&lt;h1&gt;&lt;strong&gt;Founding Tech Lead (GrowthBricks)&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;Are you a hands-on engineer who loves zero-to-one challenges? Do you want to build systems with real context and memory that do more than reason, use tools, and drive "
+      "summary": "Dein Team Menschen, die etwas bewegen wollen, ziehen Menschen an, die etwas bewegen wollen. Bei der fino data services arbeitest du mit Menschen, die neugierig sind, schnell denken und Dinge gerne selbst in die Hand nehmen. Die sich festbeißen, wenn etwas span"
     },
     {
-      "id": "arbeitnow:remote-enterprise-account-executive-emea-132408",
-      "title": "Enterprise Account Executive - EMEA",
-      "org": "Abacum",
+      "id": "arbeitnow:remote-enterprise-account-executive-dach-295927",
+      "title": "Enterprise Account Executive, DACH",
+      "org": "Sanity",
       "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/abacum/remote-enterprise-account-executive-emea-132408",
+      "location": "Remote in the UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sanity/remote-enterprise-account-executive-dach-295927",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795146185,
+      "postedAt": 1795189213,
       "tags": [
         "Sales"
       ],
-      "summary": "About Abacum Abacum is the leading Business Planning solution for finance teams to drive performance . By automating reporting, enabling collaboration, and simplifying planning and forecasting, we help finance teams shift from number crunching to driving strat"
+      "summary": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content o"
     },
     {
-      "id": "arbeitnow:remote-global-talent-acquisition-partnert-all-genders-berlin-366286",
-      "title": "Global Talent Acquisition Partnert (all genders)",
-      "org": "Distribusion Technologies",
-      "role": "marketing",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-global-talent-acquisition-partnert-all-genders-berlin-366286",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795145479,
-      "tags": [
-        "People",
-        "Remote"
-      ],
-      "summary": "About us Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, a"
-    },
-    {
-      "id": "arbeitnow:remote-senior-product-marketing-manager-221315",
-      "title": "Senior Product Marketing Manager (m/f/d)",
-      "org": "Sport Alliance GmbH",
-      "role": "marketing",
-      "location": "Remote (Germany)",
-      "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-product-marketing-manager-221315",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795144117,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "Fitness is the one industry where customers actually enjoy using the product. Help us tell that story well. At Sport Alliance, we're looking for someone who can bring clarity to our product portfolio and help us connect the right products with the right custom"
-    },
-    {
-      "id": "arbeitnow:remote-engineering-manager-berlin-423839",
-      "title": "Engineering Manager (m/f/x)",
-      "org": "Makersite GmbH",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-engineering-manager-berlin-423839",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795135900,
-      "tags": [
-        "Technology",
-        "Remote"
-      ],
-      "summary": "Engineering Manager (m/f/x) Location: Germany (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower compan"
-    },
-    {
-      "id": "arbeitnow:remote-senior-site-reliability-engineer-sre-berlin-317887",
-      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
-      "org": "Makersite GmbH",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-317887",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795135900,
-      "tags": [
-        "Technology",
-        "Remote"
-      ],
-      "summary": "Location: Germany/Berlin/Stuttgart (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make"
-    },
-    {
-      "id": "arbeitnow:remote-initiativbewerbung-149492",
-      "title": "Initiativbewerbung",
-      "org": "Bsteuern",
-      "role": "project",
-      "location": "Remote (Germany)",
-      "url": "https://www.arbeitnow.com/jobs/companies/bsteuern/remote-initiativbewerbung-149492",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795135218,
-      "tags": [
-        "People & Culture"
-      ],
-      "summary": "Du hast Lust, Steuerberatung neu zu denken? Dann bewirb dich initiativ bei b’steuern – einem Berliner Startup, das die Branche radikal verändert. Über uns Wir denken Steuerberatung neu. b’steuern steht für eine agile, digitale und selbstorganisierte Kanzlei. U"
-    },
-    {
-      "id": "arbeitnow:remote-ki-steuerfachangestellte-r-315505",
-      "title": "KI-Steuerfachangestellte/r",
-      "org": "Bsteuern",
-      "role": "project",
-      "location": "Remote (Germany)",
-      "url": "https://www.arbeitnow.com/jobs/companies/bsteuern/remote-ki-steuerfachangestellte-r-315505",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795135218,
-      "tags": [
-        "Steuerberatung"
-      ],
-      "summary": "Du bist Steuerfachangestellte/r und suchst nach einer neuen Herausforderung in einem dynamischen, innovativen KI-First Kanzlei-Umfeld? Dann werde Teil von b’steuern, einem Berliner Steuer-Startup, das die Steuerberatung revolutionieren möchte! Über uns b’steue"
-    },
-    {
-      "id": "arbeitnow:remote-ki-steuerberater-in-398783",
-      "title": "KI-Steuerberater/in",
-      "org": "Bsteuern",
-      "role": "project",
-      "location": "Remote (Germany)",
-      "url": "https://www.arbeitnow.com/jobs/companies/bsteuern/remote-ki-steuerberater-in-398783",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795135218,
-      "tags": [
-        "Steuerberatung"
-      ],
-      "summary": "Steuerberatung radikal anders – jetzt mitgestalten Du bist Steuerberater:in und willst nicht einfach nur eine weitere Kanzlei – sondern eine, die neue Wege geht? Dann werde Teil von b’steuern , einer digitalen Steuerberatung mit Sitz in Berlin – und einem radi"
-    },
-    {
-      "id": "arbeitnow:remote-steuerfachwirtin-bilanzbuchhalterin-fokus-mandantenkontakt-beratung-sales-103133",
-      "title": "Steuerfachwirt:in / Bilanzbuchhalter:in – Fokus Mandantenkontakt, Beratung & Sales",
-      "org": "Bsteuern",
-      "role": "project",
-      "location": "Remote (Germany)",
-      "url": "https://www.arbeitnow.com/jobs/companies/bsteuern/remote-steuerfachwirtin-bilanzbuchhalterin-fokus-mandantenkontakt-beratung-sales-103133",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795135218,
-      "tags": [
-        "Steuerberatung"
-      ],
-      "summary": "Du liebst den direkten Austausch mit Menschen und kannst Steuerfachliches verständlich und sympathisch rüberbringen? Dann suchen wir genau dich! Bei b’steuern entwickeln wir Steuerberatung radikal weiter – digital, effizient, kundenzentriert. Dafür brauchen wi"
-    },
-    {
-      "id": "arbeitnow:remote-partner-manager-public-sector-partnerships-252530",
-      "title": "Partner Manager - Public Sector Partnerships",
-      "org": "ElevenLabs",
+      "id": "arbeitnow:remote-manager-legal-programs-privacy-ai-eu-uk-160781",
+      "title": "Manager, Legal Programs, Privacy & AI (EU/UK)",
+      "org": "Hims And Hers",
       "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-partner-manager-public-sector-partnerships-252530",
+      "location": "UK - Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/remote-manager-legal-programs-privacy-ai-eu-uk-160781",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795135217,
+      "postedAt": 1795178417,
       "tags": [
-        "Revenue"
+        "LEGAL"
       ],
-      "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-grow"
+      "summary": "Hims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and "
     },
     {
-      "id": "arbeitnow:analytics-and-pricing-expert-insurance-anywhere-in-france-377860",
-      "title": "Analytics and pricing expert - Insurance",
-      "org": "Alan",
+      "id": "arbeitnow:freelance-chargee-de-relations-clients-e-commerce-paris-491994",
+      "title": "(Freelance) Chargé·e de relations clients e-commerce",
+      "org": "Circles - Better Womanhood",
+      "role": "marketing",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/circles-better-womanhood/freelance-chargee-de-relations-clients-e-commerce-paris-491994",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795201236,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "[Freelance, en télétravail] Circles est une marque française DTC qui propose des solutions naturelles pour l'équilibre hormonal féminin, des premières règles à la ménopause : compléments alimentaires, cosmétiques naturels et contenus éducatifs. Notre mission ?"
+    },
+    {
+      "id": "arbeitnow:senior-data-analyst-acquisition-paris-461960",
+      "title": "Senior Data Analyst - Acquisition",
+      "org": "Pennylane SAS",
+      "role": "marketing",
+      "location": "All France (remote)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-data-analyst-acquisition-paris-461960",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795189214,
+      "tags": [
+        "Tech"
+      ],
+      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Then Pennylane is the right place for you ! Our vision We "
+    },
+    {
+      "id": "arbeitnow:business-partner-dach-paris-15979",
+      "title": "Business Partner - DACH",
+      "org": "Continuity",
+      "role": "marketing",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/continuity/business-partner-dach-paris-15979",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795186854,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "About Continuity At Continuity, we’re building AI-native solutions that are redefining how insurers assess, monitor, and act on risk in the €1T+ commercial insurance industry. In today’s world, insurers are expected to make complex, high-stakes decisions, ofte"
+    },
+    {
+      "id": "arbeitnow:affiliate-manager-remote-france-290814",
+      "title": "Affiliate Manager (Remote - France)",
+      "org": "EverAI",
+      "role": "marketing",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/everai/affiliate-manager-remote-france-290814",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795178414,
+      "tags": [
+        "Growth"
+      ],
+      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top Largest & Fastest-Growing AI Companies in the World 60 Million Users in 3 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect wi"
+    },
+    {
+      "id": "arbeitnow:performance-marketer-remote-france-14056",
+      "title": "Performance Marketer (Remote - France)",
+      "org": "EverAI",
+      "role": "marketing",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/everai/performance-marketer-remote-france-14056",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795178414,
+      "tags": [
+        "Growth"
+      ],
+      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top Largest & Fastest-Growing AI Companies in the World 60 Million Users in 3 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect wi"
+    },
+    {
+      "id": "arbeitnow:remote-german-speaking-customer-service-representative-work-in-athens-greece-switzerland-43451",
+      "title": "German Speaking Customer Service Representative - Work In Athens, Greece",
+      "org": "Patrique Mercier Recruitment Fr",
+      "role": "training",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-german-speaking-customer-service-representative-work-in-athens-greece-switzerland-43451",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795188006,
+      "tags": [
+        "Customer Service",
+        "Consumer Services",
+        "Greece",
+        "Remote"
+      ],
+      "summary": "Looking for a hassle-free hiring process? We've got you covered — from application to contract signing in just 48 hours! German Speaking Customer Service Representative About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffi"
+    },
+    {
+      "id": "arbeitnow:senior-financial-risk-manager-zurich-194696",
+      "title": "Senior Financial Risk Manager",
+      "org": "Coopers Group AG",
       "role": "project",
-      "location": "Anywhere in France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alan/analytics-and-pricing-expert-insurance-anywhere-in-france-377860",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-financial-risk-manager-zurich-194696",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795156813,
+      "postedAt": 1795176043,
       "tags": [
-        "Insurance"
+        "Remote",
+        "Compliance",
+        "Security"
       ],
-      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
+      "summary": "................ Für unseren Kunden in Zürich, eine etablierte Schweizer Bank, suchen wir eine:n erfahrene:n Financial Risk Manager zur temporären Unterstützung des Financial Risk Teams. In dieser anspruchsvollen Rolle leisten Sie einen wesentlichen Beitrag zu"
     },
     {
-      "id": "arbeitnow:senior-brand-manager-anywhere-in-france-193276",
-      "title": "Senior Brand Manager",
-      "org": "Alan",
-      "role": "marketing",
-      "location": "Anywhere in France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alan/senior-brand-manager-anywhere-in-france-193276",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795156813,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
-    },
-    {
-      "id": "arbeitnow:remote-director-of-platform-engineering-gn-data-intelligence-platform-171418",
-      "title": "Director of Platform Engineering [gn] – Data Intelligence Platform",
-      "org": "Actian",
+      "id": "arbeitnow:solution-architect-customer-touchpoints-cloud-transformation-zurich-83687",
+      "title": "Solution Architect Customer Touchpoints & Cloud Transformation",
+      "org": "Coopers Group AG",
       "role": "project",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/actian/remote-director-of-platform-engineering-gn-data-intelligence-platform-171418",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/solution-architect-customer-touchpoints-cloud-transformation-zurich-83687",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795144121,
+      "postedAt": 1795168890,
       "tags": [
-        "Engineering"
+        "Remote",
+        "Software Development"
       ],
-      "summary": "About Actian Actian is the company behind the Data Intelligence Platform — an enterprise solution that helps organisations discover, govern, and trust their data at scale. Our platform connects metadata, data lineage, data quality, and business context into a "
+      "summary": "................ Für unseren Kunden aus der Logistikbranche in Bern, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Solution Architect Customer Touchpoints & Cloud Transformation. In einem anspruchsvollen Umfeld mit komplexen Systemlandschaf"
     },
     {
-      "id": "arbeitnow:remote-software-engineer-proprxyz-497002",
-      "title": "Software Engineer | Propr.xyz",
-      "org": "SwissBorg",
-      "role": "marketing",
-      "location": "Remote - Europe Timezone",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swissborg/remote-software-engineer-proprxyz-497002",
+      "id": "arbeitnow:sachbearbeiterin-operations-backoffice-support-basel-314974",
+      "title": "Sachbearbeiter:in Operations / Backoffice Support",
+      "org": "Coopers Group AG",
+      "role": "project",
+      "location": "Basel",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/sachbearbeiterin-operations-backoffice-support-basel-314974",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795134421,
+      "postedAt": 1795167054,
       "tags": [
-        "Product"
+        "Remote",
+        "Finance"
       ],
-      "summary": "Propr.xyz is building a new Operating System for prop firms, helping them leverage blockchain technology to make them more efficient. We enable prop firms to leverage perpetual futures on Hyperliquid, prediction markets, and spot assets. We are actively deploy"
+      "summary": "................ Für unseren Kunden in Basel suchen wir zur Unterstützung einer Taskforce im Bereich Partner Operations mehrere Sachbearbeiter:innen Backoffice für den kurzfristigen Abbau von Rückständen in der Mandatsverarbeitung. Deine Aufgaben: Prüfung, Erf"
     },
     {
-      "id": "arbeitnow:remote-marketing-manager-gn-more-nutrition-switzerland-382992",
-      "title": "Marketing Manager (gn) - More Nutrition Switzerland",
-      "org": "thequalitygroupgmbh1",
+      "id": "arbeitnow:remote-senior-platform-engineer-amsterdam-429264",
+      "title": "Senior Platform Engineer",
+      "org": "Treatwell",
       "role": "marketing",
-      "location": "remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/thequalitygroupgmbh1/remote-marketing-manager-gn-more-nutrition-switzerland-382992",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/treatwell/remote-senior-platform-engineer-amsterdam-429264",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795125332,
+      "postedAt": 1795180810,
       "tags": [
-        "Brand More"
+        "Internet",
+        "Tech",
+        "Remote"
       ],
-      "summary": "&lt;p&gt;Start: immediately | Level: Intermediate | Location: Switzerland, remote | Working hours: Full-time (40h/week)&lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;More Nutrition already has a very large presence in Switzerland with an 8-digit revenue, double digit"
+      "summary": "Senior Platform Engineer We are looking for a passionate and collaborative Senior Platform Engineer to join our Platform Core team. At Treatwell we follow Team Topologies principles: our platform exists to enable stream-aligned teams to move faster and more au"
     },
     {
-      "id": "arbeitnow:remote-marketing-manager-gn-more-nutrition-suisse-446092",
-      "title": "Marketing Manager (gn) - More Nutrition Suisse",
-      "org": "thequalitygroupgmbh1",
+      "id": "arbeitnow:performance-marketer-remote-netherlands-381779",
+      "title": "Performance Marketer (Remote - Netherlands)",
+      "org": "EverAI",
       "role": "marketing",
-      "location": "remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/thequalitygroupgmbh1/remote-marketing-manager-gn-more-nutrition-suisse-446092",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/everai/performance-marketer-remote-netherlands-381779",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795125332,
+      "postedAt": 1795178414,
       "tags": [
-        "Brand More"
+        "Growth"
       ],
-      "summary": "&lt;p&gt;Suisse de préférence, France à discuter, télétravail&lt;/p&gt; &lt;p&gt;Début : dès que possible | Niveau : Intermédiaire | Lieu : Suisse, télétravail | Temps de travail : temps plein (40 h/semaine)&lt;/p&gt; &lt;p&gt;&nbsp;&lt;/p&gt; &lt;p&gt;More Nu"
+      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top Largest & Fastest-Growing AI Companies in the World 60 Million Users in 3 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect wi"
     },
     {
       "id": "arbeitnow:remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
@@ -586,23 +497,6 @@
         "New Business - EMEA"
       ],
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
-    },
-    {
-      "id": "arbeitnow:remote-mobile-developer-utrecht-286555",
-      "title": "Mobile Developer",
-      "org": "Luscii",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.nl/jobs/companies/luscii/remote-mobile-developer-utrecht-286555",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795080678,
-      "tags": [
-        "Software Development",
-        "Remote"
-      ],
-      "summary": "At Luscii, we develop several applications within the OMRON Digital Health Circle, including the Luscii Thuismeten app and OMRON Connect. Together, we build technology that makes healthcare more accessible, giving patients and healthcare professionals more spa"
     },
     {
       "id": "remotive:1680495",
@@ -779,22 +673,6 @@
         "robotics"
       ],
       "summary": "AI Trainer - Video Annotation Remote | Independent Contractor Prove your skills. Get certified. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them. We are inviting detail-oriented pro"
-    },
-    {
-      "id": "arbeitnow:senior-product-manager-fiat-payment-operations-bulgaria-poland-spain-malta-south-africa-225400",
-      "title": "Senior Product Manager - Fiat Payment Operations",
-      "org": "Bvnk",
-      "role": "marketing",
-      "location": "Bulgaria, Poland, Spain, Malta, South Africa",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bvnk/senior-product-manager-fiat-payment-operations-bulgaria-poland-spain-malta-south-africa-225400",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795146923,
-      "tags": [
-        "Product"
-      ],
-      "summary": "&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;BVNK is the stablecoin-powered financial stack for enterprises. We're now part of Mastercard, and together we're building a network for every form of money – one that delivers more reach, more "
     }
   ]
 }
