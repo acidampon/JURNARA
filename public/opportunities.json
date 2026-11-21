@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T20:29:55.956Z",
+  "updatedAt": "2026-11-21T07:22:29.847Z",
   "sourceCount": 2,
   "totalFetched": 316,
-  "relevantCount": 37,
+  "relevantCount": 43,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,52 +11,132 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:people-partner-germany-baden-wurttemberg-141242",
-      "title": "People Partner, Germany",
-      "org": "Wayve",
-      "role": "training",
-      "location": "Leonberg, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/wayve/people-partner-germany-baden-wurttemberg-141242",
+      "id": "arbeitnow:head-of-global-enterprise-renewals-emea-remote-berlin-48407",
+      "title": "Head of Global Enterprise Renewals (EMEA - Remote)",
+      "org": "N8N",
+      "role": "marketing",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/head-of-global-enterprise-renewals-emea-remote-berlin-48407",
       "source": "Arbeitnow",
-      "remote": false,
+      "remote": true,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795189214,
+      "postedAt": 1795210813,
       "tags": [
-        "People & Talent"
+        "Sales"
       ],
-      "summary": "Before the detail, here's the challenge you'd help us solve. We build the embodied intelligence that moves real vehicles safely, and the ecosystem a billion machines will run on in the future. Very few people in AI can say this. Every role here, whatever the t"
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
     },
     {
-      "id": "arbeitnow:staff-data-scientist-cardiff-481436",
-      "title": "Staff Data Scientist",
-      "org": "Monzo",
-      "role": "training",
-      "location": "Cardiff",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/staff-data-scientist-cardiff-481436",
+      "id": "arbeitnow:spacecraft-thermal-engineer-munich-221465",
+      "title": "Spacecraft Thermal Engineer",
+      "org": "The Exploration Company",
+      "role": "support",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/spacecraft-thermal-engineer-munich-221465",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795200921,
+      "postedAt": 1795210814,
       "tags": [
-        "Data"
+        "Engineering"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;🚀 We’re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We’re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt; &"
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. We are seeking a Spacecraft Thermal Engineer to join our Thermal Control System team. You will contribute to the preparation, execution and analysis of thermal verification activities, i"
     },
     {
-      "id": "arbeitnow:lead-data-scientist-cardiff-333838",
-      "title": "Lead Data Scientist",
-      "org": "Monzo",
-      "role": "training",
-      "location": "Cardiff",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/lead-data-scientist-cardiff-333838",
+      "id": "arbeitnow:senior-partner-marketing-manager-gsis-berlin-44824",
+      "title": "Senior Partner Marketing Manager - GSIs",
+      "org": "N8N",
+      "role": "marketing",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-partner-marketing-manager-gsis-berlin-44824",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795200921,
+      "postedAt": 1795210813,
       "tags": [
-        "Data"
+        "Marketing"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;🚀 We’re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We’re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt; &"
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:senior-product-manager-core-experience-berlin-328661",
+      "title": "Senior Product Manager - Core Experience",
+      "org": "N8N",
+      "role": "project",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-product-manager-core-experience-berlin-328661",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795210813,
+      "tags": [
+        "Product"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:product-design-manager-germany-410873",
+      "title": "Product Design Manager",
+      "org": "N8N",
+      "role": "project",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/product-design-manager-germany-410873",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795210813,
+      "tags": [
+        "Product"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:head-of-product-design-berlin-398688",
+      "title": "Head of Product Design",
+      "org": "N8N",
+      "role": "project",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/head-of-product-design-berlin-398688",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795210813,
+      "tags": [
+        "Product"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:thermo-mechanical-engineer-bordeaux-147977",
+      "title": "Thermo-Mechanical Engineer",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Bordeaux, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/thermo-mechanical-engineer-bordeaux-147977",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795210814,
+      "tags": [
+        "Future Propulsion - Storm"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. The heart of a spacecraft lies in its engines, and that's why we, at The Exploration Company, are dedicated to developing our own cutting-edge Propulsion Systems ensuring the highest lev"
+    },
+    {
+      "id": "arbeitnow:combustion-devices-development-engineer-bordeaux-238174",
+      "title": "Combustion Devices Development Engineer",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Bordeaux, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/combustion-devices-development-engineer-bordeaux-238174",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795210814,
+      "tags": [
+        "Future Propulsion - Storm"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. The heart of a spacecraft lies in its engine, and that's why we, at The Exploration Company, are dedicated to developing our own cutting-edge Propulsion Systems ensuring the highest leve"
     },
     {
       "id": "arbeitnow:platform-engineer-amsterdam-55956",
@@ -75,6 +155,185 @@
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;At Catawiki, every day brings the extraordinary! Whether it’s &lt;a href=\"https://www.catawiki.com/en/c/583-sports-memorabilia\"&gt;Daniel Ricciardo’s Formula 1 Car&lt;/a&gt;, a &lt;a href=\"https://www.catawiki.com/en/c"
     },
     {
+      "id": "arbeitnow:remote-head-of-fleet-operations-dach-47142",
+      "title": "Head of Fleet Operations - DACH",
+      "org": "Roadsurfer",
+      "role": "project",
+      "location": "Remote (Germany)",
+      "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/remote-head-of-fleet-operations-dach-47142",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795210818,
+      "tags": [
+        "Fleet Operations"
+      ],
+      "summary": "Warum roadsurfer? TEAMSPIRIT & TEAM-EVENTS: Flache Hierarchien, viel Spaß, ein starker Teamspirit und regelmäßige Events wie gemeinsame Sport-Sessions oder Pizza- & Bier-Abende. PERSÖNLICHE ENTWICKLUNG: Wir unterstützen dich mit einem individuellen Growth Plan"
+    },
+    {
+      "id": "arbeitnow:remote-head-of-fleet-operations-dach-39146",
+      "title": "Head of Fleet Operations - DACH",
+      "org": "Roadsurfer",
+      "role": "marketing",
+      "location": "Remote (Germany)",
+      "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/remote-head-of-fleet-operations-dach-39146",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795210818,
+      "tags": [
+        "Fleet Operations"
+      ],
+      "summary": "Why roadsurfer? TEAM SPIRIT & TEAM EVENTS: Look forward to a collegial atmosphere with flat hierarchies, lots of fun and great team spirit, as well as regular team events such as joint sports sessions, pizza & beer evenings, etc. PERSONAL DEVELOPMENT: We suppo"
+    },
+    {
+      "id": "arbeitnow:remote-senior-customer-intelligence-manager-64301",
+      "title": "Senior Customer Intelligence Manager",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-customer-intelligence-manager-64301",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795210815,
+      "tags": [
+        "Customer Success"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-senior-product-marketing-manager-emea-383561",
+      "title": "Senior Product Marketing Manager - EMEA",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-product-marketing-manager-emea-383561",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795210815,
+      "tags": [
+        "Marketing"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-enterprise-account-executive-iii-na-104865",
+      "title": "Enterprise Account Executive III - NA",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-enterprise-account-executive-iii-na-104865",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795210815,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-regional-sales-manager-dach-426636",
+      "title": "Regional Sales Manager, DACH (m/w/d)",
+      "org": "Everfield",
+      "role": "training",
+      "location": "Germany - Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/everfield/remote-regional-sales-manager-dach-426636",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795210815,
+      "tags": [
+        "Everfield HQ"
+      ],
+      "summary": "Regional Sales Manager, DACH (m/w/d) Regional Role · Remote, based in the DACH region · Reports to: Sales Director About Everfield Everfield acquires and builds vertical SaaS businesses across Europe. Our portfolio spans more than 40 companies serving niche ma"
+    },
+    {
+      "id": "arbeitnow:remote-ai-fabric-architect-51975",
+      "title": "AI Fabric Architect",
+      "org": "Fal Ai",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/fal-ai/remote-ai-fabric-architect-51975",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795210814,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "fal is the generative media ecosystem powering the next generation of AI products. We build the infrastructure, tools, and model access that teams need to move from idea to production, and do it at scale without compromise. For developers and enterprises, fal "
+    },
+    {
+      "id": "arbeitnow:remote-chief-of-staff-revenue-karlsruhe-400747",
+      "title": "Chief of Staff, Revenue (m/f/d)",
+      "org": "Chaos",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/chaos/remote-chief-of-staff-revenue-karlsruhe-400747",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795210285,
+      "tags": [
+        "Marketing",
+        "Remote"
+      ],
+      "summary": "**This position is based in Germany or Bulgaria with hybrid or remote working options. Applicants must hold a valid work/residence permit for the respective location.** Chaos is a leading global software company that provides world-class visualization and desi"
+    },
+    {
+      "id": "arbeitnow:ui-designer-casual-games-freelance-remote-berlin-403179",
+      "title": "UI Designer - Casual Games (Freelance Remote)",
+      "org": "SOFTGAMES",
+      "role": "project",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/softgames/ui-designer-casual-games-freelance-remote-berlin-403179",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795210282,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "We’re looking for a UI designer who loves casual games. You know what makes a game feel intuitive and fun to play, and you can turn that into clean, good-looking UI. You’ll be assisting the SOHO Art team and reporting directly to our Game Art Lead. Heads up: w"
+    },
+    {
+      "id": "arbeitnow:pflichtpraktikum-social-media-und-content-marketing-berlin-245714",
+      "title": "Pflichtpraktikum Social Media und Content Marketing (m/w/d)",
+      "org": "TRIONE",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/trione/pflichtpraktikum-social-media-und-content-marketing-berlin-245714",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795210237,
+      "tags": [
+        "Remote",
+        "Social Media Manager"
+      ],
+      "summary": "Nicht jede Brand muss laut sein. TRIONE ist eine Luxury Lifestyle Brand für Schmuck und Accessoires. Entworfen an der Mittelmeerküste in Marbella, gemacht für jeden Tag. Für unser ONE Armband verwenden wir die seltenste Seidenkordel Japans, geflochten in tradi"
+    },
+    {
+      "id": "arbeitnow:das-gesicht-unserer-brand-auf-tiktok-berlin-445866",
+      "title": "Das Gesicht unserer Brand auf TikTok",
+      "org": "TRIONE",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/trione/das-gesicht-unserer-brand-auf-tiktok-berlin-445866",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795206631,
+      "tags": [
+        "Remote",
+        "Social Media Manager"
+      ],
+      "summary": "Manche Dinge muss man nicht erklären. TRIONE ist eine Luxury Lifestyle Brand für Accessoires und Schmuck, designed in Marbella. Japanische Seidenkordel, graviertes Gold, Details, die man erst auf den zweiten Blick entdeckt und dann nicht mehr vergisst. Unser O"
+    },
+    {
       "id": "arbeitnow:sales-manager-im-aussendienst-100-remote-stuttgart-200765",
       "title": "Sales Manager im Außendienst (m/w/d) 100% Remote",
       "org": "MY Humancapital GmbH",
@@ -91,253 +350,39 @@
       "summary": "Außendienstmitarbeiter (m/w/d) gesucht – Vollzeit | Baden-Württemberg | 100% Remote Im Auftrag unseres Partnerunternehmens suchen wir Sie zum nächstmöglichen Zeitpunkt als „ Sales Manager (m/w/d) – Technischer Vertrieb “. Aufgaben Als Vertriebsmitarbeiter (m/w"
     },
     {
-      "id": "arbeitnow:director-vp-of-marketing-stuttgart-71290",
-      "title": "Director / VP of Marketing (m/w/d)",
-      "org": "Flip GmbH",
+      "id": "arbeitnow:senior-lead-python-engineer-london-128931",
+      "title": "Senior/Lead Python Engineer",
+      "org": "Mimica",
       "role": "marketing",
-      "location": "Stuttgart & Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/director-vp-of-marketing-stuttgart-71290",
+      "location": "Remote Anywhere",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mimica/senior-lead-python-engineer-london-128931",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795200013,
+      "postedAt": 1795232600,
       "tags": [
-        "Marketing"
-      ],
-      "summary": "Empower every employee. KI hat verändert, wie Büroangestellte arbeiten. Bei den 80 % der weltweiten Belegschaft , die nicht am Schreibtisch sitzen, ist sie bisher kaum angekommen. Flip AI ändert das. Flip AI ist das #1 Frontline Agentic Operating System (OS) ,"
-    },
-    {
-      "id": "arbeitnow:director-vp-of-marketing-stuttgart-431965",
-      "title": "Director / VP of Marketing (m/f/d)",
-      "org": "Flip GmbH",
-      "role": "marketing",
-      "location": "Stuttgart & Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/director-vp-of-marketing-stuttgart-431965",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795200013,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "Empower every employee. AI has changed how office workers get things done. For the 80% of the global workforce that doesn't sit at a desk, it has barely arrived. Flip AI is changing that. Flip AI is the #1 Frontline Agentic Operating System (OS) to build, auto"
-    },
-    {
-      "id": "arbeitnow:remote-senior-network-engineer-all-genders-cisco-fortinet-st-ingbert-2612",
-      "title": "Senior Network Engineer (all genders) – Cisco & Fortinet",
-      "org": "teccle group GmbH",
-      "role": "hr",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-network-engineer-all-genders-cisco-fortinet-st-ingbert-2612",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795199472,
-      "tags": [
-        "System Engineer",
-        "Remote"
-      ],
-      "summary": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unterschiedlichsten Schwerpunkten unter einem Dach zusammen - und entwickeln uns so zu einem der führend"
-    },
-    {
-      "id": "arbeitnow:remote-it-security-engineer-all-genders-st-ingbert-270949",
-      "title": "IT Security Engineer (all genders)",
-      "org": "teccle group GmbH",
-      "role": "hr",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-it-security-engineer-all-genders-st-ingbert-270949",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795199472,
-      "tags": [
-        "System Engineer",
-        "Remote"
-      ],
-      "summary": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unterschiedlichsten Schwerpunkten unter einem Dach zusammen - und entwickeln uns so zu einem der führend"
-    },
-    {
-      "id": "arbeitnow:ai-full-stack-developer-berlin-465878",
-      "title": "AI Full-Stack Developer (m/w/d)",
-      "org": "NEON Software Solutions",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/neon-software-solutions/ai-full-stack-developer-berlin-465878",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795192268,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "summary": "Über NEON Software Solutions NEON ist ein Entwicklungsstudio aus Berlin mit einem Team von über 20 Köpfen, das auf Design, Entwicklung, Betrieb und Analyse von mobilen Apps spezialisiert ist. Mit der Erfahrung aus über 60 App-Projekten arbeiten wir vollständig"
-    },
-    {
-      "id": "arbeitnow:developer-c-net-as-freelancer-all-genders-berlin-43395",
-      "title": "Developer C# / .NET as Freelancer (all genders)",
-      "org": "Vexcash AG",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/developer-c-net-as-freelancer-all-genders-berlin-43395",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795192268,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "summary": "About Vexcash AG VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to bridge the gap until their next payday. More than 800,000 customers already rely on our service. Thanks to our "
-    },
-    {
-      "id": "arbeitnow:product-manager-business-analyst-as-freelancer-all-genders-berlin-283084",
-      "title": "Product Manager/ Business Analyst As Freelancer (All Genders)",
-      "org": "Vexcash AG",
-      "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/product-manager-business-analyst-as-freelancer-all-genders-berlin-283084",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795192263,
-      "tags": [
-        "Remote",
-        "Consulting",
         "Engineering"
       ],
-      "summary": "About Vexcash AG VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to bridge the gap until their next payday. More than 800,000 customers already rely on our service. Thanks to our "
+      "summary": "What we are building Mimica is an AI-powered process intelligence platform enabling enterprises and individuals to reclaim their most precious resource: time. We've all seen repetitive tasks and redundant processes quietly drain productivity and creativity. No"
     },
     {
-      "id": "arbeitnow:marketing-allrounder-all-genders-100-homeoffice-berlin-485463",
-      "title": "Marketing Allrounder (all genders) 100% Homeoffice",
-      "org": "fino data services GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/fino-data-services-gmbh/marketing-allrounder-all-genders-100-homeoffice-berlin-485463",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795190460,
-      "tags": [
-        "Remote",
-        "Online Marketing"
-      ],
-      "summary": "Dein Team Menschen, die etwas bewegen wollen, ziehen Menschen an, die etwas bewegen wollen. Bei der fino data services arbeitest du mit Menschen, die neugierig sind, schnell denken und Dinge gerne selbst in die Hand nehmen. Die sich festbeißen, wenn etwas span"
-    },
-    {
-      "id": "arbeitnow:remote-enterprise-account-executive-dach-295927",
-      "title": "Enterprise Account Executive, DACH",
-      "org": "Sanity",
-      "role": "marketing",
-      "location": "Remote in the UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sanity/remote-enterprise-account-executive-dach-295927",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795189213,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content o"
-    },
-    {
-      "id": "arbeitnow:remote-manager-legal-programs-privacy-ai-eu-uk-160781",
-      "title": "Manager, Legal Programs, Privacy & AI (EU/UK)",
-      "org": "Hims And Hers",
+      "id": "arbeitnow:remote-french-speaking-customer-service-agent-work-in-sofia-bulgaria-france-338917",
+      "title": "French Speaking Customer Service Agent - Work In Sofia, Bulgaria",
+      "org": "Patrique Mercier Recruitment Fr",
       "role": "training",
-      "location": "UK - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/remote-manager-legal-programs-privacy-ai-eu-uk-160781",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795178417,
-      "tags": [
-        "LEGAL"
-      ],
-      "summary": "Hims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and "
-    },
-    {
-      "id": "arbeitnow:freelance-chargee-de-relations-clients-e-commerce-paris-491994",
-      "title": "(Freelance) Chargé·e de relations clients e-commerce",
-      "org": "Circles - Better Womanhood",
-      "role": "marketing",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/circles-better-womanhood/freelance-chargee-de-relations-clients-e-commerce-paris-491994",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795201236,
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "summary": "[Freelance, en télétravail] Circles est une marque française DTC qui propose des solutions naturelles pour l'équilibre hormonal féminin, des premières règles à la ménopause : compléments alimentaires, cosmétiques naturels et contenus éducatifs. Notre mission ?"
-    },
-    {
-      "id": "arbeitnow:senior-data-analyst-acquisition-paris-461960",
-      "title": "Senior Data Analyst - Acquisition",
-      "org": "Pennylane SAS",
-      "role": "marketing",
-      "location": "All France (remote)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-data-analyst-acquisition-paris-461960",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795189214,
-      "tags": [
-        "Tech"
-      ],
-      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Then Pennylane is the right place for you ! Our vision We "
-    },
-    {
-      "id": "arbeitnow:business-partner-dach-paris-15979",
-      "title": "Business Partner - DACH",
-      "org": "Continuity",
-      "role": "marketing",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/continuity/business-partner-dach-paris-15979",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795186854,
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "summary": "About Continuity At Continuity, we’re building AI-native solutions that are redefining how insurers assess, monitor, and act on risk in the €1T+ commercial insurance industry. In today’s world, insurers are expected to make complex, high-stakes decisions, ofte"
-    },
-    {
-      "id": "arbeitnow:affiliate-manager-remote-france-290814",
-      "title": "Affiliate Manager (Remote - France)",
-      "org": "EverAI",
-      "role": "marketing",
       "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/everai/affiliate-manager-remote-france-290814",
+      "url": "https://www.arbeitnow.fr/jobs/companies/patrique-mercier-recruitment-fr/remote-french-speaking-customer-service-agent-work-in-sofia-bulgaria-france-338917",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795178414,
+      "postedAt": 1795227619,
       "tags": [
-        "Growth"
+        "Customer Service",
+        "Consumer Services",
+        "Bulgaria",
+        "Remote"
       ],
-      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top Largest & Fastest-Growing AI Companies in the World 60 Million Users in 3 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect wi"
-    },
-    {
-      "id": "arbeitnow:performance-marketer-remote-france-14056",
-      "title": "Performance Marketer (Remote - France)",
-      "org": "EverAI",
-      "role": "marketing",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/everai/performance-marketer-remote-france-14056",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795178414,
-      "tags": [
-        "Growth"
-      ],
-      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top Largest & Fastest-Growing AI Companies in the World 60 Million Users in 3 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect wi"
+      "summary": "French Speaking Customer Service Agent About Mercier Consultancy Group Mercier Consultancy Group is a premier international staffing firm, recognized for bridging elite talent with top-tier organizations across Europe. As industry leaders in recruitment and bu"
     },
     {
       "id": "arbeitnow:remote-german-speaking-customer-service-representative-work-in-athens-greece-switzerland-43451",
@@ -411,6 +456,39 @@
       "summary": "................ Für unseren Kunden in Basel suchen wir zur Unterstützung einer Taskforce im Bereich Partner Operations mehrere Sachbearbeiter:innen Backoffice für den kurzfristigen Abbau von Rückständen in der Mandatsverarbeitung. Deine Aufgaben: Prüfung, Erf"
     },
     {
+      "id": "arbeitnow:senior-product-designer-remote-in-europe-amsterdam-443609",
+      "title": "Senior Product Designer (Remote in Europe)",
+      "org": "Finom",
+      "role": "marketing",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/finom/senior-product-designer-remote-in-europe-amsterdam-443609",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795231606,
+      "tags": [
+        "Product Design"
+      ],
+      "summary": "About Finom Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking "
+    },
+    {
+      "id": "arbeitnow:remote-backend-software-developer-hilversum-417173",
+      "title": "Backend Software Developer",
+      "org": "Dawn Technology",
+      "role": "training",
+      "location": "Werken op afstand",
+      "url": "https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795210287,
+      "tags": [
+        "Dawn Technology",
+        "Remote"
+      ],
+      "summary": "Backend Software Developer – Maatwerk Software met Impact Wij weten dat wat op het eerste gezicht eenvoudig lijkt, vaak complexer is dan men denkt. En wij begrijpen dat technologie geen barrière mag zijn, maar juist de verbinding naar een bestendige maatschapp"
+    },
+    {
       "id": "arbeitnow:remote-senior-platform-engineer-amsterdam-429264",
       "title": "Senior Platform Engineer",
       "org": "Treatwell",
@@ -481,22 +559,6 @@
         "Remote"
       ],
       "summary": "At Exotec, we design elegant, plug-and-play, and reliable end-to-end warehouse robotics solutions. As a leading Original Equipment Manufacturer (OEM) and Integrator, we support some of the world’s most iconic brands in their transition to automation. We’re pro"
-    },
-    {
-      "id": "arbeitnow:remote-new-business-account-executive-nordics-119212",
-      "title": "New Business Account Executive - Nordics",
-      "org": "gitlab",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/gitlab/remote-new-business-account-executive-nordics-119212",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795114537,
-      "tags": [
-        "New Business - EMEA"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
     },
     {
       "id": "remotive:1680495",
@@ -673,6 +735,38 @@
         "robotics"
       ],
       "summary": "AI Trainer - Video Annotation Remote | Independent Contractor Prove your skills. Get certified. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them. We are inviting detail-oriented pro"
+    },
+    {
+      "id": "arbeitnow:sales-excellence-manager-berlin-329913",
+      "title": "Sales Excellence Manager",
+      "org": "Pergolux",
+      "role": "marketing",
+      "location": "Berlin | Global Team",
+      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/sales-excellence-manager-berlin-329913",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795210814,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "As a Sales Excellence Manager (m/w/d), you will find where our sales funnel leaks and where we engage customers too slowly, then work with the sales teams until it is fixed across our global markets. You will own revenue per worked hour as our core productivit"
+    },
+    {
+      "id": "arbeitnow:campaign-coordinator-intern-berlin-177943",
+      "title": "Campaign Coordinator Intern",
+      "org": "Pergolux",
+      "role": "marketing",
+      "location": "Berlin | Global Team",
+      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/campaign-coordinator-intern-berlin-177943",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795210814,
+      "tags": [
+        "Marketing"
+      ],
+      "summary": "As a Campaign Coordinator Intern (m/w/d), you will own the end-to-end coordination of marketing campaigns across global markets, moving them from brief to launch while keeping creative, performance, CRM, e-commerce, product and local market teams aligned. You "
     }
   ]
 }
