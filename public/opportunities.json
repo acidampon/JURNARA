@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T19:48:41.896Z",
+  "updatedAt": "2026-11-23T07:51:05.069Z",
   "sourceCount": 2,
   "totalFetched": 316,
-  "relevantCount": 40,
+  "relevantCount": 33,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -59,20 +59,20 @@
       "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
     },
     {
-      "id": "arbeitnow:graduate-quantitative-researcher-2028-expression-of-interest-london-170818",
-      "title": "Graduate Quantitative Researcher 2028 – Expression of Interest",
-      "org": "Optiverneurips",
-      "role": "training",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverneurips/graduate-quantitative-researcher-2028-expression-of-interest-london-170818",
+      "id": "arbeitnow:staff-windows-low-level-c-engineer-endpoint-security-358413",
+      "title": "Staff Windows Low Level C++ Engineer - Endpoint security",
+      "org": "Sentinellabs",
+      "role": "marketing",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sentinellabs/staff-windows-low-level-c-engineer-endpoint-security-358413",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795373722,
+      "postedAt": 1795384516,
       "tags": [
-        "Quantitative Research"
+        "26000 Runtime Protection"
       ],
-      "summary": "&lt;p&gt;Register your interest below. This is an expression of interest, not a job application, and it does not start an assessment process.&lt;/p&gt; &lt;p&gt;Looking to start full-time in 2027? Our Graduate Quantitative Researcher (2027 Start) role is curre"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;Our Purpose&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;At SentinelOne, we are driven by a clear purpose: to give the advantage to those who secure our future. As AI reshapes how organizations build, op"
     },
     {
       "id": "arbeitnow:propulsion-data-modeling-engineer-bordeaux-26107",
@@ -155,37 +155,52 @@
       "summary": "&lt;p&gt;Register your interest below. This is an expression of interest, not a job application, and it does not start an assessment process.&lt;/p&gt; &lt;p&gt;Looking to start full-time in 2027? Our Graduate Quantitative Researcher (2027 Start) role is curre"
     },
     {
-      "id": "arbeitnow:platform-engineer-amsterdam-55956",
-      "title": "Platform Engineer",
-      "org": "Catawiki",
-      "role": "marketing",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/catawiki/platform-engineer-amsterdam-55956",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795190117,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;At Catawiki, every day brings the extraordinary! Whether it’s &lt;a href=\"https://www.catawiki.com/en/c/583-sports-memorabilia\"&gt;Daniel Ricciardo’s Formula 1 Car&lt;/a&gt;, a &lt;a href=\"https://www.catawiki.com/en/c"
-    },
-    {
-      "id": "arbeitnow:no-code-developer-bubbleio-100-remote-berlin-440890",
-      "title": "No-Code Developer (m/w/d) | Bubble.io | 100 % Remote",
-      "org": "ALPHA Software GmbH",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-440890",
+      "id": "arbeitnow:remote-hands-on-engineering-manager-c-vue-6698",
+      "title": "Hands-on Engineering Manager (C#/Vue)",
+      "org": "Miaplaza",
+      "role": "training",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-c-vue-6698",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795363248,
+      "postedAt": 1795404695,
       "tags": [
-        "Remote",
-        "Software Development"
+        "Remote"
       ],
-      "summary": "Unsere gesamte Software läuft auf Bubble.io – und du sollst sie zu deinem Produkt machen. Die ALPHA Software GmbH digitalisiert die Erstellung von Gebäudeunterlagen für Immobilienprofis. Über unsere Bestellplattform beauftragen Kund:innen Grundrisse, Wohnfläch"
+      "summary": "Location : 100% remote (EMEA + South America) Classification : Full-time Pay Range : €82,000–140,000; determined by several factors, including location Miaplaza is looking for two Engineering Managers to lead two of our software development teams. We’re hiring"
+    },
+    {
+      "id": "arbeitnow:remote-java-entwicklerin-java-developer-backend-munster-85293",
+      "title": "Java Entwickler:in / Java Developer Backend (w/m/d)",
+      "org": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-java-entwicklerin-java-developer-backend-munster-85293",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795393879,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Software entwickeln ohne Agentur-Feeling. Software die funktioniert. Du möchtest moderne Java-Anwendungen entwickeln aber nicht in einem Umfeld arbeiten, in dem Tickets wichtiger sind als Menschen? Bei uns entwickelst du Backend-Lösungen für Banken und Versich"
+    },
+    {
+      "id": "arbeitnow:grafikdesignerin-mit-ki-affinitat-studentische-hilfskraft-remote-munich-314376",
+      "title": "Grafikdesigner:in (m/w/d) mit KI-Affinität (Studentische Hilfskraft Remote)",
+      "org": "UNCODED I Gorilla Ventures GmbH",
+      "role": "marketing",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/uncoded-i-gorilla-ventures-gmbh/grafikdesignerin-mit-ki-affinitat-studentische-hilfskraft-remote-munich-314376",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795388434,
+      "tags": [
+        "Graphic Arts and Communication Design"
+      ],
+      "summary": "Uncoded arbeitet in München an der Schnittstelle von Media und Digital Marketing. Wir beraten Unternehmen bei ihrem Geschäftsmodell, bauen Plattformen wie den NXTGEN Club und kuratieren das Agentursegment der DMEXCO. Seit 2014 bringen unsere UNCODED Sessions a"
     },
     {
       "id": "arbeitnow:remote-engineering-manager-eu-uk-berlin-491641",
@@ -305,141 +320,6 @@
         "Social Media Manager"
       ],
       "summary": "Wir sind Frühlingszwiebel. Über 850.000 Menschen auf Instagram kochen mit unseren Rezepten, dazu Kochbücher, Challenges und ein Newsletter mit über 100.000 Leserinnen. Unser Prinzip: Eat Right Not Less. Aufgaben - Du unterstützt bei der Erstellung unserer Ernä"
-    },
-    {
-      "id": "arbeitnow:anwendungsspezialist-im-aussendienst-baden-wurttemberg-memmingen-383486",
-      "title": "Anwendungsspezialist im Außendienst Baden-Württemberg (m/w/d)",
-      "org": "BUZIL-WERK Wagner GmbH & Co. KG",
-      "role": "project",
-      "location": "Memmingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/buzil-werk-wagner-gmbh-co-kg/anwendungsspezialist-im-aussendienst-baden-wurttemberg-memmingen-383486",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795361464,
-      "tags": [
-        "Remote",
-        "Sales Engineer"
-      ],
-      "summary": "Wir sind der kompetente Problemlöser und zuverlässige Partner für erst klassige und effiziente Reinigungslösungen für professionelle Anwender. Rund 120 Spezialisten unter einem Dach entwickeln, produzieren und vertreiben Reinigungs- und Pflegeprodukte. Am Stan"
-    },
-    {
-      "id": "arbeitnow:business-developer-sales-manager-robotics-berlin-42926",
-      "title": "Business Developer / Sales Manager - Robotics (m/w/d)",
-      "org": "TEKPOINT GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/tekpoint-gmbh/business-developer-sales-manager-robotics-berlin-42926",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795361463,
-      "tags": [
-        "Remote",
-        "Business Development"
-      ],
-      "summary": "Du möchtest Robotics-Lösungen im Markt aufbauen, relevante Zielkunden gewinnen und erste Deals in klar definierten Branchen abschließen? Für den Ausbau unseres Robotics-Geschäfts suchen wir eine vertriebsstarke Persönlichkeit, die Pipeline strukturiert aufbaut"
-    },
-    {
-      "id": "arbeitnow:senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400",
-      "title": "Senior Full Stack Engineer (F# / ASP.NET Core / ReactJS) – Remote (Europe) (f/m/d)",
-      "org": "Boardwise GmbH",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795361460,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "summary": "Your mission Your Role Collaborate closely with our development team on products built with F# (ASP.NET Core) and React.js Take full ownership of features, working closely with product in a cross-functional team Apply a functional programming approach and cont"
-    },
-    {
-      "id": "arbeitnow:werkstudent-founders-associate-bonn-442650",
-      "title": "Werkstudent Founders Associate",
-      "org": "Adwise Media GmbH",
-      "role": "marketing",
-      "location": "Bonn",
-      "url": "https://www.arbeitnow.com/jobs/companies/adwise-media-gmbh/werkstudent-founders-associate-bonn-442650",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795361459,
-      "tags": [
-        "Remote",
-        "Business Operations"
-      ],
-      "summary": "Die AdWise Media GmbH ist ein wachsendes Unternehmen im Bereich Retail Media. Wir bringen Unternehmen mit attraktiven Werbeflächen direkt am Point of Sale zusammen und arbeiten dabei mit zahlreichen Standorten des deutschen Lebensmitteleinzelhandels zusammen. "
-    },
-    {
-      "id": "arbeitnow:consultant-infrastructure-capital-projects-all-genders-frankfurt-am-main-381749",
-      "title": "Consultant Infrastructure & Capital Projects (all genders)",
-      "org": "Accenture",
-      "role": "project",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/accenture/consultant-infrastructure-capital-projects-all-genders-frankfurt-am-main-381749",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795361458,
-      "tags": [
-        "Remote",
-        "Project Management"
-      ],
-      "summary": "Aufgaben Du willst an Projekten mitwirken, die die Energie- und Infrastruktur von morgen gestalten? Bei uns arbeitest du an anspruchsvollen Infrastrukturvorhaben entlang des gesamten Projektlebenszyklus – von der strategischen Planung bis zur erfolgreichen Ums"
-    },
-    {
-      "id": "arbeitnow:area-sales-manager-gebietsverkaufsleiter-berlin-383273",
-      "title": "Area Sales Manager / Gebietsverkaufsleiter (m/w/d)",
-      "org": "NARR Isoliersysteme GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/narr-isoliersysteme-gmbh/area-sales-manager-gebietsverkaufsleiter-berlin-383273",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795361457,
-      "tags": [
-        "Remote",
-        "Sales Engineer"
-      ],
-      "summary": "Wenn es dauerhaft funktionieren muss. NARR Isoliersysteme entwickelt und produziert Isoliersysteme für die Kälte-, Klima-, Reinraum- und Brandschutztechnik – und realisiert daraus Lösungen für unterschiedlichste Anforderungen in Industrie, Pharma, LEH, Medizin"
-    },
-    {
-      "id": "arbeitnow:remote-client-director-mice-france-445910",
-      "title": "Client Director MICE",
-      "org": "Kuoni Tumlare",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kuoni-tumlare/remote-client-director-mice-france-445910",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795350675,
-      "tags": [
-        "Meetings & Events",
-        "Remote"
-      ],
-      "summary": "About Kuoni Tumlare: Kuoni Tumlare is seeking a dynamic and results-driven Client Director to lead, manage and develop our Accounts for MICE in the France. The Client Director will be responsible for driving sales growth, developing new business opportunities,"
-    },
-    {
-      "id": "arbeitnow:team-lead-internal-solution-consulting-paris-195445",
-      "title": "Team Lead - Internal Solution Consulting",
-      "org": "Pennylane SAS",
-      "role": "project",
-      "location": "All France (remote)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/team-lead-internal-solution-consulting-paris-195445",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795340416,
-      "tags": [
-        "Customer Success"
-      ],
-      "summary": "Contexte du rôle Le ou la Team Lead Solution Consulting est responsable de l’organisation, de la performance et du développement de l’équipe de Solution Consultants. L’équipe intervient auprès des clients Pennylane sur la dimension fonctionnelle de projets en "
     },
     {
       "id": "arbeitnow:remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018",
