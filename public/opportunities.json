@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T07:51:05.069Z",
+  "updatedAt": "2026-11-24T00:00:36.887Z",
   "sourceCount": 2,
-  "totalFetched": 316,
-  "relevantCount": 33,
+  "totalFetched": 315,
+  "relevantCount": 37,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,132 +11,36 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:lead-project-manager-dual-use-in-orbit-services-munich-34582",
-      "title": "Lead Project Manager Dual Use In-Orbit Services",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/lead-project-manager-dual-use-in-orbit-services-munich-34582",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795362013,
-      "tags": [
-        "US & Future Programs"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. At The Exploration Company, we are developing, producing, and operating Nyx, a modular and reusable orbital vehicle designed to carry cargo and, in the longer term, humans. Nyx is being "
-    },
-    {
-      "id": "arbeitnow:lead-supply-chain-munich-278628",
-      "title": "Lead Supply Chain",
-      "org": "The Exploration Company",
-      "role": "training",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/lead-supply-chain-munich-278628",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795362013,
-      "tags": [
-        "Program"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. Role Overview Reports to: Head of Procurement We are looking for a Lead Supply Chain to lead operational purchasing and direct material procurement across The Exploration Company’s locat"
-    },
-    {
-      "id": "arbeitnow:senior-product-manager-enterprise-berlin-421306",
-      "title": "Senior Product Manager (Enterprise)",
-      "org": "N8N",
-      "role": "project",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-product-manager-enterprise-berlin-421306",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795362013,
-      "tags": [
-        "Product"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
-    },
-    {
-      "id": "arbeitnow:staff-windows-low-level-c-engineer-endpoint-security-358413",
-      "title": "Staff Windows Low Level C++ Engineer - Endpoint security",
-      "org": "Sentinellabs",
+      "id": "arbeitnow:client-enablement-coaching-lead-berlin-140451",
+      "title": "Client Enablement & Coaching Lead (f/m/d)",
+      "org": "Kraken",
       "role": "marketing",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sentinellabs/staff-windows-low-level-c-engineer-endpoint-security-358413",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/kraken/client-enablement-coaching-lead-berlin-140451",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795384516,
+      "postedAt": 1795448426,
       "tags": [
-        "26000 Runtime Protection"
+        "Delivery Operations"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h3&gt;Our Purpose&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;At SentinelOne, we are driven by a clear purpose: to give the advantage to those who secure our future. As AI reshapes how organizations build, op"
+      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
     },
     {
-      "id": "arbeitnow:propulsion-data-modeling-engineer-bordeaux-26107",
-      "title": "Propulsion Data & Modeling Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/propulsion-data-modeling-engineer-bordeaux-26107",
+      "id": "arbeitnow:senior-client-enablement-coaching-lead-paris-263991",
+      "title": "Senior Client Enablement & Coaching Lead (F/H/X)",
+      "org": "Kraken",
+      "role": "marketing",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/kraken/senior-client-enablement-coaching-lead-paris-263991",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795362013,
+      "postedAt": 1795448426,
       "tags": [
-        "Engineering"
+        "Delivery Operations"
       ],
-      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. The heart of a spacecraft lies in its propulsion system, and that's why we, at The Exploration Company, are dedicated to developing our own cutting-edge Propulsion Systems ensuring the h"
-    },
-    {
-      "id": "arbeitnow:propulsion-ait-principal-engineer-bordeaux-361249",
-      "title": "Propulsion AIT Principal Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/propulsion-ait-principal-engineer-bordeaux-361249",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795362013,
-      "tags": [
-        "MAIT"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refueled in orbit, and which carries cargo - and potentially humans i"
-    },
-    {
-      "id": "arbeitnow:senior-propulsion-test-engineer-bordeaux-162552",
-      "title": "Senior Propulsion Test Engineer",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/senior-propulsion-test-engineer-bordeaux-162552",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795362013,
-      "tags": [
-        "MAIT"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refuelled in orbit, and which carries cargo – and potentially humans "
-    },
-    {
-      "id": "arbeitnow:propulsion-gse-team-leader-bordeaux-188365",
-      "title": "Propulsion GSE Team Leader",
-      "org": "The Exploration Company",
-      "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/propulsion-gse-team-leader-bordeaux-188365",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795362013,
-      "tags": [
-        "MAIT"
-      ],
-      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refueled in orbit, and which carries cargo - and potentially humans i"
+      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
     },
     {
       "id": "arbeitnow:graduate-quantitative-researcher-2028-expression-of-interest-amsterdam-428978",
@@ -155,171 +59,376 @@
       "summary": "&lt;p&gt;Register your interest below. This is an expression of interest, not a job application, and it does not start an assessment process.&lt;/p&gt; &lt;p&gt;Looking to start full-time in 2027? Our Graduate Quantitative Researcher (2027 Start) role is curre"
     },
     {
-      "id": "arbeitnow:remote-hands-on-engineering-manager-c-vue-6698",
-      "title": "Hands-on Engineering Manager (C#/Vue)",
-      "org": "Miaplaza",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-c-vue-6698",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795404695,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Location : 100% remote (EMEA + South America) Classification : Full-time Pay Range : €82,000–140,000; determined by several factors, including location Miaplaza is looking for two Engineering Managers to lead two of our software development teams. We’re hiring"
-    },
-    {
-      "id": "arbeitnow:remote-java-entwicklerin-java-developer-backend-munster-85293",
-      "title": "Java Entwickler:in / Java Developer Backend (w/m/d)",
-      "org": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-java-entwicklerin-java-developer-backend-munster-85293",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795393879,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Software entwickeln ohne Agentur-Feeling. Software die funktioniert. Du möchtest moderne Java-Anwendungen entwickeln aber nicht in einem Umfeld arbeiten, in dem Tickets wichtiger sind als Menschen? Bei uns entwickelst du Backend-Lösungen für Banken und Versich"
-    },
-    {
-      "id": "arbeitnow:grafikdesignerin-mit-ki-affinitat-studentische-hilfskraft-remote-munich-314376",
-      "title": "Grafikdesigner:in (m/w/d) mit KI-Affinität (Studentische Hilfskraft Remote)",
-      "org": "UNCODED I Gorilla Ventures GmbH",
-      "role": "marketing",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/uncoded-i-gorilla-ventures-gmbh/grafikdesignerin-mit-ki-affinitat-studentische-hilfskraft-remote-munich-314376",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795388434,
-      "tags": [
-        "Graphic Arts and Communication Design"
-      ],
-      "summary": "Uncoded arbeitet in München an der Schnittstelle von Media und Digital Marketing. Wir beraten Unternehmen bei ihrem Geschäftsmodell, bauen Plattformen wie den NXTGEN Club und kuratieren das Agentursegment der DMEXCO. Seit 2014 bringen unsere UNCODED Sessions a"
-    },
-    {
-      "id": "arbeitnow:remote-engineering-manager-eu-uk-berlin-491641",
-      "title": "Engineering Manager EU/UK (m/f/x)",
-      "org": "Makersite GmbH",
+      "id": "arbeitnow:remote-senior-verification-engineer-autonomy-systems-land-domain-gilching-304071",
+      "title": "Senior Verification Engineer Autonomy Systems – Land Domain (m/f/d)",
+      "org": "Quantum-Systems GmbH",
       "role": "project",
       "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-engineering-manager-eu-uk-berlin-491641",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-senior-verification-engineer-autonomy-systems-land-domain-gilching-304071",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795361488,
+      "postedAt": 1795469472,
       "tags": [
-        "Technology",
+        "Software",
         "Remote"
       ],
-      "summary": "Engineering Manager (m/f/x) Location: EU/UK (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companie"
+      "summary": "About the role: As a Senior Verification Engineer , you will play an orchestrating role in ensuring the safety, reliability, and performance of our next-generation autonomy projects in the Land Domain . You will be the architect of our testing methodologies, b"
     },
     {
-      "id": "arbeitnow:remote-senior-data-scientist-research-eu-uk-berlin-88725",
-      "title": "Senior Data Scientist - Research EU/UK (m/f/x)",
-      "org": "Makersite GmbH",
+      "id": "arbeitnow:remote-test-engineer-hil-autonomy-systems-land-domain-gilching-417479",
+      "title": "Test Engineer HIL Autonomy Systems – Land Domain (m/f/d)",
+      "org": "Quantum-Systems GmbH",
+      "role": "project",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-test-engineer-hil-autonomy-systems-land-domain-gilching-417479",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795469472,
+      "tags": [
+        "Software",
+        "Remote"
+      ],
+      "summary": "About the role: We are looking for an experienced Test Engineer – HIL who thrives in the broad spectrum between initial concept, quick prototyping and final validation for cutting-edge autonomy products in the Land Domain . You will drive building and refining"
+    },
+    {
+      "id": "arbeitnow:remote-senior-account-executive-enterprise-private-accounts-353093",
+      "title": "Senior Account Executive, Enterprise (Private Accounts)",
+      "org": "veeamsoftware",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-account-executive-enterprise-private-accounts-353093",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795460128,
+      "tags": [
+        "Field Sales",
+        "Central 1000030"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;div class=\"elementToProof\"&gt; &lt;p&gt;Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe "
+    },
+    {
+      "id": "arbeitnow:remote-transformation-architect-berlin-412961",
+      "title": "Transformation Architect (m/w/d)",
+      "org": "Natuvion GmbH",
+      "role": "project",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-transformation-architect-berlin-412961",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795458684,
+      "tags": [
+        "Technical Migration",
+        "Remote"
+      ],
+      "summary": "Wir suchen ab sofort, bundesweit und standortungebunden, einen Transformation Architect (m/w/d) zur Erweiterung der Kompetenzen unseres bestehenden Expertenteams: Deine Aufgaben: Du übernimmst die Projekt- und Budgetverantwortung für technische Datenmigratione"
+    },
+    {
+      "id": "arbeitnow:remote-sap-s-4hana-utilities-is-u-architect-berlin-372334",
+      "title": "SAP S/4HANA Utilities / IS-U Architect (m/w/d)",
+      "org": "Natuvion GmbH",
       "role": "training",
       "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-research-eu-uk-berlin-88725",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-s-4hana-utilities-is-u-architect-berlin-372334",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795361488,
+      "postedAt": 1795458684,
       "tags": [
-        "Technology",
+        "Technical Migration",
         "Remote"
       ],
-      "summary": "Senior Data Scientist - Research (m/f/x) Location: EU (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empowe"
+      "summary": "Du begeisterst Dich für Datenmigration und technische Beratung in der SAP-Energiewirtschaft, möchtest die Zukunft von SAP S/4HANA Utilities aktiv mitgestalten und verfügst über fundiertes Modulwissen im SAP IS-U? Du arbeitest gern in agilen, internationalen Te"
     },
     {
-      "id": "arbeitnow:remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-311574",
-      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-      "org": "virtual7 GmbH",
-      "role": "hr",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-311574",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795361478,
-      "tags": [
-        "Customer Cluster Justice",
-        "Remote"
-      ],
-      "summary": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, "
-    },
-    {
-      "id": "arbeitnow:remote-senior-project-manager-koln-48801",
-      "title": "Senior Project Manager (m/w/d)",
-      "org": "epilot GmbH",
-      "role": "marketing",
+      "id": "arbeitnow:remote-sap-architect-fi-co-sd-berlin-461677",
+      "title": "SAP Architect FI/CO/SD (m/w/d)",
+      "org": "Natuvion GmbH",
+      "role": "project",
       "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-project-manager-koln-48801",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-architect-fi-co-sd-berlin-461677",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795361477,
+      "postedAt": 1795458684,
       "tags": [
-        "Projectmanagement",
+        "Technical Migration",
         "Remote"
       ],
-      "summary": "Du bist jemand, der gerne Verantwortung übernimmt und Projekte von der Planung bis zum erfolgreichen Abschluss begleitet? Bei uns wirst du zentrale:r Ansprechpartner:in für unsere Kunden, steuerst deren Projekte und trägst aktiv dazu bei, Leuchtturmprojekte zu"
+      "summary": "Möchtest du die Zukunft unserer Kunden aktiv mitgestalten und dabei sowohl fachlich als auch technisch Verantwortung übernehmen? Dann bist du bei uns genau richtig! Wir suchen einen SAP Architect FI/CO/SD (m/w/d) mit Schwerpunkt entweder im Finanzwesen (FI/CO)"
     },
     {
-      "id": "arbeitnow:mitarbeiter-im-kundenservice-homeoffice-teilzeit-20std-woche-berlin-194709",
-      "title": "Mitarbeiter im Kundenservice m/w/d Homeoffice Teilzeit 20Std. / Woche",
-      "org": "FITYES GmbH",
+      "id": "arbeitnow:remote-sap-consultant-erp-ewm-utilities-data-migration-berlin-218841",
+      "title": "SAP Consultant ERP/EWM/Utilities – Data Migration (m/w/d)",
+      "org": "Natuvion GmbH",
+      "role": "training",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-consultant-erp-ewm-utilities-data-migration-berlin-218841",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795458684,
+      "tags": [
+        "Technical Migration",
+        "Remote"
+      ],
+      "summary": "Du findest technische Beratung in Finance & Controlling, Logistik oder Utilities im SAP-Umfeld spannend, bist interessiert an Themen der Datenmigration und bringst ausgeprägte Modulkenntnisse in den SAP-Modulen mit? Du hast Lust in agilen und internationalen T"
+    },
+    {
+      "id": "arbeitnow:remote-senior-sap-abap-developer-architect-technical-migration-berlin-269633",
+      "title": "(Senior) SAP ABAP Developer/ Architect – Technical Migration (m/w/d)",
+      "org": "Natuvion GmbH",
+      "role": "project",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-abap-developer-architect-technical-migration-berlin-269633",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795458684,
+      "tags": [
+        "Technical Migration",
+        "Remote"
+      ],
+      "summary": "Als (Senior) SAP ABAP Developer /Architect – Technical Migration (m/w/d) bist du Treiber unserer digitalen Transformationsprojekte bei unseren nationalen und internationalen Kunden. Innerhalb unserer Datenmigrationsprojekte bringst du dich mit deiner technisch"
+    },
+    {
+      "id": "arbeitnow:werkstudent-marketplace-manager-amazon-tiktok-shop-temu-berlin-179896",
+      "title": "Werkstudent Marketplace Manager (m/w/d) – Amazon, TikTok Shop & Temu",
+      "org": "AMALOCK",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/amalock/werkstudent-marketplace-manager-amazon-tiktok-shop-temu-berlin-179896",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795451445,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "Du willst verstehen, warum Menschen ein Produkt anklicken, kaufen und weiterempfehlen? Bei AMALOCK arbeitest du genau daran: Du machst Marken sichtbar, verbesserst ihre Performance und hilfst dabei, neue Vertriebskanäle aufzubauen. Deine Arbeit zeigt sich dire"
+    },
+    {
+      "id": "arbeitnow:financial-services-specialist-berlin-450361",
+      "title": "Financial Services Specialist (m/w/d)",
+      "org": "1KOMMA5˚",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/financial-services-specialist-berlin-450361",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795451445,
+      "tags": [
+        "Remote",
+        "Credit Analysis"
+      ],
+      "summary": "1KOMMA5° Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free . Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, W"
+    },
+    {
+      "id": "arbeitnow:customer-success-manager-100-remote-berlin-442206",
+      "title": "Customer Success Manager (m/w/d) - 100% Remote",
+      "org": "ProviPanda GmbH",
       "role": "support",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/fityes-gmbh/mitarbeiter-im-kundenservice-homeoffice-teilzeit-20std-woche-berlin-194709",
+      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-100-remote-berlin-442206",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795361470,
+      "postedAt": 1795449650,
       "tags": [
         "Remote",
         "Customer Service"
       ],
-      "summary": "Mitarbeiter im Kundensupport (m/w/d) – Homeoffice | Teilzeit, 20 Std./Woche Du arbeitest gerne selbstständig, hast ein Gespür für Menschen und behältst auch bei offenen Beiträgen oder Vertragsfragen den Überblick? Dann unterstütze uns im Mitgliedersupport bei "
+      "summary": "ProviPanda ist ein wachsendes HR-Tech-Startup und mittlerweile die größte Sales-Job-App im DACH-Raum. Mit einem Team aus 15 Mitarbeitenden arbeiten wir daran, den Sales-HR-Markt zu revolutionieren und neu zu denken. Als Customer Success Manager bist du die zen"
     },
     {
-      "id": "arbeitnow:technischer-mitarbeiter-after-sales-support-vollzeit-100-remote-moglich-berlin-29412",
-      "title": "Technischer Mitarbeiter After Sales Support (m/w/d) | Vollzeit | 100 % Remote möglich",
-      "org": "Offgridtec AG",
-      "role": "support",
+      "id": "arbeitnow:founding-full-stack-engineer-berlin-304822",
+      "title": "Founding Full-Stack Engineer",
+      "org": "planqor.ai",
+      "role": "project",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/offgridtec-ag/technischer-mitarbeiter-after-sales-support-vollzeit-100-remote-moglich-berlin-29412",
+      "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-full-stack-engineer-berlin-304822",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795361469,
+      "postedAt": 1795449650,
       "tags": [
         "Remote",
-        "Customer Service"
+        "Software Development"
       ],
-      "summary": "Du kannst technische Probleme lösen und gleichzeitig so erklären, dass Kunden dich verstehen? Dann sollten wir uns kennenlernen. Wir suchen einen technischen Mitarbeiter im After Sales Support in Vollzeit (40h/Woche) Wir bei Offgridtec beschäftigen uns mit Pho"
+      "summary": "Founding Full-Stack Engineer Build the software systems around planqor.ai: the real-time decision layer that steers discrete manufacturing when production plans get disrupted. Born on the shop floor, co-founded by senior production experts, and with direct acc"
     },
     {
-      "id": "arbeitnow:teilzeit-rezeptentwicklung-ernahrungsplane-frankfurt-am-main-238253",
-      "title": "(Teilzeit) Rezeptentwicklung & Ernährungspläne (m/w/d)",
-      "org": "Frühlingszwiebel",
-      "role": "marketing",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/fruhlingszwiebel/teilzeit-rezeptentwicklung-ernahrungsplane-frankfurt-am-main-238253",
+      "id": "arbeitnow:founding-optimization-engineer-berlin-97593",
+      "title": "Founding Optimization Engineer",
+      "org": "planqor.ai",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-optimization-engineer-berlin-97593",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795361469,
+      "postedAt": 1795449648,
       "tags": [
         "Remote",
-        "Social Media Manager"
+        "Software Development"
       ],
-      "summary": "Wir sind Frühlingszwiebel. Über 850.000 Menschen auf Instagram kochen mit unseren Rezepten, dazu Kochbücher, Challenges und ein Newsletter mit über 100.000 Leserinnen. Unser Prinzip: Eat Right Not Less. Aufgaben - Du unterstützt bei der Erstellung unserer Ernä"
+      "summary": "Founding Optimization Engineer Build the algorithmic core of planqor.ai: the real-time decision layer that steers discrete manufacturing when production plans get disrupted. Born on the shop floor, co-founded by senior production experts, and with direct acces"
+    },
+    {
+      "id": "arbeitnow:controller-berlin-379320",
+      "title": "Controller (m/w/d)",
+      "org": "DONE!Financials GmbH",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/donefinancials-gmbh/controller-berlin-379320",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795442458,
+      "tags": [
+        "Remote",
+        "Controlling"
+      ],
+      "summary": "Controlling & Consulting | Vollzeit | Schönefeld bei Berlin Schön, dass Du hier bist! Werde Teil unserer Mission: Buchhaltung besser, verständlicher und greifbarer machen. Wie oft wird über das komplizierte Steuersystem und die deutsche Bürokratie gejammert? W"
+    },
+    {
+      "id": "arbeitnow:brand-produktmanager-e-commerce-vollzeit-remote-first-berlin-248973",
+      "title": "Brand- & Produktmanager E-Commerce (m/w/d) – Vollzeit – Remote-first",
+      "org": "InnoVentures GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/innoventures-gmbh/brand-produktmanager-e-commerce-vollzeit-remote-first-berlin-248973",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795442458,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "Über InnoVentures Die InnoVentures GmbH entwickelt und vertreibt unter der Marke LOBENSWERK Sanitär- und Haushaltsprodukte für Bad und Küche – vom WC-Sitz über Duschköpfe bis zum Reinigungszubehör. Verkauft wird vor allem über Amazon, dazu über weitere Marktpl"
+    },
+    {
+      "id": "arbeitnow:kundendienstmitarbeiter-forderungsmanagement-franzosisch-berlin-110399",
+      "title": "Kundendienstmitarbeiter Forderungsmanagement Französisch (m/w/d)",
+      "org": "UAI SOLUTIONS",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/uai-solutions/kundendienstmitarbeiter-forderungsmanagement-franzosisch-berlin-110399",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795438859,
+      "tags": [
+        "Remote",
+        "Accounts Receivable"
+      ],
+      "summary": "Gemeinsam halten wir Prozesse in Bewegung. Die UAI SOLUTIONS Firmengruppe entwickelt und betreibt innovative Lösungen für Mobilität, Verwaltungsprozesse und internationale Dienstleistungen in Europa. Unser Ziel ist es, Mobilität einfacher, transparenter und ef"
+    },
+    {
+      "id": "arbeitnow:remote-major-account-executive-uk-public-sector-15450",
+      "title": "Major Account Executive, UK Public Sector",
+      "org": "gitlab",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-major-account-executive-uk-public-sector-15450",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795449324,
+      "tags": [
+        "EMEA - Enterprise"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+    },
+    {
+      "id": "arbeitnow:remote-major-account-executive-france-116568",
+      "title": "Major Account Executive, France",
+      "org": "gitlab",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-major-account-executive-france-116568",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795449324,
+      "tags": [
+        "EMEA - Enterprise"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+    },
+    {
+      "id": "arbeitnow:remote-senior-account-executive-156994",
+      "title": "Senior Account Executive",
+      "org": "gitlab",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gitlab/remote-senior-account-executive-156994",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795449324,
+      "tags": [
+        "EMEA - Commercial"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digit"
+    },
+    {
+      "id": "arbeitnow:fpa-specialist-ai-expert-remote-emea-switzerland-70963",
+      "title": "FP&A Specialist, AI Expert (Remote, EMEA)",
+      "org": "Weekday 1",
+      "role": "training",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/weekday-1/fpa-specialist-ai-expert-remote-emea-switzerland-70963",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795447205,
+      "tags": [
+        "AI Training",
+        "Remote"
+      ],
+      "summary": "This role is for one of our clients Compensation: $70 - $100 per hour Location: Remote – United Kingdom, Ireland, Germany, Spain, or Switzerland Employment Type: Full-Time Workload: Approximately 40 hours per week Compensation: Based on location and profession"
+    },
+    {
+      "id": "arbeitnow:freelance-product-manager-ai-for-quality-regulatory-zurich-201759",
+      "title": "Freelance Product Manager – AI for Quality & Regulatory",
+      "org": "Acodis AG",
+      "role": "marketing",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/acodis-ag/freelance-product-manager-ai-for-quality-regulatory-zurich-201759",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795428068,
+      "tags": [
+        "Remote",
+        "Product Management"
+      ],
+      "summary": "About Acodis Acodis is a Swiss software company based in Winterthur, providing AI-driven document processing for global Life Sciences companies. We help Quality and Regulatory teams move from document-centric to data-driven ways of working. The Mandate We are "
+    },
+    {
+      "id": "arbeitnow:quality-master-bern-210554",
+      "title": "Quality Master",
+      "org": "Coopers Group AG",
+      "role": "project",
+      "location": "Bern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/quality-master-bern-210554",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795426254,
+      "tags": [
+        "Remote",
+        "Quality Assurance",
+        "Inspection"
+      ],
+      "summary": "................ Für unseren Kunden aus der Versicherungsbranche in Bern, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Quality Master. Für die Sicherstellung einer hohen Softwarequalität innerhalb eines Agile Release Trains (ART) suchen wi"
     },
     {
       "id": "arbeitnow:remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018",
@@ -356,6 +465,23 @@
       "summary": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest im Sprint mit und ve"
     },
     {
+      "id": "arbeitnow:remote-ai-engineer-rotterdam-22878",
+      "title": "AI Engineer",
+      "org": "AnywhereNow",
+      "role": "training",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-ai-engineer-rotterdam-22878",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795437102,
+      "tags": [
+        "Product Development",
+        "Remote"
+      ],
+      "summary": "Founded in 2010 in the Netherlands, AnywhereNow is a global leader in Enterprise Dialogue Management, with a vision to ensure every employee and customer feels heard, understood, and valued. Today, our team of approximately 240 employees spans 22 countries, su"
+    },
+    {
       "id": "arbeitnow:major-account-executive-remote-netherlands-435173",
       "title": "Major Account Executive | Remote | Netherlands",
       "org": "grafanalabs",
@@ -386,39 +512,6 @@
         "Value Engineering"
       ],
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise "
-    },
-    {
-      "id": "arbeitnow:senior-product-designer-remote-in-europe-amsterdam-443609",
-      "title": "Senior Product Designer (Remote in Europe)",
-      "org": "Finom",
-      "role": "marketing",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/finom/senior-product-designer-remote-in-europe-amsterdam-443609",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795231606,
-      "tags": [
-        "Product Design"
-      ],
-      "summary": "About Finom Finom is a European tech startup headquartered in Amsterdam, and we’re on a journey towards revolutionizing the financial landscape for entrepreneurs worldwide. Our mission is to develop an all-in-one financial B2B solution that integrates banking "
-    },
-    {
-      "id": "arbeitnow:remote-backend-software-developer-hilversum-417173",
-      "title": "Backend Software Developer",
-      "org": "Dawn Technology",
-      "role": "training",
-      "location": "Werken op afstand",
-      "url": "https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795210287,
-      "tags": [
-        "Dawn Technology",
-        "Remote"
-      ],
-      "summary": "Backend Software Developer – Maatwerk Software met Impact Wij weten dat wat op het eerste gezicht eenvoudig lijkt, vaak complexer is dan men denkt. En wij begrijpen dat technologie geen barrière mag zijn, maar juist de verbinding naar een bestendige maatschapp"
     },
     {
       "id": "remotive:1680495",
@@ -577,24 +670,6 @@
         "UI/UX"
       ],
       "summary": "We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental health. You’ll work closely with and report to our "
-    },
-    {
-      "id": "remotive:2091161",
-      "title": "AI Trainer - Video Annotation",
-      "org": "iMerit Technology",
-      "role": "training",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
-      "source": "Remotive",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": "2026-10-22T18:40:19",
-      "tags": [
-        "video",
-        "AI/ML",
-        "robotics"
-      ],
-      "summary": "AI Trainer - Video Annotation Remote | Independent Contractor Prove your skills. Get certified. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them. We are inviting detail-oriented pro"
     }
   ]
 }
