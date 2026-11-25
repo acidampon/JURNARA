@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T08:48:05.876Z",
+  "updatedAt": "2026-11-25T21:48:49.830Z",
   "sourceCount": 2,
-  "totalFetched": 315,
-  "relevantCount": 35,
+  "totalFetched": 316,
+  "relevantCount": 43,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,68 +11,36 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:business-development-representative-emea-england-241847",
-      "title": "Business Development Representative (EMEA)",
-      "org": "Docker",
-      "role": "training",
-      "location": "England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/docker/business-development-representative-emea-england-241847",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795588809,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "About Docker Docker is the platform at the center of how intelligent software gets built. For more than a decade, Docker has helped millions of developers and thousands of organizations build, ship, and run software consistently across any environment. Today, "
-    },
-    {
-      "id": "arbeitnow:staff-software-engineer-revenue-intelligence-285198",
-      "title": "Staff Software Engineer - Revenue Intelligence",
-      "org": "Cloudbedsthirdpartyboard",
-      "role": "training",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/staff-software-engineer-revenue-intelligence-285198",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795578917,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;𝗪𝗵𝗮𝘁 𝗠𝗮𝗸𝗲𝘀 𝗖𝗹𝗼𝘂𝗱𝗯𝗲𝗱𝘀 𝗨𝗻𝗶𝗾𝘂𝗲&lt;/p&gt; &lt;p&gt;At &lt;a href=\"https://www.cloudbeds.com/\"&gt;Cloudbeds&lt;/a&gt;, we're not just building software, we're transforming hospitality. Our platform p"
-    },
-    {
-      "id": "arbeitnow:meridial-senior-research-software-engineer-image-processing-london-281803",
-      "title": "Meridial – Senior Research Software Engineer – Image Processing",
-      "org": "Convergentresearch",
-      "role": "project",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/convergentresearch/meridial-senior-research-software-engineer-image-processing-london-281803",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795576022,
-      "tags": [
-        "Meridial"
-      ],
-      "summary": "About Meridial Meridial is a Focused Research Organisation (FRO) with a mission to bring connectomics into the living brain. We are building a platform for longitudinal, synapse-resolution mapping of functional neural circuitry in preclinical models. Our aim i"
-    },
-    {
-      "id": "arbeitnow:game-developer-midcore-games-paris-307944",
-      "title": "Game Developer - Midcore Games",
-      "org": "Voodoo",
+      "id": "arbeitnow:senior-compliance-operations-analyst-kyb-london-299890",
+      "title": "Senior Compliance Operations Analyst (KYB)",
+      "org": "Plasma",
       "role": "marketing",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/game-developer-midcore-games-paris-307944",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/plasma/senior-compliance-operations-analyst-kyb-london-299890",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795588810,
+      "postedAt": 1795632014,
       "tags": [
-        "Gaming"
+        "Customer Experience"
       ],
-      "summary": "About Voodoo Voodoo is a consumer tech company founded in Paris in 2013, with one mission: entertain the world. Today we are 1,000 people, generating $1b+ in annual revenue, profitably. Our games and apps have passed 7 billion downloads and reach 200 million+ "
+      "summary": "About Plasma Plasma is building the primary account for global money. Money used to belong to a country. Increasingly, it belongs to a person or business moving through many countries. People and businesses now earn, spend, save, hire and invest across borders"
+    },
+    {
+      "id": "arbeitnow:key-account-manager-zurich-323984",
+      "title": "Key Account Manager",
+      "org": "Flink",
+      "role": "project",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/flink/key-account-manager-zurich-323984",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795610429,
+      "tags": [
+        "Deployment & Growth"
+      ],
+      "summary": "Key Account Manager Flink Robotics is a fast-paced startup, out of ETH Zürich’s Computational Robotics Lab, building autonomous robots that can handle any item—including ones they’ve never seen before. We’re revolutionising material handling, from stacking box"
     },
     {
       "id": "arbeitnow:staff-software-engineer-revenue-intelligence-295603",
@@ -91,256 +59,331 @@
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;𝗪𝗵𝗮𝘁 𝗠𝗮𝗸𝗲𝘀 𝗖𝗹𝗼𝘂𝗱𝗯𝗲𝗱𝘀 𝗨𝗻𝗶𝗾𝘂𝗲&lt;/p&gt; &lt;p&gt;At &lt;a href=\"https://www.cloudbeds.com/\"&gt;Cloudbeds&lt;/a&gt;, we're not just building software, we're transforming hospitality. Our platform p"
     },
     {
-      "id": "arbeitnow:software-engineer-ii-autonomous-supply-chains-amsterdam-120266",
-      "title": "Software Engineer II: Autonomous Supply Chains",
-      "org": "Flexport",
+      "id": "arbeitnow:senior-software-engineer-amsterdam-48232",
+      "title": "Senior Software Engineer",
+      "org": "GreenFlux",
       "role": "marketing",
-      "location": "Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/flexport/software-engineer-ii-autonomous-supply-chains-amsterdam-120266",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/greenflux/senior-software-engineer-amsterdam-48232",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795535739,
+      "postedAt": 1795609893,
+      "tags": [
+        "IT Development"
+      ],
+      "summary": "The company Smart Electric Vehicle Charging Solutions. That’s the business we are in! GreenFlux offers a cloud-based charge point management SaaS solution. This software platform connects Charge Point Operators (CPOs) and e-Mobility Service Providers (eMSPs – "
+    },
+    {
+      "id": "arbeitnow:strategy-ops-lead-applied-ai-berlin-333117",
+      "title": "Strategy & Ops Lead, Applied AI",
+      "org": "Clipboard",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/clipboard/strategy-ops-lead-applied-ai-berlin-333117",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795632017,
+      "tags": [
+        "Operations"
+      ],
+      "summary": "About Clipboard Our mission is to uplift as many communities as possible. We do this through our app-based marketplace that connects healthcare professionals with the workplaces that need amazing workers. This enables hundreds of thousands of people to achieve"
+    },
+    {
+      "id": "arbeitnow:organic-growth-manager-seo-ai-search-berlin-108729",
+      "title": "Organic Growth Manager (SEO & AI Search)",
+      "org": "Cosuno",
+      "role": "marketing",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/organic-growth-manager-seo-ai-search-berlin-108729",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795632012,
+      "tags": [
+        "Marketing"
+      ],
+      "summary": "Organic Growth & Content Manager (m/f/d) Your Mission Make Cosuno the leading digital authority in the construction industry. Cosuno is the AI construction platform connecting the European construction industry. We're transforming one of Europe's largest and s"
+    },
+    {
+      "id": "arbeitnow:gtm-growth-engineer-berlin-167597",
+      "title": "GTM & Growth Engineer",
+      "org": "Cosuno",
+      "role": "marketing",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/gtm-growth-engineer-berlin-167597",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795632012,
+      "tags": [
+        "Marketing"
+      ],
+      "summary": "GTM & Growth Engineer (m/f/d) Your Mission Build the intelligent growth engine behind one of construction's leading digital platforms. Thousands of construction companies use Cosuno to find partners, publish tenders, submit bids and award contracts. Every inte"
+    },
+    {
+      "id": "arbeitnow:senior-crm-lifecycle-manager-berlin-58002",
+      "title": "Senior CRM & Lifecycle Manager",
+      "org": "Cosuno",
+      "role": "marketing",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-crm-lifecycle-manager-berlin-58002",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795632012,
+      "tags": [
+        "Marketing"
+      ],
+      "summary": "Senior Lifecycle & Customer Growth Manager (m/f/d) Your Mission Build the next generation of customer growth at Cosuno. Cosuno is the AI construction platform connecting the European construction industry. Every day, thousands of construction companies use our"
+    },
+    {
+      "id": "arbeitnow:linguist-somali-ui-technical-marketing-remote-247010",
+      "title": "Linguist - Somali - UI Technical / Marketing - Remote",
+      "org": "LILT (Production)",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-somali-ui-technical-marketing-remote-247010",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795632011,
+      "tags": [
+        "LiltLancer Community"
+      ],
+      "summary": "About the Opportunity We are expanding our talent network and seeking skilled Somali-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of market-specific nuances a"
+    },
+    {
+      "id": "arbeitnow:senior-leadership-ai-enablement-consultant-berlin-186615",
+      "title": "Senior Leadership & AI Enablement Consultant (w/d/m)",
+      "org": "WEBUILDAI GmbH",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/webuildai-gmbh/senior-leadership-ai-enablement-consultant-berlin-186615",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795626055,
+      "tags": [
+        "Remote",
+        "Business Consulting"
+      ],
+      "summary": "Führungskräfte sollen entscheiden, wo AI in ihrem Bereich hilft. Viele können nicht einschätzen, ob ein Prozess RPA, generative AI oder einen Agenten braucht und ob die Daten reichen. Mit dir lernen sie das an einem eigenen Use Case, den sie über mehrere Woche"
+    },
+    {
+      "id": "arbeitnow:remote-senior-python-backend-engineer-berlin-277686",
+      "title": "Senior Python Backend Engineer (m/f/x)",
+      "org": "Makersite GmbH",
+      "role": "hr",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-python-backend-engineer-berlin-277686",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795620691,
+      "tags": [
+        "Technology",
+        "Remote"
+      ],
+      "summary": "Job Title: (Senior) Python Engineer (m/f/x) Location: EU (Remote) Who You’ll Work For: At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empo"
+    },
+    {
+      "id": "arbeitnow:projektassistenz-content-management-fokus-seo-dortmund-287752",
+      "title": "Projektassistenz & Content-Management (m/w/d) - Fokus SEO",
+      "org": "Sumax",
+      "role": "marketing",
+      "location": "Dortmund",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumax/projektassistenz-content-management-fokus-seo-dortmund-287752",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795618855,
+      "tags": [
+        "Remote",
+        "Social Media Manager"
+      ],
+      "summary": "Zur Unterstützung eines spannenden internationalen Projekts suchen wir ab sofort ein engagiertes Teammitglied, das nicht nur Texte liebt, sondern auch einen Blick für Details und Struktur hat. Wenn du Lust hast, aktiv an der Gestaltung und Optimierung digitale"
+    },
+    {
+      "id": "arbeitnow:remote-sr-data-platform-engineer-85741",
+      "title": "Sr Data Platform Engineer",
+      "org": "dataiku",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-sr-data-platform-engineer-85741",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795622124,
+      "tags": [
+        "Enterprise Data & Analytics"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\"&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestra"
+    },
+    {
+      "id": "arbeitnow:remote-fullstack-software-engineer-core-engineering-469912",
+      "title": "Fullstack Software Engineer - Core Engineering",
+      "org": "dataiku",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-469912",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795622124,
       "tags": [
         "Engineering"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2&gt;&lt;strong&gt;About Flexport:&nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be mo"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\"&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestra"
     },
     {
-      "id": "arbeitnow:sap-abap-entwickler-bis-zu-80-remote-berlin-184543",
-      "title": "SAP ABAP Entwickler (m/w/d) bis zu 80%-Remote",
-      "org": "VOLENTUM Deutschland GmbH",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/volentum-deutschland-gmbh/sap-abap-entwickler-bis-zu-80-remote-berlin-184543",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795591870,
-      "tags": [
-        "Remote",
-        "SAP/ERP Consulting",
-        "Development"
-      ],
-      "summary": "Unser Kunde ist ein etabliertes Industrieunternehmen und Teil einer Unternehmensgruppe mit über 1.000 Mitarbeitenden. Moderne, hochautomatisierte Fertigungsprozesse, eine hohe Variantenvielfalt und eine leistungsfähige Logistik prägen das industrielle Umfeld. "
-    },
-    {
-      "id": "arbeitnow:remote-customer-success-manager-italy-full-cycle-56940",
-      "title": "Customer Success Manager – Italy (full-cycle)",
-      "org": "Luminovo GmbH",
-      "role": "training",
-      "location": "🇪🇺 Europe (remote)",
-      "url": "https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/remote-customer-success-manager-italy-full-cycle-56940",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795588811,
-      "tags": [
-        "Revenue"
-      ],
-      "summary": "From autonomous vehicles to medical devices, we believe the electronics industry is at the heart of global innovation - and we’re here to remove the bottlenecks that slow it down. Luminovo helps innovators to bring new electronic products to life: faster, chea"
-    },
-    {
-      "id": "arbeitnow:senior-social-media-managerin-gn-berlin-310778",
-      "title": "(Senior) Social Media Manager:in (gn)",
-      "org": "Intermate Media GmbH",
-      "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-social-media-managerin-gn-berlin-310778",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795588284,
-      "tags": [
-        "Remote",
-        "Marketing and Communication"
-      ],
-      "summary": "Jobbeschreibung Intermate x SAMY – Shaping the State of Social Intermate gehört zu den größten Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, Köln und Remote entwickeln wir Social-First-Strategien, produzieren C"
-    },
-    {
-      "id": "arbeitnow:founders-associate-pflichtpraktikum-all-genders-berlin-448134",
-      "title": "Founders Associate Pflichtpraktikum (all genders)",
-      "org": "Code Gaia",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/code-gaia/founders-associate-pflichtpraktikum-all-genders-berlin-448134",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795588282,
-      "tags": [
-        "Remote",
-        "Business Development"
-      ],
-      "summary": "JOIN US Das Nachhaltigkeitsteam bei Code Gaia ist dafür verantwortlich, dass die Arbeit, die wir leisten, genau den Bedürfnissen unserer Partner und Nutzer entspricht. Das Team besteht aus erfahrenen und aufstrebenden Nachhaltigkeitsexpert:innen, die alle den "
-    },
-    {
-      "id": "arbeitnow:accountant-all-genders-berlin-53663",
-      "title": "Accountant (all genders)",
-      "org": "Code Gaia",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/code-gaia/accountant-all-genders-berlin-53663",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795588282,
-      "tags": [
-        "Remote",
-        "Finance"
-      ],
-      "summary": "JOIN US Bei Code Gaia zu arbeiten bedeutet, dass du an etwas sehr Wichtigem arbeitest: Der Transformation zu einer nachhaltigen Wirtschaft. Wir sind dafür da, dass Nachhaltigkeit nicht mühsam oder zeitaufwendig für Unternehmen ist. Stattdessen wollen wir klein"
-    },
-    {
-      "id": "arbeitnow:senior-gtm-engineer-berlin-164519",
-      "title": "(Senior) GTM-Engineer (m/w/d)",
-      "org": "Boardwise GmbH",
+      "id": "arbeitnow:remote-sr-data-platform-engineer-377566",
+      "title": "Sr Data Platform Engineer",
+      "org": "dataiku",
       "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-gtm-engineer-berlin-164519",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-sr-data-platform-engineer-377566",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795588282,
+      "postedAt": 1795622124,
       "tags": [
-        "Remote",
-        "Marketing and Communication"
+        "Enterprise Data & Analytics"
       ],
-      "summary": "Deine Aufgaben Du möchtest Verantwortung übernehmen, echte Wirkung erzielen und die Zukunft moderner GTM-Prozesse mitgestalten? Dann bist Du bei uns genau richtig. Als (Senior) GTM-Engineer (m/w/d) baust und skalierst Du unsere moderne B2B GTM Engine. Du verbi"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\"&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestra"
     },
     {
-      "id": "arbeitnow:l1-reports-engineer-berlin-411198",
-      "title": "L1- Reports Engineer (m/w/d)",
-      "org": "Boardwise GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/l1-reports-engineer-berlin-411198",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795588278,
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "summary": "Deine Aufgaben Erste Anlaufstelle für Anfragen unserer Kunden Klare, freundliche und strukturierte Kommunikation mit Kunden Analyse und Lösung eingehender Kundensupport-Tickets Erstellung und Anpassung von Reports mit Handlebars.js gemäß Kundenanforderungen Un"
-    },
-    {
-      "id": "arbeitnow:seo-manager-berlin-139019",
-      "title": "SEO Manager (m/f/d)",
-      "org": "We Love X GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/we-love-x-gmbh/seo-manager-berlin-139019",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795588277,
-      "tags": [
-        "Remote",
-        "Online Marketing"
-      ],
-      "summary": "About the Job We're looking for an SEO Manager to get hands-on with our affiliate portfolio and grow it. You'll work directly with some of the biggest publishers in the world, and your work will show up in the numbers — fast. You'll work across two areas: driv"
-    },
-    {
-      "id": "arbeitnow:senior-customer-success-manager-berlin-90901",
-      "title": "Senior Customer Success Manager (m/f/d)",
-      "org": "Boardwise GmbH",
-      "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-customer-success-manager-berlin-90901",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795588275,
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "summary": "Your mission As a Senior Customer Success Manager at Boardwise, you will help our enterprise customers successfully implement, adopt, and scale Boardwise across their organisation. You act as a trusted advisor for board offices, executive assistants, governanc"
-    },
-    {
-      "id": "arbeitnow:didnt-find-a-suitable-position-show-us-what-youve-got-with-an-unsolicited-application-berlin-371019",
-      "title": "Didn't find a suitable position? – Show Us What You’ve Got with an Unsolicited Application!",
-      "org": "Amperecloud GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/didnt-find-a-suitable-position-show-us-what-youve-got-with-an-unsolicited-application-berlin-371019",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795588274,
-      "tags": [
-        "Remote",
-        "IT"
-      ],
-      "summary": "Job Description Are you ready to be part of an innovative team driving the clean energy transition? At Amperecloud, we are building the platform for automated production, trading and consumption across all forms and market players in renewable energy. As a Mar"
-    },
-    {
-      "id": "arbeitnow:vertriebsmitarbeiter-kreditvermittlung-im-homeoffice-berlin-238492",
-      "title": "Vertriebsmitarbeiter Kreditvermittlung im Homeoffice (w/m/d)",
-      "org": "FFG FINANZCHECK Finanzportale GmbH",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/ffg-finanzcheck-finanzportale-gmbh/vertriebsmitarbeiter-kreditvermittlung-im-homeoffice-berlin-238492",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795588272,
-      "tags": [
-        "Remote",
-        "Private Banking"
-      ],
-      "summary": "Wir sind Finanzcheck – der Online-Kreditvergleich und Go-To-Place für Kredite in Deutschland. Wir gestalten den digitalen Kreditmarkt der Zukunft und wurden 2022 als Kununu Top Arbeitgeber ausgezeichnet. Werde jetzt Teil unserer Erfolgsgeschichte! Zur Verstärk"
-    },
-    {
-      "id": "arbeitnow:initiativbewerbung-berlin-422658",
-      "title": "Initiativbewerbung (m/w/d)",
-      "org": "Nitrado (marbis GmbH)",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/initiativbewerbung-berlin-422658",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795588270,
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "summary": "Einleitung Es ist momentan keine für dich passende Stelle ausgeschrieben? Wir sind immer auf der Suche nach motivierten und kreativen Köpfen, die Ihren Beruf mit Leidenschaft machen. Das trifft auf dich zu? Dann lass uns gerne eine Initiativbewerbung zukommen!"
-    },
-    {
-      "id": "arbeitnow:remote-regulatory-manager-senior-regulatory-manager-444277",
-      "title": "Regulatory Manager / Senior Regulatory Manager",
-      "org": "Precisionmedicinegroup",
+      "id": "arbeitnow:remote-fullstack-software-engineer-core-engineering-188174",
+      "title": "Fullstack Software Engineer - Core Engineering",
+      "org": "dataiku",
       "role": "training",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-regulatory-manager-senior-regulatory-manager-444277",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-188174",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795568119,
+      "postedAt": 1795622124,
       "tags": [
-        "Clinical Solutions"
+        "Engineering"
       ],
-      "summary": "&lt;p&gt;&lt;span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\"&gt;Precision for Medicine is not your typical CRO.&nbsp; At Precision for Medicine we have brought together new technologies, expertise and operational scale to help the life"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\"&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestra"
     },
     {
-      "id": "arbeitnow:remote-clinical-project-manager-senior-clinical-project-manager-136716",
-      "title": "Clinical Project Manager / Senior Clinical Project Manager",
-      "org": "Precisionmedicinegroup",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-clinical-project-manager-senior-clinical-project-manager-136716",
+      "id": "arbeitnow:product-privacy-legal-counsel-anywhere-in-france-493903",
+      "title": "Product & privacy legal counsel",
+      "org": "Alan",
+      "role": "marketing",
+      "location": "Anywhere in France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/product-privacy-legal-counsel-anywhere-in-france-493903",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795568119,
+      "postedAt": 1795621219,
       "tags": [
-        "Clinical Solutions"
+        "Corporate"
       ],
-      "summary": "&lt;p&gt;Are you an experienced full service Project Manager in the field of clinical trials who’s engaged in addressing the challenges facing the research and development of novel compounds in Oncology. Are you passionate about impacting the health and lives "
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
+    },
+    {
+      "id": "arbeitnow:fullstack-software-engineer-medical-software-anywhere-in-france-97061",
+      "title": "Fullstack Software Engineer (x/f/m) - Medical Software",
+      "org": "Alan",
+      "role": "project",
+      "location": "Anywhere in France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/fullstack-software-engineer-medical-software-anywhere-in-france-97061",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795621219,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
+    },
+    {
+      "id": "arbeitnow:clinical-lead-womens-health-anywhere-in-france-219017",
+      "title": "Clinical Lead, Women's Health",
+      "org": "Alan",
+      "role": "training",
+      "location": "Anywhere in France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/clinical-lead-womens-health-anywhere-in-france-219017",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795621219,
+      "tags": [
+        "Health Practitioners"
+      ],
+      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
+    },
+    {
+      "id": "arbeitnow:remote-group-fitness-instructor-la-chaux-de-fonds-313962",
+      "title": "Group Fitness Instructor (m/w/d)",
+      "org": "PureGym AG",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-group-fitness-instructor-la-chaux-de-fonds-313962",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795620690,
+      "tags": [
+        "Live Group Fitness",
+        "Remote"
+      ],
+      "summary": "En tant que membre du groupe international PureGym, qui compte plus de 2 millions de membres, nous faisons partie des trois plus grandes chaînes de fitness en Europe. Nous sommes ainsi idéalement positionnés pour poursuivre et réaliser nos objectifs ambitieux."
+    },
+    {
+      "id": "arbeitnow:remote-group-fitness-instructor-cornavin-10796",
+      "title": "Group Fitness Instructor (m/w/d)",
+      "org": "PureGym AG",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-group-fitness-instructor-cornavin-10796",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795620690,
+      "tags": [
+        "Live Group Fitness",
+        "Remote"
+      ],
+      "summary": "En tant que membre du groupe international PureGym, qui compte plus de 2 millions de membres, nous faisons partie des trois plus grandes chaînes de fitness en Europe. Nous sommes ainsi idéalement positionnés pour poursuivre et réaliser nos objectifs ambitieux."
+    },
+    {
+      "id": "arbeitnow:remote-group-fitness-instructor-lausanne-prilly-288487",
+      "title": "Group Fitness Instructor (m/w/d)",
+      "org": "PureGym AG",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-group-fitness-instructor-lausanne-prilly-288487",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795620690,
+      "tags": [
+        "Live Group Fitness",
+        "Remote"
+      ],
+      "summary": "En tant que membre du groupe international PureGym, qui compte plus de 2 millions de membres, nous faisons partie des trois plus grandes chaînes de fitness en Europe. Nous sommes ainsi idéalement positionnés pour poursuivre et réaliser nos objectifs ambitieux."
+    },
+    {
+      "id": "arbeitnow:head-of-support-fully-remote-zurich-271310",
+      "title": "Head of Support (m/f/d) – Fully Remote",
+      "org": "what. AG",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/what-ag/head-of-support-fully-remote-zurich-271310",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795620690,
+      "tags": [
+        "Tech Team",
+        "Remote"
+      ],
+      "summary": "Location: fully remote, work from anywhere About what. AG what. is a Zurich-based digital agency. We build websites, e-commerce and growth marketing for Swiss SMEs — and we’re pushing hard into AI-driven delivery, from our own Support Agent to our what. growth"
     },
     {
       "id": "arbeitnow:senior-marketer-ai-expert-remote-emea-switzerland-436216",
@@ -360,122 +403,228 @@
       "summary": "This role is for one of our clients Compensation: $60 - $85 per hour Location: Remote – United Kingdom, Ireland, Germany, Spain, or Switzerland Experience: 7+ Years Employment Type: Full-Time Work Commitment: Approximately 40 Hours per Week Compensation: Based"
     },
     {
-      "id": "arbeitnow:senior-business-analyst-data-process-transformation-bern-221671",
-      "title": "Senior Business Analyst (Data & Process Transformation)",
-      "org": "Coopers Group AG",
+      "id": "arbeitnow:remote-senior-ui-ux-artist-freelance-talent-pool-2027-netherlands-147530",
+      "title": "Senior UI/ UX Artist Freelance Talent Pool (2027)",
+      "org": "Keywords Intl1",
       "role": "project",
-      "location": "Bern",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-business-analyst-data-process-transformation-bern-221671",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-ui-ux-artist-freelance-talent-pool-2027-netherlands-147530",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795532453,
+      "postedAt": 1795612812,
       "tags": [
-        "Remote",
-        "Consulting",
-        "Engineering"
-      ],
-      "summary": "................ Für unseren Kunden aus der Logistikbranche in Bern, suchen wir eine:n motivierte:n und aufgeschlossene:n Senior Business Analyst (Data & Process Transformation). Unser Kunde treibt die Weiterentwicklung zentraler Steuerungs-, Abrechnungs- und "
-    },
-    {
-      "id": "arbeitnow:remote-freelancer-group-fitness-instructor-cornavin-462282",
-      "title": "Freelancer - Group Fitness Instructor (m/w/d)",
-      "org": "PureGym AG",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-freelancer-group-fitness-instructor-cornavin-462282",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795512696,
-      "tags": [
-        "Live Group Fitness",
+        "Art/Creative",
+        "Computer Games",
+        "Art Services",
         "Remote"
       ],
-      "summary": "En tant que membre du groupe international PureGym , qui compte plus de 2 millions de membres, nous faisons partie des trois plus grandes chaînes de fitness en Europe. Nous sommes ainsi idéalement positionnés pour poursuivre et réaliser nos objectifs ambitieux"
+      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior UI/ UX Artists,"
     },
     {
-      "id": "arbeitnow:pki-iam-engineer-zurich-300405",
-      "title": "PKI & IAM Engineer",
-      "org": "Coopers Group AG",
+      "id": "arbeitnow:remote-senior-ui-programmer-freelance-talent-pool-2027-opportunities-netherlands-432078",
+      "title": "Senior U.I. Programmer - Freelance Talent Pool (2027 Opportunities)",
+      "org": "Keywords Intl1",
       "role": "project",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/pki-iam-engineer-zurich-300405",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-ui-programmer-freelance-talent-pool-2027-opportunities-netherlands-432078",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795510859,
+      "postedAt": 1795612812,
       "tags": [
-        "Remote",
-        "IT Security"
+        "Engineering",
+        "Computer Games",
+        "Game Development",
+        "Remote"
       ],
-      "summary": "................ Für ein langfristiges Projekt (mit Aussicht auf Festanstellung falls gewünscht) bei unserem Kunden aus der Finanzbranche in Zürich, suchen wir eine:n erfahrene:n und aufgeschlossene:n PKI & IAM Engineer . In dieser vielseitigen Rolle übernimms"
+      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior U.I. Programmer"
     },
     {
-      "id": "arbeitnow:customer-operations-specialist-zurich-373145",
-      "title": "Customer Operations Specialist",
-      "org": "Coopers Group AG",
-      "role": "training",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-373145",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795509034,
-      "tags": [
-        "Remote",
-        "Customer Service"
-      ],
-      "summary": "................ For our client in Ticino , we are looking for an experienced and open-minded Customer Operations Specialist . In this role, you will have the opportunity to provide technical, order, and payment-related assistance/support to the internal and e"
-    },
-    {
-      "id": "arbeitnow:solution-architect-customer-touchpoints-cloud-transformation-zurich-258035",
-      "title": "Solution Architect Customer Touchpoints & Cloud Transformation",
-      "org": "Coopers Group AG",
+      "id": "arbeitnow:remote-senior-technical-vfx-artist-freelance-talent-pool-2027-opportunities-netherlands-243915",
+      "title": "Senior Technical/ VFX Artist - Freelance Talent Pool (2027 Opportunities)",
+      "org": "Keywords Intl1",
       "role": "project",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/solution-architect-customer-touchpoints-cloud-transformation-zurich-258035",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-technical-vfx-artist-freelance-talent-pool-2027-opportunities-netherlands-243915",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795509033,
+      "postedAt": 1795612812,
       "tags": [
-        "Remote",
-        "Software Development"
+        "Art/Creative",
+        "Computer Games",
+        "Art Services",
+        "Remote"
       ],
-      "summary": "................ Für unseren Kunden aus der Logistikbranche in Bern, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n Solution Architect Customer Touchpoints & Cloud Transformation. In einem anspruchsvollen Umfeld mit komplexen Systemlandschaf"
+      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for an experienced freelance Senior Technical/ VFX artists with the"
     },
     {
-      "id": "arbeitnow:finance-controller-anywhere-in-the-netherlands-364874",
-      "title": "Finance Controller",
-      "org": "Dtact",
-      "role": "hr",
-      "location": "Anywhere in the Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/dtact/finance-controller-anywhere-in-the-netherlands-364874",
+      "id": "arbeitnow:remote-senior-technical-designer-freelance-talent-pool-2027-opportunities-netherlands-483492",
+      "title": "Senior Technical Designer - Freelance Talent Pool (2027 Opportunities",
+      "org": "Keywords Intl1",
+      "role": "project",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-technical-designer-freelance-talent-pool-2027-opportunities-netherlands-483492",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795545615,
+      "postedAt": 1795612812,
       "tags": [
-        "Business Operations"
+        "Computer Games",
+        "Game Development",
+        "Remote"
       ],
-      "summary": "Finance Controller Location: Netherlands Start date: Q1 2027 Compensation: €70k - €80k annually (depending on experience) Employment type: Full-time (contractor if outside Netherlands) About DTACT DTACT (Data Transform Act) is a data technology company that he"
+      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Technical Desig"
     },
     {
-      "id": "arbeitnow:senior-director-global-commissioning-handover-amsterdam-224550",
-      "title": "Senior Director, Global Commissioning & Handover",
-      "org": "Volta",
-      "role": "training",
-      "location": "Netherlands - Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/volta/senior-director-global-commissioning-handover-amsterdam-224550",
+      "id": "arbeitnow:remote-senior-systems-designer-freelance-talent-pool-2027-opportunities-netherlands-253379",
+      "title": "Senior Systems Designer - Freelance Talent Pool (2027 Opportunities",
+      "org": "Keywords Intl1",
+      "role": "project",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-systems-designer-freelance-talent-pool-2027-opportunities-netherlands-253379",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795534816,
+      "postedAt": 1795612812,
       "tags": [
-        "Delivery"
+        "Computer Games",
+        "Game Development",
+        "Remote"
       ],
-      "summary": "About Volta Volta is the category-defining, fully vertically integrated AI infrastructure platform – from capital to clusters to software, under a founder-led enterprise. Our mission is The Utility of Compute™: AI infrastructure as dependable and available as "
+      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Systems Designe"
+    },
+    {
+      "id": "arbeitnow:remote-senior-rendering-graphics-engineer-freelance-talent-pool-2027-opportunities-netherlands-358816",
+      "title": "Senior Rendering/ Graphics Engineer - Freelance Talent Pool (2027 Opportunities)",
+      "org": "Keywords Intl1",
+      "role": "project",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-rendering-graphics-engineer-freelance-talent-pool-2027-opportunities-netherlands-358816",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795612812,
+      "tags": [
+        "Engineering",
+        "Computer Games",
+        "Game Development",
+        "Remote"
+      ],
+      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Rendering/ Grap"
+    },
+    {
+      "id": "arbeitnow:remote-senior-level-designer-freelance-talent-pool-2027-opportunities-netherlands-292459",
+      "title": "Senior Level Designer - Freelance Talent Pool (2027 Opportunities",
+      "org": "Keywords Intl1",
+      "role": "marketing",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-level-designer-freelance-talent-pool-2027-opportunities-netherlands-292459",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795612812,
+      "tags": [
+        "Computer Games",
+        "Game Development",
+        "Remote"
+      ],
+      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Level Designer,"
+    },
+    {
+      "id": "arbeitnow:remote-senior-character-artist-freelance-talent-pool-2027-opportunities-netherlands-104704",
+      "title": "Senior Character Artist - Freelance Talent Pool (2027 Opportunities)",
+      "org": "Keywords Intl1",
+      "role": "project",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-character-artist-freelance-talent-pool-2027-opportunities-netherlands-104704",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795612812,
+      "tags": [
+        "Art/Creative",
+        "Computer Games",
+        "Art Services",
+        "Remote"
+      ],
+      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Character Artis"
+    },
+    {
+      "id": "arbeitnow:remote-senior-boss-designer-freelance-talent-pool-2027-opportunities-netherlands-327619",
+      "title": "Senior Boss Designer - Freelance Talent Pool (2027 Opportunities",
+      "org": "Keywords Intl1",
+      "role": "project",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-boss-designer-freelance-talent-pool-2027-opportunities-netherlands-327619",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795612812,
+      "tags": [
+        "Computer Games",
+        "Game Development",
+        "Remote"
+      ],
+      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Boss Designer w"
+    },
+    {
+      "id": "arbeitnow:remote-senior-animator-technical-animator-freelance-talent-pool-2027-opportunities-netherlands-420497",
+      "title": "Senior Animator/ Technical Animator - Freelance Talent Pool (2027 Opportunities",
+      "org": "Keywords Intl1",
+      "role": "project",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-animator-technical-animator-freelance-talent-pool-2027-opportunities-netherlands-420497",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795612812,
+      "tags": [
+        "Art/Creative",
+        "Computer Games",
+        "Art Services",
+        "Remote"
+      ],
+      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Animator/ Techn"
+    },
+    {
+      "id": "arbeitnow:remote-senior-ai-programmer-freelance-talent-pool-2027-opportunities-netherlands-31284",
+      "title": "Senior A.I. Programmer - Freelance Talent Pool (2027 Opportunities)",
+      "org": "Keywords Intl1",
+      "role": "project",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-ai-programmer-freelance-talent-pool-2027-opportunities-netherlands-31284",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795612812,
+      "tags": [
+        "Engineering",
+        "Computer Games",
+        "Game Development",
+        "Remote"
+      ],
+      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior A.I. Programmer"
+    },
+    {
+      "id": "arbeitnow:remote-senior-3d-environment-artist-freelance-talent-pool-2027-opportunities-netherlands-205374",
+      "title": "Senior 3D Environment Artist - Freelance Talent Pool (2027 Opportunities)",
+      "org": "Keywords Intl1",
+      "role": "project",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-3d-environment-artist-freelance-talent-pool-2027-opportunities-netherlands-205374",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795612812,
+      "tags": [
+        "Art/Creative",
+        "Computer Games",
+        "Art Services",
+        "Remote"
+      ],
+      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Set Dressing/ P"
     },
     {
       "id": "remotive:1680495",
