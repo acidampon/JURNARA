@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T22:34:07.863Z",
+  "updatedAt": "2026-11-25T08:48:05.876Z",
   "sourceCount": 2,
   "totalFetched": 315,
-  "relevantCount": 26,
+  "relevantCount": 35,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,20 +11,84 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:senior-transactional-lawyer-london-219469",
-      "title": "Senior Transactional Lawyer",
-      "org": "Carta",
-      "role": "marketing",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/carta/senior-transactional-lawyer-london-219469",
+      "id": "arbeitnow:business-development-representative-emea-england-241847",
+      "title": "Business Development Representative (EMEA)",
+      "org": "Docker",
+      "role": "training",
+      "location": "England",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/docker/business-development-representative-emea-england-241847",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795535739,
+      "postedAt": 1795588809,
       "tags": [
-        "Carta Law"
+        "Sales"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2&gt;The Company You’ll Join&lt;/h2&gt; &lt;p&gt;Carta is the connected platform and AI-native ecosystem for private capital. Built to replace fragmented tools with a single system of record, Carta brings together the soft"
+      "summary": "About Docker Docker is the platform at the center of how intelligent software gets built. For more than a decade, Docker has helped millions of developers and thousands of organizations build, ship, and run software consistently across any environment. Today, "
+    },
+    {
+      "id": "arbeitnow:staff-software-engineer-revenue-intelligence-285198",
+      "title": "Staff Software Engineer - Revenue Intelligence",
+      "org": "Cloudbedsthirdpartyboard",
+      "role": "training",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudbedsthirdpartyboard/staff-software-engineer-revenue-intelligence-285198",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795578917,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;𝗪𝗵𝗮𝘁 𝗠𝗮𝗸𝗲𝘀 𝗖𝗹𝗼𝘂𝗱𝗯𝗲𝗱𝘀 𝗨𝗻𝗶𝗾𝘂𝗲&lt;/p&gt; &lt;p&gt;At &lt;a href=\"https://www.cloudbeds.com/\"&gt;Cloudbeds&lt;/a&gt;, we're not just building software, we're transforming hospitality. Our platform p"
+    },
+    {
+      "id": "arbeitnow:meridial-senior-research-software-engineer-image-processing-london-281803",
+      "title": "Meridial – Senior Research Software Engineer – Image Processing",
+      "org": "Convergentresearch",
+      "role": "project",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/convergentresearch/meridial-senior-research-software-engineer-image-processing-london-281803",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795576022,
+      "tags": [
+        "Meridial"
+      ],
+      "summary": "About Meridial Meridial is a Focused Research Organisation (FRO) with a mission to bring connectomics into the living brain. We are building a platform for longitudinal, synapse-resolution mapping of functional neural circuitry in preclinical models. Our aim i"
+    },
+    {
+      "id": "arbeitnow:game-developer-midcore-games-paris-307944",
+      "title": "Game Developer - Midcore Games",
+      "org": "Voodoo",
+      "role": "marketing",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/game-developer-midcore-games-paris-307944",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795588810,
+      "tags": [
+        "Gaming"
+      ],
+      "summary": "About Voodoo Voodoo is a consumer tech company founded in Paris in 2013, with one mission: entertain the world. Today we are 1,000 people, generating $1b+ in annual revenue, profitably. Our games and apps have passed 7 billion downloads and reach 200 million+ "
+    },
+    {
+      "id": "arbeitnow:staff-software-engineer-revenue-intelligence-295603",
+      "title": "Staff Software Engineer - Revenue Intelligence",
+      "org": "Cloudbedsthirdpartyboard",
+      "role": "training",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cloudbedsthirdpartyboard/staff-software-engineer-revenue-intelligence-295603",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795578917,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;𝗪𝗵𝗮𝘁 𝗠𝗮𝗸𝗲𝘀 𝗖𝗹𝗼𝘂𝗱𝗯𝗲𝗱𝘀 𝗨𝗻𝗶𝗾𝘂𝗲&lt;/p&gt; &lt;p&gt;At &lt;a href=\"https://www.cloudbeds.com/\"&gt;Cloudbeds&lt;/a&gt;, we're not just building software, we're transforming hospitality. Our platform p"
     },
     {
       "id": "arbeitnow:software-engineer-ii-autonomous-supply-chains-amsterdam-120266",
@@ -43,123 +107,257 @@
       "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2&gt;&lt;strong&gt;About Flexport:&nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be mo"
     },
     {
-      "id": "arbeitnow:remote-account-executive-product-sales-specialist-identity-germany-160654",
-      "title": "Account Executive, Product Sales Specialist (Identity) - Germany",
-      "org": "Rubrik",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/rubrik/remote-account-executive-product-sales-specialist-identity-germany-160654",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795546516,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "&lt;h3 data-lfile-container=\"50e5774d-d563-4a55-8f08-ef895f573991\" data-pm-slice=\"1 1 []\"&gt;About the Team &amp; Role&lt;/h3&gt; &lt;p&gt;Identity is now the front door for attackers, and organisations across government, financial services, healthcare and cri"
-    },
-    {
-      "id": "arbeitnow:no-code-developer-bubbleio-100-remote-berlin-260267",
-      "title": "No-Code Developer (m/w/d) | Bubble.io | 100 % Remote",
-      "org": "ALPHA Software GmbH",
+      "id": "arbeitnow:sap-abap-entwickler-bis-zu-80-remote-berlin-184543",
+      "title": "SAP ABAP Entwickler (m/w/d) bis zu 80%-Remote",
+      "org": "VOLENTUM Deutschland GmbH",
       "role": "project",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-260267",
+      "url": "https://www.arbeitnow.com/jobs/companies/volentum-deutschland-gmbh/sap-abap-entwickler-bis-zu-80-remote-berlin-184543",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795539659,
+      "postedAt": 1795591870,
+      "tags": [
+        "Remote",
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "summary": "Unser Kunde ist ein etabliertes Industrieunternehmen und Teil einer Unternehmensgruppe mit über 1.000 Mitarbeitenden. Moderne, hochautomatisierte Fertigungsprozesse, eine hohe Variantenvielfalt und eine leistungsfähige Logistik prägen das industrielle Umfeld. "
+    },
+    {
+      "id": "arbeitnow:remote-customer-success-manager-italy-full-cycle-56940",
+      "title": "Customer Success Manager – Italy (full-cycle)",
+      "org": "Luminovo GmbH",
+      "role": "training",
+      "location": "🇪🇺 Europe (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/remote-customer-success-manager-italy-full-cycle-56940",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795588811,
+      "tags": [
+        "Revenue"
+      ],
+      "summary": "From autonomous vehicles to medical devices, we believe the electronics industry is at the heart of global innovation - and we’re here to remove the bottlenecks that slow it down. Luminovo helps innovators to bring new electronic products to life: faster, chea"
+    },
+    {
+      "id": "arbeitnow:senior-social-media-managerin-gn-berlin-310778",
+      "title": "(Senior) Social Media Manager:in (gn)",
+      "org": "Intermate Media GmbH",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-social-media-managerin-gn-berlin-310778",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795588284,
+      "tags": [
+        "Remote",
+        "Marketing and Communication"
+      ],
+      "summary": "Jobbeschreibung Intermate x SAMY – Shaping the State of Social Intermate gehört zu den größten Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, Köln und Remote entwickeln wir Social-First-Strategien, produzieren C"
+    },
+    {
+      "id": "arbeitnow:founders-associate-pflichtpraktikum-all-genders-berlin-448134",
+      "title": "Founders Associate Pflichtpraktikum (all genders)",
+      "org": "Code Gaia",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/code-gaia/founders-associate-pflichtpraktikum-all-genders-berlin-448134",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795588282,
+      "tags": [
+        "Remote",
+        "Business Development"
+      ],
+      "summary": "JOIN US Das Nachhaltigkeitsteam bei Code Gaia ist dafür verantwortlich, dass die Arbeit, die wir leisten, genau den Bedürfnissen unserer Partner und Nutzer entspricht. Das Team besteht aus erfahrenen und aufstrebenden Nachhaltigkeitsexpert:innen, die alle den "
+    },
+    {
+      "id": "arbeitnow:accountant-all-genders-berlin-53663",
+      "title": "Accountant (all genders)",
+      "org": "Code Gaia",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/code-gaia/accountant-all-genders-berlin-53663",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795588282,
+      "tags": [
+        "Remote",
+        "Finance"
+      ],
+      "summary": "JOIN US Bei Code Gaia zu arbeiten bedeutet, dass du an etwas sehr Wichtigem arbeitest: Der Transformation zu einer nachhaltigen Wirtschaft. Wir sind dafür da, dass Nachhaltigkeit nicht mühsam oder zeitaufwendig für Unternehmen ist. Stattdessen wollen wir klein"
+    },
+    {
+      "id": "arbeitnow:senior-gtm-engineer-berlin-164519",
+      "title": "(Senior) GTM-Engineer (m/w/d)",
+      "org": "Boardwise GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-gtm-engineer-berlin-164519",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795588282,
+      "tags": [
+        "Remote",
+        "Marketing and Communication"
+      ],
+      "summary": "Deine Aufgaben Du möchtest Verantwortung übernehmen, echte Wirkung erzielen und die Zukunft moderner GTM-Prozesse mitgestalten? Dann bist Du bei uns genau richtig. Als (Senior) GTM-Engineer (m/w/d) baust und skalierst Du unsere moderne B2B GTM Engine. Du verbi"
+    },
+    {
+      "id": "arbeitnow:l1-reports-engineer-berlin-411198",
+      "title": "L1- Reports Engineer (m/w/d)",
+      "org": "Boardwise GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/l1-reports-engineer-berlin-411198",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795588278,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "Deine Aufgaben Erste Anlaufstelle für Anfragen unserer Kunden Klare, freundliche und strukturierte Kommunikation mit Kunden Analyse und Lösung eingehender Kundensupport-Tickets Erstellung und Anpassung von Reports mit Handlebars.js gemäß Kundenanforderungen Un"
+    },
+    {
+      "id": "arbeitnow:seo-manager-berlin-139019",
+      "title": "SEO Manager (m/f/d)",
+      "org": "We Love X GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/we-love-x-gmbh/seo-manager-berlin-139019",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795588277,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "About the Job We're looking for an SEO Manager to get hands-on with our affiliate portfolio and grow it. You'll work directly with some of the biggest publishers in the world, and your work will show up in the numbers — fast. You'll work across two areas: driv"
+    },
+    {
+      "id": "arbeitnow:senior-customer-success-manager-berlin-90901",
+      "title": "Senior Customer Success Manager (m/f/d)",
+      "org": "Boardwise GmbH",
+      "role": "training",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-customer-success-manager-berlin-90901",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795588275,
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "summary": "Your mission As a Senior Customer Success Manager at Boardwise, you will help our enterprise customers successfully implement, adopt, and scale Boardwise across their organisation. You act as a trusted advisor for board offices, executive assistants, governanc"
+    },
+    {
+      "id": "arbeitnow:didnt-find-a-suitable-position-show-us-what-youve-got-with-an-unsolicited-application-berlin-371019",
+      "title": "Didn't find a suitable position? – Show Us What You’ve Got with an Unsolicited Application!",
+      "org": "Amperecloud GmbH",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/didnt-find-a-suitable-position-show-us-what-youve-got-with-an-unsolicited-application-berlin-371019",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795588274,
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "summary": "Job Description Are you ready to be part of an innovative team driving the clean energy transition? At Amperecloud, we are building the platform for automated production, trading and consumption across all forms and market players in renewable energy. As a Mar"
+    },
+    {
+      "id": "arbeitnow:vertriebsmitarbeiter-kreditvermittlung-im-homeoffice-berlin-238492",
+      "title": "Vertriebsmitarbeiter Kreditvermittlung im Homeoffice (w/m/d)",
+      "org": "FFG FINANZCHECK Finanzportale GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/ffg-finanzcheck-finanzportale-gmbh/vertriebsmitarbeiter-kreditvermittlung-im-homeoffice-berlin-238492",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795588272,
+      "tags": [
+        "Remote",
+        "Private Banking"
+      ],
+      "summary": "Wir sind Finanzcheck – der Online-Kreditvergleich und Go-To-Place für Kredite in Deutschland. Wir gestalten den digitalen Kreditmarkt der Zukunft und wurden 2022 als Kununu Top Arbeitgeber ausgezeichnet. Werde jetzt Teil unserer Erfolgsgeschichte! Zur Verstärk"
+    },
+    {
+      "id": "arbeitnow:initiativbewerbung-berlin-422658",
+      "title": "Initiativbewerbung (m/w/d)",
+      "org": "Nitrado (marbis GmbH)",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/initiativbewerbung-berlin-422658",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795588270,
       "tags": [
         "Remote",
         "Software Development"
       ],
-      "summary": "Unsere gesamte Software läuft auf Bubble.io – und du sollst sie zu deinem Produkt machen. Die ALPHA Software GmbH digitalisiert die Erstellung von Gebäudeunterlagen für Immobilienprofis. Über unsere Bestellplattform beauftragen Kund:innen Grundrisse, Wohnfläch"
+      "summary": "Einleitung Es ist momentan keine für dich passende Stelle ausgeschrieben? Wir sind immer auf der Suche nach motivierten und kreativen Köpfen, die Ihren Beruf mit Leidenschaft machen. Das trifft auf dich zu? Dann lass uns gerne eine Initiativbewerbung zukommen!"
     },
     {
-      "id": "arbeitnow:delivery-lead-ki-programme-berlin-383850",
-      "title": "Delivery Lead KI-Programme (m/w/d)",
-      "org": "Neurawork GmbH & Co. KG",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/delivery-lead-ki-programme-berlin-383850",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795539659,
-      "tags": [
-        "Remote",
-        "Project Management"
-      ],
-      "summary": "Bei Neurawork bauen Data Scientists, Engineers und Mathematiker:innen KI-Lösungen, die bei Konzernkunden in den Betrieb gehen – von KI-Governance über Plattformen bis zum Sales Generator. Unsere Programme laufen über mehrere Workpackages, mehrere Teams und meh"
-    },
-    {
-      "id": "arbeitnow:partner-fur-interim-manager-und-berater-mandate-im-retainer-statt-projekte-im-tagessatz-berlin-420246",
-      "title": "Partner(m/w/d): Für Interim Manager und Berater: Mandate im Retainer statt Projekte im Tagessatz",
-      "org": "VOVOI GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/vovoi-gmbh/partner-fur-interim-manager-und-berater-mandate-im-retainer-statt-projekte-im-tagessatz-berlin-420246",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795536051,
-      "tags": [
-        "Remote",
-        "Business Consulting"
-      ],
-      "summary": "Sie arbeiten als Interim Manager oder Berater und kennen die Grenzen des Projektgeschäfts: Jeder Auftrag beginnt mit einer unbezahlten Angebotsphase und endet mit dem Abschlussbericht. Wir bieten Ihnen ein Modell, in dem Mandate über monatliche Retainer laufen"
-    },
-    {
-      "id": "arbeitnow:satellite-operations-systems-and-software-engineer-all-genders-berlin-319140",
-      "title": "Satellite Operations Systems and Software Engineer (all genders)",
-      "org": "Reflex Aerospace GmbH",
-      "role": "training",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/reflex-aerospace-gmbh/satellite-operations-systems-and-software-engineer-all-genders-berlin-319140",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795534379,
-      "tags": [
-        "LEOP",
-        "Python",
-        "Distributed Systems",
-        "operations",
-        "Space"
-      ],
-      "summary": "Join the Pinnacle of Satellite Technology Advancement in Germany! Reflex Aerospace is at the forefront of propelling high-performance satellite technology to new heights within the German aerospace landscape. As part of Reflex Aerospace, you will play a pivota"
-    },
-    {
-      "id": "arbeitnow:remote-sales-development-representative-57663",
-      "title": "Sales Development Representative",
-      "org": "Dataro",
-      "role": "marketing",
-      "location": "UK-Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dataro/remote-sales-development-representative-57663",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795534817,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "About Dataro Dataro is a fast-growing tech company with a bold mission: set a new standard in charity fundraising. Our AI-driven SaaS tools help nonprofits raise more funds and make a bigger impact in the world. We work with more than 250 organisations across "
-    },
-    {
-      "id": "arbeitnow:remote-software-engineer-core-180673",
-      "title": "Software Engineer: Core",
-      "org": "Constructor",
+      "id": "arbeitnow:remote-regulatory-manager-senior-regulatory-manager-444277",
+      "title": "Regulatory Manager / Senior Regulatory Manager",
+      "org": "Precisionmedicinegroup",
       "role": "training",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-software-engineer-core-180673",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-regulatory-manager-senior-regulatory-manager-444277",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795524017,
+      "postedAt": 1795568119,
       "tags": [
-        "Engineering"
+        "Clinical Solutions"
       ],
-      "summary": "About Us Constructor is the next-generation platform for search and discovery in ecommerce, built to explicitly optimize for metrics like revenue, conversion rate, and profit. Our search engine is entirely invented in-house utilizing transformers and generativ"
+      "summary": "&lt;p&gt;&lt;span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\"&gt;Precision for Medicine is not your typical CRO.&nbsp; At Precision for Medicine we have brought together new technologies, expertise and operational scale to help the life"
+    },
+    {
+      "id": "arbeitnow:remote-clinical-project-manager-senior-clinical-project-manager-136716",
+      "title": "Clinical Project Manager / Senior Clinical Project Manager",
+      "org": "Precisionmedicinegroup",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-clinical-project-manager-senior-clinical-project-manager-136716",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795568119,
+      "tags": [
+        "Clinical Solutions"
+      ],
+      "summary": "&lt;p&gt;Are you an experienced full service Project Manager in the field of clinical trials who’s engaged in addressing the challenges facing the research and development of novel compounds in Oncology. Are you passionate about impacting the health and lives "
+    },
+    {
+      "id": "arbeitnow:senior-marketer-ai-expert-remote-emea-switzerland-436216",
+      "title": "Senior Marketer, AI Expert (Remote, EMEA)",
+      "org": "Weekday 1",
+      "role": "training",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/weekday-1/senior-marketer-ai-expert-remote-emea-switzerland-436216",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795555218,
+      "tags": [
+        "AI Training",
+        "Remote"
+      ],
+      "summary": "This role is for one of our clients Compensation: $60 - $85 per hour Location: Remote – United Kingdom, Ireland, Germany, Spain, or Switzerland Experience: 7+ Years Employment Type: Full-Time Work Commitment: Approximately 40 Hours per Week Compensation: Based"
     },
     {
       "id": "arbeitnow:senior-business-analyst-data-process-transformation-bern-221671",
@@ -278,56 +476,6 @@
         "Delivery"
       ],
       "summary": "About Volta Volta is the category-defining, fully vertically integrated AI infrastructure platform – from capital to clusters to software, under a founder-led enterprise. Our mission is The Utility of Compute™: AI infrastructure as dependable and available as "
-    },
-    {
-      "id": "arbeitnow:founding-account-executive-benelux-advertising-brands-agencies-platforms-amsterdam-143578",
-      "title": "Founding Account Executive, Benelux — Advertising (Brands, Agencies, Platforms)",
-      "org": "Higgsfield",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.nl/jobs/companies/higgsfield/founding-account-executive-benelux-advertising-brands-agencies-platforms-amsterdam-143578",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795491813,
-      "tags": [
-        "Marketing & Sales"
-      ],
-      "summary": "Why work at Higgsfield AI? We're the fastest-scaling generative AI company in history, hitting $1B in annual revenue run rate, 30M+ users worldwide, and powering 390 of Fortune 500 brands. We're building at the absolute frontier of AI-powered video creation an"
-    },
-    {
-      "id": "arbeitnow:staff-product-engineer-saas-remote-amsterdam-176256",
-      "title": "Staff Product Engineer ( SaaS / Remote )",
-      "org": "Publitas.com B.V.",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.nl/jobs/companies/publitascom-bv/staff-product-engineer-saas-remote-amsterdam-176256",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795491102,
-      "tags": [
-        "Product",
-        "Remote"
-      ],
-      "summary": "Ready to own it, build it, and grow it? The Mission: Publitas lets people, and increasingly agents, create, host and distribute digital flyers and catalogues for retail brands. Our customers include ALDI, IKEA, Carrefour, Metro and Decathlon. Right now we’re b"
-    },
-    {
-      "id": "arbeitnow:remote-app-testers-wanted-in-the-netherlands-valletta-152087",
-      "title": "App Testers wanted in the Netherlands!",
-      "org": "Tester Work",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.nl/jobs/companies/tester-work/remote-app-testers-wanted-in-the-netherlands-valletta-152087",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795480277,
-      "tags": [
-        "QA Testing",
-        "Remote"
-      ],
-      "summary": "Tester Work provides access to exciting and rewarding project-based opportunities for freelancers. Learn new skills and earn money by testing world-class apps and websites. 🌎 For this specific project, we are looking for QA testers and tech enthusiasts in the"
     },
     {
       "id": "remotive:1680495",
