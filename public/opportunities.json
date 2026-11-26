@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-25T21:48:49.830Z",
+  "updatedAt": "2026-11-26T08:34:10.692Z",
   "sourceCount": 2,
   "totalFetched": 316,
-  "relevantCount": 43,
+  "relevantCount": 63,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,20 +11,196 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:senior-compliance-operations-analyst-kyb-london-299890",
-      "title": "Senior Compliance Operations Analyst (KYB)",
-      "org": "Plasma",
+      "id": "arbeitnow:remote-general-ledger-manager-accounting-21310",
+      "title": "General Ledger Manager, Accounting",
+      "org": "Fal Ai",
       "role": "marketing",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/plasma/senior-compliance-operations-analyst-kyb-london-299890",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/fal-ai/remote-general-ledger-manager-accounting-21310",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795664585,
+      "tags": [
+        "Finance"
+      ],
+      "summary": "fal is the generative media ecosystem powering the next generation of AI products. We build the infrastructure, tools, and model access that teams need to move from idea to production, and do it at scale without compromise. For developers and enterprises, fal "
+    },
+    {
+      "id": "arbeitnow:mid-market-sales-leader-emea-remote-united-kingdom-375518",
+      "title": "Mid-Market Sales Leader EMEA (Remote)",
+      "org": "n8n",
+      "role": "marketing",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/n8n/mid-market-sales-leader-emea-remote-united-kingdom-375518",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795664586,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:enterprise-account-executive-benelux-remote-benelux-netherlands-454653",
+      "title": "Enterprise Account Executive Benelux (Remote Benelux)",
+      "org": "N8N",
+      "role": "project",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/n8n/enterprise-account-executive-benelux-remote-benelux-netherlands-454653",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795664586,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:software-engineering-project-manager-munich-65683",
+      "title": "Software Engineering Project Manager (m/f/d)",
+      "org": "TYTAN Technologies GmbH",
+      "role": "marketing",
+      "location": "Munich, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/software-engineering-project-manager-munich-65683",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795632014,
+      "postedAt": 1795674681,
       "tags": [
-        "Customer Experience"
+        "Engineering"
       ],
-      "summary": "About Plasma Plasma is building the primary account for global money. Money used to belong to a country. Increasingly, it belongs to a person or business moving through many countries. People and businesses now earn, spend, save, hire and invest across borders"
+      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We thrive, think big, and hold ourselves to the highest standard. Our mission and values guide everything we do, a"
+    },
+    {
+      "id": "arbeitnow:strategic-account-executive-dach-berlin-245893",
+      "title": "Strategic Account Executive DACH",
+      "org": "N8N",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/strategic-account-executive-dach-berlin-245893",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795664586,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:enterprise-sales-leader-dach-berlin-323015",
+      "title": "Enterprise Sales Leader, DACH",
+      "org": "N8N",
+      "role": "marketing",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/enterprise-sales-leader-dach-berlin-323015",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795664586,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:azure-data-engineer-with-databricks-pyspark-germany-463363",
+      "title": "Azure Data Engineer with Databricks & PySpark",
+      "org": "Jobgether",
+      "role": "project",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-germany-463363",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795663615,
+      "tags": [
+        "IT"
+      ],
+      "summary": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for an Azure Data Engineer with Databricks & PySpark based in Germany. We are seeking an experienced Azure Data Engineer to design and"
+    },
+    {
+      "id": "arbeitnow:product-feature-owner-adas-baden-wurttemberg-270583",
+      "title": "Product Feature Owner ADAS",
+      "org": "Wayve",
+      "role": "training",
+      "location": "Leonberg, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/wayve/product-feature-owner-adas-baden-wurttemberg-270583",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795642816,
+      "tags": [
+        "Product & Delivery"
+      ],
+      "summary": "Before the detail, here's the challenge you'd help us solve. We build the embodied intelligence that moves real vehicles safely, and the ecosystem a billion machines will run on in the future. Very few people in AI can say this. Every role here, whatever the t"
+    },
+    {
+      "id": "arbeitnow:product-feature-owner-parking-baden-wurttemberg-208403",
+      "title": "Product Feature Owner - Parking",
+      "org": "Wayve",
+      "role": "training",
+      "location": "Leonberg, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/wayve/product-feature-owner-parking-baden-wurttemberg-208403",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795642816,
+      "tags": [
+        "Product & Delivery"
+      ],
+      "summary": "Before the detail, here's the challenge you'd help us solve. We build the embodied intelligence that moves real vehicles safely, and the ecosystem a billion machines will run on in the future. Very few people in AI can say this. Every role here, whatever the t"
+    },
+    {
+      "id": "arbeitnow:azure-data-engineer-with-databricks-pyspark-uk-73452",
+      "title": "Azure Data Engineer with Databricks & PySpark",
+      "org": "Jobgether",
+      "role": "project",
+      "location": "UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-uk-73452",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795663617,
+      "tags": [
+        "IT"
+      ],
+      "summary": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for an Azure Data Engineer with Databricks & PySpark based in the United Kingdom. We are seeking an experienced Azure Data Engineer to"
+    },
+    {
+      "id": "arbeitnow:cross-functional-mechanical-engineer-bordeaux-258378",
+      "title": "Cross-Functional Mechanical Engineer",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Bordeaux, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/cross-functional-mechanical-engineer-bordeaux-258378",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795664587,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. We want you as a Cross-Functional Mechanical Engineer to bring hands-on structural design experience and sound engineering judgement to the mechanical development and verification of Nyx"
+    },
+    {
+      "id": "arbeitnow:azure-data-engineer-with-databricks-pyspark-switzerland-287961",
+      "title": "Azure Data Engineer with Databricks & PySpark",
+      "org": "Jobgether",
+      "role": "project",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-switzerland-287961",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795663615,
+      "tags": [
+        "IT"
+      ],
+      "summary": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for an Azure Data Engineer with Databricks & PySpark based in Switzerland. We are seeking an experienced Azure Data Engineer to design"
     },
     {
       "id": "arbeitnow:key-account-manager-zurich-323984",
@@ -43,279 +219,397 @@
       "summary": "Key Account Manager Flink Robotics is a fast-paced startup, out of ETH Zürich’s Computational Robotics Lab, building autonomous robots that can handle any item—including ones they’ve never seen before. We’re revolutionising material handling, from stacking box"
     },
     {
-      "id": "arbeitnow:staff-software-engineer-revenue-intelligence-295603",
-      "title": "Staff Software Engineer - Revenue Intelligence",
-      "org": "Cloudbedsthirdpartyboard",
+      "id": "arbeitnow:senior-network-architect-relocation-provided-amsterdam-442276",
+      "title": "Senior Network Architect (Relocation Provided)",
+      "org": "Wypoon",
       "role": "training",
-      "location": "Location not specified",
-      "url": "https://www.arbeitnow.ch/jobs/companies/cloudbedsthirdpartyboard/staff-software-engineer-revenue-intelligence-295603",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/senior-network-architect-relocation-provided-amsterdam-442276",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795578917,
+      "postedAt": 1795663618,
       "tags": [
-        "Engineering"
+        "Network & Security Engineer"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;𝗪𝗵𝗮𝘁 𝗠𝗮𝗸𝗲𝘀 𝗖𝗹𝗼𝘂𝗱𝗯𝗲𝗱𝘀 𝗨𝗻𝗶𝗾𝘂𝗲&lt;/p&gt; &lt;p&gt;At &lt;a href=\"https://www.cloudbeds.com/\"&gt;Cloudbeds&lt;/a&gt;, we're not just building software, we're transforming hospitality. Our platform p"
+      "summary": "We are looking for an experienced Senior Network Architect to support network architecture, transformation and modernization initiatives within a large enterprise environment. The ideal candidate will bring strong expertise in Data Center Networking, Cloud Net"
     },
     {
-      "id": "arbeitnow:senior-software-engineer-amsterdam-48232",
-      "title": "Senior Software Engineer",
-      "org": "GreenFlux",
-      "role": "marketing",
-      "location": "Amsterdam, Noord-Holland, Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/greenflux/senior-software-engineer-amsterdam-48232",
+      "id": "arbeitnow:network-security-automation-engineer-relocation-provided-amsterdam-260825",
+      "title": "Network Security & Automation Engineer (Relocation Provided)",
+      "org": "Wypoon",
+      "role": "training",
+      "location": "Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/network-security-automation-engineer-relocation-provided-amsterdam-260825",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795609893,
+      "postedAt": 1795663618,
       "tags": [
-        "IT Development"
+        "Network & Security Engineer"
       ],
-      "summary": "The company Smart Electric Vehicle Charging Solutions. That’s the business we are in! GreenFlux offers a cloud-based charge point management SaaS solution. This software platform connects Charge Point Operators (CPOs) and e-Mobility Service Providers (eMSPs – "
+      "summary": "We are looking for a senior, hands-on Network & Security Automation Engineer to design, implement and manage secure enterprise network solutions. The role combines deep network-security engineering with a strong focus on automation, security-by-design and reli"
     },
     {
-      "id": "arbeitnow:strategy-ops-lead-applied-ai-berlin-333117",
-      "title": "Strategy & Ops Lead, Applied AI",
-      "org": "Clipboard",
+      "id": "arbeitnow:azure-data-engineer-with-databricks-pyspark-netherlands-367179",
+      "title": "Azure Data Engineer with Databricks & PySpark",
+      "org": "Jobgether",
+      "role": "project",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-netherlands-367179",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795663616,
+      "tags": [
+        "IT"
+      ],
+      "summary": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for an Azure Data Engineer with Databricks & PySpark based in Netherlands. We are seeking an experienced Azure Data Engineer to design"
+    },
+    {
+      "id": "arbeitnow:remote-founding-pm-gtm-everworker-451704",
+      "title": "Founding PM/GTM | EverWorker",
+      "org": "Hirehire",
       "role": "marketing",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/clipboard/strategy-ops-lead-applied-ai-berlin-333117",
+      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-founding-pm-gtm-everworker-451704",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795632017,
+      "postedAt": 1795675218,
       "tags": [
-        "Operations"
+        "Product Management"
       ],
-      "summary": "About Clipboard Our mission is to uplift as many communities as possible. We do this through our app-based marketplace that connects healthcare professionals with the workplaces that need amazing workers. This enables hundreds of thousands of people to achieve"
+      "summary": "Role: Founding Product / GTM Lead Company: EverWorker Location: US or Europe (remote, US timezone overlap required) Job Type: Full-time About EverWorker EverWorker is building the AI-native layer that makes legacy CRM obsolete. The thesis: sales teams shouldn'"
     },
     {
-      "id": "arbeitnow:organic-growth-manager-seo-ai-search-berlin-108729",
-      "title": "Organic Growth Manager (SEO & AI Search)",
-      "org": "Cosuno",
-      "role": "marketing",
-      "location": "Berlin/Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/organic-growth-manager-seo-ai-search-berlin-108729",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795632012,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "Organic Growth & Content Manager (m/f/d) Your Mission Make Cosuno the leading digital authority in the construction industry. Cosuno is the AI construction platform connecting the European construction industry. We're transforming one of Europe's largest and s"
-    },
-    {
-      "id": "arbeitnow:gtm-growth-engineer-berlin-167597",
-      "title": "GTM & Growth Engineer",
-      "org": "Cosuno",
-      "role": "marketing",
-      "location": "Berlin/Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/gtm-growth-engineer-berlin-167597",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795632012,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "GTM & Growth Engineer (m/f/d) Your Mission Build the intelligent growth engine behind one of construction's leading digital platforms. Thousands of construction companies use Cosuno to find partners, publish tenders, submit bids and award contracts. Every inte"
-    },
-    {
-      "id": "arbeitnow:senior-crm-lifecycle-manager-berlin-58002",
-      "title": "Senior CRM & Lifecycle Manager",
-      "org": "Cosuno",
-      "role": "marketing",
-      "location": "Berlin/Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-crm-lifecycle-manager-berlin-58002",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795632012,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "Senior Lifecycle & Customer Growth Manager (m/f/d) Your Mission Build the next generation of customer growth at Cosuno. Cosuno is the AI construction platform connecting the European construction industry. Every day, thousands of construction companies use our"
-    },
-    {
-      "id": "arbeitnow:linguist-somali-ui-technical-marketing-remote-247010",
-      "title": "Linguist - Somali - UI Technical / Marketing - Remote",
-      "org": "LILT (Production)",
+      "id": "arbeitnow:remote-head-of-procurement-299716",
+      "title": "Head of Procurement",
+      "org": "Camunda",
       "role": "marketing",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-somali-ui-technical-marketing-remote-247010",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-head-of-procurement-299716",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795632011,
+      "postedAt": 1795675211,
       "tags": [
-        "LiltLancer Community"
+        "Finance"
       ],
-      "summary": "About the Opportunity We are expanding our talent network and seeking skilled Somali-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of market-specific nuances a"
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
     },
     {
-      "id": "arbeitnow:senior-leadership-ai-enablement-consultant-berlin-186615",
-      "title": "Senior Leadership & AI Enablement Consultant (w/d/m)",
-      "org": "WEBUILDAI GmbH",
+      "id": "arbeitnow:remote-manager-engineering-identity-64436",
+      "title": "Manager, Engineering - Identity",
+      "org": "Camunda",
+      "role": "marketing",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-manager-engineering-identity-64436",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795675211,
+      "tags": [
+        "Products"
+      ],
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterpr"
+    },
+    {
+      "id": "arbeitnow:remote-senior-product-manager-b2b-saas-koln-188504",
+      "title": "(Senior) Product Manager - B2B SaaS (m/w/d)",
+      "org": "epilot GmbH",
+      "role": "project",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-product-manager-b2b-saas-koln-188504",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795674679,
+      "tags": [
+        "Product",
+        "Remote"
+      ],
+      "summary": "Bei epilot gestaltest du direkt mit, wie über 200 Energieunternehmen ihre Produkte digitalisieren – von der Netzanschluss-Anfrage, über die Photovoltaikanlage bis hin zum Stromtarif. Wir suchen einen Product Manager mit echtem Product Mindset und dem Hunger, e"
+    },
+    {
+      "id": "arbeitnow:remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-272597",
+      "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
+      "org": "Kevin Kehr",
+      "role": "training",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-272597",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795665112,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching und einem klaren Weg i"
+    },
+    {
+      "id": "arbeitnow:remote-software-sales-consultant-deutschlandweit-416323",
+      "title": "Software Sales Consultant (m/w/d)",
+      "org": "ANGEHEUERT GmbH",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-software-sales-consultant-deutschlandweit-416323",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795665108,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Du möchtest deine Expertise als Sales Consultant in einem engagierten Team einbringen oder deine Karriere starten? Dann ist das hier die perfekte Gelegenheit für dich!Unser Kunde ist einer der führenden Value-Added-Distributoren für IT- Infrastruktur und Secur"
+    },
+    {
+      "id": "arbeitnow:geschaftsfuhrung-e-sport-gaming-berlin-8190",
+      "title": "Geschäftsführung (m/w/d) | E-Sport & Gaming",
+      "org": "InkuPlay UG (haftungsbeschränkt)",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/inkuplay-ug-haftungsbeschrankt/geschaftsfuhrung-e-sport-gaming-berlin-8190",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795660238,
+      "tags": [
+        "Remote",
+        "Directors",
+        "Chief Executives"
+      ],
+      "summary": "InkuPlay ist eine E-Sport-Organisation, die Spieler:innen mit und ohne Behinderung im kompetitiven Gaming zusammenbringt. Wir entwickeln Teams, veranstalten Turniere und arbeiten mit Partnern daran, mehr Menschen den Zugang zum E-Sport zu ermöglichen. Wir such"
+    },
+    {
+      "id": "arbeitnow:head-of-marketing-communications-berlin-223831",
+      "title": "Head of Marketing & Communications (m/w/d)",
+      "org": "InkuPlay UG (haftungsbeschränkt)",
+      "role": "marketing",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/inkuplay-ug-haftungsbeschrankt/head-of-marketing-communications-berlin-223831",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795658433,
+      "tags": [
+        "Remote",
+        "Marketing Manager"
+      ],
+      "summary": "Remote in Deutschland · Vor-Ort-Termine bei ausgewählten Events Bei InkuPlay bringen wir Spieler:innen mit und ohne Behinderung im kompetitiven E-Sport zusammen. Als Head of Marketing & Communications verantwortest du, wie Fans unsere Teams entdecken, Spieltag"
+    },
+    {
+      "id": "arbeitnow:senior-consultant-ai-enablement-berlin-242966",
+      "title": "Senior Consultant AI Enablement (m/w/d)",
+      "org": "Junto Education GmbH",
       "role": "training",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/webuildai-gmbh/senior-leadership-ai-enablement-consultant-berlin-186615",
+      "url": "https://www.arbeitnow.com/jobs/companies/junto-education-gmbh/senior-consultant-ai-enablement-berlin-242966",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795626055,
+      "postedAt": 1795647638,
       "tags": [
         "Remote",
         "Business Consulting"
       ],
-      "summary": "Führungskräfte sollen entscheiden, wo AI in ihrem Bereich hilft. Viele können nicht einschätzen, ob ein Prozess RPA, generative AI oder einen Agenten braucht und ob die Daten reichen. Mit dir lernen sie das an einem eigenen Use Case, den sie über mehrere Woche"
+      "summary": "Hey, wir sind Junto! 😊 Wir machen Leadership Development für das KI-Zeitalter: Wir befähigen Führungskräfte, KI in ihren Teams wirksam einzusetzen, und begleiten Unternehmen wie AOK PLUS, Henkel, Ottobock und diva-e mit blended Lernreisen. Seit 2022 haben wir"
     },
     {
-      "id": "arbeitnow:remote-senior-python-backend-engineer-berlin-277686",
-      "title": "Senior Python Backend Engineer (m/f/x)",
-      "org": "Makersite GmbH",
-      "role": "hr",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-python-backend-engineer-berlin-277686",
+      "id": "arbeitnow:remote-fachberaterin-trainerin-fur-digitale-buchhaltung-kanzleiprozesse-43343",
+      "title": "Fachberater:in & Trainer:in für digitale Buchhaltung & Kanzleiprozesse (m/w/d)",
+      "org": "Pennylane",
+      "role": "training",
+      "location": "Germany (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/remote-fachberaterin-trainerin-fur-digitale-buchhaltung-kanzleiprozesse-43343",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795620691,
+      "postedAt": 1795642817,
       "tags": [
-        "Technology",
+        "Partner Success - Cabinets comptable"
+      ],
+      "summary": "Deine Mission Du bist der entscheidende Schlüssel für einen erfolgreichen Start unserer Kunden in Deutschland. Du befähigst sowohl KMUs als auch Steuerkanzleien, die Pennylane-Plattform von Tag eins an sicher, effizient und gewinnbringend in ihrem Arbeitsallta"
+    },
+    {
+      "id": "arbeitnow:remote-solution-consultant-onboarding-training-manager-tax-accounting-101220",
+      "title": "Solution Consultant - Onboarding & Training Manager - Tax & Accounting (m/w/d)",
+      "org": "Pennylane",
+      "role": "training",
+      "location": "Germany (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/remote-solution-consultant-onboarding-training-manager-tax-accounting-101220",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795642817,
+      "tags": [
+        "Partner Success - Cabinets comptable"
+      ],
+      "summary": "Deine Mission Du bist der entscheidende Schlüssel für einen erfolgreichen Start unserer Kunden in Deutschland. Du befähigst sowohl KMUs als auch Steuerkanzleien, die Pennylane-Plattform von Tag eins an sicher, effizient und gewinnbringend in ihrem Arbeitsallta"
+    },
+    {
+      "id": "arbeitnow:remote-senior-product-owner-355662",
+      "title": "Senior Product Owner",
+      "org": "Nmi",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nmi/remote-senior-product-owner-355662",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795676116,
+      "tags": [
+        "Product Engineering"
+      ],
+      "summary": "&lt;p&gt;As a Senior Product Owner, you will manage the execution of NMI's strategy and roadmap, while facilitating backlog grooming, prioritisation, triage and other development ceremonies. Our Product Owners also take an active role in product launches, ensu"
+    },
+    {
+      "id": "arbeitnow:remote-sr-account-executive-retail-media-499130",
+      "title": "Sr. Account Executive, Retail Media",
+      "org": "Constructor",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-sr-account-executive-retail-media-499130",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795675217,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "Help retailers turn shopper intent into a growing media business Constructor helps e-commerce businesses connect shoppers with the products they want through AI-powered search and product discovery. We’re looking for an experienced Retail Media sales professio"
+    },
+    {
+      "id": "arbeitnow:remote-principal-consultant-continuing-airworthiness-london-124766",
+      "title": "Principal Consultant - Continuing Airworthiness",
+      "org": "TrustFlight",
+      "role": "training",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trustflight/remote-principal-consultant-continuing-airworthiness-london-124766",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795674683,
+      "tags": [
         "Remote"
       ],
-      "summary": "Job Title: (Senior) Python Engineer (m/f/x) Location: EU (Remote) Who You’ll Work For: At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empo"
+      "summary": "Purpose of the Role: The Principal Continuing Airworthiness Consultant is a senior technical leader responsible for shaping and delivering high-impact consulting, training, and product development in the Continuing Airworthiness domain. This role combines deep"
     },
     {
-      "id": "arbeitnow:projektassistenz-content-management-fokus-seo-dortmund-287752",
-      "title": "Projektassistenz & Content-Management (m/w/d) - Fokus SEO",
-      "org": "Sumax",
+      "id": "arbeitnow:senior-manager-performance-creative-strategy-fanatics-markets-remote-fixed-contract-london-450291",
+      "title": "Senior Manager, Performance Creative Strategy – Fanatics Markets (Remote Fixed Contract)",
+      "org": "Fanaticsfbg",
       "role": "marketing",
-      "location": "Dortmund",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumax/projektassistenz-content-management-fokus-seo-dortmund-287752",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-manager-performance-creative-strategy-fanatics-markets-remote-fixed-contract-london-450291",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795618855,
+      "postedAt": 1795665327,
       "tags": [
-        "Remote",
-        "Social Media Manager"
+        "Gaming - Marketing"
       ],
-      "summary": "Zur Unterstützung eines spannenden internationalen Projekts suchen wir ab sofort ein engagiertes Teammitglied, das nicht nur Texte liebt, sondern auch einen Blick für Details und Struktur hat. Wenn du Lust hast, aktiv an der Gestaltung und Optimierung digitale"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\"&gt;About Us&lt;/h2&gt; &lt;div class=\"job-details__description-content basic-f"
     },
     {
-      "id": "arbeitnow:remote-sr-data-platform-engineer-85741",
-      "title": "Sr Data Platform Engineer",
-      "org": "dataiku",
+      "id": "arbeitnow:senior-manager-performance-creative-strategy-casino-remote-leeds-london-manchester-96281",
+      "title": "Senior Manager, Performance Creative Strategy – Casino (Remote)",
+      "org": "Fanaticsfbg",
       "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-sr-data-platform-engineer-85741",
+      "location": "Leeds; London; Manchester",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-manager-performance-creative-strategy-casino-remote-leeds-london-manchester-96281",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795622124,
+      "postedAt": 1795665327,
       "tags": [
-        "Enterprise Data & Analytics"
+        "Gaming - Marketing"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\"&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestra"
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\"&gt;About Us&lt;/h2&gt; &lt;div class=\"job-details__description-content basic-f"
     },
     {
-      "id": "arbeitnow:remote-fullstack-software-engineer-core-engineering-469912",
-      "title": "Fullstack Software Engineer - Core Engineering",
-      "org": "dataiku",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-469912",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795622124,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\"&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestra"
-    },
-    {
-      "id": "arbeitnow:remote-sr-data-platform-engineer-377566",
-      "title": "Sr Data Platform Engineer",
-      "org": "dataiku",
+      "id": "arbeitnow:remote-senior-regulatory-labeling-artwork-consultant-anywhere-in-uk-165479",
+      "title": "Senior Regulatory Labeling & Artwork Consultant",
+      "org": "TransPerfect",
       "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-sr-data-platform-engineer-377566",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-senior-regulatory-labeling-artwork-consultant-anywhere-in-uk-165479",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795622124,
+      "postedAt": 1795665111,
       "tags": [
-        "Enterprise Data & Analytics"
+        "Production",
+        "Remote"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\"&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestra"
+      "summary": "Senior Regulatory Labeling & Artwork Consultant Job Purpose Provide strategic leadership, regulatory expertise, and oversight for global labeling and artwork activities, with a focus on EU localization, GCC markets (KSA and UAE), Japan, and Brazil. Ensure that"
     },
     {
-      "id": "arbeitnow:remote-fullstack-software-engineer-core-engineering-188174",
-      "title": "Fullstack Software Engineer - Core Engineering",
-      "org": "dataiku",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-188174",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795622124,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;a href=\"https://www.dataiku.com/?utm_source=newswire&amp;utm_medium=press-release&amp;utm_campaign=PlatformforAISuccess\" target=\"_blank\"&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestra"
-    },
-    {
-      "id": "arbeitnow:product-privacy-legal-counsel-anywhere-in-france-493903",
-      "title": "Product & privacy legal counsel",
-      "org": "Alan",
-      "role": "marketing",
-      "location": "Anywhere in France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alan/product-privacy-legal-counsel-anywhere-in-france-493903",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795621219,
-      "tags": [
-        "Corporate"
-      ],
-      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
-    },
-    {
-      "id": "arbeitnow:fullstack-software-engineer-medical-software-anywhere-in-france-97061",
-      "title": "Fullstack Software Engineer (x/f/m) - Medical Software",
-      "org": "Alan",
+      "id": "arbeitnow:engineering-manager-remote-fr-speaker-united-kingdom-41385",
+      "title": "Engineering Manager (Remote - FR speaker)",
+      "org": "Pragmatike",
       "role": "project",
-      "location": "Anywhere in France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alan/fullstack-software-engineer-medical-software-anywhere-in-france-97061",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pragmatike/engineering-manager-remote-fr-speaker-united-kingdom-41385",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795621219,
+      "postedAt": 1795664588,
       "tags": [
-        "Engineering"
+        "Work with our Clients"
       ],
-      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
+      "summary": "Location: Fully Remote Engagement: 3-month renewable consulting mission Start Date: ASAP Compensation: Daily rate. 600 USD/day max Languages: French fluency is mandatory , English is required About the Opportunity Pragmatike is recruiting on behalf of a growin"
     },
     {
-      "id": "arbeitnow:clinical-lead-womens-health-anywhere-in-france-219017",
-      "title": "Clinical Lead, Women's Health",
-      "org": "Alan",
+      "id": "arbeitnow:remote-sr-customer-success-manager-french-speaking-422782",
+      "title": "Sr. Customer Success Manager (French Speaking)",
+      "org": "Constructor",
       "role": "training",
-      "location": "Anywhere in France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alan/clinical-lead-womens-health-anywhere-in-france-219017",
+      "location": "Remote - France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/constructor/remote-sr-customer-success-manager-french-speaking-422782",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795621219,
+      "postedAt": 1795675217,
       "tags": [
-        "Health Practitioners"
+        "Customer Success"
       ],
-      "summary": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe"
+      "summary": "About You You're a jack-of-all-trades with a passion for cool technology and interacting with people and making them happy. You're a self-starter who's good at triaging problems and working on the most important one. You've worked directly with customers for a"
+    },
+    {
+      "id": "arbeitnow:remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
+      "title": "Junior Cloud Operations Engineer (all genders) CH",
+      "org": "BSI Software",
+      "role": "marketing",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795674681,
+      "tags": [
+        "Services",
+        "Remote"
+      ],
+      "summary": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierun"
+    },
+    {
+      "id": "arbeitnow:remote-senior-frontend-developer-switzerland-292678",
+      "title": "Senior Frontend Developer",
+      "org": "Divio",
+      "role": "project",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/divio/remote-senior-frontend-developer-switzerland-292678",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795641604,
+      "tags": [
+        "Engineering",
+        "Computer Software",
+        "Remote"
+      ],
+      "summary": "About Divio Divio is a remote-first company spread across Europe. Our core product is a multi-cloud Platform-as-a-Service (PaaS) for deploying and managing web applications, used by agencies, developers, and enterprises who want to move fast without DevOps ove"
     },
     {
       "id": "arbeitnow:remote-group-fitness-instructor-la-chaux-de-fonds-313962",
@@ -386,21 +680,36 @@
       "summary": "Location: fully remote, work from anywhere About what. AG what. is a Zurich-based digital agency. We build websites, e-commerce and growth marketing for Swiss SMEs — and we’re pushing hard into AI-driven delivery, from our own Support Agent to our what. growth"
     },
     {
-      "id": "arbeitnow:senior-marketer-ai-expert-remote-emea-switzerland-436216",
-      "title": "Senior Marketer, AI Expert (Remote, EMEA)",
-      "org": "Weekday 1",
-      "role": "training",
-      "location": "Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/weekday-1/senior-marketer-ai-expert-remote-emea-switzerland-436216",
+      "id": "arbeitnow:account-executive-remote-from-net-netherlands-487643",
+      "title": "Account Executive (Remote from Net)",
+      "org": "Jobgether",
+      "role": "marketing",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/jobgether/account-executive-remote-from-net-netherlands-487643",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795555218,
+      "postedAt": 1795663615,
       "tags": [
-        "AI Training",
-        "Remote"
+        "Account Executive"
       ],
-      "summary": "This role is for one of our clients Compensation: $60 - $85 per hour Location: Remote – United Kingdom, Ireland, Germany, Spain, or Switzerland Experience: 7+ Years Employment Type: Full-Time Work Commitment: Approximately 40 Hours per Week Compensation: Based"
+      "summary": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for an Account Executive based in Netherlands. As an Account Executive – EMEA, you will drive new business development and strategic a"
+    },
+    {
+      "id": "arbeitnow:remote-dutch-speaking-support-specialist-217780",
+      "title": "Dutch speaking Support Specialist",
+      "org": "Lightspeedhq",
+      "role": "training",
+      "location": "Remote in the Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/lightspeedhq/remote-dutch-speaking-support-specialist-217780",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795642815,
+      "tags": [
+        "Customers"
+      ],
+      "summary": "Hi there! Thanks for stopping by 👋 Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place! As part of Lightspeed’s Support team, you will be the first point of contact for our customers who need"
     },
     {
       "id": "arbeitnow:remote-senior-ui-ux-artist-freelance-talent-pool-2027-netherlands-147530",
@@ -783,6 +1092,22 @@
         "UI/UX"
       ],
       "summary": "We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental health. You’ll work closely with and report to our "
+    },
+    {
+      "id": "arbeitnow:talent-acquisition-specialist-berlin-354233",
+      "title": "Talent Acquisition Specialist",
+      "org": "Pergolux",
+      "role": "marketing",
+      "location": "Berlin | Global Team",
+      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/talent-acquisition-specialist-berlin-354233",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795664586,
+      "tags": [
+        "People & Culture"
+      ],
+      "summary": "As our Talent Acquisition Specialist (m/w/d), you will take the lead in identifying, approaching, and engaging top talent across every function of our global business. You will own your talent pipeline end-to-end, partnering directly with hiring managers to so"
     }
   ]
 }
