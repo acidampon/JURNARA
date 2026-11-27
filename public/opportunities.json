@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T21:41:19.022Z",
+  "updatedAt": "2026-11-27T08:45:37.360Z",
   "sourceCount": 2,
   "totalFetched": 316,
-  "relevantCount": 55,
+  "relevantCount": 47,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -27,36 +27,148 @@
       "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
     },
     {
-      "id": "arbeitnow:data-director-eu-cardiff-246511",
-      "title": "Data Director, EU",
-      "org": "Monzo",
-      "role": "training",
-      "location": "Cardiff",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/data-director-eu-cardiff-246511",
+      "id": "arbeitnow:senior-backend-engineer-engineering-manufacturing-systems-berlin-418958",
+      "title": "Senior Backend Engineer - Engineering & Manufacturing Systems (f/m/d)",
+      "org": "TYTAN Technologies GmbH",
+      "role": "marketing",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-backend-engineer-engineering-manufacturing-systems-berlin-418958",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795708519,
+      "postedAt": 1795739495,
       "tags": [
-        "Data"
+        "Engineering"
       ],
-      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;🚀 We’re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We’re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt; &"
+      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything"
     },
     {
-      "id": "arbeitnow:azure-data-engineer-with-databricks-pyspark-switzerland-287961",
-      "title": "Azure Data Engineer with Databricks & PySpark",
-      "org": "Jobgether",
-      "role": "project",
-      "location": "Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/azure-data-engineer-with-databricks-pyspark-switzerland-287961",
+      "id": "arbeitnow:working-student-flight-log-analysis-software-munich-380432",
+      "title": "Working Student - Flight Log Analysis Software (m/f/d)",
+      "org": "TYTAN Technologies GmbH",
+      "role": "marketing",
+      "location": "Munich, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-flight-log-analysis-software-munich-380432",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795663615,
+      "postedAt": 1795739495,
       "tags": [
-        "IT"
+        "Engineering"
       ],
-      "summary": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for an Azure Data Engineer with Databricks & PySpark based in Switzerland. We are seeking an experienced Azure Data Engineer to design"
+      "summary": "The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything we do, and we're l"
+    },
+    {
+      "id": "arbeitnow:incident-and-problem-manager-platform-operations-bristol-488062",
+      "title": "Incident and Problem Manager - Platform Operations",
+      "org": "Kaluza",
+      "role": "marketing",
+      "location": "Bristol, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/incident-and-problem-manager-platform-operations-bristol-488062",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795761620,
+      "tags": [
+        "Client Delivery"
+      ],
+      "summary": "Location: Bristol, UK (hybrid, three days a week in the office) Level: C2 Team: Client Support Salary: £36,000 - £54,000 + discretionary bonus Contract: Permanent Reporting To: Incident and Problem Lead Please note: This role requires an existing right to work"
+    },
+    {
+      "id": "arbeitnow:senior-software-engineer-london-31812",
+      "title": "Senior Software Engineer",
+      "org": "AnyVan",
+      "role": "marketing",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anyvan/senior-software-engineer-london-31812",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795761619,
+      "tags": [
+        "Technology"
+      ],
+      "summary": "Got Drive? Join AnyVan as we make moving anything, anywhere miles better and build a career that moves just as fast. Back in 2009, our Chairman Angus saw half-empty vans everywhere and knew there had to be a better way! That's how AnyVan began. He set out to c"
+    },
+    {
+      "id": "arbeitnow:scientific-implementation-associate-united-kingdom-270402",
+      "title": "Scientific Implementation Associate",
+      "org": "True Talent Solutions Partners",
+      "role": "project",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/true-talent-solutions-partners/scientific-implementation-associate-united-kingdom-270402",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795761618,
+      "tags": [
+        "Client Roles"
+      ],
+      "summary": "About the Role Join an implementation team at a scientific R&D software company, helping researchers bring their lab workflows and experimental data into a software platform. You will work directly with scientists and R&D stakeholders to support successful imp"
+    },
+    {
+      "id": "arbeitnow:product-marketing-manager-kimchi-ai-coding-platform-emea-243630",
+      "title": "Product Marketing Manager | Kimchi AI Coding Platform| EMEA",
+      "org": "Kimchi",
+      "role": "marketing",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kimchi/product-marketing-manager-kimchi-ai-coding-platform-emea-243630",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795751719,
+      "tags": [
+        "Marketing"
+      ],
+      "summary": "&lt;h4&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;Kimchi is Cast AI’s newest product: an agentic platform for running AI workloads. We are building in a greenfield space where the technology, customer expectations, and the competitive l"
+    },
+    {
+      "id": "arbeitnow:head-of-people-business-partnering-london-311753",
+      "title": "Head of People Business Partnering",
+      "org": "Kraken",
+      "role": "marketing",
+      "location": "London, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/head-of-people-business-partnering-london-311753",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795750986,
+      "tags": [
+        "People"
+      ],
+      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
+    },
+    {
+      "id": "arbeitnow:lead-software-engineer-customer-lifecycle-london-308658",
+      "title": "Lead Software Engineer - Customer Lifecycle",
+      "org": "Kraken",
+      "role": "marketing",
+      "location": "London, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/lead-software-engineer-customer-lifecycle-london-308658",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795750986,
+      "tags": [
+        "Tech Development"
+      ],
+      "summary": "Help us use technology to make a big green dent in the universe! Kraken powers some of the most innovative global developments in energy. We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable g"
+    },
+    {
+      "id": "arbeitnow:game-developer-midcore-games-internship-paris-365864",
+      "title": "Game Developer - Midcore Games - Internship",
+      "org": "Voodoo",
+      "role": "marketing",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/game-developer-midcore-games-internship-paris-365864",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795740013,
+      "tags": [
+        "Gaming"
+      ],
+      "summary": "About Voodoo Voodoo is a consumer tech company founded in Paris in 2013, with one mission: entertain the world. Today we are 1,000 people, generating $1b+ in annual revenue, profitably. Our games and apps have passed 7 billion downloads and reach 200 million+ "
     },
     {
       "id": "arbeitnow:junior-business-controller-data-specialist-almere-394785",
@@ -121,6 +233,175 @@
         "IT"
       ],
       "summary": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for an Azure Data Engineer with Databricks & PySpark based in Netherlands. We are seeking an experienced Azure Data Engineer to design"
+    },
+    {
+      "id": "arbeitnow:senior-product-managerin-kyc-frankfurt-am-main-251260",
+      "title": "(Senior) Product Manager:in KYC (m/w/d)",
+      "org": "ClariLab GmbH & Co.KG",
+      "role": "project",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/clarilab-gmbh-cokg/senior-product-managerin-kyc-frankfurt-am-main-251260",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795764663,
+      "tags": [
+        "Remote",
+        "Product Management"
+      ],
+      "summary": "Du willst nicht Tickets verwalten, sondern herausfinden, welches Problem sich zu lösen lohnt? Regulatorik ist für dich keine Textwüste, sondern die Landkarte, auf der du Produktchancen findest? Dann komm in unser Produktteam! Du übernimmst im Tandem die Hauptv"
+    },
+    {
+      "id": "arbeitnow:senior-product-designer-berlin-50865",
+      "title": "Senior Product Designer (m/f/d)",
+      "org": "Klim",
+      "role": "marketing",
+      "location": "Berlin I DE Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/klim/senior-product-designer-berlin-50865",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795740012,
+      "tags": [
+        "Product"
+      ],
+      "summary": "The team at Klim is building the operating system for regenerative agriculture. We help farms restore their soil - and turn that into real, measurable business value for the food companies, banks and insurers who depend on it. We’re a Berlin-based agritech sta"
+    },
+    {
+      "id": "arbeitnow:remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-315861",
+      "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+      "org": "virtual7 GmbH",
+      "role": "hr",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-315861",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795739496,
+      "tags": [
+        "Customer Cluster Justice",
+        "Remote"
+      ],
+      "summary": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, "
+    },
+    {
+      "id": "arbeitnow:remote-senior-gca-infrastructure-engineer-bonn-245939",
+      "title": "Senior GCA Infrastructure Engineer (m/w/d)",
+      "org": "virtual7 GmbH",
+      "role": "training",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-gca-infrastructure-engineer-bonn-245939",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795739496,
+      "tags": [
+        "Customer Cluster Defense & Public Security",
+        "Remote"
+      ],
+      "summary": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktu"
+    },
+    {
+      "id": "arbeitnow:remote-cloud-devsecops-engineer-software-supply-chain-security-bonn-331082",
+      "title": "Cloud DevSecOps Engineer – Software Supply Chain Security (m/w/d)",
+      "org": "virtual7 GmbH",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-cloud-devsecops-engineer-software-supply-chain-security-bonn-331082",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795739496,
+      "tags": [
+        "Customer Cluster Defense & Public Security",
+        "Remote"
+      ],
+      "summary": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktu"
+    },
+    {
+      "id": "arbeitnow:remote-senior-service-mesh-engineer-linkerd-multicluster-bonn-253963",
+      "title": "Senior Service Mesh Engineer – Linkerd & Multicluster (m/w/d)",
+      "org": "virtual7 GmbH",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-service-mesh-engineer-linkerd-multicluster-bonn-253963",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795739496,
+      "tags": [
+        "Customer Cluster Defense & Public Security",
+        "Remote"
+      ],
+      "summary": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktu"
+    },
+    {
+      "id": "arbeitnow:remote-engineering-manager-payments-all-genders-berlin-414704",
+      "title": "Engineering Manager, Payments (all genders)",
+      "org": "Distribusion Technologies",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-engineering-manager-payments-all-genders-berlin-414704",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795739490,
+      "tags": [
+        "Technology",
+        "Remote"
+      ],
+      "summary": "About us Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail an"
+    },
+    {
+      "id": "arbeitnow:senior-google-ads-manager-ai-first-performance-marketing-remote-198950",
+      "title": "(Senior) Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
+      "org": "Evolve Digital GmbH",
+      "role": "marketing",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-google-ads-manager-ai-first-performance-marketing-remote-198950",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795739489,
+      "tags": [
+        "Operations",
+        "Remote"
+      ],
+      "summary": "Google Ads verändert sich durch AI schneller als je zuvor. Wir suchen deshalb keinen klassischen Ads Manager, sondern jemanden, der Lust hat, Performance Marketing neu zu denken und die Zukunft des Kanals mitzugestalten. Bei EVOLVE Digital arbeiten wir AI-firs"
+    },
+    {
+      "id": "arbeitnow:marketing-manager-google-ads-ai-first-performance-marketing-remote-124208",
+      "title": "Marketing Manager Google Ads – AI-First Performance Marketing (m/w/d) · Remote",
+      "org": "Evolve Digital GmbH",
+      "role": "marketing",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/marketing-manager-google-ads-ai-first-performance-marketing-remote-124208",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795739489,
+      "tags": [
+        "Operations",
+        "Remote"
+      ],
+      "summary": "Google Ads verändert sich durch AI schneller als je zuvor. Wir suchen deshalb keinen klassischen Ads Manager, sondern jemanden, der Lust hat, Performance Marketing neu zu denken und die Zukunft des Kanals mitzugestalten. Bei EVOLVE Digital arbeiten wir AI-firs"
+    },
+    {
+      "id": "arbeitnow:marketplace-manager-fur-otto-kaufland-gotha-184112",
+      "title": "Marketplace Manager für OTTO & Kaufland",
+      "org": "Dudes&Partner",
+      "role": "marketing",
+      "location": "Gotha",
+      "url": "https://www.arbeitnow.com/jobs/companies/dudespartner/marketplace-manager-fur-otto-kaufland-gotha-184112",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795735827,
+      "tags": [
+        "Remote",
+        "Online Marketing"
+      ],
+      "summary": "Hi, wir sind Dudes&Partner, eine dynamische und aufstrebende Marktplatz-Agentur, bei uns dreht sich alles um die Optimierung von Produktlistings auf den Marktplätzen OTTO & Kaufland. Wir sind stolz darauf, mit einigen der renommiertesten Marken aus einer Vielz"
     },
     {
       "id": "arbeitnow:enterprise-account-executive-dach-remote-germany-157033",
@@ -189,409 +470,85 @@
       "summary": "Über STRIVE STRIVE Nutrition ist eine wachsende Premium-Marke für pflanzliche Bio-Proteine und hochwertige Supplements. Unser Anspruch ist es, außergewöhnlich gute Produkte mit kompromisslosem Qualitätsanspruch zu entwickeln – von der Auswahl der Rohstoffe übe"
     },
     {
-      "id": "arbeitnow:werkstudent-praktikant-growth-marketing-content-berlin-417651",
-      "title": "Werkstudent / Praktikant (m/w/d) – Growth Marketing & Content",
-      "org": "Strive Nutrition GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/strive-nutrition-gmbh/werkstudent-praktikant-growth-marketing-content-berlin-417651",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795712477,
-      "tags": [
-        "Remote",
-        "Online Marketing"
-      ],
-      "summary": "Über STRIVE STRIVE Nutrition ist eine wachsende Premium-Marke für pflanzliche Bio-Proteine und hochwertige Supplements. Unser Anspruch ist es, Produkte zu entwickeln, die in Qualität, Rezeptur und Design neue Maßstäbe setzen: hochwertige Bio-Rohstoffe, konsequ"
-    },
-    {
-      "id": "arbeitnow:werkstudent-praktikant-product-management-operations-international-expansion-berlin-388895",
-      "title": "Werkstudent / Praktikant (m/w/d) – Product Management, Operations & International Expansion",
-      "org": "Strive Nutrition GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/strive-nutrition-gmbh/werkstudent-praktikant-product-management-operations-international-expansion-berlin-388895",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795712476,
-      "tags": [
-        "Remote",
-        "Product Management"
-      ],
-      "summary": "Über STRIVE STRIVE Nutrition ist eine wachsende Premium-Marke für pflanzliche Bio-Proteine und hochwertige Supplements. Unser Anspruch ist es, außergewöhnlich gute Produkte mit kompromisslosem Qualitätsanspruch zu entwickeln – von der Auswahl der Rohstoffe übe"
-    },
-    {
-      "id": "arbeitnow:werkstudent-praktikant-growth-marketing-content-berlin-425536",
-      "title": "Werkstudent / Praktikant (m/w/d) – Growth Marketing & Content",
-      "org": "Strive Nutrition GmbH",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/strive-nutrition-gmbh/werkstudent-praktikant-growth-marketing-content-berlin-425536",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795710666,
-      "tags": [
-        "Remote",
-        "Online Marketing"
-      ],
-      "summary": "Über STRIVE STRIVE Nutrition ist eine wachsende Premium-Marke für pflanzliche Bio-Proteine und hochwertige Supplements. Unser Anspruch ist es, Produkte zu entwickeln, die in Qualität, Rezeptur und Design neue Maßstäbe setzen: hochwertige Bio-Rohstoffe, konsequ"
-    },
-    {
-      "id": "arbeitnow:remote-senior-tools-engineer-241247",
-      "title": "Senior Tools Engineer",
-      "org": "Companion Group Ltd",
-      "role": "project",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/companion-group-ltd/remote-senior-tools-engineer-241247",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795710010,
-      "tags": [
-        "Engineering",
-        "certification"
-      ],
-      "summary": "Companion Group is a AAA co-development gaming studio with a globally distributed and fully remote setup, renowned for its adeptness in overcoming the most intricate challenges in multiplayer game development. Our reputation precedes us as an excellent choice "
-    },
-    {
-      "id": "arbeitnow:remote-msp-account-executive-dach-338050",
-      "title": "MSP Account Executive - DACH",
-      "org": "Rubrik",
+      "id": "arbeitnow:2027-hiring-opportunities-senior-principal-statistical-programmingremote-in-uk-outside-ir35-444425",
+      "title": "2027 Hiring Opportunities – Senior/Principal Statistical Programming(Remote in UK-Outside IR35)",
+      "org": "Clinchoice",
       "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/rubrik/remote-msp-account-executive-dach-338050",
+      "location": "Location not specified",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clinchoice/2027-hiring-opportunities-senior-principal-statistical-programmingremote-in-uk-outside-ir35-444425",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795708521,
+      "postedAt": 1795762521,
       "tags": [
-        "Sales"
+        "Statistical Programming"
       ],
-      "summary": "&lt;h3 data-lfile-container=\"df7381f3-43e7-484a-8b7e-2df8f89e5553\" data-pm-slice=\"1 1 []\"&gt;&nbsp;&lt;/h3&gt; &lt;h3 data-lfile-container=\"df7381f3-43e7-484a-8b7e-2df8f89e5553\" data-pm-slice=\"1 1 []\"&gt;About the Team &amp; Role&lt;/h3&gt; &lt;p&gt;Managed se"
+      "summary": "&lt;p&gt;&nbsp;&lt;/p&gt; &lt;p&gt;&nbsp;&lt;/p&gt; &lt;p style=\"line-height: 1.2;\"&gt;&lt;span style=\"font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt;\"&gt;Are you interested in working directly for a single sponsor while having the security"
     },
     {
-      "id": "arbeitnow:produktmanager-in-hamburg-oder-remote-97994",
-      "title": "Produktmanager (m/w/d) in Hamburg oder Remote",
-      "org": "DEMV Systems Gmbh",
+      "id": "arbeitnow:video-editor-at-aios-remote-1500-2000-month-contract-blackburn-354752",
+      "title": "Video Editor at AIOS — Remote, $1,500-$2,000/month (contract)",
+      "org": "AIOS (YC W20/S21)",
       "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/produktmanager-in-hamburg-oder-remote-97994",
+      "location": "Remote (UK hours)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/video-editor-at-aios-remote-1500-2000-month-contract-blackburn-354752",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795707076,
+      "postedAt": 1795750986,
       "tags": [
-        "alle",
+        "Growth"
+      ],
+      "summary": "About AIOS AIOS is building the world’s first full-stack AI doctor. We’re at $450M ARR, growing from $7M/yr in April 2025. We’re faithfully serving 200k/mo patients via Bolt Pharmacy, our main UK brand. We’ve just launched Bolt Med, our international brand. We"
+    },
+    {
+      "id": "arbeitnow:remote-senior-devsecops-engineer-349434",
+      "title": "Senior DevSecOps Engineer",
+      "org": "360Learning",
+      "role": "training",
+      "location": "Paris, Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-senior-devsecops-engineer-349434",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795748899,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "Our Security and IT team keeps the 360Learning platform secure, compliant and auditable for the 1,500 organisations that learn on it every day. As a Senior DevSecOps Engineer, your mission is to make our infrastructure secure by design, detectable by default, "
+    },
+    {
+      "id": "arbeitnow:remote-systems-and-digital-solutions-intern-geneva-98201",
+      "title": "Systems and Digital Solutions Intern",
+      "org": "Global Survivors Fund",
+      "role": "training",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/global-survivors-fund/remote-systems-and-digital-solutions-intern-geneva-98201",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795739496,
+      "tags": [
         "Remote"
       ],
-      "summary": "Der Deutsche Maklerverbund ist eine bundesweite Plattform sowie Einkaufs- und Interessengemeinschaft für Versicherungsmakler und Finanzvermittler, die ihren Mitgliedern sowohl stark wettbewerbsfähige Produkte, Courtagen und innovative Prozesse als auch Unabhän"
+      "summary": "Title: Systems and Digital Solutions Intern Type of contract: Paid internship Contract duration: 6 months Work time: Full-time (40 hours per week) or part-time Reporting to: Systems and Digital Solutions Coordinator Technical guidance: BI and Systems Officer L"
     },
     {
-      "id": "arbeitnow:interne-projekt-und-prozessanalyse-berlin-309393",
-      "title": "Interne Projekt- und Prozessanalyse (m/w/d)",
-      "org": "S-Akquise GmbH",
+      "id": "arbeitnow:remote-software-test-engineer-bern-365909",
+      "title": "Software Test Engineer",
+      "org": "SwissPeak Partners GmbH",
       "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/s-akquise-gmbh/interne-projekt-und-prozessanalyse-berlin-309393",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-365909",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795707046,
+      "postedAt": 1795739493,
       "tags": [
-        "Remote",
-        "Business Consulting"
-      ],
-      "summary": "Über das Unternehmen Die S-Akquise GmbH ist im Bereich der operativen und strategischen Unternehmensberatung tätig. Das Unternehmen unterstützt Unternehmen und öffentliche Körperschaften bei unterschiedlichen Fragestellungen der Unternehmensorganisation und st"
-    },
-    {
-      "id": "arbeitnow:senior-sap-s-4hana-interface-cutover-lead-freelance-berlin-465388",
-      "title": "Senior SAP S/4HANA Interface Cutover Lead (Freelance)",
-      "org": "Sidekick Network GmbH & Co. KG",
-      "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-s-4hana-interface-cutover-lead-freelance-berlin-465388",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795705263,
-      "tags": [
-        "Remote",
-        "SAP/ERP Consulting",
-        "Development"
-      ],
-      "summary": "Mandatory Expertise – Bitte vor der Bewerbung lesen Für ein langfristiges SAP S/4HANA-Transformationsprogramm bei einem großen deutschen Unternehmen suchen wir einen erfahrenen Senior SAP Interface Cutover Lead. Im Rahmen der Transformation von SAP ECC auf SAP"
-    },
-    {
-      "id": "arbeitnow:senior-sap-fiori-lead-developer-technical-lead-freelance-berlin-286936",
-      "title": "Senior SAP Fiori Lead Developer / Technical Lead – Freelance (m/f/d)",
-      "org": "Sidekick Network GmbH & Co. KG",
-      "role": "support",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-fiori-lead-developer-technical-lead-freelance-berlin-286936",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795703482,
-      "tags": [
-        "Remote",
-        "SAP/ERP Consulting",
-        "Development"
-      ],
-      "summary": "For a large-scale SAP S/4HANA transformation programme in the railway and transportation industry, we are looking for an experienced Senior SAP Fiori Lead Developer / Technical Lead . The successful candidate will combine strong hands-on SAP Fiori and SAPUI5 d"
-    },
-    {
-      "id": "arbeitnow:senior-platform-engineer-remote-within-the-eu-berlin-387492",
-      "title": "Senior Platform Engineer (w/m/d) (remote within the EU)",
-      "org": "Weflow",
-      "role": "hr",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/weflow/senior-platform-engineer-remote-within-the-eu-berlin-387492",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795703481,
-      "tags": [
-        "Remote",
-        "System and Network Administration"
-      ],
-      "summary": "About Weflow Weflow is the Salesforce-native revenue intelligence platform for B2B sales teams. We capture sales activity, analyze conversations, run AI playbooks, and power forecasting and pipeline analytics, all inside Salesforce. We're a team of about 30 ba"
-    },
-    {
-      "id": "arbeitnow:marketing-manager-google-ads-ai-first-performance-marketing-remote-223074",
-      "title": "Marketing Manager Google Ads – AI-First Performance Marketing (m/w/d) · Remote",
-      "org": "Evolve Digital GmbH",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/marketing-manager-google-ads-ai-first-performance-marketing-remote-223074",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795702813,
-      "tags": [
-        "Marketing and pr",
-        "vocational"
-      ],
-      "summary": "Google Ads verändert sich durch AI schneller als je zuvor. Wir suchen deshalb keinen klassischen Ads Manager, sondern jemanden, der Lust hat, Performance Marketing neu zu denken und die Zukunft des Kanals mitzugestalten. Bei EVOLVE Digital arbeiten wir AI-firs"
-    },
-    {
-      "id": "arbeitnow:senior-google-ads-manager-ai-first-performance-marketing-remote-243211",
-      "title": "(Senior) Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
-      "org": "Evolve Digital GmbH",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-google-ads-manager-ai-first-performance-marketing-remote-243211",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795702813,
-      "tags": [
-        "Marketing and pr",
-        "vocational"
-      ],
-      "summary": "Google Ads verändert sich durch AI schneller als je zuvor. Wir suchen deshalb keinen klassischen Ads Manager, sondern jemanden, der Lust hat, Performance Marketing neu zu denken und die Zukunft des Kanals mitzugestalten. Bei EVOLVE Digital arbeiten wir AI-firs"
-    },
-    {
-      "id": "arbeitnow:amazon-growth-lead-hamburg-380362",
-      "title": "Amazon Growth Lead (m/w/d)",
-      "org": "Start To Finish Consulting GmbH",
-      "role": "marketing",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/amazon-growth-lead-hamburg-380362",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795701667,
-      "tags": [
-        "Remote",
-        "Online Marketing"
-      ],
-      "summary": "Wir sind Start to Finish. Kein Startup kann wachsen ohne das richtige Team. Aus diesem Grund unterstützen wir aufstrebende Startups und Growth Companies wie Snocks, SellerX, Formary, Schema M und viele weitere dabei, ihre Schlüsselpositionen mit den richtigen "
-    },
-    {
-      "id": "arbeitnow:e-commerce-talent-nuremberg-352150",
-      "title": "E-Commerce-Talent (m/w/d)",
-      "org": "Momentum Games GmbH",
-      "role": "marketing",
-      "location": "Nuremberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/momentum-games-gmbh/e-commerce-talent-nuremberg-352150",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795701667,
-      "tags": [
-        "Remote",
-        "Online Marketing"
-      ],
-      "summary": "E-COMMERCE-TALENT GESUCHT Amazon, Shopify und Markenaufbau direkt an der Seite der Gründer Wir sind Momentum Games und entwickeln innovative, app-unterstützte Gesellschaftsspiele. Unsere Marken Crime Cases und Toleva verkaufen wir auf Amazon, in unserem Shopif"
-    },
-    {
-      "id": "arbeitnow:m365-engineer-100-remote-berlin-364735",
-      "title": "M365 Engineer (m/w/d), 100 % remote",
-      "org": "Kigen IT-Systemhaus",
-      "role": "hr",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/kigen-it-systemhaus/m365-engineer-100-remote-berlin-364735",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795699871,
-      "tags": [
-        "Remote",
-        "System and Network Administration"
-      ],
-      "summary": "Über uns Kigen IT ist ein spezialisiertes IT-Systemhaus für Microsoft 365, Security und Compliance. Wir betreuen Kunden in ganz Deutschland, fast komplett remote, und suchen Verstärkung für unser Technikteam. Deine Aufgaben Du betreust unsere Managed-Service-K"
-    },
-    {
-      "id": "arbeitnow:senior-sap-fiori-sapui5-developer-plant-maintenance-freelance-berlin-298397",
-      "title": "Senior SAP Fiori / SAPUI5 Developer – Plant Maintenance (Freelance)",
-      "org": "Sidekick Network GmbH & Co. KG",
-      "role": "support",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-fiori-sapui5-developer-plant-maintenance-freelance-berlin-298397",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795699871,
-      "tags": [
-        "Remote",
-        "SAP/ERP Consulting",
-        "Development"
-      ],
-      "summary": "Mandatory SAP Fiori / SAPUI5 Expertise – Please Read Before Applying For a large SAP S/4HANA transformation program at a major European infrastructure and transportation company, we are looking for five experienced Senior SAP Fiori / SAPUI5 Developers to suppo"
-    },
-    {
-      "id": "arbeitnow:marketing-kommunikations-managerin-berlin-299995",
-      "title": "Marketing- & Kommunikations-Manager:in (d/w/m)",
-      "org": "Project Bay Workation Hotel UG (haftungsbeschränkt)",
-      "role": "marketing",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/project-bay-workation-hotel-ug-haftungsbeschrankt/marketing-kommunikations-managerin-berlin-299995",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795698060,
-      "tags": [
-        "Remote",
-        "Online Marketing"
-      ],
-      "summary": "Project Bay ist der erste CoWorking-Living Space mit direktem Meerzugang und neuer Hotspot für Innovation im Norden. Die Themen „Digitalisierung, Künstliche Intelligenz und neue Mobilitätslösungen“ werden hierbei mit regionaler Community, Work-Life-Balance und"
-    },
-    {
-      "id": "arbeitnow:remote-growth-rd-lead-fitme-137268",
-      "title": "Growth R&D Lead (FitMe)",
-      "org": "Gismart",
-      "role": "training",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-growth-rd-lead-fitme-137268",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795696814,
-      "tags": [
-        "FitMe"
-      ],
-      "summary": "About Us Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have recently achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission"
-    },
-    {
-      "id": "arbeitnow:pflichtpraktikum-content-management-seo-in-teilzeit-remote-oder-hybrid-munich-300524",
-      "title": "Pflichtpraktikum Content Management & SEO (w/m/d) – in Teilzeit, remote oder hybrid",
-      "org": "Plantura GmbH",
-      "role": "marketing",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/plantura-gmbh/pflichtpraktikum-content-management-seo-in-teilzeit-remote-oder-hybrid-munich-300524",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795696288,
-      "tags": [
-        "Remote",
-        "Social Media Manager"
-      ],
-      "summary": "Deine Mission bei uns Wir bei Plantura bringen Menschen wieder mit der Natur in Verbindung und sorgen dafür, dass die Welt jeden Tag ein bisschen grüner wird. Du bist auf der Suche nach einem Pflichtpraktikum, bei dem du sowohl ambitioniertes, nachhaltiges Unt"
-    },
-    {
-      "id": "arbeitnow:remote-senior-principal-product-manager-storage-193053",
-      "title": "Senior/Principal Product Manager - Storage",
-      "org": "Radiant",
-      "role": "project",
-      "location": "United Kingdom - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-principal-product-manager-storage-193053",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795718411,
-      "tags": [
-        "Product"
-      ],
-      "summary": "About our team: Radiant is redefining how AI infrastructure is built. We design and operate AI-native infrastructure platforms engineered for sovereignty, performance, and scale — powering GPU-native workloads, multi-tenant control planes, and high-performance"
-    },
-    {
-      "id": "arbeitnow:remote-senior-principal-product-manager-infrastructure-420974",
-      "title": "Senior/Principal Product Manager - Infrastructure",
-      "org": "Radiant",
-      "role": "project",
-      "location": "United Kingdom - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-principal-product-manager-infrastructure-420974",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795718411,
-      "tags": [
-        "Product"
-      ],
-      "summary": "About our team: Radiant is redefining how AI infrastructure is built. We design and operate AI-native infrastructure platforms engineered for sovereignty, performance, and scale — powering GPU-native workloads, multi-tenant control planes, and high-performance"
-    },
-    {
-      "id": "arbeitnow:remote-senior-principal-product-manager-mlops-56922",
-      "title": "Senior/Principal Product Manager - MLOps",
-      "org": "Radiant",
-      "role": "training",
-      "location": "United Kingdom - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-principal-product-manager-mlops-56922",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795718411,
-      "tags": [
-        "Product"
-      ],
-      "summary": "About our team: Radiant is redefining how AI infrastructure is built. We design and operate AI-native infrastructure platforms engineered for sovereignty, performance, and scale — powering GPU-native workloads, multi-tenant control planes, and high-performance"
-    },
-    {
-      "id": "arbeitnow:remote-senior-field-product-engineer-35830",
-      "title": "Senior Field Product Engineer",
-      "org": "Radiant",
-      "role": "project",
-      "location": "United Kingdom - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-senior-field-product-engineer-35830",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795718411,
-      "tags": [
-        "Product"
-      ],
-      "summary": "About our team: Radiant is redefining how AI infrastructure is built. We design and operate AI-native infrastructure platforms engineered for sovereignty, performance, and scale — powering GPU-native workloads, multi-tenant control planes, and high-performance"
-    },
-    {
-      "id": "arbeitnow:remote-responsable-commercial-export-h-f-strasbourg-468121",
-      "title": "Responsable commercial export H/F",
-      "org": "RH Partners",
-      "role": "project",
-      "location": "Poste à distance",
-      "url": "https://www.arbeitnow.fr/jobs/companies/rh-partners/remote-responsable-commercial-export-h-f-strasbourg-468121",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795707080,
-      "tags": [
-        "Commerce et Vente",
+        "Software Engineering",
         "Remote"
       ],
-      "summary": "Périgord VDL, numéro 1 français du véhicule de loisir, fait partie du puissant groupe Trigano. Forte de 40 ans d’expérience, riche de plus de 200 salariés, l’entreprise réalise plus de 100M€ de chiffre d’affaires tout en préservant un ADN d’artisan. Au travers"
+      "summary": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest im Sprint mit und ve"
     },
     {
       "id": "arbeitnow:3d-concept-visualization-artist-freelance-working-student-dubendorf-492490",
@@ -644,23 +601,6 @@
         "Remote"
       ],
       "summary": "S-PRO, a top-tier Digital Innovation and Software Engineering company. We specialize in providing cutting-edge services for fast-growing businesses and enterprises, with a strong focus on Finance, Renewable Energy and Healthcare domains and expertise in AI, Bl"
-    },
-    {
-      "id": "arbeitnow:remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
-      "title": "Junior Cloud Operations Engineer (all genders) CH",
-      "org": "BSI Software",
-      "role": "marketing",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-junior-cloud-operations-engineer-all-genders-ch-baar-288099",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795674681,
-      "tags": [
-        "Services",
-        "Remote"
-      ],
-      "summary": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierun"
     },
     {
       "id": "arbeitnow:business-development-manager-integrator-partners-benelux-anywhere-in-the-netherlands-463097",
@@ -726,99 +666,6 @@
         "Customers"
       ],
       "summary": "Hi there! Thanks for stopping by 👋 Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place! As part of Lightspeed’s Support team, you will be the first point of contact for our customers who need"
-    },
-    {
-      "id": "arbeitnow:remote-senior-ui-ux-artist-freelance-talent-pool-2027-netherlands-147530",
-      "title": "Senior UI/ UX Artist Freelance Talent Pool (2027)",
-      "org": "Keywords Intl1",
-      "role": "project",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-ui-ux-artist-freelance-talent-pool-2027-netherlands-147530",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795612812,
-      "tags": [
-        "Art/Creative",
-        "Computer Games",
-        "Art Services",
-        "Remote"
-      ],
-      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior UI/ UX Artists,"
-    },
-    {
-      "id": "arbeitnow:remote-senior-ui-programmer-freelance-talent-pool-2027-opportunities-netherlands-432078",
-      "title": "Senior U.I. Programmer - Freelance Talent Pool (2027 Opportunities)",
-      "org": "Keywords Intl1",
-      "role": "project",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-ui-programmer-freelance-talent-pool-2027-opportunities-netherlands-432078",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795612812,
-      "tags": [
-        "Engineering",
-        "Computer Games",
-        "Game Development",
-        "Remote"
-      ],
-      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior U.I. Programmer"
-    },
-    {
-      "id": "arbeitnow:remote-senior-technical-vfx-artist-freelance-talent-pool-2027-opportunities-netherlands-243915",
-      "title": "Senior Technical/ VFX Artist - Freelance Talent Pool (2027 Opportunities)",
-      "org": "Keywords Intl1",
-      "role": "project",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-technical-vfx-artist-freelance-talent-pool-2027-opportunities-netherlands-243915",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795612812,
-      "tags": [
-        "Art/Creative",
-        "Computer Games",
-        "Art Services",
-        "Remote"
-      ],
-      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for an experienced freelance Senior Technical/ VFX artists with the"
-    },
-    {
-      "id": "arbeitnow:remote-senior-technical-designer-freelance-talent-pool-2027-opportunities-netherlands-483492",
-      "title": "Senior Technical Designer - Freelance Talent Pool (2027 Opportunities",
-      "org": "Keywords Intl1",
-      "role": "project",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-technical-designer-freelance-talent-pool-2027-opportunities-netherlands-483492",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795612812,
-      "tags": [
-        "Computer Games",
-        "Game Development",
-        "Remote"
-      ],
-      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Technical Desig"
-    },
-    {
-      "id": "arbeitnow:remote-senior-systems-designer-freelance-talent-pool-2027-opportunities-netherlands-253379",
-      "title": "Senior Systems Designer - Freelance Talent Pool (2027 Opportunities",
-      "org": "Keywords Intl1",
-      "role": "project",
-      "location": "Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-systems-designer-freelance-talent-pool-2027-opportunities-netherlands-253379",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795612812,
-      "tags": [
-        "Computer Games",
-        "Game Development",
-        "Remote"
-      ],
-      "summary": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status. We are looking for experienced and multi-talented freelance Senior Systems Designe"
     },
     {
       "id": "remotive:1680495",
