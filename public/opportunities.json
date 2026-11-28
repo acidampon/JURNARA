@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-28T07:59:47.270Z",
+  "updatedAt": "2026-11-28T20:16:35.266Z",
   "sourceCount": 2,
-  "totalFetched": 317,
+  "totalFetched": 316,
   "relevantCount": 42,
   "sources": [
     "Arbeitnow",
@@ -11,20 +11,20 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:senior-solutions-engineer-remote-europe-berlin-227807",
-      "title": "Senior Solutions Engineer (Remote Europe)",
-      "org": "N8N",
-      "role": "training",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-solutions-engineer-remote-europe-berlin-227807",
+      "id": "arbeitnow:senior-strategic-procurement-engineer-munich-26119",
+      "title": "Senior Strategic Procurement Engineer (m/f/d)",
+      "org": "TYTAN Technologies GmbH",
+      "role": "marketing",
+      "location": "Munich, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-strategic-procurement-engineer-munich-26119",
       "source": "Arbeitnow",
-      "remote": true,
+      "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795815614,
+      "postedAt": 1795890681,
       "tags": [
-        "Sales"
+        "Operations"
       ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+      "summary": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything"
     },
     {
       "id": "arbeitnow:senior-avionics-system-engineer-munich-329071",
@@ -91,68 +91,36 @@
       "summary": "Here at The Exploration Company, we are building spacecraft for humanity. Description We are seeking a talented Fluid Systems Development Engineer to join the Storm engine project. As a key member of our System Team, you will play a central role in developing "
     },
     {
-      "id": "arbeitnow:partner-manager-mea-apac-germany-362046",
-      "title": "Partner Manager MEA & APAC",
-      "org": "N8N",
-      "role": "marketing",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/partner-manager-mea-apac-germany-362046",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795815614,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
-    },
-    {
-      "id": "arbeitnow:group-product-manager-ai-experience-germany-117123",
-      "title": "Group Product Manager - AI Experience",
-      "org": "N8N",
-      "role": "marketing",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/group-product-manager-ai-experience-germany-117123",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795815614,
-      "tags": [
-        "Product"
-      ],
-      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
-    },
-    {
-      "id": "arbeitnow:staff-research-engineer-bristol-cambridge-london-8126",
-      "title": "Staff Research Engineer",
-      "org": "Graphcore",
-      "role": "training",
-      "location": "Bristol; Cambridge; London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-research-engineer-bristol-cambridge-london-8126",
-      "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795838120,
-      "tags": [
-        "Research"
-      ],
-      "summary": "&lt;h1&gt;About the job&lt;/h1&gt; &lt;p&gt;Turn AI research ideas into experiments that help shape Graphcore’s next generation of AI hardware.&lt;/p&gt; &lt;p&gt;As a Staff Research Engineer in Graphcore Research, you’ll help shape complex projects from hypot"
-    },
-    {
-      "id": "arbeitnow:test-development-engineer-bordeaux-452373",
-      "title": "Test Development Engineer",
-      "org": "The Exploration Company",
+      "id": "arbeitnow:senior-counsel-commercial-london-266730",
+      "title": "Senior Counsel, Commercial",
+      "org": "Olix",
       "role": "project",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/test-development-engineer-bordeaux-452373",
+      "location": "London, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/olix/senior-counsel-commercial-london-266730",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795826413,
+      "postedAt": 1795891213,
       "tags": [
-        "MAIT"
+        "Operations"
       ],
-      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. Here at The Exploration Company, we are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refuelled in orbit, and which carrie"
+      "summary": "About OLIX AI is growing faster than any technology in history and the explosion in demand has created a massive infrastructure gap; we can no longer build chips or power stations fast enough to keep up. The industry is still leaning on a ten-year-old hardware"
+    },
+    {
+      "id": "arbeitnow:senior-backend-engineer-cardiff-251881",
+      "title": "Senior Backend Engineer",
+      "org": "Monzo",
+      "role": "training",
+      "location": "Cardiff",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-backend-engineer-cardiff-251881",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795870516,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;🚀 We’re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We’re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt; &"
     },
     {
       "id": "arbeitnow:partner-manager-emea-north-netherlands-93425",
@@ -201,6 +169,157 @@
         "Internships"
       ],
       "summary": "Opening WE CANNOT PROVIDE VISA SPONSORSHIP Details Preferred starting date: ASAP Weekly availability: full-time (5 days/week) Period: 6 months About the company Fiducial is a young but fast-growing deep-tech start-up with big ambitions at the frontier of auton"
+    },
+    {
+      "id": "arbeitnow:remote-solutions-engineer-erp-integrations-expert-149931",
+      "title": "Solutions Engineer: ERP Integrations Expert (d/f/m)",
+      "org": "Luminovo GmbH",
+      "role": "project",
+      "location": "🇪🇺 Europe (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/remote-solutions-engineer-erp-integrations-expert-149931",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795891219,
+      "tags": [
+        "Revenue"
+      ],
+      "summary": "From autonomous vehicles to medical devices, we believe the electronics industry is at the heart of global innovation - and we’re here to remove the bottlenecks that slow it down. Luminovo helps innovators to bring new electronic products to life - faster, che"
+    },
+    {
+      "id": "arbeitnow:software-engineer-backend-security-und-infrastruktur-100-remote-berlin-432356",
+      "title": "Software Engineer (m/w/d) Backend, Security und Infrastruktur, 100 % remote",
+      "org": "ALPHA Software GmbH",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/software-engineer-backend-security-und-infrastruktur-100-remote-berlin-432356",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795887047,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Du entwickelst mit Claude und verstehst trotzdem jede Zeile, die du live bringst. Genau dich suchen wir. Die ALPHA Software GmbH digitalisiert die Erstellung von Gebäudeunterlagen für Immobilienprofis. Über unsere Bestellplattform beauftragen Kunden bei uns Gr"
+    },
+    {
+      "id": "arbeitnow:senior-frontend-developer-react-typescript-designsystem-web-components-barrierefreiheit-stuttgart-139110",
+      "title": "Senior Frontend Developer React/TypeScript – Designsystem, Web Components, Barrierefreiheit (m/w/d)",
+      "org": "Rockstardevelopers GmbH",
+      "role": "project",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-frontend-developer-react-typescript-designsystem-web-components-barrierefreiheit-stuttgart-139110",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795885247,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Wer wir sind Rockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden. Kurze Wege, ehrliches Feedbac"
+    },
+    {
+      "id": "arbeitnow:remote-account-executive-product-sales-specialist-saas-dach-497523",
+      "title": "Account Executive, Product Sales Specialist (SAAS) - DACH",
+      "org": "Rubrik",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/rubrik/remote-account-executive-product-sales-specialist-saas-dach-497523",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795870519,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "&lt;h3 data-lfile-container=\"b6691f93-9ae2-494a-93b0-4dbe41437188\" data-pm-slice=\"1 3 []\"&gt;&nbsp;&lt;/h3&gt; &lt;h3 data-lfile-container=\"b6691f93-9ae2-494a-93b0-4dbe41437188\" data-pm-slice=\"1 3 []\"&gt;About the Team &amp; Role&lt;/h3&gt; &lt;p&gt;Rubrik's P"
+    },
+    {
+      "id": "arbeitnow:remote-market-lead-dach-senior-account-executive-frankfurt-139266",
+      "title": "Market Lead DACH / Senior Account Executive",
+      "org": "Aquablu B.V",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/aquablu-bv/remote-market-lead-dach-senior-account-executive-frankfurt-139266",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795869091,
+      "tags": [
+        "Sales",
+        "Remote"
+      ],
+      "summary": "🌊 Who are we? We're a smart hydration company rebuilding an industry that still runs on sugar water and single-use packaging. Filtered water, functional flavors, zero bottles. Still, sparkling, cold, and hot. All poured from one tap. We create hydration peopl"
+    },
+    {
+      "id": "arbeitnow:bi-development-mit-schwerpunkt-ki-enablement-berlin-307907",
+      "title": "BI Development (m/w/d) mit Schwerpunkt KI-Enablement",
+      "org": "EXTERNUM UG (haftungsbeschränkt)",
+      "role": "project",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/externum-ug-haftungsbeschrankt/bi-development-mit-schwerpunkt-ki-enablement-berlin-307907",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795861851,
+      "tags": [
+        "Remote",
+        "Business Intelligence"
+      ],
+      "summary": "WIR SUCHEN DICH Als externes Personalberatungsunternehmen suchen wir im Auftrag des renommierten Sicherheitsdienstleisters – W.I.S. Sicherheit + Service – eine(n) zuverlässige(n) Mitarbeiter*in (m/w/d) BI Development mit Schwerpunkt KI-Enablement für das zentr"
+    },
+    {
+      "id": "arbeitnow:remote-enterprise-account-executive-fr-bnl-se-berlin-381716",
+      "title": "Enterprise Account Executive - FR/BNL/SE (m/f/x)",
+      "org": "Makersite GmbH",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-enterprise-account-executive-fr-bnl-se-berlin-381716",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795858304,
+      "tags": [
+        "Sales",
+        "Remote"
+      ],
+      "summary": "Account Executive (m/f/x) (French Speaking) Location: EU (Remote) Comp: 120k EUR base Territories: France / Benelux / Southern Europe Who You’ll Work For: At Makersite, we're pioneering the future of sustainable product development and digital collaboration. A"
+    },
+    {
+      "id": "arbeitnow:remote-enterprise-account-executive-uki-nordics-berlin-232661",
+      "title": "Enterprise Account Executive - UKI/Nordics (m/f/x)",
+      "org": "Makersite GmbH",
+      "role": "marketing",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-enterprise-account-executive-uki-nordics-berlin-232661",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795858304,
+      "tags": [
+        "Sales",
+        "Remote"
+      ],
+      "summary": "Account Executive (m/f/x) (English Speaking) Location: EU (Remote) Comp: 120k EUR base Territories: UKI/Nordics Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform "
+    },
+    {
+      "id": "arbeitnow:ehrenamtliche-r-mitarbeiterinnen-projektmanagement-stadtepartnerschaften-fur-live-peace-beckingen-318471",
+      "title": "Ehrenamtliche/r Mitarbeiter:innen Projektmanagement Städtepartnerschaften (m/w/d) für \"Live Peace\"",
+      "org": "Go For Climate e.V.",
+      "role": "project",
+      "location": "Beckingen",
+      "url": "https://www.arbeitnow.com/jobs/companies/go-for-climate-ev/ehrenamtliche-r-mitarbeiterinnen-projektmanagement-stadtepartnerschaften-fur-live-peace-beckingen-318471",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795851051,
+      "tags": [
+        "Remote",
+        "Business Development"
+      ],
+      "summary": "Werde Teil von Live Peace 2027 Wir suchen ab sofort ehrenamtliche Mitarbeiter:innen Projektmanagement Städtepartnerschaften (m/w/d) Für das internationale Friedensprojekt Live Peace – 100 Städte. Eine globale Botschaft. In mehr als 60 Ländern herrscht Krieg. M"
     },
     {
       "id": "arbeitnow:remote-senior-financial-systems-engineer-9820",
@@ -299,182 +418,120 @@
       "summary": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching und einem klaren Weg i"
     },
     {
-      "id": "arbeitnow:remote-senior-devops-engineer-hamburg-216097",
-      "title": "Senior DevOps Engineer (m/w/d)",
-      "org": "celebrate company GmbH",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-devops-engineer-hamburg-216097",
+      "id": "arbeitnow:remote-lead-data-engineer-active-sc-clearance-133815",
+      "title": "Lead Data Engineer (Active SC clearance)",
+      "org": "Akersystems",
+      "role": "training",
+      "location": "Remote/Home Based",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/akersystems/remote-lead-data-engineer-active-sc-clearance-133815",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795816282,
+      "postedAt": 1795892118,
       "tags": [
-        "DevOps",
-        "Remote"
+        "Delivery"
       ],
-      "summary": "Wir verwandeln bedeutende Momente in wunderschöne Erinnerungen. celebrate ist eine Markengruppe mit der Mission, in ganz Europa schöne Momente in bleibende Erinnerungen zu verwandeln: mit hochwertigen Papierwaren, Fotoprodukten und besonderen Geschenkartikeln."
+      "summary": "&lt;div class=\"content-intro\"&gt;&lt;p&gt;Aker Systems was founded in 2017 by a team of experienced technology professionals who recognised an opportunity to provide highly secure enterprise data platforms to large organisations.&nbsp; We build and operate gro"
     },
     {
-      "id": "arbeitnow:remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-332055",
-      "title": "Initiativbewerbung IT, Consulting & Softwareentwicklung (w/m/d)",
-      "org": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-332055",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795816281,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Du siehst keine passende Stelle, möchtest aber trotzdem Teil der BBHT werden? Dann bewirb Dich initiativ bei uns. Vielleicht bist Du IT-Projektleiter:in, Business Analyst:in, Consultant, Softwareentwickler:in, Testmanager:in oder bringst ganz andere Skills mit"
-    },
-    {
-      "id": "arbeitnow:remote-senior-meldewesenspezialistin-it-business-analyst-munster-27459",
-      "title": "Senior Meldewesenspezialist:in / IT Business Analyst (w/m/d)",
-      "org": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-meldewesenspezialistin-it-business-analyst-munster-27459",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795816281,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Komplexe Regulierung verständlich machen. Du möchtest an Themen arbeiten, die Banken wirklich bewegen, aber nicht in einer Beratung arbeiten, in der Hierarchien wichtiger sind als Ideen? Willkommen bei BBHT. Bei uns verbindest du Fachbereiche und IT, analysier"
-    },
-    {
-      "id": "arbeitnow:remote-senior-java-entwicklerin-java-developer-backend-munster-324776",
-      "title": "Senior Java Entwickler:in / Java Developer Backend (w/m/d)",
-      "org": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-java-entwicklerin-java-developer-backend-munster-324776",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795816281,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Software entwickeln ohne Agentur-Feeling. Software die funktioniert. Du möchtest moderne Java-Anwendungen entwickeln aber nicht in einem Umfeld arbeiten, in dem Tickets wichtiger sind als Menschen? Bei uns entwickelst du Backend-Lösungen für Banken und Versich"
-    },
-    {
-      "id": "arbeitnow:remote-senior-it-business-analyst-munster-71228",
-      "title": "Senior IT Business Analyst (w/m/d)",
-      "org": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-it-business-analyst-munster-71228",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795816281,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Beratung ohne Ellenbogenkultur. Du suchst anspruchsvolle Projekte, aber keine Beratung mit 60-Stunden-Wochen? Willkommen bei BBHT. Bei uns arbeitest du an Softwareentwicklungsprojekten für Banken und Versicherungen. Du bekommst früh Verantwortung, arbeitest fl"
-    },
-    {
-      "id": "arbeitnow:remote-senior-business-consultant-it-business-analyst-banking-insurance-munster-355936",
-      "title": "Senior Business Consultant / IT Business Analyst - Banking & Insurance (w/m/d)",
-      "org": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "role": "project",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-business-consultant-it-business-analyst-banking-insurance-munster-355936",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795816281,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Beratung ohne Ellenbogenkultur. Du suchst anspruchsvolle Projekte, aber keine Beratung mit 60-Stunden-Wochen? Willkommen bei BBHT. Bei uns arbeitest du an Softwareentwicklungsprojekten für Banken und Versicherungen. Du bekommst früh Verantwortung, arbeitest fl"
-    },
-    {
-      "id": "arbeitnow:remote-sr-product-manager-43710",
-      "title": "Remote Sr. Product Manager (m/f/d)",
-      "org": "Roompricegenie",
+      "id": "arbeitnow:content-writer-b2b-saas-remote-eu-uk-london-134309",
+      "title": "Content Writer (B2B SaaS, Remote - EU/UK)",
+      "org": "SaaStorm",
       "role": "marketing",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-43710",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/saastorm/content-writer-b2b-saas-remote-eu-uk-london-134309",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795815613,
+      "postedAt": 1795890643,
       "tags": [
-        "Product & Engineering"
+        "Remote",
+        "Social Media Manager"
       ],
-      "summary": "About RoomPriceGenie ✨🧞‍♂️ Founded in 2017, RoomPriceGenie is dedicated to helping hoteliers around the globe achieve optimal pricing. 🌍 We understand that many small hotels face challenges with digitalization, making their operations increasingly complex an"
+      "summary": "SaaStorm is a fully remote organic growth agency for B2B SaaS, headquartered in London with a team spread across Europe. Since founding in 2024, we've grown to work with SaaS companies from pre-seed through Series C, and we're approaching €1.5M ARR. In 2026, w"
     },
     {
-      "id": "arbeitnow:remote-werkstudent-business-development-a-214099",
-      "title": "Werkstudent Business Development (a)",
-      "org": "Oviva",
-      "role": "project",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/oviva/remote-werkstudent-business-development-a-214099",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795804813,
-      "tags": [
-        "Commercial"
-      ],
-      "summary": "Warum Oviva? Unsere Mission ist es, Menschen mit gewichtsbedingten Erkrankungen die bestmögliche Unterstützung für ein gesünderes Leben zu bieten. Mit unserer innovativen Kombination aus Verhaltensänderungstherapie und digitalen Tools setzen wir neue Standards"
-    },
-    {
-      "id": "arbeitnow:remote-team-lead-sales-a-207804",
-      "title": "Team Lead Sales (a)",
-      "org": "Oviva",
+      "id": "arbeitnow:organic-growth-strategist-b2b-saas-remote-eu-uk-london-199648",
+      "title": "Organic Growth Strategist (B2B SaaS, Remote - EU/UK)",
+      "org": "SaaStorm",
       "role": "marketing",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/oviva/remote-team-lead-sales-a-207804",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/saastorm/organic-growth-strategist-b2b-saas-remote-eu-uk-london-199648",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795804813,
+      "postedAt": 1795890643,
       "tags": [
-        "Commercial"
+        "Remote",
+        "Online Marketing"
       ],
-      "summary": "Warum Oviva? Bei Oviva verfolgen wir die Mission, nachhaltige, personalisierte und klinisch wirksame Versorgung für alle zugänglich zu machen, während wir Europas führende KI-gestützte Plattform für die Behandlung chronischer Krankheiten aufbauen. Unsere digit"
+      "summary": "SaaStorm is a fully remote organic growth agency for B2B SaaS, headquartered in London with a team spread across Europe. Since founding in 2024, we've grown to work with SaaS companies from pre-seed through Series C, and we're approaching €1.5M ARR. In 2026, w"
     },
     {
-      "id": "arbeitnow:remote-senior-commercial-ai-solutions-partner-berlin-262836",
-      "title": "Senior Commercial & AI Solutions Partner",
-      "org": "Yopeso Romania SRL",
+      "id": "arbeitnow:remote-sr-regional-sales-manager-public-sector-eu-425971",
+      "title": "Sr Regional Sales Manager, Public Sector (EU)",
+      "org": "Minio",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/minio/remote-sr-regional-sales-manager-public-sector-eu-425971",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795870523,
+      "tags": [
+        "Sales - Global Enterprise"
+      ],
+      "summary": "&lt;section data-ui=\"job-description\"&gt;&lt;/section&gt; &lt;section data-ui=\"job-requirements\"&gt; &lt;p&gt;MinIO is the data and memory foundation for enterprise AI. Built for the speed, scale, and economics that AI and analytics demand, AIStor and MemKV un"
+    },
+    {
+      "id": "arbeitnow:senior-manager-fp-a-remote-uk-only-united-kingdom-229319",
+      "title": "Senior Manager - FP & A - Remote (UK Only)",
+      "org": "Immersivelabs",
       "role": "marketing",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/senior-manager-fp-a-remote-uk-only-united-kingdom-229319",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795869612,
+      "tags": [
+        "Operations"
+      ],
+      "summary": "A platform you can believe in: Immersive One is the leading cyber resilience solution across the globe. Drive operational excellence and define the foundation we build on alongside a team of the brightest minds in cybersecurity! At Immersive, we’re uniquely po"
+    },
+    {
+      "id": "arbeitnow:developpeurse-back-end-senior-nouvelle-app-avec-1m-users-prete-a-passer-un-cap-paris-247663",
+      "title": "Développeur·se Back-end senior : nouvelle app avec +1M users prête à passer un cap !",
+      "org": "iara.",
+      "role": "marketing",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/iara/developpeurse-back-end-senior-nouvelle-app-avec-1m-users-prete-a-passer-un-cap-paris-247663",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795890643,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "summary": "Hello 👋 ✨ App lancée il y a 18 mois (SaaS + marketplace) 🐾 Déjà utilisée par plusieurs centaines de milliers d’utilisateurs chaque mois, dont +20 000 pros chaque jour 🚀 Top 50 App Store de sa catégorie au quotidien 💸 1M d’ARR dépassé en un temps record , 0"
+    },
+    {
+      "id": "arbeitnow:remote-software-engineer-clinical-ai-devices-paris-414322",
+      "title": "Software Engineer, Clinical AI Devices",
+      "org": "DeepHealth",
+      "role": "training",
       "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/yopeso-romania-srl/remote-senior-commercial-ai-solutions-partner-berlin-262836",
+      "url": "https://www.arbeitnow.fr/jobs/companies/deephealth/remote-software-engineer-clinical-ai-devices-paris-414322",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795804276,
+      "postedAt": 1795858304,
       "tags": [
-        "Sales",
+        "R&D",
         "Remote"
       ],
-      "summary": "Yopeso has been developing a diverse range of software products, from large-scale applications to smaller solutions, for 20 years. With a growing team of over 300 employees across five locations, we are dedicated to fostering a culture of growth, transparency,"
-    },
-    {
-      "id": "arbeitnow:remote-senior-software-engineer-canvas-core-86264",
-      "title": "Senior Software Engineer, Canvas Core",
-      "org": "Mural",
-      "role": "project",
-      "location": "United Kingdom Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mural/remote-senior-software-engineer-canvas-core-86264",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795848012,
-      "tags": [
-        "Engineering"
-      ],
-      "summary": "ABOUT THE TEAM The Canvas Core team builds and maintains the foundational platform that powers Mural’s visual thinking experience. This includes the infinite canvas, key editor components, document editing behaviors, asset management, real-time collaboration, "
+      "summary": "Job Summary In the Clinical AI Devices team, the Software Engineer is primarily responsible for building and maintaining software in the Clinical AI domain, from wrapping deep learning models into containerized medical devices, to integration with other system"
     },
     {
       "id": "arbeitnow:staff-product-engineer-ai-core-remote-friendly-paris-397293",
@@ -491,25 +548,6 @@
         "Tech & Data"
       ],
       "summary": "[OUR MISSION AND CUSTOMERS] We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace with banking at its core, augmented by financial tools. We are proud to be rated 4.7 on Trustpilot, based on 60,000 reviews. Our cultur"
-    },
-    {
-      "id": "arbeitnow:remote-senior-rwe-program-manager-data-ia-expert-paris-435162",
-      "title": "Senior RWE Program Manager - Data/IA Expert",
-      "org": "Excelya",
-      "role": "project",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-rwe-program-manager-data-ia-expert-paris-435162",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795821604,
-      "tags": [
-        "Consulting",
-        "Pharmaceuticals",
-        "Operations",
-        "Remote"
-      ],
-      "summary": "Rejoignez Excelya, où Audace , Bienveillance et Énergie sont au cœur de notre façon de travailler. Nous croyons en des solutions innovantes et en un environnement inclusif où collaboration et développement professionnel vont de pair. Dans le cadre de programme"
     },
     {
       "id": "arbeitnow:remote-senior-ai-engineer-java-spring-boot-kafka-zug-zurich-luzern-bern-127031",
@@ -543,39 +581,6 @@
         "Accounting"
       ],
       "summary": "SwissBorg is building the future of crypto wealth management, making investing more accessible, transparent and intuitive for everyone. At the core of our platform is the Meta-Exchange (MEX). This smart routing engine connects multiple exchanges and liquidity "
-    },
-    {
-      "id": "arbeitnow:remote-stellvertretende-arztliche-leitung-der-ovivamed-clinic-93164",
-      "title": "Stellvertretende Ärztliche Leitung der Ovivamed Clinic",
-      "org": "Oviva",
-      "role": "project",
-      "location": "Remote Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/oviva/remote-stellvertretende-arztliche-leitung-der-ovivamed-clinic-93164",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795804813,
-      "tags": [
-        "Clinical Delivery"
-      ],
-      "summary": "Warum Ovivamed? Bei Oviva und Ovivamed Clinic verfolgen wir die Mission, nachhaltige, personalisierte und klinisch wirksame Versorgung für alle zugänglich zu machen, während wir Europas führende KI-gestützte Plattform für die Behandlung chronischer Krankheiten"
-    },
-    {
-      "id": "arbeitnow:senior-soc-analyst-secops-specialist-zurich-98324",
-      "title": "Senior SOC Analyst",
-      "org": "cyberunity AG",
-      "role": "project",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/cyberunity-ag/senior-soc-analyst-secops-specialist-zurich-98324",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795792657,
-      "tags": [
-        "Remote",
-        "IT Security"
-      ],
-      "summary": "KNOW YOUR TALENTS. Dein künftiger Projektpartner ist ein etabliertes Schweizer Unternehmen der Energiebranche. Es versorgt Haushalte und Betriebe mit Strom aus erneuerbarer Energie und betreibt dafür ein eigenes Stromnetz. Die Mitarbeitenden sorgen täglich daf"
     },
     {
       "id": "remotive:1680495",
