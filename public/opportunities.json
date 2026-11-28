@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T21:26:42.616Z",
+  "updatedAt": "2026-11-28T07:59:47.270Z",
   "sourceCount": 2,
   "totalFetched": 317,
-  "relevantCount": 34,
+  "relevantCount": 42,
   "sources": [
     "Arbeitnow",
     "Remotive"
@@ -11,54 +11,164 @@
   "sourceErrors": [],
   "jobs": [
     {
-      "id": "arbeitnow:performance-marketing-lead-london-133625",
-      "title": "Performance Marketing Lead",
-      "org": "Plasma",
+      "id": "arbeitnow:senior-solutions-engineer-remote-europe-berlin-227807",
+      "title": "Senior Solutions Engineer (Remote Europe)",
+      "org": "N8N",
+      "role": "training",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/senior-solutions-engineer-remote-europe-berlin-227807",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795815614,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:senior-avionics-system-engineer-munich-329071",
+      "title": "Senior Avionics System Engineer",
+      "org": "The Exploration Company",
       "role": "marketing",
-      "location": "London Office",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/plasma/performance-marketing-lead-london-133625",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/senior-avionics-system-engineer-munich-329071",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795794016,
+      "postedAt": 1795826413,
       "tags": [
-        "GTM"
+        "Engineering"
       ],
-      "summary": "About Plasma Plasma is building the primary account for global money. Money used to belong to a country. Increasingly, it belongs to a person or business moving through many countries. People and businesses now earn, spend, save, hire and invest across borders"
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. About the Role The Exploration Company builds the TEC vehicle family and is preparing the next generation of vehicles and products. As a Senior Avionics Engineer in the Future Systems te"
     },
     {
-      "id": "arbeitnow:principal-machine-learning-engineer-gaia-london-417131",
-      "title": "Principal Machine Learning Engineer GAIA",
-      "org": "Wayve",
-      "role": "training",
-      "location": "London, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/principal-machine-learning-engineer-gaia-london-417131",
+      "id": "arbeitnow:avionics-system-engineer-navigation-sensors-munich-321895",
+      "title": "Avionics System Engineer - Navigation Sensors",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/avionics-system-engineer-navigation-sensors-munich-321895",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795794016,
+      "postedAt": 1795826413,
       "tags": [
-        "Simulation",
-        "Evaluation",
-        "Validation"
+        "Engineering"
       ],
-      "summary": "Before the detail, here's the challenge you'd help us solve. We build the embodied intelligence that moves real vehicles safely, and the ecosystem a billion machines will run on in the future. Very few people in AI can say this. Every role here, whatever the t"
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. Here at The Exploration Company we are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refueled in orbit, and which carries "
     },
     {
-      "id": "arbeitnow:full-stack-software-engineer-london-452623",
-      "title": "Full-Stack Software Engineer",
-      "org": "Wayve",
-      "role": "training",
-      "location": "London, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/full-stack-software-engineer-london-452623",
+      "id": "arbeitnow:senior-eclss-engineer-munich-338908",
+      "title": "Senior ECLSS Engineer",
+      "org": "The Exploration Company",
+      "role": "support",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/senior-eclss-engineer-munich-338908",
       "source": "Arbeitnow",
       "remote": false,
       "visaSponsorshipMentioned": true,
-      "postedAt": 1795794016,
+      "postedAt": 1795826413,
       "tags": [
-        "AI Platform"
+        "Engineering"
       ],
-      "summary": "Before the detail, here's the challenge you'd help us solve. We build the embodied intelligence that moves real vehicles safely, and the ecosystem a billion machines will run on in the future. Very few people in AI can say this. Every role here, whatever the t"
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. We are looking for a Senior ECLSS Systems & Product Development Engineer to strengthen the ECLSS team across system engineering, CFD, product development, verification and testing. The s"
+    },
+    {
+      "id": "arbeitnow:fluid-systems-development-engineer-munich-101660",
+      "title": "Fluid Systems Development Engineer",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/fluid-systems-development-engineer-munich-101660",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795826413,
+      "tags": [
+        "Future Propulsion - Storm"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. Description We are seeking a talented Fluid Systems Development Engineer to join the Storm engine project. As a key member of our System Team, you will play a central role in developing "
+    },
+    {
+      "id": "arbeitnow:partner-manager-mea-apac-germany-362046",
+      "title": "Partner Manager MEA & APAC",
+      "org": "N8N",
+      "role": "marketing",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/partner-manager-mea-apac-germany-362046",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795815614,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:group-product-manager-ai-experience-germany-117123",
+      "title": "Group Product Manager - AI Experience",
+      "org": "N8N",
+      "role": "marketing",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/group-product-manager-ai-experience-germany-117123",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795815614,
+      "tags": [
+        "Product"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
+    },
+    {
+      "id": "arbeitnow:staff-research-engineer-bristol-cambridge-london-8126",
+      "title": "Staff Research Engineer",
+      "org": "Graphcore",
+      "role": "training",
+      "location": "Bristol; Cambridge; London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-research-engineer-bristol-cambridge-london-8126",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795838120,
+      "tags": [
+        "Research"
+      ],
+      "summary": "&lt;h1&gt;About the job&lt;/h1&gt; &lt;p&gt;Turn AI research ideas into experiments that help shape Graphcore’s next generation of AI hardware.&lt;/p&gt; &lt;p&gt;As a Staff Research Engineer in Graphcore Research, you’ll help shape complex projects from hypot"
+    },
+    {
+      "id": "arbeitnow:test-development-engineer-bordeaux-452373",
+      "title": "Test Development Engineer",
+      "org": "The Exploration Company",
+      "role": "project",
+      "location": "Bordeaux, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/test-development-engineer-bordeaux-452373",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795826413,
+      "tags": [
+        "MAIT"
+      ],
+      "summary": "Here at The Exploration Company, we are building spacecraft for humanity. Here at The Exploration Company, we are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refuelled in orbit, and which carrie"
+    },
+    {
+      "id": "arbeitnow:partner-manager-emea-north-netherlands-93425",
+      "title": "Partner Manager EMEA North",
+      "org": "N8N",
+      "role": "marketing",
+      "location": "Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/n8n/partner-manager-emea-north-netherlands-93425",
+      "source": "Arbeitnow",
+      "remote": false,
+      "visaSponsorshipMentioned": true,
+      "postedAt": 1795815615,
+      "tags": [
+        "Sales"
+      ],
+      "summary": "The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Back"
     },
     {
       "id": "arbeitnow:internship-3d-graphics-for-robotics-delft-449264",
@@ -93,20 +203,213 @@
       "summary": "Opening WE CANNOT PROVIDE VISA SPONSORSHIP Details Preferred starting date: ASAP Weekly availability: full-time (5 days/week) Period: 6 months About the company Fiducial is a young but fast-growing deep-tech start-up with big ambitions at the frontier of auton"
     },
     {
-      "id": "arbeitnow:junior-business-controller-data-specialist-almere-394785",
-      "title": "Junior Business Controller (Data specialist)",
-      "org": "HG International b.v.",
+      "id": "arbeitnow:remote-senior-financial-systems-engineer-9820",
+      "title": "Senior Financial Systems Engineer (m/f/d)",
+      "org": "Berlitz",
       "role": "training",
-      "location": "Almere, Flevoland, Nederland",
-      "url": "https://www.arbeitnow.nl/jobs/companies/hg-international-bv/junior-business-controller-data-specialist-almere-394785",
+      "location": "Germany Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-financial-systems-engineer-9820",
       "source": "Arbeitnow",
-      "remote": false,
-      "visaSponsorshipMentioned": true,
-      "postedAt": 1795685481,
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795848011,
       "tags": [
-        "Finance"
+        "Engineering"
       ],
-      "summary": "Do you enjoy working with numbers, analysing data and finding out what is really happening behind the figures? As Junior Business Controller at HG, you will support our Controllers and Group Financial Controller with financial analyses, reporting and increasin"
+      "summary": "We're building a new global Berlitz, and this is your opportunity to help shape it. Nearly 150 years of expertise, meeting the ambition and technology to power a new era of learning. If you are the kind of person who thrives in a fast-paced environment, isn’t "
+    },
+    {
+      "id": "arbeitnow:remote-team-lead-customer-support-272017",
+      "title": "Team Lead Customer Support (f/m/d)",
+      "org": "plancraft",
+      "role": "training",
+      "location": "Remote (within Germany)",
+      "url": "https://www.arbeitnow.com/jobs/companies/plancraft/remote-team-lead-customer-support-272017",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795837382,
+      "tags": [
+        "Customer Success"
+      ],
+      "summary": "UNSER PURPOSE BEI PLANCRAFT Gemeinsam das Rückgrat des europäischen Handwerks aufbauen – mit moderner Software und smarten AI-Lösungen. Wir entwickeln nicht einfach nur Software – wir haben die Mission, Handwerkerinnen und Handwerksbetrieben mehr Raum zu schaf"
+    },
+    {
+      "id": "arbeitnow:staff-backend-engineer-search-features-apis-sabr-munich-460585",
+      "title": "Staff Backend Engineer - Search Features & APIs (SABR)",
+      "org": "Constructor",
+      "role": "training",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructor/staff-backend-engineer-search-features-apis-sabr-munich-460585",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795837382,
+      "tags": [
+        "Engineering"
+      ],
+      "summary": "About us Launched in 2019, Constructor is an AI-first e-commerce search and discovery platform that helps shoppers find the right products at the right time and enables leading global e-commerce brands to drive meaningful revenue and conversion gains. About th"
+    },
+    {
+      "id": "arbeitnow:remote-senior-data-scientist-118803",
+      "title": "Senior Data Scientist (m/f/d)",
+      "org": "Sport Alliance GmbH",
+      "role": "project",
+      "location": "Remote (Germany)",
+      "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-data-scientist-118803",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795835255,
+      "tags": [
+        "Data Operations"
+      ],
+      "summary": "Join Sport Alliance’s Data Products team and build ML solutions for Magicline and PerfectGym Next, used by thousands of fitness businesses and millions of members. You’ll work closely with engineers and product managers to take ML use cases from idea to produc"
+    },
+    {
+      "id": "arbeitnow:remote-teamleiter-jahresabschluss-steuerberater-dresden-68358",
+      "title": "Teamleiter Jahresabschluss / Steuerberater (m/w/d)",
+      "org": "Hypertrics GmbH",
+      "role": "training",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-teamleiter-jahresabschluss-steuerberater-dresden-68358",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795825892,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Teamleiter Jahresabschluss / Steuerberater (m/w/d) Standort: Dresden | Voll- oder Teilzeit | Unbefristet Für unseren Mandanten, eine mittelständische Steuerberatungs- und Wirtschaftsprüfungsgesellschaft mit Standorten in Dresden, Chemnitz und München, suchen w"
+    },
+    {
+      "id": "arbeitnow:remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-497375",
+      "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
+      "org": "Kevin Kehr",
+      "role": "training",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-497375",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795825888,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching und einem klaren Weg i"
+    },
+    {
+      "id": "arbeitnow:remote-senior-devops-engineer-hamburg-216097",
+      "title": "Senior DevOps Engineer (m/w/d)",
+      "org": "celebrate company GmbH",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/celebrate-company-gmbh/remote-senior-devops-engineer-hamburg-216097",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795816282,
+      "tags": [
+        "DevOps",
+        "Remote"
+      ],
+      "summary": "Wir verwandeln bedeutende Momente in wunderschöne Erinnerungen. celebrate ist eine Markengruppe mit der Mission, in ganz Europa schöne Momente in bleibende Erinnerungen zu verwandeln: mit hochwertigen Papierwaren, Fotoprodukten und besonderen Geschenkartikeln."
+    },
+    {
+      "id": "arbeitnow:remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-332055",
+      "title": "Initiativbewerbung IT, Consulting & Softwareentwicklung (w/m/d)",
+      "org": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-initiativbewerbung-it-consulting-softwareentwicklung-munster-332055",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795816281,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Du siehst keine passende Stelle, möchtest aber trotzdem Teil der BBHT werden? Dann bewirb Dich initiativ bei uns. Vielleicht bist Du IT-Projektleiter:in, Business Analyst:in, Consultant, Softwareentwickler:in, Testmanager:in oder bringst ganz andere Skills mit"
+    },
+    {
+      "id": "arbeitnow:remote-senior-meldewesenspezialistin-it-business-analyst-munster-27459",
+      "title": "Senior Meldewesenspezialist:in / IT Business Analyst (w/m/d)",
+      "org": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-meldewesenspezialistin-it-business-analyst-munster-27459",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795816281,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Komplexe Regulierung verständlich machen. Du möchtest an Themen arbeiten, die Banken wirklich bewegen, aber nicht in einer Beratung arbeiten, in der Hierarchien wichtiger sind als Ideen? Willkommen bei BBHT. Bei uns verbindest du Fachbereiche und IT, analysier"
+    },
+    {
+      "id": "arbeitnow:remote-senior-java-entwicklerin-java-developer-backend-munster-324776",
+      "title": "Senior Java Entwickler:in / Java Developer Backend (w/m/d)",
+      "org": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-java-entwicklerin-java-developer-backend-munster-324776",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795816281,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Software entwickeln ohne Agentur-Feeling. Software die funktioniert. Du möchtest moderne Java-Anwendungen entwickeln aber nicht in einem Umfeld arbeiten, in dem Tickets wichtiger sind als Menschen? Bei uns entwickelst du Backend-Lösungen für Banken und Versich"
+    },
+    {
+      "id": "arbeitnow:remote-senior-it-business-analyst-munster-71228",
+      "title": "Senior IT Business Analyst (w/m/d)",
+      "org": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-it-business-analyst-munster-71228",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795816281,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Beratung ohne Ellenbogenkultur. Du suchst anspruchsvolle Projekte, aber keine Beratung mit 60-Stunden-Wochen? Willkommen bei BBHT. Bei uns arbeitest du an Softwareentwicklungsprojekten für Banken und Versicherungen. Du bekommst früh Verantwortung, arbeitest fl"
+    },
+    {
+      "id": "arbeitnow:remote-senior-business-consultant-it-business-analyst-banking-insurance-munster-355936",
+      "title": "Senior Business Consultant / IT Business Analyst - Banking & Insurance (w/m/d)",
+      "org": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-business-consultant-it-business-analyst-banking-insurance-munster-355936",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795816281,
+      "tags": [
+        "Remote"
+      ],
+      "summary": "Beratung ohne Ellenbogenkultur. Du suchst anspruchsvolle Projekte, aber keine Beratung mit 60-Stunden-Wochen? Willkommen bei BBHT. Bei uns arbeitest du an Softwareentwicklungsprojekten für Banken und Versicherungen. Du bekommst früh Verantwortung, arbeitest fl"
+    },
+    {
+      "id": "arbeitnow:remote-sr-product-manager-43710",
+      "title": "Remote Sr. Product Manager (m/f/d)",
+      "org": "Roompricegenie",
+      "role": "marketing",
+      "location": "Remote Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-sr-product-manager-43710",
+      "source": "Arbeitnow",
+      "remote": true,
+      "visaSponsorshipMentioned": false,
+      "postedAt": 1795815613,
+      "tags": [
+        "Product & Engineering"
+      ],
+      "summary": "About RoomPriceGenie ✨🧞‍♂️ Founded in 2017, RoomPriceGenie is dedicated to helping hoteliers around the globe achieve optimal pricing. 🌍 We understand that many small hotels face challenges with digitalization, making their operations increasingly complex an"
     },
     {
       "id": "arbeitnow:remote-werkstudent-business-development-a-214099",
@@ -158,221 +461,88 @@
       "summary": "Yopeso has been developing a diverse range of software products, from large-scale applications to smaller solutions, for 20 years. With a growing team of over 300 employees across five locations, we are dedicated to fostering a culture of growth, transparency,"
     },
     {
-      "id": "arbeitnow:sales-manager-im-aussendienst-100-remote-stuttgart-480236",
-      "title": "Sales Manager im Außendienst (m/w/d) 100% Remote",
-      "org": "MY Humancapital GmbH",
+      "id": "arbeitnow:remote-senior-software-engineer-canvas-core-86264",
+      "title": "Senior Software Engineer, Canvas Core",
+      "org": "Mural",
       "role": "project",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/sales-manager-im-aussendienst-100-remote-stuttgart-480236",
+      "location": "United Kingdom Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mural/remote-senior-software-engineer-canvas-core-86264",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795802444,
+      "postedAt": 1795848012,
       "tags": [
-        "Sales Engineer"
+        "Engineering"
       ],
-      "summary": "Außendienstmitarbeiter (m/w/d) gesucht – Vollzeit | Baden-Württemberg | 100% Remote Im Auftrag unseres Partnerunternehmens suchen wir Sie zum nächstmöglichen Zeitpunkt als „ Sales Manager (m/w/d) – Technischer Vertrieb “. Aufgaben Als Vertriebsmitarbeiter (m/w"
+      "summary": "ABOUT THE TEAM The Canvas Core team builds and maintains the foundational platform that powers Mural’s visual thinking experience. This includes the infinite canvas, key editor components, document editing behaviors, asset management, real-time collaboration, "
     },
     {
-      "id": "arbeitnow:quality-manager-all-genders-quality-sustainability-berlin-482784",
-      "title": "Quality Manager (all genders) – Quality & Sustainability",
-      "org": "mammaly",
+      "id": "arbeitnow:staff-product-engineer-ai-core-remote-friendly-paris-397293",
+      "title": "Staff Product Engineer - AI Core - remote friendly",
+      "org": "Qonto",
       "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/mammaly/quality-manager-all-genders-quality-sustainability-berlin-482784",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/staff-product-engineer-ai-core-remote-friendly-paris-397293",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795797069,
+      "postedAt": 1795848011,
       "tags": [
-        "Remote",
-        "Quality Management"
+        "Tech & Data"
       ],
-      "summary": "Deine Aufgaben Du bist Teil des Produktteams und verantwortest den gesamten Qualitätsbereich sowie die Einhaltung relevanter Qualitäts- und Futtermittelstandards bei mammaly. Du stehst im engen Austausch mit unseren Lieferanten, führst regelmäßige Audits durch"
+      "summary": "[OUR MISSION AND CUSTOMERS] We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace with banking at its core, augmented by financial tools. We are proud to be rated 4.7 on Trustpilot, based on 60,000 reviews. Our cultur"
     },
     {
-      "id": "arbeitnow:quality-manager-all-genders-quality-sustainability-berlin-14151",
-      "title": "Quality Manager (all genders) – Quality & Sustainability",
-      "org": "mammaly",
+      "id": "arbeitnow:remote-senior-rwe-program-manager-data-ia-expert-paris-435162",
+      "title": "Senior RWE Program Manager - Data/IA Expert",
+      "org": "Excelya",
       "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/mammaly/quality-manager-all-genders-quality-sustainability-berlin-14151",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/excelya/remote-senior-rwe-program-manager-data-ia-expert-paris-435162",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795797068,
+      "postedAt": 1795821604,
       "tags": [
-        "Remote",
-        "Quality Management"
-      ],
-      "summary": "Deine Aufgaben Du bist Teil des Produktteams und verantwortest den gesamten Qualitätsbereich sowie die Einhaltung relevanter Qualitäts- und Futtermittelstandards bei mammaly. Du stehst im engen Austausch mit unseren Lieferanten, führst regelmäßige Audits durch"
-    },
-    {
-      "id": "arbeitnow:remote-engineering-manager-eu-uk-berlin-132274",
-      "title": "Engineering Manager EU/UK (m/f/x)",
-      "org": "Makersite GmbH",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-engineering-manager-eu-uk-berlin-132274",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795793488,
-      "tags": [
-        "Technology",
+        "Consulting",
+        "Pharmaceuticals",
+        "Operations",
         "Remote"
       ],
-      "summary": "Engineering Manager (m/f/x) Location: EU/UK (Remote) Who You’ll Work For : At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companie"
+      "summary": "Rejoignez Excelya, où Audace , Bienveillance et Énergie sont au cœur de notre façon de travailler. Nous croyons en des solutions innovantes et en un environnement inclusif où collaboration et développement professionnel vont de pair. Dans le cadre de programme"
     },
     {
-      "id": "arbeitnow:remote-senior-consultant-sap-customer-engagement-crm-utilities-berlin-492857",
-      "title": "Senior Consultant SAP Customer Engagement / CRM Utilities (m/w/d)",
-      "org": "Natuvion GmbH",
-      "role": "support",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-consultant-sap-customer-engagement-crm-utilities-berlin-492857",
+      "id": "arbeitnow:remote-senior-ai-engineer-java-spring-boot-kafka-zug-zurich-luzern-bern-127031",
+      "title": "Senior AI Engineer (Java / Spring Boot / Kafka)",
+      "org": "QuBit Consulting & Solutions AG",
+      "role": "project",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.ch/jobs/companies/qubit-consulting-solutions-ag/remote-senior-ai-engineer-java-spring-boot-kafka-zug-zurich-luzern-bern-127031",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795793480,
+      "postedAt": 1795848690,
       "tags": [
-        "Utilities",
+        "AI-Engineering & Adoption",
         "Remote"
       ],
-      "summary": "Du fühlst dich in der Energiewirtschaft (Utilities) zu Hause und willst die Digitalisierung der Branche nicht nur auf dem Papier konzipieren, sondern direkt im System bauen? Du bringst tiefe Erfahrung in der SAP-Entwicklung mit und hast Lust, komplexe Customer"
+      "summary": "Für ein anspruchsvolles, geschäftskritisches Umfeld suchen wir einen erfahrenen Senior AI Engineer , der moderne AI-Lösungen nicht nur konzipiert, sondern erfolgreich produktiv entwickelt, integriert, qualitätsgesichert, deployed und betrieben hat. Gesucht wir"
     },
     {
-      "id": "arbeitnow:freelancer-quality-assurance-manager-c-net-all-genders-berlin-236265",
-      "title": "Freelancer Quality Assurance Manager C# .NET (all genders)",
-      "org": "Vexcash AG",
+      "id": "arbeitnow:remote-accounts-payable-intern-268421",
+      "title": "Accounts Payable Intern",
+      "org": "SwissBorg",
       "role": "project",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/freelancer-quality-assurance-manager-c-net-all-genders-berlin-236265",
+      "location": "Remote - Europe Timezone",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swissborg/remote-accounts-payable-intern-268421",
       "source": "Arbeitnow",
       "remote": true,
       "visaSponsorshipMentioned": false,
-      "postedAt": 1795791659,
+      "postedAt": 1795835254,
       "tags": [
-        "Remote",
-        "Quality Assurance",
-        "Inspection"
+        "Accounting"
       ],
-      "summary": "About Vexcash AG VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to tide them over until their next payday. More than 800,000 customers already trust our service. Thanks to our in"
-    },
-    {
-      "id": "arbeitnow:senior-sre-infrastructure-engineer-munich-295676",
-      "title": "Senior SRE / Infrastructure Engineer (m/f/d)",
-      "org": "SimScale GmbH",
-      "role": "hr",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/simscale-gmbh/senior-sre-infrastructure-engineer-munich-295676",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795789854,
-      "tags": [
-        "Remote",
-        "System and Network Administration"
-      ],
-      "summary": "Senior SRE / Infrastructure Engineer (m/f/d) Mission SimScale is a browser-based engineering simulation platform on AWS. Our infrastructure team builds and operates the shared cloud foundation that 40+ engineers across 10+ product teams rely on every day. We e"
-    },
-    {
-      "id": "arbeitnow:remote-delivery-architect-sap-wm-uk-304099",
-      "title": "Delivery Architect (SAP WM)",
-      "org": "The Config Team",
-      "role": "project",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/the-config-team/remote-delivery-architect-sap-wm-uk-304099",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795804279,
-      "tags": [
-        "Software (Project Delivery)",
-        "Remote"
-      ],
-      "summary": "Job title: Delivery Architect (SAP WM) Employment: Permanent Location: UK-Based, Remote Salary: Excellent basic salary depending on experience Benefits: 24 days holiday, paid birthday day off, paid volunteer day, holiday buy & sell, Bupa private healthcare, 5%"
-    },
-    {
-      "id": "arbeitnow:remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-15268",
-      "title": "Développeur fullstack confirmé H/F (C#, .Net, Angular)",
-      "org": "N2JSoft",
-      "role": "project",
-      "location": "Poste à distance",
-      "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-15268",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795804277,
-      "tags": [
-        "R&D",
-        "Remote"
-      ],
-      "summary": "À propos de N2JSoft N2JSoft est une Fintech B2B SaaS spécialisée dans la gestion des dépenses professionnelles. Fondée en 2015, elle compte aujourd’hui 20 000 clients et 1M utilisateurs dans 98 pays , faisant de N2F l’un des leaders du marché français. N2F sim"
-    },
-    {
-      "id": "arbeitnow:devops-engineer-w-m-remote-223420",
-      "title": "DevOps Engineer W/M (remote) 🇪🇺",
-      "org": "Pennylane SAS",
-      "role": "marketing",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-223420",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795794017,
-      "tags": [
-        "Tech"
-      ],
-      "summary": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)? Are you looking for a work environment that values trust, proactivity, and autonomy? Are our Engineering principles aligned with your vision? T"
-    },
-    {
-      "id": "arbeitnow:head-of-website-conversion-paris-346346",
-      "title": "Head of Website & Conversion",
-      "org": "Pennylane SAS",
-      "role": "marketing",
-      "location": "All France (remote)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/head-of-website-conversion-paris-346346",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795794017,
-      "tags": [
-        "Marketing"
-      ],
-      "summary": "Why this role exists ? At Pennylane, our website is a key engine for acquisition and conversion, transforming traffic from SEO, paid acquisition, media, and partnerships into demo bookings and self-sign-ups. With over 500k+ monthly visits , our website already"
-    },
-    {
-      "id": "arbeitnow:growth-manager-paris-63114",
-      "title": "Growth Manager",
-      "org": "Yubo",
-      "role": "training",
-      "location": "Paris - Full Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/yubo/growth-manager-paris-63114",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795794016,
-      "tags": [
-        "Growth Marketing"
-      ],
-      "summary": "Who we are Yubo is the instantly social, social app: the leading real-time social discovery platform where you can meet new people for friendship, crushes and community. Our mission is to help young adults find community - whoever they are, wherever they are a"
-    },
-    {
-      "id": "arbeitnow:remote-product-engineer-335504",
-      "title": "Product Engineer",
-      "org": "Inato",
-      "role": "project",
-      "location": "PARIS OFFICE or REMOTE FROM FRANCE",
-      "url": "https://www.arbeitnow.fr/jobs/companies/inato/remote-product-engineer-335504",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795783219,
-      "tags": [
-        "Tech"
-      ],
-      "summary": "Who We Are Inato is a Tech for Good company striving to bring clinical research to each and every patient, regardless of who they are or where they live. To do this, we’ve built an AI-powered platform that changes how pharmaceutical companies and doctors aroun"
+      "summary": "SwissBorg is building the future of crypto wealth management, making investing more accessible, transparent and intuitive for everyone. At the core of our platform is the Meta-Exchange (MEX). This smart routing engine connects multiple exchanges and liquidity "
     },
     {
       "id": "arbeitnow:remote-stellvertretende-arztliche-leitung-der-ovivamed-clinic-93164",
@@ -406,55 +576,6 @@
         "IT Security"
       ],
       "summary": "KNOW YOUR TALENTS. Dein künftiger Projektpartner ist ein etabliertes Schweizer Unternehmen der Energiebranche. Es versorgt Haushalte und Betriebe mit Strom aus erneuerbarer Energie und betreibt dafür ein eigenes Stromnetz. Die Mitarbeitenden sorgen täglich daf"
-    },
-    {
-      "id": "arbeitnow:remote-systems-and-digital-solutions-intern-geneva-98201",
-      "title": "Systems and Digital Solutions Intern",
-      "org": "Global Survivors Fund",
-      "role": "training",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.ch/jobs/companies/global-survivors-fund/remote-systems-and-digital-solutions-intern-geneva-98201",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795739496,
-      "tags": [
-        "Remote"
-      ],
-      "summary": "Title: Systems and Digital Solutions Intern Type of contract: Paid internship Contract duration: 6 months Work time: Full-time (40 hours per week) or part-time Reporting to: Systems and Digital Solutions Coordinator Technical guidance: BI and Systems Officer L"
-    },
-    {
-      "id": "arbeitnow:business-development-manager-integrator-partners-benelux-anywhere-in-the-netherlands-463097",
-      "title": "Business Development Manager, Integrator Partners - BENELUX",
-      "org": "Dtact",
-      "role": "marketing",
-      "location": "Anywhere in the Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/dtact/business-development-manager-integrator-partners-benelux-anywhere-in-the-netherlands-463097",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795707617,
-      "tags": [
-        "Sales"
-      ],
-      "summary": "Business Development Manager, Integrator Partners - BENELUX Location: Netherlands – regular travel within BENELUX Start date: Q1 2027 Compensation: €65K - €85K base annually (depending on experience and location) +OTE Employment type: Full-time About DTACT DTA"
-    },
-    {
-      "id": "arbeitnow:remote-hoofd-monteur-beveiligingstechniek-datacenters-midden-nederland-assendelft-101384",
-      "title": "Hoofd Monteur - Beveiligingstechniek - Datacenters - Midden-Nederland",
-      "org": "VDK Groep B.V.",
-      "role": "training",
-      "location": "Werken op afstand",
-      "url": "https://www.arbeitnow.nl/jobs/companies/vdk-groep-bv/remote-hoofd-monteur-beveiligingstechniek-datacenters-midden-nederland-assendelft-101384",
-      "source": "Arbeitnow",
-      "remote": true,
-      "visaSponsorshipMentioned": false,
-      "postedAt": 1795685485,
-      "tags": [
-        "Monteur",
-        "Remote"
-      ],
-      "summary": "Je installeert en onderhoudt beveiligingssystemen zoals camera’s en toegangscontrole. Op locatie pak jij de leiding: je stuurt collega’s aan, houdt overzicht en zorgt dat het werk goed en op tijd wordt opgeleverd! Onze Hoofd Monteur Beveiligingstechniek schake"
     },
     {
       "id": "remotive:1680495",
